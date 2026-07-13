@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-10-12",
+    "overall_classification": "Leaning Orthodox",
+    "stance_score": -1.0,
+    "overall_justification": "While the newspaper reports on Argentina's actions regarding a conversion scheme, it uses this example to express concern about Brazil proceeding without London's approval. The emphasis on potential negative consequences for Brazilian financial dealings in London strongly suggests an Orthodox leaning, prioritizing financial stability and international confidence over potential internal benefits of a conversion scheme.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "A propósito da simples local em que noticiámos hontem que os Srs. Rothschild fizeram ao Lloyd o adiantamento de £ 300.000 por conta do emprestimo de £ 600.000, que será opportunamente lançado, o Jornal do Commercio voltou de novo os seus formidáveis canhões contra a Caixa de Conversão, dizendo que esses e outros negócios do Brasil estão adiados até o momento em que a city recupere a tranquilidade perdida, o que só se dará quando for rejeitado o projecto.",
+            "reason_for_inclusion": "This quote highlights the concern that the Caixa de Conversão is jeopardizing Brazil's financial standing in London."
+        },
+        {
+            "quote": "Apenas recordaremos que os mesmos sustos, o mesmo alarma foram dados quando a Republica Argentina levou a effeito uma medida de caracter interno sem o pincel londrino.",
+            "reason_for_inclusion": "This quote uses Argentina's experience as a cautionary tale, suggesting disapproval of proceeding without London's approval."
+        }
+    ]
+}

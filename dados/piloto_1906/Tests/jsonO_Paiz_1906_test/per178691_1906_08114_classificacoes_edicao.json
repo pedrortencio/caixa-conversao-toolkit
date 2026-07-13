@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-12-21",
+        "original_snippet_context": "Appointments related to the Caixa de Conversão announced by the President.",
+        "relevant_quote": "Nomeando para a caixa de conversão : Vice-presidente, o Dr. Henrique de Oliveira Baltar; thesoureiro, o bacharel João Gomes Rebello Horta ; thesoureiro interino, o thesoureiro geral do Thesouro Federal Dr. Carlos Claudio da Silva",
+        "classification": "Neutral/Factual",
+        "justification": "This is a factual report of appointments to positions within the Caixa de Conversão, without expressing any opinion on the monetary policy itself.",
+        "confidence": "High"
+    }
+]

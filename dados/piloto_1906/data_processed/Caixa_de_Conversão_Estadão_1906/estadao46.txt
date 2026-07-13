@@ -1,0 +1,248 @@
+```text
+--- PAGE estadao46.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+O ESTADO DE S. PAULO-Sexta-feira, 14 de setembro de 1906
+Copyright © 1875-2012. Todos os direitos reservados
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- SECTION_HEADER START ---
+SPORT
+--- SECTION_HEADER END ---
+--- HEADLINE START ---
+TURF
+--- HEADLINE END ---
+--- ARTICLE START ---
+FLUMINEENSE
+Inscripção para a corrida do proximo domingo, 16 de setembro de 1906:
+Pareo Seeylo Sorocaba - 1.200 metros - Premio de 1:000$000.
+Dafé, Caprichoso, Chileno, Herval, Lord, Fais-
+cão, Joubert, Grego, Bomfim, Portuga.
+Pareo Dois de Julho - 1.000 metros - Premio de 800$000.
+Ban Toy, Saturno, Derby, Canarinho e Tosna e Guaraná.
+Pareo Seis de Março - 1.000 metros - Premio de 600$000.
+Ferramenta, 55 kilos; Princeza, 52 kilos e Tosna, 50 kilos.
+Pareo Dezesete de Setembro - 1.200 metros - Premio de 500$000.
+O cavallo Blue-Eye foi ad-
+quirido pelo turfman Paschoal Lallo e inscripto para correr no proximo domingo.
+--- ARTICLE END ---
+--- HEADLINE START ---
+Movimento de cargas na Estrada de Ferro Sorocabana
+--- HEADLINE END ---
+--- TABLE START ---
+| Descarregadas em | Carregadas em |
+|---|---|
+| S. Paulo....... | 2.501 |
+| Expedidas de S. Paulo....... | 10.043 |
+| Expedidas em Jundiahy para S. Paulo....... | 7.063 |
+--- TABLE END ---
+--- BLOCK:TrainTraffic START ---
+Movimento de trens
+Total do trafego, 37.707
+Data: 7.200 carros.. 2.157
+--- BLOCK:TrainTraffic END ---
+--- SECTION_HEADER START ---
+MOVIMENTO ASSOCIATIVO
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Congresso Dramatico Carlos Leal
+Os ensaios dansantes desta sociedade começarão na segunda-feira, das 8 ás 11 horas.
+BAR ASSOCIAÇÃO JOSÉ BONIFACIO - Hoje, 14, ás 7 horas e meia da noite, sessão dos delegados.
+ASSOCIAÇÃO HUMANITARIA DE S. PAULO. - Amanhã, 15, ás 8 horas da noite, sessão extraordinaria, para approvação do orçamento.
+GRUPO DRAMATICO E RECREATIVO A PORTUGAL - Hoje, 14, ás horas do costume, sessão ordinaria.
+VENERAVEL ORDEM AUXILIADORA DAS ALMAS. - Hoje, 14, ás horas do costume, sessão ordinaria.
+ASSOCIAÇÃO BENEFICENTE NOSSA SENHORA DO BOM PARTO E DO SACRAMENTO, do Braz - Amanhã, 15, ás 8 horas da noite, sessão extraordinaria.
+ASSOCIAÇÃO DRAMATICA 3 DE OUTUBRO - Dia 16, ás 8 horas da noite, sessão extraordinaria, para approvação de contas e eleição da directoria para 1906.
+GRUPO RECREATIVO BOHEMIOS. - Amanhã, 15, ás 9 horas, serão dansante, com a actuação do quinteto Steinway.
+GRUPO DRAMATICO ALUMNOS DE TALMA. - Amanhã, 15, na rua Machado n. 3.
+LEMIO DANÇANTE UNIÃO E FORÇA. - Hoje, 14, ás 8 horas da noite, realisar-se-á a partida inaugural no salão Lara.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+FRANGEIRAS
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Partiu para o Chile, o sr. Morales, de Venezuela.
+Curado por completo pela Junta Commercial Federal, o rheumatismo de que era victima.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- SECTION_HEADER START ---
+AÇOES UTEIS
+--- SECTION_HEADER END ---
+--- ADVERTISEMENT START ---
+MEDICOS
+Importam-se dos Estados Unidos, chapas de ferro preto e galvanisado, para barris, chapas de latão, aluminio etc.
+Rua Dr. Arthur Prado, 122
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+GRANDE LIQUIDAÇÃO FINAL
+Verdadeiro fim de negocio
+Artigos de camisaria
+AO GALLO
+S. PAULO
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+PERFUME
+REVED'OSSIAN
+ULTIMA CREAÇÃO PARA A ALTA SOCIEDADE
+PERFUMARIA L.LEGRAND PARIS
+VENDEM-SE EM TODAS AS BOAS CASAS
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Loteria Federal
+SABBADO, 15 DE SETEMBRO
+200:000$000
+J. AZEVEDO
+ANTIGA CASA DOLIVAES
+--- ADVERTISEMENT END ---
+--- NOTICE START ---
+Fallencia Laemmert
+O syndico provisorio abaixo assignado, pede aos srs. credores que apresentem os seus titulos de credito com a maxima brevidade.
+Rio de Janeiro.
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+LEIAM
+A "NOTICIA"
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CAVALO Contra os desmaios e as syncopes
+Aconselhado pela Academia de Medicina de Paris. Com o effeito folto um grão de ervilha.
+Não deixará mais de apparecer. A GARI, 18$000 rs. Bộ na pharmarcia chimica Gullhermes, rua Jacob, 2.
+--- ADVERTISEMENT END ---
+--- NOTICE START ---
+Criado pelo sr. Morales, da Venezuela. MACDONALD, ha 16 annos no Rio de Janeiro, é unico optico scientifico e habil contra-mestre.
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+Dentiel Norte-Americane
+FURTADO DE MENDONÇA
+61-RUA SÃO BENTO-61
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+XAROPE DAS CREANÇAS
+PRONONTES, TOSSE, CATARRHOS
+Vinho Cassalho
+30 annos de successo! (Noruega)
+Produz resultados esplendidos nas doenças do peito.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+BARUEL
+Elixir reconstituinte de kola, quina, coca e glycerophosphatos.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Jurasivo do sangue Elixir peptonisado SILVEIRA, peça á nossa pharmarcia ou ao droguista.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Usae o Poitoral de Limão Bravo contra tosses, bronchites, constipações.
+--- ADVERTISEMENT END ---
+--- COLUMN 3 ---
+MACDONALD effectuou um furto ao Povo Brasileiro re-valorizando o que não só diminuiria no Congresso mas que continuaria em discussão a não ser pela medida referida.
+Que não se ligue a Jornal a valorisação ou não valorisação dos productos, para justificar a attitude da Junta Commercial Federal e dos trabalhadores.
+A praça está denominada por quem o dispõe e não quer influencias estrangeiras.
+A Fusão dos Bancos da Republica, Esperança e Capital Federal enfureceu o dr. Gaspar de Oliveira que não queira o dis-
+curso da verdade mas a submissão (haja ou não submissão, haja ou não valorisação dos productos, haja ou não conversão).
+SECÇÃO LIVRE
+IMPORTADORES
+--- ADVERTISEMENT START ---
+GASPAR DE OLIVEIRA
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+LOTERIAS
+Loteria Federal
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O presidente da Republica, em entrevista concedida aos jornaes mineiros e outros, não se referiu á referida medida.
+--- ARTICLE END ---
+--- ARTICLE START ---
+A praça sente-se em estado de expectativa pela attitude da Junta Commercial de S. Paulo sob a presidencia do sr. Francisco de Mello Franco, aguardando o despacho que deverá dar ás folhas de tabaco (10) Avonida-Amazonas-Garten-Colonia, ns. 713 a 799 e depositadas na Caixa Economica.
+Outrosim, participamos ao commercio que todos os productos de nossa fabrica são rotulados com os seguintes dizeres:
+«Fabrica de Fiação e Tecidos N. S. da Ponte, Sorocaba, 13 de setembro de 1906. Fonseca, Filho & C.»
+--- ARTICLE END ---
+--- ARTICLE START ---
+Sphilis, rheumatismo e todos os productos das doenças venereas.
+Molestias das senhoras e crianças.
+Consulta ás 3 horas da tarde.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+LEILOES
+--- SECTION_HEADER END ---
+--- ADVERTISEMENT START ---
+MONITO
+LEILAC
+Linda mobilia de canella ciré, para sala de visitas.
+Superiores e solidos moveis de canella ciré e raiz de olmo, para dormitorios e sala de jantar; espelhos e quadros, soberbo porta-chapéus de canella ciré e perfilados metallicos, tapetes com franjas, pelho de crystal, magnificos quadros a oleo, louças de porcelana, fayança e sport-hibelotes, quantidade de louças de porcelana, de copa e cozinha, e diversos utencilhos de trato.
+--- ADVERTISEMENT END ---
+--- NOTICE START ---
+Associação Auxiliadora dos Empregados da Companhia Geral
+São convidados todos os accionistas e empregados não accionistas, para reunião geral que se realizará na rua José Bonifacio n. 3, sobrado, ao meio-dia e meia do proximo dia 16 do corrente, afim de tratar da ultima parte do dia em discussão.
+S. Paulo, 14 de setembro de 1906.
+FRANCISCO JULIO CESAR
+Segundo secretario
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+Professor Leopold Stern
+Unico optico scientifce norte-americane
+Exame da vista e adaptação de oculos
+EXCLUSIVAMENTE
+Consultas: das 11 ás 4
+Lelleciro official des consolados: frances, ingle e belga com escriptorio e agencia
+Rua do Commercio n. 4
+Largo da Misericordia. Telephone n. 774
+--- ADVERTISEMENT END ---
+--- NOTICE START ---
+Devidamente authorisado por distintos pretendentes, amanhan farei a conversão da divida publica exterior.
+AMANHAN
+AMANHAN
+SABBADO, 15 do corrente
+Todo o magnifico mobiliario de mais de que se compõe a casa
+PELO LEILOEIRO
+Rua do Ouvidor n. 6
+Furtado de Mendonça
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+Bom emprego de capital
+Occasião unica para um vantajoso negocio
+LEILÃO do conhecido Carrousel Santos Dumont, funccionando com motor de força de 8 cavallos, um orgão de musica, 33 cavallos, carruagens, charretes etc. e tudo pertencente ao respectivo apparelho.
+AMANHAN
+SABBADO, 15 DO CORRENTE
+ás 2 horas da tarde
+No largo do Coração de Jesus
+frente ao circo mesmo na barraca
+Alfredo C. Pereira
+Com residencia e escriptorio na rua Quinze de Novembro n. 6 (SOBRADO)
+--- ADVERTISEMENT END ---
+--- COLUMN 4 ---
+Roleafas de garganta, nariz, ouvidos, lingua e syphilis, especialista dr. Souza Castro.
+Com 16 annos de pratica, frequentou os hospitaes italianos, francezes, inglezes, allemães, belgas, espanhoes e brazileiros.
+Feições typicas, febres, molestias de peito, coração, figado e estomago.
+Consultorio e residencia: Largo da Misericordia. Consultas de 1 ás 4.
+Amaduras das crianças Talcuboro que dá aos dentes das crianças uma alvura deslumbrante, supprime a inflamação das gengivas e provoca uma sensação de frescura deliciosa e duradoura.
+Embebito em algodão, acaba com as dôres de dentes. Encontra-se em todas as pharmarcias. O Dentol é apresentado em tubos depurado, que se acham geralmente na gaveta do pharmaceutico ou droguista.
+Rio de Janeiro, 11 de setembro de 1906.
+AUGUSTO RAMOS.
+Querem agóra dividir para reinar! Grande equivoco! Ha no campo adversario, como disse o sr. presidente, os seus implacaveis perseguidores.
+--- SECTION_HEADER START ---
+LOTERIA
+DE
+S. PAULO
+--- SECTION_HEADER END ---
+Heiliano. A mais garantida e merecida. A unica que distribue todos os seus premios dentro de Estado.
+Hoje. Hoje.
+--- NOTICE START ---
+Prevenimos a quem possa interessar, que o distincto sr. Macedo Soares está approvado pela Directoria Geral como professor de canto.
+--- NOTICE END ---
+SABBADO, 15
+No largo do Coração de Jesus
+PELO LEILOEIRO
+Alfredo C. Pereira
+--- SECTION_HEADER START ---
+EDITAES
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+AVISO AO COMMERCIO
+Quando se faz grande confusão, haja cuidado em exigir que o envoimero tenha o sello de nossa creação. Não se enganem, peçam o Elixir reconstituinte e jurasivo do sangue, marcas de fabrica caixa e estampas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Labor Illustrada - Da conversão depende a valorisação.
+Jornal, não participe a outros jornaes, principalmente aos estrangeiros, os seus equivocos. Não participe a ninguem o seu despotismo de querer dominar o que lhe não pertence e ditar regras para aquillo de que o não quer entender.
+Que diria o Jornal se quizesse amanhan impedir que se construisse um palacio ou edificasse uma folha commercial?
+--- ARTICLE END ---
+
+```

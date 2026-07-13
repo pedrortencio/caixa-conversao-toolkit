@@ -1,0 +1,874 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+Anno XXXII
+Rio de Janeiro —Sabbado 11 de Agosto de 1906
+N. 333
+GAZETA DE NOTICIAS
+6 PAGINAS
+NUMERO AVULSO 100 RS.
+Stereotypada e impressa uas machinas rotativas de Marmoni, na typographia da
+Sociedade anonyma Gazeta de Noticias
+NUMERO AVULSO 100 RS.
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- BLOCK:Lottery START ---
+N0V03 "COUPONS"
+PARA O SORTEIO
+Entrarão no sorteio
+com os coupons de 15
+de julho a 20 de agosto
+de 1906
+1
+5
+15
+40
+PRÊMIOS
+10$000
+25$000
+40$000
+100$000
+Ao qual, como de costume,
+concorrerão todas as pessoas que apresentarem os cou-
+pons da Gazeta.
+--- BLOCK:Lottery END ---
+--- ADVERTISEMENT START ---
+SALVATORE
+CAMAS
+de Ferro
+As camas achar-se em exposi-
+ção á rua Sete de Setembro 124
+O GRANDE ESPECTACULO
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+ANTIGA MOREIRA SANTOS
+MOVEIS E TAPEÇARIAS
+3, RUA DO OUVIDOR, 3
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CONFERÊNCIAS
+NO INST. N. DE MUSICA
+A sala do Instituto Nacional do Musica
+terá hoje uma enchente extraordinária.
+D. Julia Lopes de Almeida,uma das maiores
+mentalidades da literatura brasileira, fa-
+lará sobre — A Mulher e a Arte. E' uma
+mulher que vai falar. O auditório de-
+ve ser o mais numeroso e o mais selecto
+possível.
+No sabbado, 18, teremos a conferência do
+poeta Oscar Lopes, que dissertará com
+todo o seu fulgor sobre— O Dia e a Noite.
+No sabbado, 25, falará o distinto lite-
+rato Abelardo Roças. O thema de Abelardo
+Roças é — A psychologia através da toilette.
+E' um assumpto curiosíssimo, onde o con-
+ferente pôde bem explanar a sua cultura e
+a sua observação.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+A CAIXA DE CONVERSÃO.
+Cumprimos o grato dever de dar tes-
+temunho publico do nosso reconhecimento ao eminente Sr. Dr. Vieira
+Souto, pela gentilissima resposta com
+que hontem nos distinguiu em nota
+aos magistraes artigos com que está
+elucidando a questão da Caixa de Con-
+versão. Nenhum motivo resta para a magna que S. Ex. enxergou em nos-
+sas palavras, pela dureza dos qualifica-
+tivos empregados para caracterizar a
+hypothese de uma conversão a 12 d.:
+S. Ex. declara que aprecia os factos,
+sem visar a personalidades, declaração
+que seria bem escusada dados os seus
+hábitos de tão severa cortezia, se não
+fosse a quasi identidade de termos com
+que eram ha pouco tempo flagellados os
+-valorisadores-, os -quebra-padrão-, os
+que planejavam «assaltos á propriedade
+publica e particular».
+Não insistiremos por agora, e pelas
+razões já hontem expendidas, em pon-
+derações que fizemos propriamente
+sobre a matéria, e ás quaes S. Ex. se
+dignou alludír, embora de modo rápi-
+do, para não prejudicar o plano que
+tão patrióticamente se traçou quando
+não pôde declinar do pedido que lhe
+era feito para intervir na elucidação
+deste assumpto. Aguardamos por isso
+mesmo, como já hontem dissemos, a
+conclusão do seu notável trabalho.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Tem recebido innumeros cumpri-
+mentos pela sua promoção a secretario
+Sr. barão von Heylger Hewnstein,
+que até agora exercia, com grande dis-
+tinção, o cargo de attaché á legação da
+Allemanha no Brasil.
+--- ARTICLE END ---
+--- ARTICLE START ---
+A população carioca já está quasi acos-
+tumada ao pó. Mas ha casos em que elle
+é em tal quantidade que se não pôde
+conter uma dose de indignação. Nas de-
+molições da rua Sete de Setembro, por
+exemplo, o trabalho é feito de tal modo
+que as casas fronteiras não podem estar
+abertas. E' um Sahara. Ha quem pense
+que seria melhor fazer essas demolições
+á noite.
+E' uma idéa, e naturalmente haverá
+outras tão boas ou melhores. O que é
+indiscutível é que a situação das casas
+commerciaes da visinhança está soffren-
+do uma tortura que merece prompto
+remédio.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A PERFUMARIA NUNES reduziu os preços de todas as mercadorias.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Foi approvado pelo Sr. ministro da
+fazenda o acto do inspector geral de se-
+guros, que, em despacho exarado no
+requerimento da Alliance Assurance Com-
+pany, Limited, para continuar a funccio-
+nar "somente sobre o ramo de seguros
+marítimos, declarou que á mesma com-
+panhia só é permittido funccionar de ora
+em diante desde que previamente preen-
+cha as formalidades prescriptas no de-
+creto 5.072 de 12 de dezembro de
+1903. III.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. presidente do Estado do Rio de
+Janeiro sanccionou hontem o acto da As-
+sembléa Legislativa Fluminense appro-
+vando, em todas as suas cláusulas, o
+Convênio celebrado em Taubaté e refe-
+rente á valorisação do café.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foi nomeado Horácio Pires de Castro
+collector federal de S. Carlos do Pinhal,
+S. Paulo, sendo concedida exoneração
+daquelle cargo a Ernani da Silva Pereira.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Uma commissão de operários, composta
+dos srs. Leopoldo A. Pinto, Arlindo Pe-
+reira Leite e Agostinho Dias do Castro,
+veio hontem agradecer-nos a inserção em
+nossa folha do memorial entregue ao Dr.
+Joaquim Nabuco pela commissão do Par-
+tido Operário Independência e no qual
+são indicadas as aspirações do operariado
+brasileiro, tendo por base a arbitragem
+para a solução das questões entre o
+capital e o trabalho (patrões e opera-
+rios).
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Luncha ao ar livre, Confeitaria Castel-
+loex.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Foi concedida licença de seis mezes ao
+agente fiscal de consumo desta capital
+Affonso Augusto de Albuquerque, sendo
+nomeado para substituil-o Francisco de
+Paula Palhares Filho.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Quem vende as sortes grandes ? E' o
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+Visitem a Casa Colombo e
+comparem os seus preços
+com os de Gênes.
+RUA DO OUVIDOR, 60
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+No gabinete do Sr. ministro da fazenda
+estiveram hontem os Srs. senador Anísio
+de Abreu, deputados Sérgio Saboia,
+Hosannah de Oliveira, Pandiá Calogeras,
+Francisco Bernardino, Rodrigues Alves
+Filho, Pedro Moacyr, Drs. Pires Brandão
+e Niuto de Andrade conde de Ulysses
+Vianna e deputado Serzedello Corrêa.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Sabemos que, ha dous dias, foram
+trocados telegrammas entre um dire-
+tor do Banco do Brasil e os nossos
+banqueiros em Londres.
+Esses telegrammas eram referentes
+a assumpto da máxima relevância para
+as finanças do paiz, que brevemente
+vão ser objecto de largas discussões no
+nosso parlamento.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Casa José Olympio—G. Dias 17 A
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+No requerimento do engenheiro José
+Nogueira Jaguaribe, pedindo para ser no-
+meado ajudante de engenheiro da 6ª di-
+visão da estrada de ferro Central do
+Brasil, o Sr. ministro da industria deu o
+seguinte despacho : «Actualmente não
+ha vaga na referida divisão».
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Dr. Lauro Muller, ministro da in-
+dustria, não compareceu hontem á sua
+secretaria.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O inspector da alfandega desta capital
+mandou applicar á pellica para calçado a
+percentagem de 50 %, ouro, dos respec-
+tivos direitos.
+Contra esse acto daquella autoridade a
+Associação Commercial representou ao
+Sr. ministro da fazenda enviando um re-
+querimento de Silva Paranhos.
+O Sr. ministro da fazenda decidiu que
+tal reclamação só será acolhida em grão
+de recurso regularmente interposto.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foram approvados, em prova escripta,
+do concurso a que se está procedendo na
+estrada de ferro Central do Brasil, para o
+lugar de auxiliar de escripta, os Srs. An-
+tonio da Oliveira, Augusto Virgílio
+Ferreira, Assippino Brico, Assompo Ra-
+poso, Armando Danias, Annibal Coelho,
+Ataliha Castro, Albano Cordeiro, Rento
+Braga Netto, Carlos Indassahy, Eugenio
+Mozza, F. da Cruz, F. Coelho, Rodrigues
+Flores, Gairtino Rocha, Henrique Lacerda,
+Heraclito de Castro, João Tavares Pessoa,
+José Manuel Sahauleira, João Baptista de
+Faria, João Affonso Pereira, João An-
+tonio de Laiceda, Luiz Miranda Horta,
+Luiz Guedes Bittencourt, Nilo Costa de Mi-
+randa, Melciades José Gonçalves, Nelson de
+Menezes, Oscar de Oliveira, Octavio de
+Lima Tavares, Sebastião Gualberto de Oli-
+veira e Trajano Augusto de Almeida Costa.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Dr. Alfredo Backer, presidente
+eleito do Estado do Rio de Janeiro, e sua
+Exma. familia chegam a Nictheroy hoje, á
+noite, vindos de Macahé. Os amigos e
+admiradores do S. Ex. preparam-lhe fes-
+tiva recepção na vizinha capital.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Os modelos e os preços do grande sor-
+timento de chapéos de oleado, que expôz
+a Casa Colombo, são completamente no-
+vos no nosso mercado.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Eduardo Sorrates apresentou hon-
+tem, na Câmara dos Deputados, o seguin-
+te projecto : «O Congresso Nacional de-
+creta : Art. 1º- fica o governo federal auto-
+risado a alludír o credito de 60$000, á
+rubrica n. 12 do art. 2º da lei do orça-
+mento do exercício de 1906, para despe-
+sas com aluguel da casa destinada á resi-
+dência do juizo de comarca do território do
+Acre e para acquisição da mobília neces-
+sária.
+Art. 2º Revogam-se as disposições em
+contrario.»
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Mais uma remessa do calçado ameri-
+cano, para senhoras e crianças, acaba de
+chegar para a Casa Colombo. Os seus
+preços continuam : para senhoras, a co-
+meçar de 15$000 ; e para crianças, de
+10$000.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Houve hontem uma estréa na Câmara.
+Foi a do Sr. Castro Pinto, deputado pa-
+rahybano, que, apresentando uma emenda
+sobre elevação de vencimentos, assumpto
+dos menos propicios a attrahir ouvintes,
+conseguiu formar um auditório attento,
+que applaudiu sem reservas as suas dis-
+cretas palavras. No correr da pro-
+xima semana, o joven deputado falará pro-
+vavelmente sobre medidas referentes a
+instrucção publica.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- BLOCK:Assinaturas START ---
+ASSINATURAS PARA A CAPITAL
+1 mez
+3 mezes
+6 mezes
+1 anno
+5$000
+15$000
+25$000
+40$000
+As assignaturas
+começam e terminam
+com os mezes
+--- BLOCK:Assinaturas END ---
+--- IMAGE START ---
+Portrait of a man
+--- IMAGE END ---
+--- CAPTION START ---
+CONSELHEIRO AQUINO E CASTRO
+--- CAPTION END ---
+--- ARTICLE START ---
+A CÂMARA DOS DEPUTADOS.— Terminou
+hontem o trabalho que começara na vés-
+pera de votação de uma extensa
+ordem do dia.
+O primeiro a votar hontem era o pro-
+jecto que manda incorporar á justiça
+local do Districto Federal o juizo dos
+feitos da saúde publica. Apezar de ter
+sido a votação iniciada na sessão ante-
+rior, não se tendo concluído por falta
+de numero, ainda para ser encaminha-
+da custou nada menos de tres discursos.
+Falou o Sr. Germano Hasslocher,
+favorável ao projecto, falou o Sr. Mello
+Mattos, irreductivelmente contrario, e por
+fim o Sr. Luiz Domingues, relator
+do parecer da commissão de justiça so-
+bre a matéria, que não é pelo projecto
+tal como está concebido, mas entende
+que se o adaptar convenientemente
+com emendas, algumas das quaes o
+próprio parecer indica, o projecto me-
+recia approvação. E pois que a oppor-
+tunidade de emendar é a 2ª discussão
+O relator entendia que não se o devia
+rejeitar na 1ª.
+A Câmara decidiu-se pelas pondera-
+ções do Sr. Luiz Domingues e votou
+o projecto. Passasse á 2ª discussão.
+Dahi por diante a votação correu
+sem accidentes, foram votadas todas
+as matérias sujeitas á deliberação e
+ainda sobrou tempo para se encerrar a
+discussão de todos os projectos da or-
+dem do dia.
+No expediente o Sr. Estacio Coimbra
+terminou o seu discurso começado na
+véspera sobre politica de Pernambuco.
+em resposta ao Sr. Virgínio Marques.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O SENADO.—Não houve sessão. Só tres
+Srs. senadores se arriscaram á canicula,
+na duvida de haver ou não o que fazer
+nos paços do conde dos Arcos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+CONSELHEIRO AQUINO E CASTRO.— A nota
+fúnebre do dia foi o fallecimento do
+venerando presidente do Supremo Tri-
+bunal Federal, um dos mais antigos
+membros da magistratura brasileira e
+nome estimadissimo em todo o paiz
+pela sua integridade de julgador e pelo
+modo elevado e digno como desem-
+penhava as elevadas funcções a que
+chegou no fim da sua carreira.
+--- ARTICLE END ---
+--- BLOCK:Sumario START ---
+Summario
+Viagem do Dr. Affonso Penna.
+Motins em Sergipe.
+Conselheiro Aquino e Castro.
+A perfumaria Nunes.
+Experiencias litterarias.
+Instrucção.
+Caixa de Conversão.
+Fechamento das portas.
+Congresso de instrucção.
+Congresso nacional.
+No mar. Roubo.
+Conselho Municipal.
+Operariado.
+Club dos Sports das Crianças.
+Um Amor Trágico
+Prefeitura.
+--- BLOCK:Sumario END ---
+--- COLUMN 4 ---
+--- SECTION_HEADER START ---
+A hora
+--- SECTION_HEADER END ---
+--- BLOCK:Tempo START ---
+INTERIOR.—Ontem a minima da tem-
+peratura foi 16º centigrados e hoje a maxima 21º. Tempo minimo.
+Tempo muito agradável.
+RIO.—Pressão barometrica 756 pela manhã
+e 751 á tarde.
+Vento de este e encoberto pela manhâ.
+Horas em que houve nevoeiro
+e céu denso e limpo para a tarde.
+Temperatura nos Estados:
+Rio, 21º ; Bahia, 21.5º ; Ceará,
+25.2º ; Victoria, 21.6º ; S. Paulo, 20.5º ;
+Curitiba, 16º ; Florianópolis, 19.8º ; Porto
+Alegre, 16.8º.
+--- BLOCK:Tempo END ---
+--- ARTICLE START ---
+DR. AFFONSO PENNA.— Continuava hon-
+tem em Florianópolis o Dr. Affonso Penna, respondendo ás
+saudações de Blumenau e las-
+timando que não fosse aquelle mu-
+nicipio contemplado com uma visita
+pelo presidente eleito da Republica, de-
+clarando que deixava de fazel-o por ter
+de estar no Rio de Janeiro em 1º de se-
+tembro, afim de tratar da escolha do
+futuro ministros e da mensagem que
+pretende dirigir ao Congresso Nacional
+--- ARTICLE END ---
+--- ARTICLE START ---
+O DIA.—Não durou muito tempo essa
+deliciosa amostra de inverno que nos vi-
+sitou agora, já no fim da estação.
+Pode ser que voltem os dias amenos
+e até frios, e até provável que voltem
+mas o de hontem foi positivamente
+quente, embora tivesse começado por
+uma manhã muito agradável.
+A tarde melhorou muito com as vi-
+rações do mar, virações brandas que
+nem chegavam a ericrespar a superfície
+da bahia, muito lisa, reflectindo
+com uma limpidez de espelho a sombra do
+variado panorama que a enquadra.
+O sol brilhou soberanamente e o ceo
+esteve lindíssimo.
+Um formoso dia de verão.
+--- ARTICLE END ---
+--- ARTICLE START ---
+A CIDADE.—Em geral o aspecto da ci-
+dade não se apresentou hontem diverso
+aos dos dias tranquillos de trabalho. O mo-
+vimento ordinário do centro onde se
+trabalha foi o normal e a circulação
+pelos pontos costumados teve o fluxo
+e refluxo do costume, ás horas da ta-
+bella. Nada á assignalar de notável,
+--- ARTICLE END ---
+--- ARTICLE START ---
+UM ECHO POLITICO. — Não se pôde dar
+como caso sensacional, impressionando
+a população da capital, a bernarda de
+Sergipe, de onde chegaram noticias logo
+ás primeiras horas do dia. Só parcial-
+mente, nas regiões onde a politica se
+faz e onde só politica respira, é que
+teve echo, echo escandaloso,o telegram-
+ma que communicava o levante da po-
+licia de Aracaju contra o governo do
+Estado.
+Ahi sim, a impressão de espanto e de
+desgosto foi viva e forte e nos círculos
+parlamentares explodiram protestos de
+indignação contra esse novo attentado,
+mais ao bom senso e á seriedade das
+Instituições, do que á autoridade do-
+mitante no Estado que se tornou thea-
+tro dessa nova investida de caudilha-
+gem.
+Succederam muitos outros telegram-
+mas ao primeiro, e com as noticias de
+que elles eram portadores, circularam
+outras sem origem conhecida, e mesmo
+sem origem alguma, e dentro de poucas
+horas a verdade e o boato de pura in-
+venção andavam juntos e com iguaes
+direitos de cidade, alimentando conver-
+sas e provocando commentarios.
+O nosso não é novo e nem tem appli-
+cação exclusivamente ao triste caso de
+Sergipe.
+E' velho e talvez não valha mais do
+que outros lugares communs : e o com-
+mentario que pude fazer toda a gente
+já o fez. Deseja-se a paz á pátria e deseja vêl-a
+respeitada, ao sentir que a ambição do
+mando, o ódio partidário ou outro sen-
+timento subalterno se antepõem a todo
+o esforço intelligente e honesto, empre-
+gado no sentido de engrandecer o paiz,
+conduzindo-o aos seus destinos pelo
+trabalho e pela ordem.
+Os motins e revoltas, pouco importa
+que se façam contra a autoridade deste
+ou daquelle Estado, ou contra a auto-
+ridade suprema da Republica, são o
+cancro a extirpar dos hábitos partida-
+rios dos nossos homens políticos. Sem
+isso é perdido tudo quanto se possa
+tentar pelos nossos creditos e pela po-
+sição que aspiramos entre as nações.
+Na ultima hora chega-nos telegram-
+ma noticiando que o presidente e vice-
+presidente do Estado, depois de uma
+conferência com o deputado Fausto
+Cardoso, renunciaram a seus cargos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+SILVEIRA & C.
+BARATO SEM IGUAL
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+MALAS DE VIAGEM
+ROBES & ROUGES
+62 E 64, Rua de S. José, 62 E 64
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+PASSEIO PUBLICO
+HOJE
+FESTIVAL COM NOVO
+PROGRAMMA
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+ROBES & ROUGES
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+PREÇOS ESPANTOSOS
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+SILVEIRA & C.
+BARATO SEM IGUAL
+--- ADVERTISEMENT END ---
+
+```text
+--- PAGE 2 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+REVOLUÇÃO EM SERGIPE
+O DEPUTADO FAUSTO CARDOSO
+INTERVENÇÃO DO GOVERNO FEDERAL.
+Ao espalhar-se hontem nos círculos po-
+líticos a noticia de que o deputado ser-
+gipano Fausto Cardoso, que ha dias pro-
+nunciava discursos inflammatórios nas pra-
+ças de Aracaju, sublevava a força policial da
+capital do seu Estado e que esta depois,
+unida á população, declarava ali, à ultima
+hora, não reconhecer o governo estadual,
+recebemos á noite o seguinte tele-
+gramma directo de Aracaju:
+Aracaju continua sem novas do interior
+e sem communicação directa, procedente
+de Aracaju. Tomava-se, já agora, como positiva a re-
+volta da força de policia da capital do Estado,
+apontando-se como provável chefe do movi-
+mento o deputado Fausto Cardoso.
+Afirmava-se que as forças revoltadas
+começaram por atacar o palácio do Gover-
+nador e que continuavam a haver vivos
+tiroteios nas ruas de Aracaju, por grupos
+armados que se iam organizando.
+Fazia-se mais que em verdade fun-
+damentos, provavelmente com o obvio
+consejo, a bernarda de batalhões
+sem resistência á força armada, espalhando-
+se na repartição do Telegrapho Nacional.
+Effectivamente, o Governador do Ser-
+gipe telegraphou hontem ao Sr. presi-
+dente da Republica, a quem pedia,
+para o caso, o auxilio do governo fe-
+deral, e aos presidentes do Senado e da Câ-
+mara, relatando laconicamente o que acima re-
+produzimos.
+Outra versão já dava, porém, o gover-
+nador como ausente da capital.
+Accrescentava-se que a cidade estava,
+por assim dizer, entregue ao capitão do
+porto, capitão Alves, que procurava
+acalmar a revolta, na qualidade de inter-
+ventor pacificado; hontem teve sido de máxima gravidade, mas também bem su-
+cedido o referido capitão ao ser
+nomeado em ministro do Estado.
+Quanto á participação que possa ter o
+deputado Fausto Cardoso nos annunciados
+motins, um dos nossos confrades com
+hontem de pessoa intima daquelle e viera
+de conversar sobre o caso com o Sr. Ro-
+drigues Alves, que o alliado deputado, seguindo
+seus conselhos, não pôde adherir
+a intervenção federal
+Regressando do palácio do Cattete, o
+Sr. marechal Argollo, ministro da guerra,
+teve prolongada conferência com o Sr.
+chefe do estado-maior.
+Ficou resolvido que se telegraphasse
+com urgência ao commandante do 3º dis-
+tricto militar, com séde na Bahia, deter-
+minando-lhe que faça seguir immediata-
+mente para Sergipe o 26º batalhão de
+infantaria, cujo effectivo será completado
+com praças de outros corpos dessa guar-
+nição.
+O 26º tem como commandante o tenente-
+coronel Gomes Ferreira.
+Ficou hontem á noite resolvida a par-
+tida urgente do rebocador de guerra Ara-
+caju, municiado e apetrechado, para auxiliar
+as forças de terra na manutenção do
+governo de Sergipe.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BAHIA, 10
+Chegam noticias de Aracaju dizendo que
+a cidade está revoltada.
+A policia percorre as ruas prote-
+gendo o povo.
+O presidente do Estado de Sergipe foi
+atacado pela força de policia que con-
+tinuou com a opposição.
+O presidente do Estado foi obrigado a
+fugir, occultando-se no edificio do Tele-
+grapho Nacional, evitando assim a sanha
+da tropa.
+O Dr. Fausto Cardoso, deputado federal
+por aquelle Estado, é apontado como o
+cabeça da revolta.
+Esperam-se graves desordens.
+O telegrapho para Aracaju está inter-
+rompido.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Do nosso correspondente
+ARACAJU, 10
+As ultimas noticias que apresentam todos os pa-
+peis sem excepção nos accusam por laivos-
+lados e até numerosos, como o fazem os se-
+nadores e deputados sergipanos declaravam que o
+movimento de agora é insignificante
+sem outro grande Estado. Os
+factos sobre a revolta foram, ao acontecer em todas as occa-
+siões, rapidos e até numerosos, como o
+fazem a respeito de monsenhor
+Barros. Acabou a impressão
+que se propalava para todos os pa-
+peis em geral em estado. Hoje o
+rio tranquillo e em Aracaju,
+depois da renuncia, foi nomeado
+em ministro do Estado o capitão
+do porto. O que escapava a sua
+memória era o assumpto em que
+só política se fazia e a população
+tem sido vitimada pela sul que sol-
+dava. A gente do governo teve a
+sautela de conservar a maior re-
+serva sobre tal motivo, propa-
+gando sempre que era superior a
+tres mil homens e ainda esperar o
+concurso do coronel Henrique Les
+com 600 homens.
+Após a chegada das forças le-
+gaes, os auxiliares do presidente,
+por insinuação ou agindo por
+conta própria, metteram mãos á
+obra ingente de prender os adver-
+sários incautos.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+Nova correria e fuga para fora da ci-
+dade. A população foi sobresaltada, os domi-
+cílios violados e, por isso, teve o com-
+mandante da guarnição de Santa Campo
+para amparar os opprimidos, dando auto-
+rização aos seus officiaes para receberem
+os perseguidos em suas residencias que
+considerava asylo inviolável. O director
+do arsenal de guerra, embora discreto, mas
+conhecedor dos homens da terra, já
+havia prevenido aos dous companheiros e
+chefes militares que, depois da victoria
+do governo, teriam de brigar para evitar
+a hecatombe.
+Ficou assentado entre os tres impedir
+todos os actos de violen-
+cia que, entretanto, surgiram antes do
+presidente ser atacado, e o commandante
+da guarnição viu-se isolado diante de
+reclamações feitas com toda energia.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O commandante do 4º districto militar,
+general Hermes da Fonseca, fará hoje, em
+companhia de seus ajudantes de ordens te-
+nentes Oliveira Junqueira e Pinho de Cas-
+tilhos, uma excursão até aos campos de
+Santa Cruz, passando por Jacarépaguá,
+Canta-Gallo, Sepetiba e outras estradas,
+afim de escolher o local em que deverão as
+forças que vão manobrar em Santa Cruz
+bivacar e estacionar.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Sabe-se quem vende flores e plantas a todo o tran-
+seunte que entra em sua casa: Colombo, praça José Alencar 3 C e 3 D, en-
+tregas a domicilio.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+ARACAJU, 10
+A policia revoltou-se hoje, ás 5
+horas da manhã, marchando contra o pala-
+cio e tiroteando para este.
+O presidente abandonou o governo, re-
+fugiando-se na casa particular do capitão do
+porto. Revoltosos procuraram o deputado
+Fausto Cardoso para pedir-lhe que assumisse o governo. Fausto,
+ausente no interior, só agora á tarde chegou.
+Procurando o capitão do porto, dirigiu-
+se á residencia deste, onde se achavam o
+presidente, o vice-presidente, monsenhor
+Olímpio de Campos, o chefe de policia e ou-
+tras autoridades.
+Depois de uma longa con-
+ferência resolveu-se que os Srs. presidente
+e vice renunciar a seus cargos por escri-
+to em presença do capitão do porto. Assu-
+miu o governo o terceiro substituto legal, pre-
+sidente da relação, desembargador José
+Moreira.
+Reina a paz com-
+pleta na cidade e no interior, havendo grande
+entusiasmo na popu-
+lação.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- ARTICLE START ---
+O PERIGO AMARELLO
+Os electricos de Villa Isabel. — Desastres sobre desastres.
+Um de hontem. — Soldado es-
+palhado em bocados.— Outro com o pé es-
+magado.— Foi num bond do Senado.— Sua designação terrível — Tentativa de lynchamento.
+O povo quasi sempre acerta nas suas de-
+finições pittorescas, nas suas expressões
+características.
+E' assim que os moradores de Villa
+Isabel denominaram os electricos da
+companhia Villa Isabel, Perigo Amarello.
+Com effeito, ou seja por criminosa im-
+prudência, ou seja por descuido e fata-
+lidade, o facto é que os bondes amarellos
+que servem as linhas da companhia Villa
+Isabel têm fortemente concorrido para o
+quadro diário dos desastres.
+Destes desastres muitos têm tido re-
+sultado fatal, ora na Santa Casa, ora nos pro-
+prios trilhos da rua, num espalhamento
+horrivel de membros decepados, de ven-
+tres rasgados, de craneos esmagados...
+O dia de hontem foi verdadeiramente o
+dia do Perigo Amarello nacional, muito
+menos platônico e theorico que o outro
+perigo amarello, o do Oriente.
+Abaixo damos a sanguinolenta serie de
+--- ARTICLE END ---
+--- ARTICLE START ---
+Um soldado espalhado em bocados
+Villa Izabel, o perigo amarello.— Choque terrível — Sua designação terrível — Tentati-
+va de lynchamento
+Horror e revolta foram os sentimentos
+despertados pelo desastre occorrido hon-
+tem pela manhã, na rua Figueira de
+Mello.
+Por esta rua, vindo do Hospital do Exer-
+cito, trazendo um official ou qualquer ou-
+tra commissão para o 1º regimento de
+cavallaria do exercito, que fica na mesma
+rua, passava o soldado deste regimento
+Raphael Xavier da Silva.
+O cavallo que elle montava era um ani-
+mal fogoso, ardego e novo, impaciente-
+mente soffrendo o pezo do cavalleiro.
+Nesta occasião, um electrico de S. Luiz
+Durão descia, o que fez o soldado passar
+para o outro lado.
+Ora, succedeu que justamente por este
+lado e em sentido contrario, vinha outro
+electrico, guindo pelo motorneiro Castil-
+ho de Carvalho Mello, que o trazia a toda
+velocidade.
+O animal, que se espantara com o elec-
+trico de que o seu cavalleiro o livrara,
+parou diante do outro, a sapatar, o pa-
+tinotear, corcoveando, sem obedecer ao
+freio.
+Emquanto isso o electrico avançou, rá-
+pidamente, sem que o motorneiro lhe re-
+freiasse a marcha, foi sobre o cavallo e
+deu-lhe um violento tranco.
+O choque foi tão fortemente violento
+que o Soldado foi cuspido da sella, dei-
+xando as botas que calçava presas nos estri-
+bos, indo cahir a cinco metros
+de distancia, ainda sobre a linha.
+O electrico continuava a carreira, o sol-
+dado coitou sobre os pés e mãos, pro-
+curando fugir... mas não pôde fugir, tal
+a força que trazia o electrico...
+O electrico passou, apanhou-o sob si,
+ouviu-se o ruido de ossos que se esma-
+galhavam, uma trepidação... e sobre a
+linha ficou um tronco com o ventre ras-
+gado, sem a perna direita e sem a cabeça,
+que fora esmagada!
+Num só grito, ergueram-se os passa-
+geiros contra o motorneiro, a sentinella
+do 1º de cavallaria bradou ás armas, ac-
+correram soldados que, indignados, lyncha-
+riam o imprudente motorneiro, se não
+fosse a intervenção dos passageiros, que
+os reconduziram á calma.
+Depois disto o motorneiro foi levado
+para a 11ª, onde contra elle se lavrou auto
+de prisão em flagrante.
+O cadáver do infeliz soldado foi remo-
+vido para o Hospital Central do Exer-
+cito.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Com o pé es-
+magado.—Foi num bond do Senado
+Ainda um novo desastre...
+Pela rua do Senado descia, ás 2 1/2 da
+tarde, o electrico de Villa Isabel, guindo
+pelo motorneiro Luiz de Castro Moreira.
+Nelle viajava o italiano Paschoal Fer-
+reira, que reside nessa rua n. 183.
+Ao passar o vehiculo em frente á Ave-
+nida Ruy Barbosa, Paschoal teve necessi-
+dade de descer e passou para o estribo,
+descabindo o corpo para descer.
+Neste momento, porém, deu um escor-
+regão, cahiu. Tocando-lhe infelizmente o
+pé esquerdo sob as rodas do vehic

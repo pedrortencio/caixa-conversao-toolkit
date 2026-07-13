@@ -1,0 +1,29 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussion of tariffs and Convênio de Taubaté.",
+        "relevant_quote": "os nossos estadistas... principalmente aquelles que vivem arroubados pelos effeitos mágicos do convênio de Taubaté e já se hão desviado do plano proteccionista...",
+        "classification": "Leaning Orthodox",
+        "justification": "The author criticizes the Convênio de Taubaté, implying a preference for protectionist policies, which often aligned with orthodox views on maintaining a strong currency.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussion of tariffs and Convênio de Taubaté.",
+        "relevant_quote": "o consumo do café devia ser alargado, não sendo isso possível senão por uma política commercial de vistas largas e de alto tino.",
+        "classification": "Leaning Expansionist",
+        "justification": "The author argues for expanding coffee consumption through broader commercial policies, suggesting a more flexible approach than strict adherence to the gold standard, aligning with expansionist views.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussion of coffee valorization and Convênio de Taubaté.",
+        "relevant_quote": "E' exactamente por isso que o convênio é incongruente, longe de augmentar o preço do artigo, esse ha de ser o resultado do accordo, que a maior ameaça da valorização, no presente, é o café-facticio...",
+        "classification": "Leaning Orthodox",
+        "justification": "The author criticizes the Convênio for not increasing coffee prices and highlights the threat of counterfeit coffee, suggesting concerns about the effectiveness of valorization and potentially aligning with orthodox skepticism towards such interventions.",
+        "confidence": "Medium"
+    }
+]

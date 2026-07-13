@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-28",
+        "original_snippet_context": "Discussing Joaquim Murtinho's potential resignation and the \"reforma\" (financial reform).",
+        "relevant_quote": "Deslumbrada pela grandeza do programma, que a competencia e a tenacidade do ex-ministro haviam esculpido na vida nacional vigorizada, a reforma o amarrota, e para diminuil-o mais, mette-o numa gaveta de câmbios:—a caixa de conversão.",
+        "classification": "Clearly Orthodox",
+        "justification": "This quote portrays the \"Caixa de Conversão\" as a way to shelve or diminish the previous, successful financial program (associated with Murtinho and the gold standard), aligning with the orthodox fear of abandoning the established system.",
+        "confidence": "High"
+    }
+]

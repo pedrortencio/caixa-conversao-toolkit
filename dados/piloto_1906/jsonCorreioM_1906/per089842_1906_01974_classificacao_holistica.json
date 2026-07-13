@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-12-07",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition mentions the Caixa de Conversão twice. The first mention simply states that the President sanctioned its creation. The second states that the regulations accompanying the creation of the Caixa will be published in the Diario Official. Neither mention expresses an argument for or against the Caixa; they are purely factual reports.  Therefore, the overall classification is Neutral/Factual.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Pelo presidente da Republica foi hontem sanccionada a resolução do poder legislativo instituindo a Caixa de Conversão.",
+            "reason_for_inclusion": "Factual reporting of the Caixa's creation."
+        },
+        {
+            "quote": "O Diario Official publicará, por estes dois ou tres dias, o regulamento que acompanha o decreto creando a Caixa de Conversão, sanccionado pelo presidente da Republica.",
+            "reason_for_inclusion": "Another factual mention, highlighting the upcoming publication of the regulations, but not expressing any opinion on the Caixa itself."
+        }
+    ]
+}

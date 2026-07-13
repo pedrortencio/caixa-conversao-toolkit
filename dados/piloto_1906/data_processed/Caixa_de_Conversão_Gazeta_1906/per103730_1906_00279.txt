@@ -1,0 +1,454 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+GAZETA DE NOTICIAS
+DIARIO DA MANHÃ
+Rio de Janeiro
+NUMERO AVULSO IOO RS.
+As assignaturas começam
+em qualquer dia do mez
+NUMERO AVULSO IOO RS.
+Stereotypada e impressa nas machinas rotativas de Marinoni, na typographia da Sociedade anonyma «Gazeta de Noticias»
+PARA O ORÇAMENTO
+DE MILICIAS
+--- PAGE_METADATA END ---
+--- ADVERTISEMENT START ---
+MARCENARIA BRASILEIRA
+ANTIGA MOREIRA SANTOS
+MOVEIS E TAPEÇARIAS
+A QUE VENDE MELHOR E MAIS BARATO
+3, RUA DA CONSTITUIÇÃO
+Rio de Janeiro
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+O COMMERCIO E A ALFÂNDEGA
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+AINDA O VAPOR «RUGIA»
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CAFÉ CAMÕES
+Superior café moido. O mais saboroso.
+R. Senador Euzebio 21 e 26.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+FARINHAS QUE NÃO SAHEM
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+SOMOS DÓS?
+Não faria bom tempo na sexta-feira.
+Qualquer desses motivos bastava para tirar á capital o entrem des seus grandes dias. Os dous concorrendo juntas deviam fatalmente dar á vida da city essa feição banal e mal accentuada de hontem.
+A melhor parte do dia, o período de mais movimento, foi mesmo esse da tarde, entre as 3 e as 6, periodo da saida em massa sobre as pontes dos bondes, quando começou a cahir chuva miuda e fria.
+Era realmente de muito gosto o movimento da nossa animação, movimento esse que, alias, que não foi grande;
+--- ARTICLE END ---
+--- ARTICLE START ---
+EXPEDIENTE
+Os concursos da «Gazeta»
+Já não necessitamos agora
+recommendar aos parallelos os
+que se prendem ao orçamento da
+guerra. Ao discutir-se o parecer sobre as emendas offerecidas em 3ª discussão ao projecto que crea a Caixa de Conversão, tomou a palavra o Sr. Barros Franco, delegado do Estado do Rio á memoravel reunião de Tambaé, e um dos deputados que melhor conhecem o nosso problema agricola
+S. Ex. fez um bom discurso em defeza do alludido projecto, embora interrompido sem folga pelos adversários de suas idéas.
+Succedeu-o na tribuna o Sr. David Campista, que respondeu, um por um, a todos os adversários da Caixa de Conversão, na Câmara. S. Ex. que, ao terminar, mereceu palmas e effusivos cumprimentos de todos os seus colle-gas no recinto, fez uma oração de ver-dadeiro successo em defesa do projecto, parecer e emendas de que é auctor.
+
+EM SANTA CRUZ.—O poder executivo permaneceu acampado em Santa Cruz, abarracados os seus mais altos representantes com a divisão de manobras. Apenas os Srs. Felix Gaspar e Leopoldo de Bulhões ficaram na cidade.
+O Sr. presidente e os demais secretarios de Estado estão a esta hora com-partindo as agruras da guerra, do pa-lanque de onde assistem aos grandes exercícios.
+
+O CAMBIO---Hontem tivemos o mercado sem tomadores, isto é, sem dinheiro para cambiaes: entretanto, havia letras offcrecidas, como só acontece nos momentos de reacção.
+Era a confiança que voltava e que, substituindo o pânico, contribuía um tanto para o restabelecimento da alta.
+O cambio subiu de 15 1/2 a 18 1/16 bancario, contra letras de 15 3/8 a 15 13/16 d., cahiram aquelles papeis a 15 1/16 e 15 5/8 e estes a 15 11/16 d., subindo tarde o bancario de 15 11/16 a 15 7/8 d., com o particular de 15 1/16 a 15 15/16 d.
+Corriam as tabellas de 15 7/16 e 15 1/2 d., regulando a primeira no River e no London e a segunda nos outros negociadores, a qual subia com os bancos estrangeiros, contra letras a 15 3/16 d.
+
+OS ESTADOS.— Em Ouro Preto foi preso e recolhido ao xadrez, por ordem do delegado de policia, um alferes da guarda nacional, apezar do protesto de officiaes superiores. Embarcaram hontem no Ceará com destino a esta capital os Drs. Meton Alencar e Nogueira Jaguaribe. — Em S. Paulo falleceu o barão do Rio Pardo, que occupou proeminentes posições politicas no regimen monar-chica. Seguiram em excursão para o interior do Estado do Rio Grande do Sul os Srs. Drs. Fernando Abbott, Dr. Howe e Philipp, representantes dos Estados Unidos e do Chile. Recrudesceu a peste em S. José dos Campos.; a população abandona a cidade. Em S. Paulo o deputado belga Fourne-monto fez uma conferencia so-cialista, sendo muito applaudido.
+
+EXTERIOR
+
+A MACEDONIA.—Como se sabe, a Europa interessa-se muito pela pacificação da Macedonia e são louvaveis os esforços que nesse sentido emprega, embora pouco consigam.
+Diz-se agora que ha um accordo entre a Áustria e a Itália, permittindo-se á primeira dessas nações entregar-se á pacificação daquella parte da península balcanica.
+Por esse accordo, a Itália ficará com a posse do território de Trentin e da bahia de Vallona e a Áustria com os districtos de Salonica e Sentari.
+E assim, aos poucos, fará o paiz mais vasto e mais sujeito a revoluções e luclas.
+
+EXCURSÃO.— Os argentinos gabam-se de ter um paquete, o Isle de France, elegante e bello, para excursões maritimas.
+Seja snobismo ou não, o facto é que augmenta diariamente o numero de turistas que se resolveram a embarcar no pequeno navio para visitar o estreito de Magalhães e a Terra do Fogo, com suas innumeras e pittorescas enseadas e ilhas do extremo sul do nosso continente.
+Os argentinos são, como se vê, gente do bom gosto, e esse sentimento está tão espalhado entre a gente rica, que o numero de touristes, como dissemos, continua a augmentar.
+
+O FUTURO PRESIDENTE DA BOLIVIA — De Oruro communicam que o partido liberal boliviano apresentou a candidatura do Sr. Fernando Guachalla á próxima presidência da Republica.
+O candidato escolhido pelo partido liberal foi um dos negociadores do tratado de Petropolis relativo ao território do Acre, e foi ministro plenipotenciario da Bolivia em Washington e Buenos Aires.
+
+ULTIMAS NOTICIAS. — Abdul-Hamid declarou hontem em reunião do conselho de ministros que se sentia bem disposto e completamente restabelecido.
+Foram reforçadas as guardas do palácio de Tsarskoe-Selo.
+Uma explosão de gaz que se deu em um subterraneo na Philadelphia, Estados Unidos, matou sete pessoas. O caveo muitas outras gravemente feridas.
+Encerrou-se em Berlin a con-ferencia de Direito Internacional.
+Um cyclone que passou sobre Nova Orleans, Estados Unidos, causou prejuizos superiores a cinco milhões de dollars.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+1º LONQ SORTEIO
+1 prêmio de 1$000$000
+3 prêmios de 500$000
+15 prêmios de 100$000
+40 prêmios de  50$000
+800 prêmios de  20$000
+1000 prêmios de 10$000
+PRÊMIOS DE CONSOLAÇÃO a 130 assignaturas mensaes
+GAZETA DE NOTICIAS
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+AS NOSSAS TRIBUNAS
+Correram brilhantes e animados os debates, que se revestiram de feição pratica e util, prolongando-se até ás 7 horas da noite.
+Ao terminar, foi o orador cumprimentado e applaudido.
+Ninguem mais pedindo a palavra, encerrou-se a discussão, e o Sr. presidente convocou a seguinte sessão para hoje, ás 4 horas, na Escola Polytechnica, dando para ordem do dia a votação das materias da 1ª secção.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A Commissão Central do
+Recenseamento pede a todas as pessoas que ainda não receberam fichas e áquellas que deixaram de entregal-as por não terem sido ellas collectadas pelos recenseadores, o obsequio de reencaminharem os papeis necessarios á sede da Commissão, rua do Hospital n. 98, 4º andar.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Walk-Over evita os callos, resiste a toda a humidade, e é de conforto sem igual ; unico recebedor—a Casa Colombo.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Colossal sortimento de roupas feitas da Casa Colombo : costume de flanella, a 40$; ter-nos de paletó, de casimira ingleza, a 55$ e 75$; ternos de frack, a 70$ e 100$000.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Chapeus de palha ingleza, a 6$; col-letes de flanella e de brim, a 6$; nos armazens da Casa Colombo.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+NA CÂMARA
+O Sr. ministro da fazenda recebeu hon-tem uma representação da directoria de contabilidade do Thesouro Federal pedindo o augmento de mais 50:000$ á verba «pensionistas d'estado», visto achar-se esgotado o credito de 300:000$, ultima-mente consignado, em consequencia das pensões concedidas ás familias victimas da catastrophé de Jacuecanga.
+
+O illustre Sr. Dr. Nilo Peçanha, presi-dente do Estado do Rio de Janeiro e vice-presidente eleito da Republica, enviou-nos agradecimentos pelas palavras com que noticiámos o seu anniversario natalicio.
+
+O Sr. ministro da fazenda resolveu não permittir que o London and Brazilian Bank emita vales, ouro, para pagamento de direitos na alfandega do Ceará.
+--- ARTICLE END ---
+--- ARTICLE START ---
+DOIS EM UM
+Todos os jornaes têm ultimamente noticiado, sem o menor commentario, frequentes e successivas conferencias do honrado Sr. ministro da fazenda, com a directoria do Banco do Brasil e pelos mesmos jornaes tem sido affirmado o objecto dessas conferencias—a liquidação das contas do Banco com o Thesouro—ultimo fio que apparecentemente liga aquelle estabelecimento ao publico Erário.
+Não ha a menor duvida de que para entrar em vida nova, o Banco precisa liquidar a sua velha vida, e, para o conseguir, precisa antes de tudo saber a quantas anda, principalmente em relação ao Thesouro.
+Mas o que nos parece estranho é que as contas do Banco com o Thesouro tenham de ser apuradas, julgadas e liquidadas por quem é ao mesmo tempo representante do Thesouro e represen-tante do Banco.
+Na qualidade de ministro da fazenda e director do Thesouro, o digno Sr. Dr. Leopoldo de Bulhões, que é tambem director do Banco, conferencia comsigo mesmo. E' evidente que, tratando-se de uma liquidação e de uma liquidação cheia de complicações, os interesses das partes não podem deixar de ser gravemente lesados. Por uma parte, o Banco ha de esforçar-se por ceder o menos possível ao Thesouro; este por sua vez ha de exigir o mais possível do Banco.
+Mas como pode o Sr. Custodio Coelho, lado a lado de Sr. Custodio Coelho, tem obrigação de defender os Interesses de Banco contra as suas proprias exigencias, como si nada disto fosse?
+Dirão não haver nisto a menor incompatibilidade. Isto não ha porque S. Ex. trata cada conferencia no Banco como conferencia no Banco e as interessadas nos negócios do Thesouro.
+Desde que não existe a menor incompatibilidade, seria mais simples e mais natural que S. Ex. não provocasse esse legar á saticia das tantas miudencias e saisse a um mais alto e o mais auctorisado representante das duas partes, mesmo para evitar delongas que podem prejudicar uma liquidação que não tem permittida a apresentação nem de contas nem de balanços, se limitasse a conferenciar com sigo mesma, caso em que por certo seria menor o numero de divergencias.
+
+O Sr. ministro da Fazenda vai enviar ao Tribunal de Contas o processo de fiança do escrivão da collectoria federal de Campos, Antonio José Ferreira Martins Filho.
+--- ARTICLE END ---
+--- ARTICLE START ---
+POLICIA
+Pelas 7 1/2 horas da manhã de hontem, na rua dos Barbonos, José Manuel dos Santos, por questões de ordem moral, deu uma punhalada no pescoço do seu antigo amigo o soldado corneteiro de policia, Bernardo Pereira Dias, que está em estado bastante grave.
+José Manuel dos Santos foi preso em flagrante e recolhido ao xadrez da 7ª delegacia urbana.
+— No Encantado, João de tal, com a coronha de uma espingarda, aggrediu e feriu Manuel Joaquim Fernandes, residente á rua D. Luiza n. 26, naquelle logar.
+Bernardes Rodrigues da Rocha foi victima de uma explosão de agua ardente, quando accendia o fogareiro do seu kiosque á rua Marechal Floriano.
+— Tentou suicidar-se, ingerindo mercurio, Albano Propheta de Oliveira, de 23 annos, foguista, residente á rua de Santo Christo n. 181. O facto foi passado na Avenida Central.
+— Lucia Maria da Conceição, aggressora do Sr. Rodriques Pinheiro, residente á rua General Bruce n. 70, foi presa.
+— Foram presos hontem, na esquina das ruas S. Jorge e Hospicio, Abilio Lopes Ribeiro e João Chrispim, que estavam em lucta corporal. Os dous valentes foram para o xadrez da 5ª urbana.
+Na Avenida Central n. 10 o foguista Albano Propheta de Oliveira tentou suicidar-se, ingerindo uma forte dose de mercurio. Depois foi tratar-se da toleima para a Santa Casa.
+
+O crime da rua da Alfandega está ainda na ordem do dia. Outra testemunha de vista o Dr. Caetano Junior descobriu e conduziu á sua delegacia, para depor no inquerito.
+O negociante José Lourenço de Oliveira foi victima do conto do vigario em dous contos de réis. A pretexto de proporcionar-lhe um bom negocio, um individuo com o qual se achava Domingos Duarte, ou o Dente de Ouro, obteve a referida quantia e desappareceu.
+O Dente de Ouro foi chamado para á 4ª delegacia de policia para explicar o caso, que occorreu na rua Uruguayana.
+
+O cadaver de um individuo desconhecido, encontrado ante-hontem nas proximidades da praça Muni-cipal, e enviado para o Necrotério pela policia da 3ª urbana, foi hontem reconhecido pela impressão digital tirada do cadaver e levada ao gabinete de identificação que, pelas impressões digitais de Vasconcellos, teve a saber, entre as fichas de identificação, e pela formula E 4143, secção Iª 4142, que o cadaver era do individuo Galdino Alves da Silveira, de 19 annos, trabalhador, anal-phabeto, solteiro e que foi morador á rua General Pedra n. 67.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- ADVERTISEMENT START ---
+2º LONQ SORTEIO
+cujo prazo termina em 30 de novembro
+limites.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+5
+15
+40
+800
+1000
+000$000
+000$000
+000$000
+50$000
+20$000
+10$000
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+NO CONGRESSO
+— Na ordem do dia só figuravam materias pendentes de votação e nada para discutir. Não havendo numero não se votou.
+
+O Sr. Alfredo Ellis occupou a tribuna na hora do expediente, voltando ao assumpto dos seus ultimos discursos— as casas de Santos.
+
+AGORA OS DEPUTADOS — Foram feitas, no começo da sessão, algumas observações pelos Srs. Thomaz Cavalcanti, Galeno Carvalhal e Pedro Moacyr, a proposito do requerimento deste ultimo relativo á discussão do projecto que acaba com as restricções da amnistia de 1893.
+O Sr. Hasslocher apresentou depois um projecto sobre fiança de criminosos e os Srs. Diogo Fortuna e Figueiredo Rocha discutiram pequenas questões de expediente.
+
+O SENADO— Na ordem do dia só figuravara matérias pendentes de votação e nada para discutir. Não havendo numero não se votou.
+O Sr. Alfredo Ellis oecupou a tribuna na hora do expediente, voltando ao assumpto dos seus ultimos discursos— as casas de Santos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A «Gazeta» não apoia deliciosamente estes concursos a esta preferencia que resulta. Está animada, e não desanima com isto a manter a sua meta.
+E assim, aos poucos, tornar cada vez mais praticos seus limites, tornar cada vez mais praticos seus limites.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+3º LONQ SORTEIO
+cujo começo está marcado para o dia 20 de novembro
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+GRANDES SUCCESSOS
+No dia 4 de novembro começam os trabalhos para o colossal concurso de 52 machinas de costura, concurso dedicado aos leitores da «Gazeta de Noticias».
+
+No mesmo dia publicarmos o edital com os nomes dos concorrentes para o
+9º CONCURSO
+em que distribuimos assignaturas mensaes e que começa a
+EXTRAORDINÁRIA VANTAGEM
+--- ADVERTISEMENT END ---
+--- BLOCK:Weather START ---
+O TEMPO — 25.1
+foi a maxima da temperatura de hontem e 20.9, a minima.
+O barometro marcou 757,5 pela manhã e 756.1 á tarde
+O ceo esteve encoberto durante todo o dia.
+Estado do Rio
+20.1
+Estado do tempo nos Estados:
+Belem, 26.00; S. Luiz, 28,50; Parnahyba, 28,50; Parahyba, 28.20; Aracaju, 25,35; Victoria, 26,30; S. Paulo, 19,60; Floriano-polis, 18,73; Porto Alegre, 17,73.
+--- BLOCK:Weather END ---
+--- ARTICLE START ---
+NO MERCADO
+Com letras e sem dinheiro melhorou o bancario, dentro da primeira hora do negocio publico da manhã, restaurando-se convenientemente a concurrencia habitual.
+A «Gazeta» não apoia deliciosamente estes concursos a esta preferencia que resulta. Está animada, e não desanima com isto a manter a sua meta.
+O cambio oscilla, provavelmente para altitudes difficilmente alcançadas; descendo os saques a 15 1/16 e 15 1/2 d., nos bancos estrangeiros, e a 15 3/8 d. no do Brasil, contra o particular a 15 11/16 d.
+No correr da tarde, porém, firmou-se de novo, subindo o bancario a 15 11/16 nos bancos estrangeiros e 15 23/32 no do Brasil, contra letras a 15 13/16 d., fechando ainda com boa alta a 15 15/16 e a 15 7/8 bancario, 15 15/16 particular. Os soberanos regularam de 18$600 a 18$800, com os vales, ouro, de 1871$ a 18757, constando as cambiaes de letras bancarias de 15 1/2 a 15 7/8, contra particulares de 15 5/8 a 15 15/16 d.
+
+O CAFÉ — Apesar do fechamento em alta, na vespera, da bolsa de Nova York, tivemos o mercado hontem ainda na posição anterior, ligeiramente mais activo, porém, sem melhora nos preços.
+Nos commissarios o mercado esteve sustentado ao preço de 6$900, regulando mais uma vez a base de 6$800 nos negocios realisados no mercado de exportação.
+As bolsas da Europa, tendo fechado ante-hontem em baixa, abriram hontem com ligeira alta, accusando o mercado de Nova York 10 a 15 pontos de baixa na abertura.
+Estas noticias e a firmeza do cambio, por vezes, durante o dia, desanimaram o mercado legitimo, que esteve ainda indeciso e pouco activo, com os possuidores de generos ainda resistentes e os compradores operando com cautela ou offerecendo, quando o fazem, abaixo do mercado.
+Para exportação foram vendidas 15.000 a 16.000 saccas, sendo 13 a 14.000 no Centro e 2.000 a 3.000 para exportação.
+Base no Centro 6$900 e nos exportadores 6$800.
+Por Jundiahy passaram 75.200 saccas, entrando aqui 7.700 saccas por barra dentro.
+
+Santos.—Base 4$100; mercado firme; foram vendidas hontem, 32.035 saccas; registradas 4.000 ; entraram hontem 78.505; entradas desde 1º deste mez 220.759; média 88.151 ; entradas desde 1º de julho 4.712.537; existiam hontem, em primeiras e segundas mãos, 1.5040.805.
+Passagens hontem 75.070; desde 1º do mez 414.831; desde 1º de julho 1.748.716.
+Pauta semanal, 509 reis. Foram hontem baldeadas com destino a Santos: em Jundiahy 58.909, em S. Paulo e Sorocabana 5.497, em Campo Limpo 2.608, no Braz 1.614, no Pary 671 : total 75.279. Foram embarcadas em 1º 75.816; desde 1º do mez, 287.196. Foram despachadas hontem 474.
+--- ARTICLE END ---
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+INGLATERRA
+LONDRES, 5
+De Hong Kong, na China, tele-grapham que o vapor «Hudsichang» recolheu a seu bordo 24 dos naufragos do «Charterhouse»; estes achavam-se alli havia já 43 horas, á espera de um navio que os recebesse.
+
+LONDRES, 5
+A directoria da City of Santos Improvements vai distribuir um dividendo de 2 1/2 % aos portadores das acções ordinarias, relativo ao ultimo exercicio.
+
+HAVAS
+LONDRES, 5.
+Telegramma de Antuérpia para o «Daily Telegraph» an-nuncia que deixou a Bélgica o Sr. Carlos Waddington, filho do ex-consul geral do Chile em Bruxellas, e que ha tempos assassinou o secretario da legação chilena naquella capital. Apesar das affirmações dos seus amigos, acredita-se que o Sr. Carlos Waddington não voltará para o julgamento do pro-cesso a que está sendo submet-tido.
+--- ARTICLE END ---
+--- ARTICLE START ---
+FRANÇA
+PARIS, 5
+De sua excursão a varios de-partamentos de Oeste acaba de regressar a esta capital o Sr. Jorge Clemenceau, ministro do interior.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARIS, 5
+No Grande Mall foi inaugurada a exposição de pintura.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARIS, 5
+O «Eclair» diz constar nos Circulos políticos que o Sr. Jo-seph Caillaux substituirá no governo da Indo-China o Sr. Beau.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARIS, 5
+O ministro da marinha tem melhorado muito dos ferimen-tos que recebeu no desastre de automovel, de que foi victima no dia 3 do corrente quando se dirigia á Granja, acom-panhado de seu collega da fazenda.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARIS, 5
+Affirma-se que o ministro da justiça não processará o bispo de Valencia por ter publicado ha dias uma pastoral atacando, a exemplo do bispo de Tuy, o casamento civil.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARIS, 5
+O governo propõe-se a commemorar com grandes feste-jos os cercos de Saragoça, esta-belecidos pelos francezes.
+--- ARTICLE END ---
+--- ARTICLE START ---
+RÚSSIA
+S. PETERSBURGO, 5
+Chegaram a Helsingfors 29 caixões contendo armamento e munições para o «comitê» do partido revolucionario, que os conseguiu fazer desembarcar por meio de manifestos falsos que depois desappareceram myste-riosamente da Alfandega.
+--- ARTICLE END ---
+--- ARTICLE START ---
+S. PETERSBURGO, 5
+Foram fuzilados na fortaleza de Schuesselburg os terroristas que mataram o delegado de po-licia Romeroff.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ODESSA, 5
+Está completamente termina-da a greve dos trabalhadores das docas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+S. PETERSBURGO, 5
+Está illeso o general governador de Siedrsk.
+--- ARTICLE END ---
+--- ARTICLE START ---
+TERSSK, 5
+Foram hoje reforçadas as guar-das do palácio de Tsarskoe-selo, onde se acha installada a familia imperial.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ALLLEMANHA
+BERLIM, 5
+Os apparelhos sismicos do Observatorio registraram um forte terremoto, que se teria dado a grande distancia; as vibra-ções prolongaram-se por espaço de duas horas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BERLIM, 5
+A Conferencia de Direito In-ternacional encerrou hoje os seus trabalhos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BERLIM, 5
+No Congresso Socialista, que se vai realizar nesta capital, estarão representados 29 paizes, sendo 1.000 os cidadãos inscriptos nesse partido por 1.000 delegados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BERLIM, 5
+Deram-se novos tremores em Messina, produzindo o pânico entre a população.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ROMA, 5
+Os jornaes elogiam o governo por motivo das nomeações hon-tem feitas no corpo diplomático e felicitam o novo ministro na Republica Argentina, Sr. Mac-chi-celle.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ROMA, 5
+Noticia o Popolo Romano que o presidente do conselho, Sr. Giolitti, partirá amanhã para Cavour, onde passará alguns dias.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ROMA, 5
+O Papa recebeu hoje em audiência os peregrinos francezes chegados hontem a esta capital; Sua Santidade pronunciou breve allocução exhortando os catholicos francezes a manterem-se fielmente unidos á religião dos seus antepassados. «O pai, terminou o Pontífice, dedica aos seus filhos bons ou máos o mesmo amor, por tanto abençoava todos os francezes e esquecia as offensas que alguns delles têm dirigido á Igreja.» — A imprensa occupa-se hoje do novo tratado austro-italiano dedicando-lhe longos commen-tarios.
+A «Tribuna» qualifica-o de absurdo por permittir o augmento reciproco de territórios.
+—Em varias localidades da Sicilia continua-se a sentir ligeiros tremores de terra.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+HESPANHA
+MADRID, 5
+O ministro da justiça, Conde de Romanones, declarou que o rei Affonso XIII está, na questão religiosa, identificado com as aspirações do povo, do que resultará a democratisação da mo-narchia.
+--- ARTICLE END ---
+--- ARTICLE START ---
+VIGO, 5
+O Patriarcha de Lisboa esteve em Tuy, onde visitou o respec-tivo bispo, felicitando-o pelas suas recentes pastoraes a propo-sito do casamento civil.
+Essa visita tem despertado ge-raes commentarios.
+--- ARTICLE END ---
+--- ARTICLE START ---
+TURQUIA
+CONSTANTINOPLA, 5
+Os jornaes noticiam que o sultão Abdul Hamid declarou hoje, na reunião do conselho de ministros, que se sentia bem dis-posto e completamente restabe-lecido.
+--- ARTICLE END ---
+--- ARTICLE START ---
+CONSTANTINOPLA, 5
+O Sr. De Calice, embaixador italiano nesta capital, despediu-se hoje do Sultão, por ter de re-gressar á Itália
+--- ARTICLE END ---
+--- ARTICLE START ---
+BOLÍVIA
+LA PAZ, 5
+Telegrapham de Oruro que o partido liberal boliviano acaba de proclamar a candidatura para a próxima presidência da Republica do Sr. Fernando Guachalla, ex-ministro da Bolivia em Washington e Buenos Aires e um dos negociadores do tratado de Pe-tropolis.
+--- ARTICLE END ---
+--- ARTICLE START ---
+LA PAZ, 5
+A maioria dos deputados re-chassou a imposição do povo de Potosi para a approvação da cons-trucção de uma estrada de ferro entre Uyuni e Potosi, proposta pela companhia ingleza de Anto-fagasta.
+--- ARTICLE END ---
+--- ARTICLE START ---
+CHILE
+SANTIAGO, 5
+Ruio o edificio em que funccio-nava o ministério da guerra, e não ha victima a lamentar.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ARGENTINA
+BUENOS AIRES, 5
+O Sr. Lisandro Delatorre, an-nunciando a renuncia do directo-rio do partido republicano, diz que o Sr. Figueroa Alcorta poude até hontem manter o seu programma com a influencia dos partidos em que se apoia, mas dentro de um trimestre não o poderá mais fazer.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5.
+«El Diario» ataca a municipa-lidade pela immundicie que se nota em toda a capital.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Parte amanhã para o Pacifico o ex-ministro Adolfo Guerreiro.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Applaude-se a nomeação do Sr. Gorreri para ministro da Itália em Buenos Aires.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Augmenta o numero de tu-ristas que vão embarcar no «Isle de France», em excursão ao es-treito de Magalhães e Terra de Fogo.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Desmente-se que se vá declarar o estado de sitio para com-bater as greves.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Os indios invadiram a provin-cia de Santa Fé, matando gado.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+O poder executivo vai enviar ao Congresso uma mensagem lembrando a conveniência da adopção de leis que contenham o augmento excessivo de pensões.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BUENOS AIRES, 5
+Em Rosario de Santa Fé con-tinua a greve dos estivadores.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PARAGUAY
+ASSUMPÇÃO, 5
+«Los Successos», tratando dos factos que se deram em Bella Vista, diz que foram desave-radamente alterados pelos brasileiros por interesses de natureza inconfessável.
+--- ARTICLE END ---
+--- ARTICLE START ---
+URUGUAY
+MONTEVIDÉO, 5
+Foram presos os ladrões de cruzes dos cemitérios.
+--- ARTICLE END ---
+--- ARTICLE START ---
+MONTEVIDÉO, 5
+Encerrou-se o congresso ope-rario.
+--- ARTICLE END ---
+--- ARTICLE START ---
+MONTEVIDÉO, 5
+As companhias de tramways inaugurarão em dezembro a tracção electrica.
+--- ARTICLE END ---
+--- ARTICLE START ---
+MONTEVIDÉO, 5
+Põem sementes de Havana marca veado.
+--- ARTICLE END ---
+--- ARTICLE START ---
+MONTEVIDÉO, 5
+Tres irmãos Meados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+HAYTI
+PORTO PRINCIPE, 5
+Falleceu o coronel Domingo Bolona.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- HEADLINE START ---
+ASSASSINATO
+RUA FREI CANECA
+--- HEADLINE END ---
+--- ARTICLE START ---
+Hoje foi lançada a pedra an-gular do magestoso edificio des-tinado ao Collegio Isabelli-no, fundado aqui por professoras norte-americanas. As altas autoridades fizeram-se repre-sentar no acto.
+--- ARTICLE END ---
+--- ARTICLE START ---
+MINAS GERAES
+DIAMANTINA, 5
+A Câmara de Diamantina votou uma moção de applauso ao governo do Estado e protestando inteira solidariedade.
+--- ARTICLE END ---
+--- ARTICLE START ---
+DIAMANTINA, 5
+O senador Olympio Mourão telegraphou ao presidente com-municando que á Câmara de Diamantina foi apresentado um projecto concedendo o auxilio de cinco contos para fundação naquelle municipio de uma fazenda modelo.
+--- ARTICLE END ---
+--- ARTICLE START ---
+SETE LAGOAS, 5
+A Câmara de Sete Lagoas votou uma lei instituindo premios de animação á agricultura e industria pecuaria.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BELLO HORIZONTE, 5
+Muitos directorios locaes já en-viaram á commissão executiva do partido republicano a indi-cação do nome do Dr. Francisco Salles para senador na vaga do Sr. Vellezco.
+--- ARTICLE END ---
+--- ARTICLE START ---
+BELLO HORIZONTE, 5
+O presidente do Estado vetou a lei que extinguira no Estado os advogados provisionados. In-vocou a liberdade profissional estabelecida na Constituição. Ha comarcas pobres ou lon-ginquas sem advogados forma-dos e nellas os direitos dos ci-dadãos também merecem o mesmo amparo da lei.
+Allega que a constituição exige para ser representante da nação, somente o saber ler e escrever ficando os outros requisitos a livre escolha do povo. Fazer a lei é mais difficil do que appli-cal-a ou defendei-a e por isso não deve ser limitada a liberdade nestes pontos. Invoca o artigo da Constituição que declara livre o

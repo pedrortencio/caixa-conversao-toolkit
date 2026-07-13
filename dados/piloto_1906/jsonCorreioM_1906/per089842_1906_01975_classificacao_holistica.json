@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition includes two brief, factual mentions of the \"Caixa de Conversão.\" One reports on the Minister of Finance reviewing regulations for the Caixa, and the other reports the remittance of the associated legislation to the Chamber of Deputies.  Neither mention offers any explicit endorsement or criticism of the Caixa itself or any particular stance in the surrounding debate. The rest of the newspaper edition is unrelated to the topic.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O ministro da fazenda pretendo «ubiuat*ter ;í consideração do presidente da Repu. . blica, ua próxima terça-feira, o regulamen-'to para u Caixa dc Convênio, e bem onslraconferenciar com h. cx. acerca dai tabellasde vencimentos para os funecionarios da mesma Caixa.",
+            "reason_for_inclusion": "Factual reporting on the Minister of Finance's activities related to the \"Caixa de Conversão.\""
+        },
+        {
+            "quote": "O ministro da fazenda remetteu hontem áCâmara dos Deputados a mensagem pres*deliciai acompanhando os autographos, assl-nados, da leicrcandoa Caixa de Conversão.",
+            "reason_for_inclusion": "Factual reporting on the legislative process related to the \"Caixa de Conversão.\""
+        }
+    ]
+}

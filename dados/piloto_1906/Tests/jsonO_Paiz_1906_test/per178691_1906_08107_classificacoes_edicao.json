@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-12-08",
+        "original_snippet_context": "Discussing the budget for promoting national products abroad and the potential role of a \"caixa de conversão\" in determining the value of funds allocated for this purpose.",
+        "relevant_quote": "Calculado o valor do ouro ao cambio do 13 d., que a caixa de conversão pretende firmar, esses quatro mil contos valerão, em papel moeda, sete mil e duzentos contos de réis.",
+        "classification": "Neutral/Factual",
+        "justification": "The text mentions the \"caixa de conversão\" and its potential impact on the exchange rate (fixing it at 13d) in a purely informational context, relating it to the budget calculations for promoting national products. It doesn't express an opinion on whether this rate is good or bad.",
+        "confidence": "High"
+    }
+]

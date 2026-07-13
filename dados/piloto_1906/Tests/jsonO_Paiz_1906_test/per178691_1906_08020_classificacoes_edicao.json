@@ -1,0 +1,29 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-08",
+        "original_snippet_context": "Discussion of upcoming legislative agenda in the Chamber of Deputies.",
+        "relevant_quote": "E' caixa bem provável que amanhã, quarta-feira, seja Incluído na ordem do dia da Câmara a ll\" discussão do projecto creando a caixa do con- versão.",
+        "classification": "Neutral/Factual",
+        "justification": "This is a purely informational note about the Caixa de Conversão project being included in the Chamber's agenda, without expressing any particular stance.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-08",
+        "original_snippet_context": "Proposed amendments by Deputy Alcindo Guanabara regarding monetary reform.",
+        "relevant_quote": "Pelo Illuslro deputado Al cindo Guanabara serão apresenta das as seguintes emendas, umn dns quaes quebra o padrão monetário para 12 «di. por 1$0(I0 :",
+        "classification": "Clearly Expansionist",
+        "justification": "The mention of breaking the current monetary standard to establish a lower conversion rate (12d) is a key element of the expansionist position.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-08",
+        "original_snippet_context": "Details of Alcindo Guanabara's proposed amendments, including the creation of a Caixa de Conversão.",
+        "relevant_quote": "\"Serft creada umi', caixa de conversão para esse fim, sendo a mesma administrada por unia dire ctorla de cinco membros, nomeados pelo goveruo com approvação do Senado.'\"",
+        "classification": "Clearly Expansionist",
+        "justification": "This describes the proposed structure of the Caixa within the context of the expansionist amendment for a 12d conversion rate.",
+        "confidence": "High"
+    }
+]

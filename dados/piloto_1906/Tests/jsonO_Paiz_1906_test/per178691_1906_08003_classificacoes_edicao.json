@@ -1,0 +1,29 @@
+[
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Article discussing the Caixa de Conversão and its potential negative consequences.",
+        "relevant_quote": "Defendendo o seu voto e combatendo a creação da caixa de conversão, o digno deputado por Santa Catharina mostrou quão funestas poderão ser as consequencias de um movimento impensado nessa questão.",
+        "classification": "Clearly Orthodox",
+        "justification": "The article quotes a deputy arguing against the Caixa de Conversão, highlighting potential negative consequences, which aligns with the orthodox concern for maintaining the existing monetary system.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Article discussing the Caixa de Conversão and comparing it to the Argentine model.",
+        "relevant_quote": "Comparou o apparelho do projecto com a caixa de conversão argentina, para mostrar quanto differem.",
+        "classification": "Neutral/Factual",
+        "justification": "The article mentions a comparison between the proposed Caixa and the Argentine model without expressing a value judgment, indicating a neutral stance.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Article discussing the Caixa de Conversão and its potential impact on exchange rates.",
+        "relevant_quote": "Criticou a queima do papel-moeda, que não é resgate, e disse que a politica de larguezas póde levar-nos ao regimen do \"déficit\" orçamentario, que ha de por força influir desastrosamente na caixa de conversão, cujo intuito é o de impedir a alta do cambio, sem meio algum para impedir a baixa.",
+        "classification": "Clearly Orthodox",
+        "justification": "Criticizing the burning of paper money and expressing concern about deficits and exchange rate instability aligns with the orthodox view of maintaining a stable, gold-backed currency.",
+        "confidence": "High"
+    }
+]

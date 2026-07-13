@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906-12-02",
+    "overall_classification": "Leaning Orthodox",
+    "stance_score": -1.0,
+    "overall_justification": "While the newspaper reports on various perspectives regarding Argentina's conversion scheme, its dominant stance leans towards the Orthodox view. The article emphasizes the potential risks and disruptions associated with implementing a conversion scheme, particularly highlighting concerns about fluctuating exchange rates, impacts on existing debts, and the need for careful consideration and reflection before proceeding with financial reforms.  The emphasis on potential negative consequences aligns with the Orthodox concern for stability and aversion to radical monetary changes.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Um novo desequilibrio, que se reno-varia sempre, periodicamente, de seis em seis mezes. Esse desequilibrio perturbaria innumeras operações. Haveria, neste caso, quem desejasse contrair obrigações, a longo tempo, quando a cada seis mezes o typo de cotação podia, talvez, augmentar? Que perturbação, que des-ordem monetaria, que crisis perpetua!",
+            "reason_for_inclusion": "This quote highlights the potential for instability and disruption that a conversion scheme could cause, a key concern of the Orthodox perspective."
+        },
+        {
+            "quote": "O natural é que o governo procedesse, com reflexão, na reforma financeira.",
+            "reason_for_inclusion": "This emphasizes the need for careful consideration and a cautious approach to financial reform, aligning with the Orthodox preference for maintaining the status quo and avoiding potentially destabilizing changes."
+        },
+        {
+            "quote": "Todas as obrigações contraidas nesse periodo não podiam, segundo a opinião dos directores das nossas estra-das de ferro, serem resgatadas com a média averiguada, especialmente a primeira, que abarca as transacções dos ultimos dez annos, e as que comprehendem enormes valores.",
+            "reason_for_inclusion": "This quote raises concerns about the impact of the conversion scheme on existing debts and obligations, a significant point of contention for Orthodox proponents who feared devaluation."
+        }
+    ]
+}

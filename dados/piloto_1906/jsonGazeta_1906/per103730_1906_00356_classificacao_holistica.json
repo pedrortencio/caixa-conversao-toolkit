@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-09-22",
+    "overall_classification": "Clearly Expansionist",
+    "stance_score": 2.0,
+    "overall_justification": "This edition unequivocally supports the establishment of the Caixa de Conversão, emphasizing practical benefits such as its smooth inauguration, the substantial funds being deposited, and the government's commitment to its success.  The tone is celebratory and optimistic, focusing on the Caixa's potential to stabilize and modernize the Brazilian economy. There is no discernible criticism of the initiative or advocacy for alternative approaches.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Realisa-se hoje, á 1 hora da tarde, a solemne inauguração da Caixa de Conversão, no novo edificio, defronte á Caixa de Amortisação, na Avenida Central.",
+            "reason_for_inclusion": "Announces the inauguration in a positive, celebratory tone, indicating support for the initiative."
+        },
+        {
+            "quote": "De hoje em diante começará a funccionar outra casa comercial, sem duvida alguma das mais importantes existentes na nossa capital, sem auxilio algum do Thesouro Federal; pois não só o Sr. Dr. David Campista deixará de aproveitar para esse fim o saldo de £ 137.000 existentes no Thesouro, como também não tocará nos fundos de garantia recolhidos.",
+            "reason_for_inclusion": "Highlights the Caixa's financial independence and responsible management, further reinforcing a positive portrayal."
+        },
+        {
+            "quote": "Segundo está informando o Sr. ministro da fazenda aos Bancos do Brasil, a fluminense, e o River Plate recolherão ao novo estabelecimento cerca de £ 1.800.000 a 2.000.000.",
+            "reason_for_inclusion": "Emphasizes the significant financial backing the Caixa is receiving, suggesting its stability and potential for success."
+        }
+    ]
+}

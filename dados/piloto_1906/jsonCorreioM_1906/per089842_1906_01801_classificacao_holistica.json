@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-06-17",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "The edition's most prominent article on the \"Convênio\" clearly rejects the linking of exchange rate fixation with coffee valorization, a core tenet of the Expansionist position.  It celebrates the separation of these issues and criticizes the proposed 10 or 12 pence rate as a \"desastrado plano\" and \"negociata.\" The paper consistently emphasizes fiscal prudence and national \"probidade,\" aligning with Orthodox concerns about maintaining a strong currency and opposing artificial manipulation.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Contra o que nos levantamos, desde logo, foi contra a tramada reducção do cambio a 10.",
+            "reason_for_inclusion": "Direct statement of the paper's opposition to the lower exchange rate proposed by Expansionists, a central point of contention."
+        },
+        {
+            "quote": "Desde a primeira vez que sobre o Convênio nos pronunciámos, declaramos que eramos, como todos os brasileiros, pela valorização do café e que applaudíamos o que em favor de tão justa aspiração se fizesse, com sinceridade e critério. Contra o que nos levantamos, desde logo, foi contra a tramada reducção do cambio a 10.",
+            "reason_for_inclusion": "Reinforces the paper's core argument: support for coffee valorization but strong opposition to manipulating the exchange rate to achieve it."
+        },
+        {
+            "quote": "Batemo-nos sempre pela boa causa, certos de que ella o era e que bastava isso. Os lavradores vêem agora que o Correio da Manhã andou caminho seguro e que foi ao lado dos reaes interesses da lavoura que se collocou, collocando-se ao lado da opinião do paiz.",
+            "reason_for_inclusion": "Emphasizes the paper's confidence in its Orthodox stance, linking it to the \"real interests\" of agriculture and the \"opinião do paiz,\" suggesting broad public support for its position."
+        }
+    ]
+}

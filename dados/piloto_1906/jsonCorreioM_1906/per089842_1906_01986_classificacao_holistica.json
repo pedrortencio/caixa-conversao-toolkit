@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The edition contains a brief, factual mention of the Caixa de Conversão's upcoming inauguration but no discussion of the surrounding monetary debate.  The article simply states the inauguration date and notes the minister's intention to hold a simple ceremony. It lacks any argumentation or opinion related to the different perspectives on the Caixa, such as the conversion rate or its purpose. The rest of the newspaper focuses on unrelated topics like local news, social events, and the ongoing strike.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Conforme já noticiámos, vac ser inaugurada, no dia 22 do corrente, a Caixa de Conversão.",
+            "reason_for_inclusion": "This is the main mention of the Caixa, stating the inauguration date."
+        },
+        {
+            "quote": "Fugindo ás habituais praxes, o dr. David Campista, ministro da fazenda. fará, revestida da máxima simplicidade, a anunciada inauguração.",
+            "reason_for_inclusion": "This describes the planned simple ceremony, but offers no opinion or argument about the Caixa itself."
+        }
+    ]
+}

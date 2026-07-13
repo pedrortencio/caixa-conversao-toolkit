@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-09-27",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "The Correio da Manhã takes a vehemently Orthodox stance in its front-page editorial, expressing alarm at the proposed amendments to the Caixa de Conversão project.  The paper views the amendments, particularly the use of existing guarantee and redemption funds for exchange operations, as reckless gambling with public funds and a betrayal of the nation's financial stability.  This editorial sets the dominant tone for the entire edition, outweighing other articles that merely report on the ongoing debate.  The language used (\"crime,\" \"sorvedouro,\" \"jogatina\") leaves no doubt about the paper's strong disapproval.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O sr. David Campista, devorando as suas declarações anteriores, destruindo todo o seu projecto originario, vae transformar a sua Caixa de Conversão numa verdadeira e própria casa de cambio, comprando e vendendo letras para o exterior! e com quaes elementos conta para effectuar taes operações ? Com os fundos de resgate e garantia que somam respectivamente a 4 milhões, 21.8574 libras esterlinas e 298 contos e 245 réis.",
+            "reason_for_inclusion": "This quote from the main editorial encapsulates the paper's outrage at the use of public funds for exchange speculation."
+        },
+        {
+            "quote": "Já a Caixa de Conversão não é portanto o organismo anodyno, como parecia ao maior numero dos adversários do projecto. Com a emenda que o sr. David Campista apresentou, a Caixa converte-se num sorvedouro dos recursos que com tanto custo logramos accumular, revoga a lei de 1899, lança o paiz para a mais perigosa das aventuras financeiras, dá o alarma na massa dos nossos credores, expõe o paiz ao descrédito que acompanha fatalmente as nações incapazes de perseverar num programma, e arremessa a fortuna publica e particular para a voragem da jogatina e da especulação.",
+            "reason_for_inclusion": "This passage emphasizes the perceived dangers of the amended project, characterizing it as a financial gamble."
+        },
+        {
+            "quote": "E' rematado desprezo dos grandes interesses da pátria, é um escandaloso exemplo de leviandade, é uma ameaça gravíssima que vae pesar sobre o povo brasileiro, sobre o nosso credito, a nossa seriedade, o nosso futuro.",
+            "reason_for_inclusion": "This quote demonstrates the strong moralistic tone of the editorial and its condemnation of the project as damaging to Brazil's reputation."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-09-21",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "This edition of Correio da Manhã takes a strongly Orthodox stance on the Caixa de Conversão, attributing the fall in exchange rates to the market's negative reaction to the proposed conversion rate of 15 pence and the even more radical amendments suggesting 12 pence.  The editorial uses alarmist language, highlighting the \"panic\" in European markets and criticizing the \"mental anarchy\" of politicians supporting these measures. It praises the Banco do Brasil for its efforts to maintain a higher exchange rate and warns of dire consequences for national credit if the \"fantastic solutions\" of the Convênio de Taubaté are adopted.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "A baixa não começou propriamente ante-hontem. Já na tarde de terça-feira o pânico se havia manifestado, sendo com os telegrammas procedentes das varias praças da Europa. Nesses telegrammas se alludia ao alarme determinado naquelles mercados pelas noticias daqui recebidas acerca das aventuras financeiras a que se quer lançar o nosso Congresso, com o seu projecto de Caixa de Conversão ao cambio de 15 pence.",
+            "reason_for_inclusion": "This quote establishes the core argument of the editorial, linking the decline in exchange rates directly to the proposed Caixa de Conversão at 15 pence and highlighting the 'panic' it caused in European markets."
+        },
+        {
+            "quote": "Já a taxa de 15 dinheiros, proposta para a fixação do cambio no projecto instituindo a Caixa de Conversão, não parece sufficiente. Quer-se fazer um salto ainda maior para o abysmo com a taxa de 12 dinheiros, quebrando sem meios termos o padrão monetario nacional. Que outras surpresas estariam reservadas para o credito do paiz ?",
+            "reason_for_inclusion": "This quote emphasizes the newspaper's Orthodox view that even 15 pence is insufficient and that the proposed 12 pence rate is a disastrous move that will damage the nation's credit."
+        },
+        {
+            "quote": "O paiz está voltado com esperança para Bello Horizonte e o futuro chefe do Estado.",
+            "reason_for_inclusion": "This closing statement reinforces the newspaper's implicit call for intervention from Affonso Penna, the president-elect, to halt the \"madness\" of the current political direction, further demonstrating the paper's disapproval of the expansionist policies."
+        }
+    ]
+}

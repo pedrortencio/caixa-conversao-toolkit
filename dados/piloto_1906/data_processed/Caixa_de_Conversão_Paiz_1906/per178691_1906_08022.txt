@@ -1,0 +1,161 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+ANNO XXIII
+PROPRIEDADE DE UMA SOCIEDADE ANONYMA
+REDACCAO
+AVENIDA CENTRAL
+(FECHA DA RUA SETE DE SETEMBRO)
+RIO DE JANEIRO, Quinta-feira 20 de Setembro de 1906
+O PAIZ é a folha de maior tiragem e de maior circulação na America do Sul
+ASSIGNATURA
+NO ESTRANGEIRO 30$000
+POR SEIS MEZES... 15$000
+NUMERO AVULSO 100 RS
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- BLOCK:Expediente START ---
+EXPEDIENTE
+A partir do dia 1 de outubro deixarão de receber O PAIZ os assignantes que estiverem em débito de assignaturas. Peço, pois, aos assignantes que se acharem nessas condições que mandem satisfazer a importância das suas assignaturas, para não lhes ser suspensa a remessa da folha.
+O RECEPCIONAMENTO
+--- BLOCK:Expediente END ---
+--- ARTICLE START ---
+COISA DA HABITAÇÃO
+
+Sempre julguei que não pudesse haver um homem de mediana cultura em nosso meio, capaz de menoscabar da utilidade do recenseamento, em boa hora mandado fazer nesta capital pelos poderes públicos municipais; Via a imprensa e ouvia escritores, em geral, prestando muito forte apoio aos encarregados da operação censitária. Entretanto, com espanto e surpresa, pude verificar que não faltam altos funcionários que se contrariam com alguns pequenos encargos, que lhes cabiam, em vista do recenseamento. Por ventura, semelhantes casos constituem a excepção e não a regra. O nosso povo, em sua modesta sabedoria, collabora com os desejos da Prefeitura e de todos os homens que estudam e se batem pelo progresso. O recenseamento, a posse de seguros dados sobre o contingente de nossa população—eis a base de todos os melhoramentos, de todas as reformas sociais urgentes para esta cidade e para o Brazil em geral, assim como para todos os paizes civilizados.
+Nós andaremos no ar, na voga e no indeterminado domínio das conjecturas falíveis; emquanto não soubermos a quanto monta a cifra de nossa população. É curioso e digno de notar-se que todos os índices e todas as estatísticas do movimento social e econômico de um povo, pouco ou mesmo nada valem sem a sua base sólida, o seu elemento primordial de comparação, o recenseamento, o volume exacto dos habitantes.
+No Districto Federal, desde alguns annos, informações officiaes dignas de fé e crédito afirmam, com algarismos exactos, que tem crescido sobremaneira a freqüência escolar. Cada novo exercício escolar registra este augmento auspicioso do numero de crianças, que buscam o ensino e clareiam o espirito nas águas lustraes do alphabeto. E, todavia, esse progresso pode não ser um progresso : pode ser o "statu quo" ; pode ser menos que isto, conforme seja ou tenha sido, nos últimos annos, o augmento da nossa população. O recenseamento virá elucidar esse problema. Virá esclarecer a obscuridade em que nos achamos, demonstrando quanto vale o que temos feito no movimento do ensino, o que precisamos e o que devemos fazer em matéria de tão relevante importância. Se os cálculos não falham, se chegamos pelo milhão de habitantes, a freqüência escolar certamente não tem progredido na relativa proporção que fora licito esperar.
+O Congresso de Instrucção, agora reunido, não vai poder esclarecer este detalhe eloqüente dos seus estudos. O censo, entretanto, deverá fazê-lo com a lógica dos algarismos.
+Outro assumpto, sobre o qual não se tem podido derramar uma luz sufficiente, é o da hygiene e do saneamento da capital, para cujo serviço se tem reclamado de novo uma pesada contribuição.
+A diminuição e a extinção das epidemias, fazendo decrescer a lethalidade nesta capital, será um serviço ainda mais considerável do que não se supõe, se a nossa população houver crescido e chegado ao milhão.
+Outra coisa interessante a saber-se é a relação entre o número de habitações e o número dos seus habitantes. De par com o recenseamento—segundo ouvi de um illustre membro da commissão central— está-se fazendo a estatística predial desta cidade.
+Tenho a mais ardente ansiedade por ver esse confronto eloqüente, ainda diante da pavorosa crise de casas em que nos achamos envolvidos. Ver-se-ha, então, até onde chegam os effeitos das demolições, que constituem uma necessidade do progresso, mas que—forçoso é dizer-se—atiraram os moradores desta terra numa contingência horrível e duríssima.
+Contam-me que os recenseadores da freguezia da Santa Anna estão admirados do pequeno número de habitantes que ahi encontraram. Penso que a diferença entre o actual e o ultimo recenseamento é de 30 mil pessoas para menos, número que mais ou menos corresponde a metade da antiga população dessa zona. Eis ahi 30 mil pessoas deslocadas de uma só freguezia e que se atiram pelos outros bairros em busca de casas. Imagine-se o algarismo que chegará ao nosso conhecimento, quando o recenseamento estiver feito e publicado! Se não foram outros motivos, bastaria isto para desejar-se e apoiar-se o serviço da Prefeitura. Elle virá pôr a nú os elementos dessa crise da habitação, sobre a qual Alcindo Guanabara fez no Congresso um brilhantíssimo discurso, que é a synthese de quanto se tem escripto a respeito. Talvez, então, se cogite seriamente de resolvê-la.
+Nas mais longínquas estações dos subúrbios e do ramal de Santa Cruz da Estrada de Ferro Central, desembarcam operários e proletários, sem número, que ainda vão caminhar duas e três horas em procura dos seus pobres lares. Eis ahi um facto eloqüente, que demonstra a gravidade da crise das habitações. É facil a quem quiser verificar esse facto. Basta tomar os trens de segunda classe e ouvir as conversas dos operários e mais pessoas do povo. Muitos se regozijam por ter de andar apenas uma hora depois da chegada nas estações. E se penalizam, e se compadecem dos outros, chorando as suas mágoas, as suas dificuldades e os soffrimentos das famílias atiradas ao deserto e aos arremedos de casas, de ranchos, pelas mattas e dentro.
+Não se julgue que é somente o povo miúdo que sofre. A classe média, os pequenos empregados do commercio e das repartições do Governo acham-se em condições mais ou menos semelhantes. Nunca foram tão ásperas e duras as exigências dos proprietários. Com raras excepções, todos os senhorios desta capital aproveitam-se da contingência dolorosa do povo, para arrancar-lhe, em forma de aluguel, pesadíssimos tributos. Alguns fazem verdadeiros leilões em face dos pretendentes ao aluguel, que, coagidos pela necessidade, lançam dezenas de mil réis sobre o preço pedido pelo proprietário. É um quadro doloroso, uma situação tremenda, que reclama a attenção urgente dos poderes públicos.
+O recenseamento offerecerá larga margem para o estudo e a solução dessa crise econômica e social. Não é, pois, o desejo fútil de exceder Buenos Aires, que nos deve fazer desejar o crescimento da nossa população. São as necessidades, são as condições irreductiveis do nosso progresso e do nosso bom estar, que reclamam o conhecimento preciso do verdadeiro contingente da nossa população.
+Seria para desejar, desde logo, a estatística predial. Com estes dois elementos se poderia julgar a extensão do soffrimento popular. Com elles, poder-se-ha tocar em um dos maiores problemas do futuro periodo do governo municipal. E o actual prefeito, que já iniciou a sua solução, construindo quatrocentas casas para operários, poderia muito bem resolvê-lo de todo em todo com essa energia admirável e essa rara capacidade de trabalho, de que tem dado soberbas provas. Seria bello e bom que a mesma mão possante, que demoliu as casas das velhas ruas estreitas e rasgou formosas avenidas, seja tambem aquella que venha a abrigar a população numerosa que anda de porta em porta e de rua em rua, em busca do lar, desolada e triste diante do impossível.
+Não ha figura e não ha rhetorica : ha a singela realidade de uma situação social característica da actual vida urbana do Rio de Janeiro.
+Curvello de Mendonça.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- ARTICLE START ---
+A NOSSA INDUSTRIA
+
+No intuito de pôr em destaque a inconveniência de se recorrer a cálculos compluxivos em assumpto no qual somente os cálculos distributivos tem entrado, razoável, fizemos, em nosso artigo de hontem, o confronto da renda aduaneira de 1904 com o valor das importações, e fomos deduzindo de uma e de outro relações percentuaes variáveis, mas crescentes, à medida que apartávamos da cifra global das mercadorias de procedencia estrangeira artigos que não pagam direitos, ou que os pagam em escala aceitável. Em dois dos cálculos feitos, as porcentagens foram de 81 e 70 %.
+Houve engano : as percentagens são de 31 e 47 % e não aquellas outras. O engano consistiu em termos transportado para o segundo calculo a renda total aduaneira de 235 mil contos, sem della abatermos a somma de 65 mil contos, que attribuímos, por approximação, aos direitos correspondentes aos tecidos brancos, estampados e tintos, de algodão, no anno referido importados. Rectificado o engano, do qual a estimável "Gazeta" provavelmente tomar-nos-ha severa conta, cumpre-nos assegurar que foi elle involuntário,—e o prova a circumstancia de, no primeiro calculo, referente a porcentagem de 31 %, termos assignalado a quantia de 170 mil contos, como o remanescente da renda, depois de desfalcada dos aludidos 65 mil.
+Aliás, o facto não invalida, nem mesmo alicia a justeza do raciocínio principal, destinado a provar que a proporção que as deduções eram feitas, a importância dos direitos ia augmentando, de modo a attingir a cifras exageradas quando se considerasse a expressão concreta do proteccionismo aplicado nas nossas industrias fabril e manufactureira. Era esse, precisamente, o ponto originário do debate, o que motivou esta agradável discussão com a "Gazeta", da qual não temos que aprender as instructivas lições.
+A matéria, porém, é interessante, e, por assim dizer, inesgotável.
+O proteccionismo excessivo que a Câmara dos Deputados está preconizando, offerecerá flancos ao combate; qualquer que seja o ponto de vista em que se o estude.
+Pareceu à "Gazeta" que a importância de 65 mil contos pagos pela connectividade, como direitos alfandegarios de cerca de 40 mil contos de tecidos de algodão em 1904, era uma fantasia nossa, sem base alguma na realidade; e foi por effeito dessa persuasão, que ella nos objectou com a porcentagem de 20 %, para o valor total da importação, no dito anno, menos os 40 mil contos referidos e os 65 mil calculados por nós.
+Comquanto, no corrente anno, a situação da taxa cambial seja differente da de 1904. É justo recordar que nessa época, a média do cambio foi de 12 d. e nos primeiros mezes de 1906 oscilou nas immediiações de 16 d. Mas, os direitos cobrados em ouro subiram de 25 a 50 %, de sorte que uma certa compensação ficou estabelecida para as operações de conversão do ouro em papel-moeda. Se ha aggravação geral das taxas, serão ellas desfavoráveis aos direitos neste anno.
+Ora, possuímos a lista de algumas facturas de tecidos, todos de algodão, brancos, estampados e tintos, recebidos por casas importadoras desta praça no primeiro trimestre de 1906 ; e taes facturas evidenciam a enormidade dos direitos exigidos pela tarifa em vigor, com os adminiculos que as leis de receita lhes tem implacavelmente aggregado.
+Destacamos dessa massa de documentos alguns que são verdadeiramente suggestivos.
+Brims e cassinetes.
+A. Valor da mercadoria a bordo, no Rio 834$000
+Direitos pagos................. 1:132$000
+Relação : 135 %.
+B. Valor da mercadoria, idem. 1:680$000
+Direitos pagos................. 2:261$000
+Relação : 134 %.
+C. Valor da mercadoria, idem. 1:045$000
+Direitos pagos................. 1:390$000
+Relação : 135 %.
+D. Valor da mercadoria, idem. 2:040$000
+Direitos pagos................. 2:736$000
+Relação : 146 %.
+Destas relações percentuaes estão excluídas as quotas de 2 %, ouro, para as obras do porto.
+
+Tecido liso estampado (chitas).
+A. Valor da mercadoria a bordo, no Rio 1:197$000
+Direitos pagos................. 2:001$000
+Relação : 167 %.
+B. Valor da mercadoria, idem. 1:134$000
+Direitos pagos................. 1:979$000
+Relação : 170 %.
+C. Valor da mercadoria, idem. 3:528$000
+Direitos pagos................. 6:957$000
+Relação : 198 %.
+D. Valor da mercadoria, idem. 5:511$000
+Direitos pagos................. 6:886$000
+Relação : 180 %.
+Nestas facturas está incluída a quota de 2 %, ouro, para as obras do porto.
+
+Motins.
+A. Valor da mercadoria a bordo, no Rio 1:134$000
+Direitos pagos................. 2:180$000
+Relação : 128 %.
+B. Valor da mercadoria, idem. 1:079$000
+Direitos pagos................. 3:606$000
+Relação : 134 %.
+C. Valor da mercadoria, idem. 4:425$000
+Direitos pagos................. 6:476$000
+Relação : 109 %.
+D. Valor da mercadoria, idem. 137$000
+Direitos pagos................. 305$000
+Relação : 148 %.
+Ahi ficam exemplos, constantes de documentos commerciaes, que podem ser examinados, de direitos sobre tecidos brancos, estampados e tintos, de algodão. Variam elles de 128 % a 180 %, sendo que os mais onerados foram as "chitas", procuradas para o vestuário feminino das classes pobres.
+No calculo que fizemos dos tecidos de algodão importados em 1904, abandonamos o numero 473 da tarifa, por conter taxas fortíssimas.
+Incidem ellas, precisamente, sobre tecidos destinados a roupas de mulher,—taes como cambraias, cassas, de listras, de xadrez ou de salpicados, fustões, sottinhas, musseline, etc.,—que pagam, quando brancos ou tintos, 1$, 2$, 9$ e 15$ por kilo, afora o ágio do ouro e outras despezas accrescidas, e, quando estampados, 4$, 5$, 10$ e 21$ por kilo.
+Cada uma das chaves do numero 473 tem quatro espécies, e a média das taxas de cada chave seria, para os tecidos brancos e tintos, cerca de 8$, e para os estampados, 10$000.
+Se applicassemos estas médias a quantidade de kilos de tecidos importados, a somma dos direitos seria muito superior à de 65 mil contos, que, approximativamente, representam a contribuição da connectividade em 1904, para o maior fulgor da doutrina proteccionista.
+Ousamos esperar que a illustre "Gazeta" não terá objecções mesmo a oppôr à significação dos exemplos citados, e concordará comnosco que a industria de tecidos de algodão, por muitos títulos affirm ada, bem podia retirar os seus insistentes reclamos do proteccionismo cada vez maior.
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- BLOCK:Festas Italianas START ---
+20 DE SETEMBRO
+
+A Itália commemora hoje o grande feito que completou, definiu, engrandeceu e solidificou sua unidade política. Entrando em Roma, as tropas garibaldinas, não só estenderam o domínio político da casa de Saboia, como abriram para toda a península a época da reconstrucção econômica e felicidade geral. A Itália, não mais dividida e perturbada pelas ambições estrangeiras, passou a figurar entre as grandes potências.
+Foi depois uma lucta desesperada, constante, para reerguer o paiz abatido. Para fazer-se respeitar, tornou-se preciso crear uma grande marinha de guerra, obrigar o serviço militar universal, manter uma forte política internacional. Crimpi, aventureiro e astuto, comprehendeu essa necessidade e entre todos os seus erros figura esse luminoso acerto, que foi a salvação da Itália.
+Alliado de nações de tradições diversas, o novo reino conquistou, todavia, a consideração que merecia. Grande potência, pôde depois agir independentemente. Tornou-se amigo da Inglaterra e é hoje amigo da França.
+Com a paz, veio-lhe o progresso. A industria nasceu. A agricultura floresceu. E depois de crises formidáveis, com a administração do Sr. Luzzati, começou a ter moeda valorizada e a exportação sufficiente. Genova tornou-se um dos principaes portos do continente europeu e Milão uma das suas mais prosperas cidades industriaes. No norte, a resurreição econômica maravilha os economistas. No sul, os emigrantes que voltam abastados da América, vão attenuando as dificuldades e reerguendo as províncias.
+Trinta e tantos annos depois da unidade emancipadora, a Itália goza de um prestigio merecido e usufrue um progresso que soube attingir. As exportações augmentam, as industrias metalúrgicas surgem com vigor. A hulha branca é aproveitada, como um exemplo.
+Na política, o reinado actual já vai dissipando as desconfianças provocadas pela vehemencia reaccionária dos gabinetes de Humberto I. A democracia triumpha, desenvolve-se. A encamp ação das estradas de ferro, que era uma aspiração nacional, já dá seus primeiros resultados benéficos. Os fundos de reserva das caixas econômicas atting em a milhões. A Itália passa um periodo de franca prosperidade, que justifica o enthusiasmo dos italianos pelo grande feito político que hoje se commemora.
+Os brazileiros compartilham, em natural proporção, com esse desvanecimento. No nosso paiz, trabalham italianos que comnosco cooperam para a prosperidade commum e lobam. Por isso, no dia de hoje, congratulamo-nos bem saudando a honrada colônia italiana e os illustres diplomatas e consulares que aqui tão dignamente representam o governo de Roma.
+
+—A colônia italiana commemora festivamente a gloriosa data.
+Às 6 horas da tarde, haverá solemne inauguração do primeiro pateo do novo edifício da Sociedade de Beneficência e Mutuo Soccorro, na praça da Republica. Depois de assistir a essa ceremonia, a colônia italiana, precedida de uma banda de musica incorporada em préstito, carregando bandeiras, desfilará pela cidade, cumprimentando os jornaes.
+—No consulado italiano haverá, à 1 hora da tarde recepção.
+— À noite realizar-se-ha um grande espectaculo familiar no Moulin Rouge, em beneficio da Sociedade de Beneficência e Mutuo Soccorro. O espectaculo será de gala. Seu programma é esplendido, terminando por bellas apotheoses commemorativas do grande feito de Garibaldi.
+—Na Maison Moderne haverá tambem espectaculo de gala, com numerosas e varias surpresas.
+—Os distintos collegas do "Il Beroagliare" darão um numero especial do seu excellente jornal, contendo, como de costume, esplendida collaboração e numerosas illustrações.
+— A Loja Maçônica Fratellanza Italiana iniciou os festejos commemorativos da grande data, realizando hontem à noite, na sua sede, uma sessão solemne, à qual se seguiu um concerto vocal e instrumental.
+--- BLOCK:Festas Italianas END ---
+
+--- ARTICLE START ---
+DO GABINETE DO PRESIDENTE
+
+Com o Ex. presidente da Republica despacharam hontem os Srs. ministros da guerra e da marinha, sendo assignados os seguintes decretos :
+Promovendo na arma de cavallaria, a tenente-coronel, por merecimento, para o 2º regimento, o major Fredolino José da Costa; a major, por merecimento, para o 2º regimento, o capitão Herculano de Araujo; a capitão, por antiguidade, o graduado "Aivaro Ribeiro Pereira", para o 3º esquadrão do 1º regimento; a tenente, por estudos, o 2º Saturnino Amarantho Ferreira da Silva; a 2º tenente o alferes-alumno Herminio Lyra da Silva; na arma de infanteria, a capitão, por antiguidade, para a 1ª companhia do 2º, o graduado Vicente de Albuquerque Fernandes; a 1º tenente, por estudos, o 1º Theotonio Toscano de Piro; a 2º tenente, o aspirante Arthur Xavier Marques.
+Transferindo, na arma de cavallaria, do 1º para o 1º regimento, o major Joaquim Ignacio Baptista Cardoso, e para a 2ª classe do exercito o 1º tenente do 36º Nilo Moreira Guerra.
+Graduando em 1º tenente o 2º tenente de cavallaria Carlos Alberto de Oliveira Braga, e no mesmo posto, na arma de infanteria, o 2º tenente Manoel Simão dos Santos Rios.
+Incluindo no quadro da arma de cavallaria o 2º tenente excedente por estudos do Nascimento Velloso, e no da arma de infanteria os 2ºs tenentes Adalberto Gonçalves de Menezes, João Alto Baptista e Francisco de Froias Evangelho.
+Foram tambem sanccionadas as resoluções legislativas concedendo um anno de licença ao capitão de infantaria João Lopes de Oliveira Favio, e em prorrogação, ao 2º tenente Alfredo Romão dos Anjos.
+Da casa da marinha foram assignados os decretos, nomeando capitães dos portos do Amazonas o capitão de fragata Raymundo Nimpeão Costa Rubim; de Pernambuco, o capitão de fragata Joaquim José Rodrigues Teires; sendo exonerado o primeiro do cargo de capitão do porto de Pernambuco e o segundo do de Amazonas.
+--- ARTICLE END ---
+
+--- BLOCK:Factos START ---
+Factos & Factos
+--- BLOCK:Factos END ---
+
+--- ARTICLE START ---
+Estiveram hontem no palácio do Cattete os Srs. ministros da marinha, guerra, fazenda e justiça; Drs. Gaatão da Cunha e Machado Portella, Henri Turot e Castro Barbosa.
+A Câmara dos Deputados mandará hoje a imprimir, para serem brevemente discutidos, os projectos de orçamento dos ministérios da guerra e do exterior, hontem assignados pela commissão de finanças.
+A commissão de finanças da Camara começou hontem a estudar e hontem mesmo assignou mais um orçamento, como havíamos annunciado — o do ministério do exterior, do qual é relator o sympathico deputado Sr. Alberto Murinelli. O projecto fixa as despezas para 1907, nesse ministério, em 1.370:661$300 ouro e 1.485:800$ papel, ao passo que o governo pedia, na proposta, 1.368:661$390 ouro e 1.415:800$ papel. Ha augmento pequeno na verba ouro e maior na verba papel, sendo : 80$ para supplente do consulado de Genebra; 180:000$ para a verba de extraordinários no interior ; e 29:810$ para material da secretaria, bibliotecas, instalações diversas, etc.
+O Sr. Thomás Baptista assignou com restricções, por ser contrario à legação junto à Santa Sé.
+--- ARTICLE END ---
+
+--- ARTICLE START ---
+Começou hontem, na Camara, o debate sobre a reorganização do exercito, falando o deputado amazonense Sr. Jorge de Moraes, cujo discurso, apenas referente a educação physica militar, da qual o projecto nada cogitou, mereceu os elogios dos collegas que attentamente o ouviram.
+Hoje continúa o debate.
+Amigos e admiradores do Dr. Assis Brazil vão offerecer-lhe, talvez no próximo domingo, um almoço na praia do Leme.
+Ao Dr. Assis Brazil será entregue nessa occasião um bonito presente.
+--- ARTICLE END ---
+
+--- ARTICLE START ---
+O ministro da Italia conferenciou.
+
+No intuito de pôr em destaque a inconveniência de se recorrer a cálculos compluxivos em assumpto no qual somente os cálculos distributivos tem entrado, razoável, fizemos, em nosso artigo de hontem, o confronto da renda aduaneira de 1904 com o valor das importações, e fomos deduzindo de uma e de outro relações percentuaes variáveis, mas crescentes, à medida que apartávamos da cifra global das mercadorias de procedencia estrangeira artigos que não pagam direitos, ou que os pagam em escala aceitável. Em dois dos cálculos feitos, as porcentagens foram de 81 e 70 %.
+--- ARTICLE END ---

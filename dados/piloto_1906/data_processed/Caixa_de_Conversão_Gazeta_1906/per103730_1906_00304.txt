@@ -1,0 +1,333 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+Anno XII
+GAZETA DE NOTICIAS
+Quarta-feira, 31 de Outubro de 1906
+N. 304
+NUMERO AVULSO 100 RS.
+Os artigos enviados á
+redacção e os anúncios
+terminam em qualquer
+hora da manhã.
+NO SORTEIO
+de
+MILHÃO E MEIO.
+1 prêmio de 1.000$000
+1 » 300$000
+1 » 150$000
+1 » 100$000
+5 » 50$000
+10 » 20$000
+15 » 10$000
+DE CONSOLAÇÃO
+100 prêmios
+DE 1.000$000
+100 assignaturas mensaes
+da “GAZETA DE NOTICIAS”
+NUMERO AVULSO 100 RS.
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- BLOCK:Coupons START ---
+coupons de 5 de
+outubro a 20 de novembro
+--- BLOCK:Coupons END ---
+--- ARTICLE START ---
+INTERIOR
+TEMPO. — Foi de 25.9 o máximo da temperatura na capital do dia de hontem e de
+17.3 o mínimo.
+O barometro mareou pela manhã 756.2 e á tarde 756.7.
+O céo esteve encoberto durante todo o dia.
+Estado da temperatura em alguns Estados :
+Hontem ás 9 horas—Parnahyba 30.5; O. Fortaleza 29.5; Natal 27.5; Recife 26.30; Maceió 27.0; Aracaju 26.45. Ouvalia 28.5; Victoria 25.5; Ouro Preto 25.2; S. Paulo 27.5; Curityba 23.5; Florianópolis 22.15.
+--- ARTICLE END ---
+--- ARTICLE START ---
+PRAIA. — A extraordinaria magnanimidade do tempo, de um dia de sol pleno e restricções, tem sido assim por alguns mezes e não ha calculo ou previsão que resista ás esquisiticez technologicas que tem sido a regra da presente estação. O dia de hontem foi uma nova decepção. Depois de uma noite linda nasceu esse dia que amanheceu nebuloso. Assim ficou até a noite. Arugada e áspera a atmosphera era densa, esmagador, duplicando o effeito da temperatura que se tornou insupportavel se não houvesse subido muito.
+O sereno só appareceu á tardinha e mesmo assim muito escasso.
+--- ARTICLE END ---
+--- ARTICLE START ---
+CIDADE.—O aspecto da cidade não foi muito mais alegre que o dia de ante-hontem. Houve animação e o movimento foi crescente, ha alguns dias a assignalàr o maior numero de passageiros. A rotula Central e as estações dos nossos sitios mais pittorescos mais desagradáveis, graças á extraordinaria quantidade de passageiros desembarcados pela manhã, de bordo dos dous bellos paquetes da Royal Mail que passaram hontem, um para o Sul e outro para a Europa, o movimento avolumou-se muito, por signal, e no mar, onde, por signal, os embarques se effectuaram em condições pouco menos que regulares. São precisos prodígios de gymnastica para passar de uma lancha para o costado dos paquetes. São precisos prodígios de gymnastica para passar de uma lancha para a borda do navio, e não é para desprezar o partido que com isso lucra o temerário que a tola empreza se arrisca, maxime quando se trata de senhoras.
+Ha de haver por Providencia quem ponha cobro a esse serviço, e prevenindo desastres.
+--- ARTICLE END ---
+--- ARTICLE START ---
+SENADO. — Houve discurso de expediente; tudo ficou votado no dia, sem ter havido debates nem pouco silenciosos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+CÂMARA.—O Sr. Sant'Anna apresentou emenda ao projecto de orçamento do ministério da fazenda, elevando a 150:000$ os créditos para a elevação dos vencimentos dos empregados das administrações dos correios do Rio Grande do Sul, Pará, Pernambuco, Bahia e Minas Geraes; de 4:47.818$ para pagamento dos vencimentos que cabem ao telegraphista de 1ª classe José Leopoldino de Vasconcellos Cabral, e pedindo melhoria dos vencimentos de um auxiliar technico da commissão de melhoramentos do porto de Pernambuco.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foi bem acolhido o ajudante do commandante Abdias, chefe da Repartição de artilharia, pedindo 100:000$ de créditos para a elevação dos vencimentos dos empregados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foi concedida auctorisação para funccionar na Republica á Sociedade Anonyma Companhia Pastoril e Industrial I, cujos estatutos foram também approvados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Estiveram hontem em palácio com o Sr. presidente da Republica os Srs. ministro do interior, Lloyd Griscom, ex-governador interino; deputado Francisco Veiga e Dr. Gastão da Cunha e Cordeiro da Graça.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. presidente da Republica assistirá hoje á inauguração do serviço de electricidade em Nictheroy.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Estiveram hontem no gabinete do Sr. ministro do interior os Srs. senadores Anisio de Abreu e Bulhões Vieira, deputados Paulino de Souza, Pedro Moacyr, Gussião de Mascarenhas, Frederico Borges, Pedro Pernambuco, Cornelio de Pouso, Ildefonso Visões, Coriolano de Graça, Serapio Bello, Paulino Soares, Arthur Bernardes, Aarão Reis, França Carvalho, Oliveira Costa, Ortiz Monteiro, capitão Pinheiro de Campus, José de Vasconcellos e Antonio Sanches.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- HEADLINE START ---
+O Crime da Rua da Carioca
+--- HEADLINE END ---
+--- IMAGE START ---
+Photograph of a group of men in suits.
+--- IMAGE END ---
+--- CAPTION START ---
+Turma que prendeu o bandido Carletto. A' direita vê-se o repórter da “Gazeta” que acompanhou toda a diligencia.
+--- CAPTION END ---
+--- ADVERTISEMENT START ---
+MARCENARIA BRASILEIRA,
+ANTIGA MOREIRA SANTOS.
+MOVEIS E TAPEÇARIAS
+QUE VENDE MELHOR E MAIS EM CONTA
+3, RUA CONSTITUIÇÃO
+Rio de Janeiro
+--- ADVERTISEMENT END ---
+--- BLOCK:BusinessCard START ---
+Confiança. Seguros Marítimos e Terrestres, rua Gen. Câmara 3.
+--- BLOCK:BusinessCard END ---
+--- ARTICLE START ---
+Dizia-se hontem na “alinha” do café da Câmara que uma alliança entre as bancadas da Bahia, Rio, Distrito Federal e Rio Grande do Sul era uma cousa necessária e quiçá practicavel no futuro.
+--- ARTICLE END ---
+--- IMAGE START ---
+Photograph of a group of men.
+--- IMAGE END ---
+--- CAPTION START ---
+Turma policial que prendeu o bandido Rocca
+--- CAPTION END ---
+--- ARTICLE START ---
+ALVITRE
+A única derivação para o retumbante Crime da rua da Carioca é a visita do illustre Sr. ministro da fazenda e do seu successor á Alfândega da capital.
+O illustre Sr. Bulhões não quiz deixar a rua do Sacramento, onde S. Ex. tem dominado quasi quatro annos, sem mostrar ao funccionario que o vai substituir, a principal relíquia de seu governo, e o mais notável attestado vivo da sua bellissima administração. S. Ex. por emquanto não mostrou mais nada ao seu successor. Nem as obras da Caixa da Amortisação, nem os desfalques no Thesouro, nem as contas entre este e o Banco do Brasil.
+Não se pôde acreditar, porque toda a gente conhece o seu gosto artístico, que S. Ex. convidasse o Sr. David Campista para ficar extasiado diante das maravilhas do edifício da Alfândega, nem, administrativamente, deante do movimento dos guindastes de carga e descarga.
+De toda a Alfândega o que S. Ex. quiz mostrar ao seu successor foi o digno funccionario, que exerce as funcções de inspector.
+Mostrar o Sr. inspector ao futuro ministro da fazenda, é o mesmo que mostrar-lhe todo o sábio serviço da Alfândega. O homem é a instituição.
+O Jornal do Commercio estranhou este gosto do Sr. ministro da fazenda. A nós, nenhum reparo elle causou. O Sr. ministro da fazenda tem desprezado todas as reclamações do commercio para sustentar actos inconvenientes, irregulares, prejudiciaes e puníveis do Sr. inspector. Entre manter o inspector, que ninguém pretende deslocar, e fazer com que elle proceda de forma a conciliar os interesses do fisco com os interesses dos contribuintes, o Sr. ministro da fazenda prefere, o que seria difficil a qualquer outro — as duas cousas — manter o funccionario e manter os actos contra os quaes se revolta a opinião.
+Está ha muito verificado que a renda da Alfândega é lesada em cerca de 30 ou 40 por %, graças ao desenvolvimento, á segurança e á tranquillidade do contrabando.
+Está igualmente verificado, que só excepcional e raramente é que não se apprehende contrabando, que não tenha sido denunciado. Basta ir á bordo de um navio que chega para se verificar a facilidade com que pode ser exercida a profissão.
+Ora, em tal situação, o alvitre que ousamos lembrar, ao honrado Sr. ministro da fazenda é que elle convide com a mesma generosidade cavalheiresca o seu illustre successor a uma visita á Casa de Detenção.
+Alli, fazendo abrir as jaulas onde estão as feras da rua da Carioca, accidentalmente ladrões e assassinos, S. Ex. poderá dizer ao seu successor:
+— Meu caro, o que eu tenho a honra e o prazer de fazer a V. Ex. — impingir-lhe um inspector, não excepcional e que dispõe destes dous admiráveis predicados para o bom exercicio das suas funcções — olhos de lynx e orelhas moucas. Affirmo á V. Ex., que o Sr. presidente da Republica, que um dia irá para os cafezaes de Aquaratinguetá, emquanto eu vou para a rua da Candelaria, tem a mesma opinião que eu. Em administração, as tradições são o melhor guia. Conserve V. Ex., pelo menos, esta entre as muitas que eu lego — a tradição do contrabando.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- HEADLINE START ---
+A Quadrilha da Morte
+REVELAÇÕES DE ROCCA
+NOVAS ACUSACÕES — PARIS CALOR
+--- HEADLINE END ---
+--- HEADLINE START ---
+Os criminosos se deglam
+--- HEADLINE END ---
+--- ARTICLE START ---
+O DIA DE HONTEM
+Os trabalhos de hontem duraram ainda em segredo, embora continue Carletto a negar terminantemente toda e qualquer coparticipação no crime da rua da Carioca. Nas acareações foram sustentados os depoimentos das testemunhas da accusação, que tiveram para mais a confirmação de um dos criminosos — Eugenio Rocca. Para hoje a turma promette revelações que vêm complicar as que já têm feito. Rocca fará o completo histórico do crime e o papel que a um dos seus autores e cúmplices coube.
+Pegato e Carletto
+O Dr. Caetano Júnior, acompanhado pelo seu activo escrivão Guanabara e pelos representantes da imprensa, chegou hontem, ás 11 horas da manhã, á Casa de Detenção, para continuar os trabalhos de inquérito referentes ao estupendo crime de que foram victimas os irmãos Fuoco.
+As 11 horas, foi elle começar os trabalhos da accusação de Pegato em parallelo, os dous que negam terminantemente toda e qualquer coparticipação no horrível e tragico crime em que Carluccio e Paulino perderam a vida para dar passagem franca ao assalto na joalheria da rua da Carioca, na tenebrosa noite do 14 do corrente.
+Chamados os dous, Pegato e Carletto, estes apresentaram-se perante o Dr. Caetano Júnior, com a caladura má e o olhar duro.
+Pegato chegou primeiro, logo depois o Carletto. Este, ao ser apresentado ao Pegato, mediu o precipicio em que estava prestes a cahir e, cheio de cynismo, começou a formular um protesto com a sua voz estrangulada, quasi rouca, onde se sentia o intimo tumultuar de mil paixões diversas e vergonhosas.
+— Eu estou doente, estou cançado, não posso ser submettido a interrogatórios successivos.
+É a mesma cousa o que se está fazendo com o amigo.
+Não posso descansar um pouco no cubículo em que estou?... Não deponho mais, pois já depuz tudo quanto tinha a depor.
+Pegato, ao ouvir o protesto de Carletto, resolveu protestar também.
+— Sr. doutor, eu estou preso ha quinze dias, incommunicavel e estou innocente... Estou doente e tenho soffrido constantes interrogatórios e nada mais posso adiantar ao que já tenho dito...
+O Dr. Caetano Júnior, pausado, sem se alterar, declarou:
+— Pegato vai ser acareado com Carletto, a pedido do próprio Carletto; não é porque eu quero, é porque Carletto o pediu...
+Carletto, ao ouvir esta explicação do Dr. Caetano Júnior, logo recalcitrou:
+— Sr. doutor, eu já disse a V. S. que não faço declarações. Nada sei, nada quero dizer.
+E passeou em redor, pelos assistentes, um olhar sombrio, um olhar de ódio.
+Carletto — Isto não é theatro. Sr. delegado, faça o favor de chamar á ordem o Rocca. Está elle para alli a fazer pilherias. Os companheiros devem estar sérios como eu estou.
+O delegado, voltando-se para Rocca:
+— Queira conter-se.
+Rocca — Pois elle está para alli a dizer bobagens... Pensa que tapa o sol com uma peneira...
+Carletto — A testemunha disse que me viu no largo da Prainha ás 4 1/2 horas e o doutor mandou escrever 5 horas.
+O Dr. Caetano Júnior — Não mando escrever uma cousa por outra. Os representantes da imprensa e as demais pessoas aqui presentes são testemunhas do meu procedimento. A testemunha disse — das 4 ás 5.
+Carletto — Não, estou dizendo que o doutor faz de propósito. Foi engano, doutor, foi engano de V. S.
+O delegado — Rectifica a testemunha esse ponto.
+A testemunha — Vi-os duas vezes. Ao meio-dia e depois, das 4 1/2 ás 5 horas da tarde.
+Rocca — Disse a verdade. Carletto é mentiroso... É mentiroso...
+Carletto — Olhe, o melhor é dizer tudo, como já o fez. E vou alli explicar outras coisas que se referem ás testemunhas, de me haverem visto voltar pela Avenida, ao passo de eu ter tomado parte na scena do bote. Esse ponto mysterioso é que vai ficar esclarecido amanhã.
+Explicarei também outros incidentes.
+Rocca.—E uns roubos e outros crimes de morte, como ha pouco tempo em Petropolis...
+Carletto—Veremos quem tem mais a contar.
+Rocca — Mas do que eu disser dei provas.
+O delegado, dirigindo-se a Pegato, pergunta:
+— Sabe por que foi envolvido nesse crime?
+--- ARTICLE END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+Pegato — Nada de illicito por mim foi observado; logo na partida, o Dr. Caetano Júnior mandou acarear as testemunhas, inclusive a do bote, para que eu tomasse parte. E tenho grande interesse nisso, pois sou innocente e como tal serei reconhecido.
+Rocca.—E verdade.
+Carletto — É mentiroso.
+O delegado — E isso mesmo, o marítimo nesse caso era elle e elle é ainda marítimo...
+E voltando-se para Pegato:
+— Tem alguma cousa a dizer do depoimento da testemunha Juvenal Pinto dos Santos?
+Pegato — Que poderei dizer? Ella affirma cousas impossiveis. Só se ella me viu quando eu deixei o bote amarrado e fui andando na Ponte Auxiliar para retirar-me logo após.
+A testemunha — Eu o vi ao meio-dia e ás 5 horas mais ou menos.
+Pegato — Alguém me viu ao meio-dia, muito intimo do local onde a testemunha disse me haver visto. Essa pessoa chama-se Dario de Y de...
+Rocca — Dario Pereira.
+Pegato — Dario Pereira. E disso sabe o escrivão, Pinheiro de Campus, por ouvir de Dario.
+Peço ao Dr. delegado que mande chamar essas duas testemunhas que devem merecer o maior conceito.
+Termina a acareação. O delegado mandou escrever os termos finaes e perguntou a Rocca:
+— É verdadeiro o depoimento da testemunha?
+Rocca — Sim, é verdadeiro. Não me retiro de algum ponto a que allude. Apenas o relógio da testemunha não estava lá muito certo.
+O delegado — Mas esse ponto que se refere á sua volta pela avenida...
+Rocca — Não me recordo bem, mas...
+Carletto (voltando-se para Rocca) — Você não se lembra porque é mentiroso e infame. Não podes repelir o que canalhamente ainda a dizer.
+Rocca — Dizer que não me lembro não é mentira... Mas vou dizer a verdade. Essera um ponto que eu ainda queria deixar no mysterio, mas você quer que eu diga a verdade e eu vou dizer a verdade. Vou contar por que razão me viram voltar pela Avenida, o que fui fazer naquella occasião.
+Antes, porém, peço ao Dr. delegado que mande effectuar certas diligencias necessárias e que explicarei.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+Acareação
+O Dr. Caetano Júnior, antes do fazer acareação com Pegato, fez com que Carletto se vestisse tal qual estava no domingo, 14, quando pelas mesmas foi visto, isso para favorecer o reconhecimento.
+O exito foi completo.
+Eis o resultado da acareação entre Jeronymo Pegato, Justino Carlo, Eugenio Rocca e a testemunha Caetano de Almeida.
+Pela testemunha Caetano de Almeida foi dito que reconhece Eugenio Rocca pelo facto de o conhecer pessoalmente. Jeronymo Pegato e o homem de chapéu de palha, como pessoa que o declarante viu no largo da Prainha e logo após com Carluccio embarcou no bote Fé em Deus.
+Por Eugenio Rocca foi dito que o declarante é o homem de chapéu de palba a que allude a mesma testemunha e o mesmo com quem está sendo acareado no momento Justino Carlo, vulgo Carletto.
+A testemunha Caetano de Almeida, como as outras, Juvenal Pinto dos Santos e João Maia, refere que o declarante, que manhã estava no largo da Prainha em companhia de Pegato, Carletto e Carluccio, viu quando este ultimo despediu-se deste, em companhia de Carletto, entrou no bote Fé em Deus, onde esperava Jeronymo Pegato.
+Por Jeronymo Pegato foi dito que sustenta as suas anteriores declarações, e que quanto ao caso do bote do declarante no dia do crime o que se deu foi o seguinte:
+As 4 horas da tarde o declarante, depois de haver ido á casa do calafate Júlio, a quem perguntou onde estava o bote e tendo-lhe sido respondido que o bote estava no trapiche Reis, o declarante foi ao becco das Canoas e ahi, o primeiro Caboclo, com o qual foi acareado, pediu que o passasse no bote até ao trapiche Reis.
+A chegar á ponte pediu ao Caboclo que parasse para o bote Fé em Deus o que foi feito.
+Do trapiche desamarrou o bote, mandando-o até a ponte da Prainha, onde deixou fundeada a embarcação, o que o declarante fez preparando-se para o serviço no dia seguinte da conducção de uma familia para bordo do vapor italiano Sardeyna, visto como, onde se achava o bote, no trapiche Reis, não podia ir buscal-o, antes que o mesmo trapiche fosse aberto.
+Deixou o bote nesse logar, encaminhando-se para a sua residência.
+Como já disse, na ponte do trapiche Reis, o facto da passagem no bote do declarante foi pago pelo Manuel Hespanhol, marítimo que costumava ir duas vezes a Praia da Pena e que morava na roça, parecendo que a residência de Manuel era para os lados de Inhaúma ou Penha.
+Diz que attribui o depoimento da testemunha Caetano de Almeida a engano de pessoa e que não assigna este auto de acareação, mantendo o procedimento que teve quando se recusou a pôr a sua assignatura em vários depoimentos constantes da presente instrucção criminal.
+Por Justino Carlo foi dito que acredita haver equívoco no depoimento da testemunha e pede que a mesma testemunha diga a hora em que o declarante embarcou com Carluccio no bote Fé em Deus, onde os aguardava Jeronymo Pegato.
+A testemunha foi dito ainda que a hora do embarque de Carluccio e do homem de chapéu de palha no bote Fé em Deus, onde estava Pegato, foi as 5 horas, mais ou menos, da tarde. É mais, não disse e assigna.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- ARTICLE START ---
+Acareação entre Rocca, Pegato, Carletto e Juvenal Pinto dos Santos.— Perguntado Juvenal Pinto dos Santos foi pelo mesmo dito que sustenta o seu depoimento em todos os pontos e que, como já o fez, reconhece novamente em Pegato o homem que o declarante viu em companhia de Rocca e do homem baixo, corpulento, de chapéu de palha e de óculos e nas duas photographias que lhe são apresentadas reconheceu o mocinho que estava com elles e que o declarante veio a saber chamar-se Carluccio.
+Reconheceu também em Eugenio Rocca um dos que estavam com Pegato, e o homem de chapéu de palha em companhia do declarante encaminhando-se para a praça ás cinco horas da tarde, mais ou menos, depois da despedida de Rocca feita ao declarante, o qual viu que estavam no largo da Prainha ao meio-dia e ouviu Pegato e o indivíduo que lhe é apresentado e sabe chamar-se Justino Carlos, Carletto.
+— Vendo como vejo esse indivíduo de chapéu de palha á cabeça e de óculos, tenho a certeza de que é o homem baixo e corpulento, de chapéu de palha, que ao meio-dia estava com Jeronymo Pegato e Rocca no largo da Prainha e que, ao avistar dos seus companheiros os outros dous, deixou que viu Carletto, e serem brancos os vidros que usa presentemente o dito e assina com precisão. Ser a pessoa que seguiu com Carluccio em direcção á praia ás 5 horas da tarde mais ou menos.
+Por Jeronymo Pegato foi dito que protesta que o declarante o visse na Prainha em companhia de Rocca, Carletto e Carluccio, porquanto a essa hora estava na praça da Harmonia.
+Ao declarante sabe que o escrivão da 4ª circumscripção urbana, capitão Pinheiro de Campus, esteve no mesmo dia em que esteve com o declarante na praça da Harmonia, ao meio-dia.
+Quanto á referencia da testemunha de haver visto ás 5 horas da tarde, tem a dizer que a testemunha só podia ter visto o declarante em demanda de sua casa, isto é, depois de haver amarrado o bote na Prainha, retirou-se para a sua residência.
+Pede que a testemunha declare se o declarante estava em camisa, a qualidade desta, etc., o que não dá para este auto.
+Por Eugenio Rocca foi dito que é verdadeiro o depoimento da testemunha Juvenal, do qual ha um engano tão só na hora em que se deram os encontros e no outro facto a que allude.
+Por Carletto foi dito que contestava o depoimento da testemunha e pedia que a mesma declarasse que roupa então vestia para alli afirmar, como o fez, ter visto o declarante duas vezes no domingo 14 do corrente em companhia de Rocca, Pegato e Carluccio — uma vez ao meio-dia, na Prainha, e outra vez das 4 1/2 ás 5 horas da tarde, quando o declarante seguiu com Carluccio em demanda da praia.
+Pela testemunha foi dito ainda que quanto ao pedido de Pegato tem a dizer que effectivamente viu duas vezes ambas com o mesmo fato composto de calça e paletot, vestido de collete; que o declarante viu ser communmente usado um chapéu marrou, exhibido a Pegato, que trazia camisa branca, de chita.
+Quanto á referencia de Rocca sobre a hora em que o declarante viu os que Rocca, Pegato, Carletto e Carluccio, declara que não tinha relógio na manhã e acredita que os minutos que mencionamos são os de louca. Carletto e approximativamente de vestido e que quanto ao pedido de Justino Carlos ou Carletto está satisfeito o pedido pela resposta supra a Eugenio Rocca; que continua a sustentar que Rocca fez as despedidas a Carluccio na Prainha, encaminhando-se para a Avenida e o trapiche. Não é inimigo de Rocca, Carletto e Pegato o que o depoimento do declarante é feito sem sabor de injustiça ou depoimento de qualquer ordem ou paixão que o desviem; que o seu depoimento é prestado com verdade somente e assigna.
+--- ARTICLE END ---
+
+--- PAGE 3 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+Por Pegato foi pedido que se consignasse que a testemunha Juvenal é vendedor de verdura, freqüentador assíduo do largo da Prainha e que já o viu alli preso varias vezes. E nada mais disse e assignam.
+Em tempo foi dito por Carletto que é falso o depoimento da testemunha quando refere ter visto o homem no largo da Prainha em companhia de Rocca, Pegato e Carluccio, tanto isso que á hora aludida, meio-dia, o declarante estava em seu commodo á rua D. Anna Nery n. 20, o que se verifica dos depoimentos do declarante prestados ante-hontem á noite, hontem á tarde quando acareado com Leopoldina, a qual declarou também que ao meio-dia estava no seu commodo. Se nada mais disse e assignou.
+REVELAÇÕES IMPORTANTÍSSIMAS
+Rocca viu e contou tudo
+Os dois criminosos — Carletto e Rocca — não se entendiam.
+Logo após o debate. Quando mais insistia Carletto por se fazer innocente e atirava toda a carga contra Rocca, este sorriu-se e disse:
+— Se quizesse Rocca, já Carletto estava posto em liberdade.
+Rocca — Quero que sejam tomadas por mim algumas declarações importantes e outras não menos importantes.
+Carletto — E que são essas?
+Rocca — Joaquim Fernandes e José Antonio Lourenço, os dous catraeiros do bote Fé em Deus. Quero também que sejam ouvidas as testemunhas como as duas outras que viram saltar os dous tripulantes do Fé em Deus, ás 11 horas da noite, em frente da igrejinha, em S. Christovão, que já foram acareadas domingo, com Carletto e com Jeronymo Pegato.
+Carletto — O que poderão dizer as duas primeiras testemunhas?
+Rocca — Poderão dizer que viram saltar do Fé em Deus, e quem ia no bote.
+Carletto — As outras duas ultimas testemunhas?
+Rocca — Essas, são importantíssimas. Elas reconhecerão entre nós, presentes, Carletto e Pegato, quem de nós saltou do Fé em Deus, e querem que todos nós apresentemos como nos achávamos vestidos e calçados naquella noite sinistra em que foi assassinado o joalheiro. E preciso até que o Sr. Jeronymo traga aquellas luvas amarellas que elle tem.
+Carletto — É porque as ditas testemunhas affirmam que um dos dois tripulantes trazia nas mãos as botinas amarellas que collocarão depois junto a um combustor da illuminação publica.
+Rocca — Quero também dizer alguma cousa acerca do tomar o bote na Ponte Auxiliar para tomal-o em “meiro” cães.
+Carletto — Você não diz porque é mentiroso; fui referido antes da tua accusação ser...
+Rocca — Posso. É porque tu contávas não ser reconhecido por pessoa alguma antes que tu voltasse. Sabias da tolice e apoiavas-te n'ella; contávas que o teu nome era tão só conhecido. Mas foi José... fui Carletto. Fui vendido...
+Carletto — Bandido!
+Rocca — Diz o que quizer, que eu direi mais. Falarei tão só naquelle ponto de desmentido para aquelles factos.
+Foi ácida a luta travada entre os dous bandidos, em juiz e auxiliares, não por quem mais próximo delles se achava.
+As ultimas palavras dos dous grandes criminosos, proferidas já em tom mais alto, foram motivo a que para elles se voltasse a attenção das autoridades que se achavam na sala, pelo que elles tiveram que terminar a troca de palavras.
+Por esse dialogo e pelo mais que disse Rocca, é de avaliar a importância das revelações por elle promettidas para hoje, ás quaes, pode-se dizer, damos assim a summária em termos ainda vagos, mas ainda assim faceis de serem debatidos pelos que têm acompanhado o inquérito e que conhecem as condições.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- HEADLINE START ---
+Mais uma Visita
+Rocca esteve a visitar as dependencias da Casa de Detenção.
+--- HEADLINE END ---
+--- ARTICLE START ---
+Maria da Graça continua em excelentes condições de saude, o que não acontece quanto a Jeronymo Pegato que está doente.
+A alimentação fornecida aos presos é abundante e de excellente qualidade.
+De todos elles só Carletto reclamou mais rancho, saindo da ração normal fornecida aos detentos, sendo logo attendido o seu invejável appetite.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Jeronymo Pegato, perguntado, diz que sustenta o seu anterior depoimento em todos os seus pontos por ser a expressão da verdade; que, como já disse em varias vezes, no domingo 14 do corrente, o declarante viu Eugenio Rocca andar de passagem na rua da Saúde, mas não viu Justino Carlo, vulgo Carletto, com quem está sendo acareado neste momento, e a quem conhece desde 1896 quando ambos cumpriram sentença na Casa de Detenção.
+Não emprestou o bote a Eugenio Rocca nem sobre o bote teve qualquer conversa com Carletto, a quem não viu absolutamente no dia 14 do corrente.
+As suas relações com Carletto são superficiaes, não havendo convivência entre elles; que Carletto e o declarante não se visitavam, não conversavam e nem se cumprimentavam; por Justino Carlo foi dito que confirmava plenamente as declarações neste momento prestadas por Jeronymo Pegato.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- BLOCK:Notes START ---
+Notas
+O Dr. Caetano Júnior vai ouvir hoje, em segredo, Emilio Berreta.
+Foi hontem posto em liberdade Mario Noronha, por ter a policia verificado que o mesmo não participou no crime da rua da Carioca.
+--- BLOCK:Notes END ---
+--- ARTICLE START ---
+Pegato e Carletto continuam em excellentes condições de saude, o que não acontece quanto a Jeronymo Pegato que está doente.
+--- ARTICLE END ---
+--- ARTICLE START ---
+REVELAÇÕES IMPORTANTÍSSIMAS
+Rocca viu e contou tudo
+Os dois criminosos — Carletto e Rocca — não se entendiam.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Carletto — Não, você... Ah! Pensava que fosse elle. Se fosse elle não te ouvisse. Aquelle dia, era capaz de me matar.
+E então? Então é que estou aqui por meu gosto?
+--- ARTICLE END ---
+--- ARTICLE START ---
+Rocca — Quero que sejam tomadas por mim algumas declarações importantes e outras não menos importantes.
+Carletto — E que são essas?
+Rocca — Joaquim Fernandes e José Antonio Lourenço, os dous catraeiros do bote Fé em Deus. Quero também que sejam ouvidas as testemunhas como as duas outras que viram saltar os dous tripulantes do Fé em Deus, ás 11 horas da noite, em frente da igrejinha, em S. Christovão, que já foram acareadas domingo, com Carletto e com Jeronymo Pegato.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Rocca — Essas, são importantíssimas. Elas reconhecerão entre nós, presentes, Carletto e Pegato, quem de nós saltou do Fé em Deus, e querem que todos nós apresentemos como nos achávamos vestidos e calçados naquella noite sinistra em que foi assassinado o joalheiro. É preciso até que o Sr. Jeronymo traga aquellas luvas amarellas que elle tem.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Rocca — Quero também dizer alguma cousa acerca do tomar o bote na Ponte Auxiliar para tomal-o em “meiro” cães.
+Carletto — Você não diz porque é mentiroso; fui referido antes da tua accusação ser...
+Rocca — Posso. É porque tu contávas não ser reconhecido por pessoa alguma antes que tu voltasse. Sabias da tolice e apoiavas-te n'ella; contávas que o teu nome era tão só conhecido. Mas foi José... fui Carletto. Fui vendido...
+Carletto — Bandido!
+--- ARTICLE END ---
+
+--- PAGE 4 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+Câmbio e Títulos
+LONDRES, 30
+Cambio sobre Espanha, á vista, 500 pesetas, francos 30.
+Cambio a Tullia — Regularam hoje as seguintes taxas de desconto, em %:
+Banco de Inglaterra 4 %
+Banco de França 3 1/2 %
+Banco de Allemanha 5 1/2 %
+Mercado de Londres, 3 mezes, 4 1/16 á 7/16 %
+Mercado de Paris, 3 mezes, 3 %
+Mercado de Antuérpia 4 %
+Mercado de Berlim, 3 mezes, 5 %
+Cambio sobre Londres, á vista por mil reis 52 1/2 dinheiros.
+Cambio sobre Londres, dinheiros, por peso. Prêmio do ouro 12, 27 centavos.
+Cambio sobre Londres, á vista por lib. 25, 19 1/4 reis.
+Cambio sobre Londres, á vista por lib. 1, francos 25.23.
+Cambio sobre Itália, á vista por 100 liras, 100 1/4 francos.
+Cambio sobre Espanha, á vista, por 100 pesetas, francos 4,55.00.
+Cambio sobre Berlim, a vista, por 100 marcos, francos 122 15/16.
+Cambio sobre Londres, á vista, por lib. 1, francos 25. 1/2.
+Cambio sobre Londres, á vista, por lib. 1, 4.85.55.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Títulos Brasileiros
+LONDRES, 30
+A cotação de hoje foi a seguinte:
+Apólices de 1889, 4 % 83 3/4
+de 1895, 5 % 95 1/8
+de 1903, 5 % 97
+Oeste de Minas, 5 % 95 1/4
+Funding, 5 % 102 1/2
+--- ARTICLE END ---
+--- ARTICLE START ---

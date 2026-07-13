@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-12-15",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition mentions the \"Caixa de Conversão\" (specifically the Caixa da Conversão) only briefly, in a factual report about banknote collections. It doesn't offer any arguments or opinions about the merits or drawbacks of the Caixa, its proposed conversion rate, or any related monetary policies. The report simply states the quantity of banknotes collected.  Therefore, the overall stance is classified as Neutral/Factual.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Foram recolhidas hontem á thesoura- ria do Thesouro Federal, pela Caixa da Conversão, 16.573 notas de 100$ e 16..859 das de 500$. Todas da Caixa de Conversão?",
+            "reason_for_inclusion": "This is the primary mention of the \"Caixa.\" It's purely factual reporting on banknote collections."
+        },
+        {
+            "quote": "Segunda feira, devem ser recolhidas as de 50$ e 10$ e posteriormente as de 2$ e 500$.",
+            "reason_for_inclusion": "This continues the factual reporting, indicating a schedule for future banknote collections."
+        }
+    ]
+}

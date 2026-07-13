@@ -1,0 +1,293 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+Anno 42 — N. 129
+GAZETA DE NOTICIAS
+Rio de Janeiro, Quarta-feira, 16 de Maio de 1906
+NUMERO AVULSO 100 RS.
+HOJE - 8 PAGINAS
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- ADVERTISEMENT START ---
+GAZETA DE NOTICIAS
+ASSINATURAS NO RIO E CAPITAL FEDERAL
+1 mez	1$600
+3 mezes	3$000
+6 mezes	5$000
+1 anno	10$000
+PAGAMENTO ADIANTADO
+GAZETA DE NOTICIAS PARA OS ESTADOS
+1 mez	1$800
+3 mezes	3$600
+6 mezes	6$000
+1 anno	12$000
+PAGAMENTO ADIANTADO
+TYPOGRAPHIA
+1° DE JANEIRO A 30 DE SETEMBRO
+NUMERO AVULSO 100 RS.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+EUCALYPTOLHO
+DE MOBEIRA CESAR
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Gazeta de Noticias
+PREMIOS TRIMESTRAES AOS SEUS LEITORES
+400$000
+300$000
+200$000
+100$000
+e mais 10 de 500$
+e mais 10 de 100$
+ENTREGA DOS PRÊMIOS
+EM 31 DIAS
+Com 31 coupons do mez de maio
+Leiam a
+Gazeta de Noticias
+e guardem os coupons
+do mez de MAIO.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+1 prémio de...
+1 prémio de...
+1 prémio de...
+5 prémios de 50$
+10 prémios de 20$
+20 prémios de 10$
+1000$
+500$
+250$
+250$
+200$
+200$
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+A VIAGEM
+DO SR. AFFONSO PENNA
+--- HEADLINE END ---
+--- ARTICLE START ---
+O Almoço da "Gazeta"
+Notas e Noticias
+A IGREJA E O ESTADO
+O Jornal do Commercio publicou hontem um telegramma communicando que o jornal Italie diz estar informado de que o Brasil fez ao Vaticano uma proposta no sentido de ser restabelecida a Concordata e que a Santa Sé, depois de reflectido exame, respondeu dizendo não acceitar, visto como reconhecia ter aproveitado mais do que perdido com a separação entre a Igreja e o Estado, no Brasil.
+Não pomos em duvida o telegramma, isto é, que o referido jornal houvesse declarado ter recebido as informações que publica.
+Duvidamos sim que o governo brasileiro tenha feito proposta para voltarmos aos antigos vínculos que uniam a Igreja ao Estado, no Brasil. E duvidamos, não por que essa proposta não seja o corollario legitimo e natural de uma situação de facto, mas porque se trata da reforma da Constituição em um dos seus pontos cardeaes.
+A separação da Igreja do Estado não prejudicou de modo algum a religião e apenas tem sido prejudicial ás regalias do Estado.
+Ainda hontem, a par do telegramma a que nos referimos, lemos a noticia de que ia ser invocada a auctoridade do Sr. cardeal Arcoverde, para chamar á ordem alguns sacerdotes que celebram casamentos religiosos, sem haver se o celebrada a ceremonia do casamento civil. A auctoridade nada pôde contra este verdadeiro abuso, em grande parte devido á ignorância da população. E o abuso não é raro, pelo contrario: é frequente por esse interior a dentro, onde o padre não domina unicamente as almas, mas tambem os corpos.
+O resultado desses abusos frequentes é que com o correr do tempo, havia por todo o território brasileiro milhares de familias em boa fé constituídas illegalmente e dando logar a toda a casta de complicações na esphera do direito civil.
+O casamento civil, como o registro civil de nascimentos, não exclue a Concordata, mas a Concordata Ou ha de dar ao Estado o direito de corrigir os abusos de uma parte do clero, ou se não der esse direito ao Estado não será acceita pela Santa Sé, como já se diz que não o foi!...
+A situação de facto é esta: temos constitucionalmente a separação da Igreja do Estado e temos praticamente a Igreja com mais regalias do que tinha antes desse regimen. O Estado é que deve ser leigo. Temos, entretanto, uma legação junto á Santa Sé, e a Santa Sé tem um representante junto ao governo do Brasil. O Estado é leigo, não tem que intervir nem em crenças, nem em cultos, nem em religiões. Entretanto, o Estado admitte symbòlos religiosos e capellas para o culto de uma privilegiada religião em edificios publicos mantidos por elle e destinados ao serviço da nação.
+Inquestionavelmente tem razão a Santa Sé em não querer o restabelecimento do antigo regimen: na situação em que se acham as relações entre os dous paizes, ella tem mais liberdade para manter os abusos dos seus representantes contra as regalias constitucionaes da sociedade civil.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A Gazeta de Noticias publicará, no seu numero de amanhã um serviço especial da viagem do Sr. Affonso Penna, presidente eleito da Republica, aos Estados do norte.
+
+E' uma desenvolvida, fina e abundantíssima reportagem, repleta das mais interessantes notas referentes ao momentoso assumpto. Do summario dessa edição especial da Gazeta de Noticias destacamos:
+
+A PROPÓSITO DA VIAGEM
+Algumas considerações—O problema geographico brasileiro e o roteiro presidencial.
+
+O NAVIO PRESIDENCIAL
+Como o fez o Lloyd
+O PESSOAL DE BORDO
+Alguns perfis
+
+A DESPENSA DE BORDO
+O que se comerá
+
+Por essas notas que a Gazeta vai divulgar amanhã, o publico terá uma descripção minuciosa de todas as condições que cercam a viagem do Sr. Affonso Penna.
+
+Essas curiosissimas notas serão acompanhadas de 80 PHOTOGRAPHIAS
+relativas ao assumpto, complemento indispensável ao serviço de informações da Gazela.
+
+Apezar da feição especial do nosso numero de amanhã, a Gazela de Noticias será vendida pelo preço de 100 réis.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+Almoço a Raphael Pinheiro
+--- HEADLINE END ---
+--- ARTICLE START ---
+Realisou-se hontem, ao meio-dia, no Restaurant Brito, o almoço que a Gazeta de Noticias offereceu a Raphael Pinheiro, o redactor que acompanha o Sr. Affonso Penna em sua viagem pelos Estados do norte.
+Embora de despedida, esse almoço foi uma festa alegre, na qual o estimado redactor da Gazeta recebeu as vivas demonstrações de sympathia.
+Pessoas presentes ao almoço: Salvador Santos, director gerente da Gaveta; Octavio Guimarães, director da empreza das Águas de Caxambú; Paulo Barreto, Raphael Pinheiro, Oscar Lopes, Irineu Marinho, Coryntho Fonseca, Viriato Corrêa, Arthur Marques, Figueiredo Pimentel e Pedro Iatahy.
+--- ARTICLE END ---
+--- IMAGE START ---
+Photograph of a banquet.
+--- IMAGE END ---
+--- CAPTION START ---
+Chegada do Sr. Affonso Penna ao Rio de Janeiro—Aspecto da estrada de ferro Central
+--- CAPTION END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+MARCENARIA BRASILEIRA
+ANTIGA CASA MOREIRA SANTOS
+MOVEIS DE ESTYLO E PHANTASIA
+Mobiliários completos para dormitórios, salas de jantar e visitas.
+3 RUA DA CONSTITUIÇÃO 3
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+CAMBIO e CAFÉ
+Ha cerca de um mez noticiámos que os accionistas da Great Western, reunidos em Londres, ouviram o seu presidente dizer muito satisfeito que «esta perspectiva das plantações era má, mas que a alta do cambio assegurava bons negócios á empreza». E então lamentámos não poder dar aos plantadores do norte os mesmos parabéns que eram dados aos accionistas inglezes.
+Hontem, o Jornal do Commercio publicou na integra o relatório da S. Paulo Railway, de que já havia dado excellente resumo. E esse relatório é edificante para mostrar o que valeu para o productor nacional a alta do cambio de 12 a 16.
+Diz o relatório que «o trafego do semestre passado havia dado uma renda liquida de £ 537.959, ou um augmento de £59.103 em confronto com os algarismos correspondentes do periodo correspondente de 1904». Accrescenta: «a companhia havia ganho mais e feito menos serviço.» E ainda: «Fora o cambio que fizera isto, tendo sido a sua taxa de 16.627 contra 12.260 em 1904; se não fosse essa alta de cambio, a renda liquida da companhia teria sido de menos £50.000 em 1904.» Entretanto, «a estrada transportara menos 93.000 toneladas de carga, das quaes 44.000 toneladas de café». Mas «a taxa de cambio», que produziu menos dinheiro para o productor obrigado ás mesmas despezas em papel, «augmentara de modo notável a renda em dinheiro esterlino», para a empreza.
+E' esta a situação que devemos perpetuar?
+O café. — No Centro vigorou hontem a base de 7$ a 7$100, regulando 7$ o preço nas segundas mãos. As noticias ainda desfavoráveis do exterior, a firmeza do cambio e as entradas liberaes aqui reflectiram sobre o mercado, que esteve hontem fraco, embora sustentado nos ensaccadores; — os commissarios tiveram bastante café á venda, sendo ainda os exportadores os principaes compradores no mercado da manhã.
+Para exportação mantiveram os possuidores de gênero a cotação de 7$, não excedendo de 1.000 saccas as vendas concluídas nesta base; os exportadores tendo adquirido 8.000 saccas aos commissarios mostravam-se pouco interessados pelo movimento durante o dia, fechando o mercado, apezar da alta na abertura de Nova-York, na posição anterior.
+Por Jundiahy passaram 7.200 saccas, entrando aqui 4.895 saccas por barra dentro e cabotagem.
+As bolsas consumidoras, que fecharam ante-hontem em baixa, 1/4 a 1/2 na Europa e 5 pontos nos Estados-Unidos, abriram hontem inalteradas a 1/4 mais altas na Europa e com 5 a 10 pontos tambem de alta em Nova-York.
+Para junho mantiveram os vendedores o preço de 7$100, havendo compradores a 7$000.
+Santos.—Base nominal, mercado completamente paralysado; registradora 4.000, entraram hontem 2.964: entradas desde 1 do corrente 105.447; média 7.029: entradas desde 1 de julho 6.624.087; existiam hontem em primeiras c segundas mãos 452.066; passagens hontem 7.250; desde 1° do mez 104.449; desde 1° de julho 6.624.141; pauta semanal 480 réis; foram hontem baldcadas com destino a Santos: em Jundiahy, 1.951; em S. Paulo e Sorocabana, 2.417; no Campo Limpo 98; no Braz 148, em Pary, 2.839, total, 7.250; foram embarcadas em 1°, 12.158; desde o 1° do mez, 131.312; foram despachadas hoje, 5.744.
+--- ARTICLE END ---
+--- ARTICLE START ---
+EXTERIOR
+As noticias da Rússia continuam a ser agitadas. Ha sempre nos vastos dominios do czar vários pontos onde a ordem não é perfeita.
+Hontem, na própria capital, em São Petersburgo, houve manifestações de operários que a policia teve de dispersar. Diz o telegramma que elles cederam sem difficuldade.
+Mas já em Vologda e na Polonia a cousa foi mais séria.
+Em Vologda os operários queriam arrombar as fabricas, que, exactamente por causa da greve, estavam fechadas. Populares os atacaram. Elles reagiram. Reagiram—e houve pedradas e tiros. O governador foi apanhado por uma pedra e afinal os operários sempre incendiaram alguma cousa: incendiaram a municipalidade.
+Na Polonia, o caso começou por uma bomba atirada por um rapaz contra uma força que passava. Matou o commandante e feriu sete soldados. Os outros, na fúria de vingarem o attentado, crivaram o rapaz de tiros e bayonetadas. Mas os tiros sobraram... E o pior foi que as sobras mataram dous transeuntes e feriram onze...
+Um telegramma de Paris diz que é provável que o Sr. Paulo Doumer não renove a sua candidatura á presidência da Camara dos Deputados.
+Mas não é só provável: é certíssimo!
+O Sr. Doumer, que chegou a ter a pretenção de ser presidente da Republica, seria mathematicamente derrotado—e derrotado por uma formidável maioria.
+A França não perde nada com isso.
+O Sr. Doumer é um ambicioso sem escrupulos, que, proclamando-se republicano, só conseguiu a presidência da Camara com o apoio dos monarchistas.
+Agora, é uma carta fora do baralho...
+A questão dos transportes entre a America do Sul e a Europa está preocupando a Hespanha e Portugal.
+Da Hespanha falíamos hontem.
+De Portugal nos vem hoje a noticia de que o Sr. Camelo Lampreia, o digno ministro portuguez no Brasil, que actualmente está em visita á sua terra natal, procura obter que não Cadix e sim Vigo seja o ponto terminal da navegação entre a Argentina e Europa.
+E que lhe importa—poderá alguém perguntar—que seja Cadix ou Vigo, se ambos são portos hespanhóes?
+Importa muito! Se for Cadix, que fica no sul da Hespanha, os vapores não tocarão em Portugal; mas se for Vigo, Lisboa nada perderá das vantagens que actualmente tem.
+Indifferente, o Brasil continua a não se importar com isso...
+Um telegramma de Roma diz que o livro de ALBERTO MOTIM—intitulado: A questão bíblica no século XX foi collocado no index. Ninguém o deve ler. Está excomungado.
+Desde logo deve-se considerar que esse livro vai constituir um successo de livraria. Estará, dentro de alguns dias, com a edição esgotada...
+Na ultima edição do Index Librorum Prohibitorum, que foi publicada pelo Vaticano em 1900, o numero de obras brasileiras é insignificante. A obra mais recente que figura ahi é o livro do Prof. Francisco de Castro sobre o defunto Abel Parente, livro que é aliás notavel.
+Desgraças na Bélgica. Cahiram, em vários logares do reino, horríveis tempestades. Ha grande numero de victimas.
+O rei de Hespanha oppoe-se á dissolução das Câmaras.
+O Vesuvio recomeçou a vomitar cinzas.
+Foi adiada, em Lisboa, a assembléa geral dos accionistas da companhia de Tabacos.
+A opinião publica na Argentina mostra-se preocupada com a immigração africana.
+Chegaram a Gênova dous mil judeus, provindos de Odessa e que se destinam ao Rio de Janeiro.
+Foi lida hontem, na Duma Nacional, em S. Petersburgo, a resposta á falla do throno.
+No porto de Bordèos o navio russo Lio abalroou o paquete italiano Teresila Mignora, que foi a pique. Morreram oito marinheiros e dous pilotos.
+--- ARTICLE END ---
+--- PAGE_METADATA START ---
+Por conveniência de paginação o serviço telegraphico vai na 3ª pagina.
+--- PAGE_METADATA END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+24 horas
+INTERIOR
+Temperatura, de hontem: maxima, 26.2; mínima, 21.9. Barometro: 750.8 e 752.8. O eco esteve encoberto.
+Temperatura média nos Estados: Belém 26.70, S. Luiz 28.75, Fortaleza 26.45, Natal 25.15, Parahyba 22.10, Recife 26.65, Maceió 26.20, Aracaju 27.30, S. Salvador 29. Sá, Cuyabá 28.65, Victoria 25.65, S. Paulo 20.75, Curityba 16.50 e Florianopolis 22.00.
+O discurso do Sr. Rosa e Silva pronunciado na véspera, por occasião de discutir-se o parecer sobre a eleição do Districto Federal, abriu interessante debate entre S. Ex. e o Sr. Ruy Barbosa e, naturalmente, dada a importância dos assumptos envolvidos na discussão travada, outros chefes politicos hão de nella empenhar-se, fazendo vibrar o Senado, acordando os ecos, ha tanto tempo adormecidos, daquella casa veneranda e pacata.
+Na sessão de hontem o Sr. Ruy Barbosa levantou e rebateu arguições feitas pelo chefe pernambucano á Camara dos Deputados e especialmente á bancada fluminense, a propósito do reconhecimento de poderes, estranhando a pratica de accusar uma das casas do Congresso da tribuna da outra e, depois de produzir a defesa dos seus companheiros de representação, passou ao ponto do discurso do Sr. Rosa e Silva em que este alludiu ao Convênio de Taubaté, considerando-o desorganisação das finanças.
+Mais do que o modo de ver do illustre representante de Pernambuco, o eminente senador bahiano condemnou a impertinencia do debate sobre uma materia como essa, antes de collocada em termos de ser maduramente estudada pelo Congresso.
+A réplica do Sr. Rosa e Silva attendeu a vários pontos do discurso do senador bahiano e foi amplamente desenvolvida na justificação da lei eleitoral vigente, dos abusos e prevaricações havidas, ao entender de S. Ex., na verificação de poderes.
+Ainda S. Ex. condemnou o Convênio de Taubaté, julgando-se no pleno direito de faze-lo desde já.
+Pelos discursos, que adiante procuramos resumir melhor, avaliarão os leitores a importância do debate aberto.
+O trabalho na Camara foi das commissões. Algumas das recentemente eleitas escolheram os seus presidentes e secretarios e a 2ª de inquérito discutiu e acaloradamente as eleições do 2° Districto desta capital. Já foi apresentada emenda ao parecer, ha outra engatilhada, ha mais um voto em separado, e, como hontem foram os pareceres a outro membro da commissão, é provavel que outro voto em separado appareça antes de encerrado o debate.
+As noticias do interior mais sensacional é a da greve dos empregados da estrada de Ferro Paulista, greve, aliás, pacifica até os ultimos telegrammas. Em outro logar publicamos minuciosas informações sobre esse movimento paredista.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O cambio.—Hontem tivemos o mercado em trabalhos de jogo de alguma importancia, aliás, mas intercorreram gerações dignas bastante de nota e até excessivamente commentudas. Predominou a idéa de alta que, afinal, tem prevalecido, nas entidades de alternativa, duas horas braçando nas condições de jogo e duas horas sem duvida a seriedade do mercado.
+A abertura foi feita ás 15 h. e 15 m., abrindo as tabellas a 15 5|8 e 15 9|16 d., sendo aquella no British e no London, aquelle mantendo-se inalterado mas este e o River mudaram-n'as para 15 9|16 d., o Brasilianische para 15 5|8 d., adoptando, no entanto, o Republica a de 15 3|4 d.
+Abriu o mercado firme, com as operações elevadas a 15 3|4, contra letras a 15 13|16 e dinheiro a 15 7|8 d., mas cahiram a 15 5|8 e 15 9|16 d., sendo aquella no Republica para o mercado, contra letras a 15 11|16 d. Seguiu-se nova alta com o bancário a 15 13|16, sem tomadores, mas com operações indirectas a 15 15|16 e 15 31|32 d., ainda que excepcionaes, até que afrouxou de novo. Então corriam os limites de 15 3|4 a 15 25|32 d. para os saques, com letras a 15 7|8 d., mas sem dinheiro nos bancos, á tarde e, por ultimo, regulando 15 13|16 d. para o bancário, contra o particular a 15 15|16 d. em estado firme.
+Fechou o mercado firme, com os soberanos de 15$400 a 15$100 e os vales, ouro, de 18$748 a 18$724, tendo-se cotado as cambiaes bancarias de 15 9|16 a 15 13|16 d., contra particulares de 15 11|16 a 15 15|16 d. bem como a 15 31|32 d. condicionaes.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O navio-escola Benjamin Constant chegou ante-hontem á Bahia.
+A viagem está sendo feita nas melhores condições e tudo a bordo corre na melhor ordem.
+O chefe do estado-maior da armada, almirante Proença, recebeu telegramma nesse sentido do capitão de fragata Pereira Lima, commandante do Benjamin.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O SR. DR. AFFONSO PENNA
+No palácio do Ingá, em Nictheroy, estiveram hontem os Srs. Dr. Affonso Penna, presidente eleito da Republica; senadores Ruy Barbosa, Francisco Glycerio, Joaquim Murtinho e Pinheiro Machado e o leader da Camara dos Deputados Dr. Carlos Peixoto.
+Os Srs. Drs. Affonso Penna e Carlos Peixoto partiram, á tarde, do cães Pharoux, com destino a Nictheroy, em lancha especial, e em companhia do Sr. capitão Álvaro Fontenelle, ajudante de ordens do Sr. Dr. Nilo Peçanha, presidente do Estado do Rio de Janeiro.
+Os senadores transportaram-se para a visinha capital em uma das barcas da carreira, sendo recebidos em S. Domingos pelo Sr. Luiz Varella, official de gabinete da presidência. Um bond especial os conduziu ao palácio do governo fluminense, onde, depois de um banquete intimo, offerecido pelo Sr. Dr. Nilo Peçanha a SS. EEx., tiveram demorada conferência politica com o illustre vice-presidente eleito da Republica.
+Conferençaram hontem com o Sr. presidente da Republica os Srs. Drs. J. Seabra, ministro da justiça, Lauro Muller, ministro da viação, e Gastão da Cunha.
+O Sr. Dr. Lauro Muller, ministro da industria e viação, despachou hontem com o Sr. presidente da Republica.
+Foram assignados os seguintes decretos: concedendo auctorisação a Manáos Improvements Company, Limited, para funcionar na Republica; abrindo ao ministério da viação o credito de 24:000$ para pagamento das gratificações arbitradas aos engenheiros incumbidos do recebimento e entrega das estradas de ferro encampadas e posteriormente arrendadas pelo governo; aposentando, a pedido, João Vieira Guindei no logar de carteiro de 1ª classe da administração dos correios de S. Paulo.
+Foram assignados diversos decretos e patentes concedendo privilégios de invenções.
+Passou ante-hontem o 10° anniversario da Aita do Ouvidor, o brilhante hebdomadario dirigido por Serpa Júnior.
+A Alta do Ouvidor apresentou-se no dia 13 com um formoso numero commemorativo da grata ephemeride.
+Apresentamos os nossos parabens ao distincto director.
+O Sr. presidente da Republica far-se-á representar no embarque do Dr. Affonso Penna por um dos officiaes de sua casa militar.
+Representará o Dr. Leopoldo de Bulhões, ministro da fazenda, no embarque do Dr. Affonso Penna, o seu secretario particular Ramos Júnior.
+O Dr. Leopoldo de Bulhões, ministro da fazenda, visitou hontem, pela manhã, o Dr. Affonso Penna.
+Uma commissão composta dos Srs. Conrado Niemeyer, Del Chrockat de Sá e Luiz van Erven, foi hontem, á noite, ao Grande Hotel cumprimentar, em nome do Club de Engenharia, S. Ex.
+Uma lancha achar-se-á no cães dos Mineiros hoje, às 3 1/2 da tarde, á disposição dos sócios do Club de Engenharia que quizerem despedir-se dos Srs. Drs. Affonso Penna e Aarão Reis.
+Para assistir hoje ao embarque do Dr. Affonso Penna, a União Cívica brasileira será representada pela commissão seguinte:
+Senhor João Francisco Fernandes, Filho de Medeiros, Octavio Silva, majores Ribeiro Júnior e Monteiro de Lacerda, tenente Julio Camargo, Dr. A. Campello, Arthur Junot, Acioly Machado e Saturnino de Mendonça, Francisco Elliot, desenhista, Custodio Barreto e José Dias de Mello.
+Effectua-se hoje a partida do Sr. conselheiro da Republica, para os Estados do norte.
+O Maranhão desatracou das docas, indo fundear no poço.
+O embarque do Sr. Penna e sua comitiva, está marcado para as 3 horas da tarde, no arsenal de marinha. A partida para as 5 horas.
+Sabemos que na volta o conselheiro Affonso Penna saltará em Caravellas, seguindo dahi por terra, a percorrer grande parte dos Estados da Bahia e Minas. S. Ex. virá para esta capital pela estrada de ferro Central do Brasil.
+Nesta capital descansará um dia, partindo então para os Estados do sul.
+Entre as muitas pessoas que procuraram hontem o futuro presidente, no Grande Hotel, no largo da Lapa, esteve o ministro da fazenda, Sr. Dr. Leopoldo de Bulhões, que com S. Ex. conferenciou longamente.
+O leader da Camara dos Deputados, Dr. Carlos Peixoto, tambem teve com o Dr. Penna demorada conversa.
+S. Ex., por volta de 1 hora da tarde, foi apresentar as suas recommendações a Sua Eminência o cardeal do Rio de Janeiro.
+A' tarde, o presidente eleito, que havia recebido ante-hontem um telegramma do Sr. Dr. Nilo Peçanha, foi a Nictheroy a despedir-se do futuro vice-presidente da Republica.
+Effectua-se hoje, á noite, no Club Fluminense, a conferência de Gustavo de Aguillar Pantoja, sobre alguns dos novos poetas brasileiros.
+Daremos amanhã desenvolvida noticia a respeito e desde já auguramos bom exito a festa.
+O Sr. ministro da fazenda conferenciou hontem com os directores do Banco da Republica e da Caixa da Amorlisação.
+Conforme noticiou a Gazeta, deixou hontem o nosso porto o cruzador-torpedeiro Tupy, do comando do capitão de corveta A. Hino Corrêa de Miranda, que vai a Angra dos Reis substituir o cruzador Tiradentes que alli se acha.
+Ainda como antecipou a Gazeta, seguiram a seu bordo o capitão de mar e guerra engenheiro naval Frederico Camara, que vai estudar e ver se é ou não possivel salvar a artilharia e machinas do couraçado Aquidaban, submerso em Jacuacanga, e o capitão de corveta Manuel Monteiro, que vai encarregado de levantar plantas das planices do Jacuacanga, para a installação do novo arsenal de marinha.
+O cruzador Tiradentes deve chegar ao nosso porto, de regresso de Angra, hoje ou amanhã.
+Despacha hoje com o Sr. presidente da Republica o Sr. ministro da guerra. S. Ex. submetterá á assignatura do chefe do Estado, entre outros, os seguintes decretos: transferindo: do 23° batalhão de infantaria para o 1° da mesma arma, o coronel Nelson Pereira do Nascimento; do 17° batalhão para o 2° o coronel José Salustiano Reis; o capitão Eduardo José Barbosa Júnior, do 1° esquadrão do 2° regimento de cavallaria para o 2° esquadrão do 1° regimen to da mesma arma; do 2° esquadrão do 1° regimento para o 3° esquadrão do 4° regimento, Frederico Augusto Xavier de Britto; do 3° esquadrão do 4° regimento de cavallaria para o 1° esquadrão do 2o regimento, o capitão Epipanio José da Silveira; concedendo medalhas de mérito militar aos officiaes e praças cujos nomes publicamos na nossa edição de sabbado ultimo.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+O ALFAIATE DA MODA
+A moda masculina no Rio.—O que foi.—O que é.—O numero de alfaiates.— A Casa Brandão—Um conto de Paul Adam.
+Os homens vestiam mal no Rio de Janeiro. Vestir bem—isso é para as senhoras! diziam os nossos caros avós.
+A suprema elegância era esta inqualificavel extravagancia, que hoje se arriscaria á vaia:— cartola, sobre-casaca preta, botina de verniz e calças e collete de brim branco muito bem engomado. Os pais de família burguezes não tiravam aquella vestimenta com que o Club Medico implica um tanto excessivamente; os moços que usavam mais de tres ternos eram considerados sujeitinhos perigosos, dandies, e a elegância de um Zacharias de Góes e Vasconcellos passou ás gerações subsequentes como uma anomalia.
+Ainda ha bem pouco tempo, ainda o mais elegante actor da lingua portugueza, Christiano de Souza, cujas calças, cujos colletes, cujas casacas variadissimas e luxuosas eram por todos admiradas, veste na Casa Brandão, e os freguezes dessa casa ainda se recordam da exposição de colletes do brunneliano artista—uma dúzia de cortes de seda que, apertados, cabiam numa mão e eram irreprehensiveis de figura e distincção, quando, á noite, na Veine, de Capus, ou na Mme. Flirt, de Gavault, Christiano creava os typos de libertinage da comedia parisiense.
+Brandão, entretanto, teve um mestre. Se a sua tesoura admirável faz actualmente um tão real successo, elle o deve á educação num dos primeiros ateliers da elegância mundial masculina, ao celebre alfaiate de Lisboa, Amieiro, cuja fama de ha muito passou Portugal.
+Sabe-se bem que Amieiro já corrigiu fatos cortados no Pool. O ministro de Portugal em Stockholmo manda todos os annos as suas encommendas ao artista e diz:
+—Como o Amieiro não ha outro.
+Brandão era o discípulo predilecto de Amieiro. Um bello dia deu-lhe a vontade de trabalhar por conta própria e para cá veiu.
+Fomos encontral-o no seu bem installado atelier. Tapetes, tres ou quatro gabinetes de prova, forrados de espelhos, um salão de exposição dos cortes, com uma heraldica mobília de carvalho lavrado, jarrões, mármores, bronzes, e por toda parte vastas estantes de rodízios com os tecidos chegados ha pouco, tecidos de inverno, para a season, que dentro em pouco electrisará o Rio chie.
+Brandão recebe-nos amavelmente.
+—Muito trabalho?
+—Mas mesmo muito. As cousas correm ás mil maravilhas, as encommendas augmentam diariamente.
+—E novidades?
+—Vem como repórter, indagar, curioso?
+—Mais ou menos.
+—Pois saiba que os modelos são os ultimos de Londres, as cores de padrão exquisito, mas sombrio. E como já agora podemos dizer que no Metro se conhece uma Moda masculina— no Lyrico devem apparecer este anno algumas casacas e alguns smokings de gorgorão. Para o nosso clima é o ideal. E, depois, supremamente chie. As casacas não têm direito nem avesso. E' conforme calha vestir. Muito leves, não fazem suar. E duram tanto como as outras.
+—E custam mais caro?
+—Um pouquinho mais.
+Deixamos o luxuoso atelier, pensando num dos ultimos contos de Paul Adam, da série Contes pour Ia foule.
+Paul Adam conta que um escultor, filho de alfaiates, resolveu adoptar a profissão dos pais. Abriu uma casa num bairro mais ou menos humilde. Os moradores foram a pouco e pouco vestindo lá. O talhe era elegantíssimo. Tornados elegantes, insensivelmente elles iam afinando as idéas, os modos. E poucos annos depois, com a sua tesoura, o homem tinha feito mais pela civilisação que se tivesse ficado escultor.
+Brummel dizia que vestir bem era o supremo gozo. Sagan achava que o vestuario era a exteriorisação da alma; Oscar Wilde, arbitro das elegâncias londrinas, admittia que se tivesse um filho velho, mas nunca um fato mal feito.
+Brummel, Sagan e Wilde dariam razão ao chie de Paul Adam vendo a obra de distincção e elegancia da alfaiataria fashion que é a Casa Brandão.
+SPARKELLET.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Dr. J. J. Seabra, ministro do interior, só deixará a pasta que dirige em meiados do próximo mez de junho.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Loteria de S. Paulo, 43 contos. Amanhã.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Rua Setembro 60. PALMETOS.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Especialidade o fabrico deste artigo pela Fabrica SANTELSIO rivalisando-se ao aspargo, suppre o mercado de uma conserva delicada, e de um paladar agradabilissimo. Fabrica e Deposito: Rua de S. Paulino 118.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+40 contos. Amanhã. Loteria de S. Paulo.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Ao Carnaval de Venise
+108 OUVIDOR 108
+Especialidade em artigos para homens e meninos. Única casa que tem por divisa vender bom e barato para vender muito.
+ROUPAS FEITAS
+Ternos de casimira, superiores padrões modernos, de 54$000 a 80$000
+Sobretudos de 65$000 a 120$000
+ROUPAS SOB MEDIDA
+Secção dirigida por 3 habeis mestres.
+Ternos de Paletót 85$000
+» Frack 280$000
+» Sobrecasaca 215$000
+» Casaca 200$000
+» Smoking 180$000

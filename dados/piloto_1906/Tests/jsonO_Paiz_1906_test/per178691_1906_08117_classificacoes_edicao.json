@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-12-24",
+        "original_snippet_context": "News about the London Bank and the Caixa de Conversão.",
+        "relevant_quote": "O London Bank deve apresentar hoje ao troca da caixa de conversão 120.000 libras.",
+        "classification": "Neutral/Factual",
+        "justification": "This is a purely informational note about a transaction involving the Caixa de Conversão, without any explicit or implicit opinion about its merits or the preferred conversion rate.",
+        "confidence": "High"
+    }
+]

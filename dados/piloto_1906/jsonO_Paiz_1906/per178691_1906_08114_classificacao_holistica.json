@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-12-21",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "While the edition mentions the \"Caixa de Conversão,\" it does so in a purely factual manner within a list of government appointments. There is no discernible argumentation, editorializing, or framing related to the monetary debate surrounding its creation.  The dominant theme of the edition revolves around the ongoing strikes and related events.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Foram hontem assignados os seguintes decretos da pasta da fazenda : Abrindo o credito de 2:060$000 supplementares a verba do Thesouro Federal do orçamento vigente : Nomeando para a caixa de conversão : Vice-presidente, o Dr. Henrique de Oliveira Baltar; thesoureiro, o bacharel João Gomes Rebello Horta ; thesoureiro interino, o thesoureiro geral do Thesouro Federal Dr. Carlos Claudio da Silva; nomeando o bacharel Custodio José Coelho de Almeida para o logar de chefe da 2a secção de câmbios do Thesouro Federal; nomeando o bacharel Americo Furquilhan de Brites para o logar de membro da junta administrativa da Caixa de Amortisação, e nomeando Manoel de Souza Carvalho para o logar de thesoureiro da agencia fiscal do Thesouro Federal, no Estado de São Paulo.",
+            "reason_for_inclusion": "This is the primary mention of the \"Caixa de Conversão.\" It is a factual report of appointments, not an argument for or against any particular policy."
+        }
+    ]
+}

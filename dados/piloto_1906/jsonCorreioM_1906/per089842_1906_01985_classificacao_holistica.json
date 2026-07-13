@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-12-18",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "The article focuses on the potential risks of associating the Caixa de Conversão with the Banco do Brasil, emphasizing the bank's past financial mismanagement and advocating for the Caixa's complete independence to maintain public trust.  This aligns with the Orthodox perspective's emphasis on fiscal responsibility, \"probidade do paiz,\" and a cautious approach to financial matters.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Se desejam dar uma nova feição moral aos negócios públicos e sobre tudo áqueles que se relacionam com questões de ordem financeira; se é pensamento do governo conquistar a confiança pública para as transações da nova Caixa; deve começar por afastar quaisquer das suas dependências do Banco do Brasil.",
+            "reason_for_inclusion": "This quote sets the stage for the article's main argument, highlighting the importance of fiscal responsibility and public trust, key concerns of the Orthodox perspective."
+        },
+        {
+            "quote": "Este estabelecimento, graças ás operações indecorosas a que se entregou, perdeu muito do seu crédito; foi dali que saíram dinheiros para proteger empresas arrobentandas, para facilitar empréstimos, para garantias, para a compra de jornais e jornalistas.",
+            "reason_for_inclusion": "This reinforces the Orthodox concern for financial propriety by detailing the Banco do Brasil's alleged past misconduct, further justifying separating the Caixa from its influence."
+        },
+        {
+            "quote": "Ora, ligar a Caixa de Conversão ao Banco do Brasil, com o triste passado que este traz, será retirar á nova criação, exatamente o que lhe é mais necessário para viver e caminhar: a confiança.",
+            "reason_for_inclusion": "This directly links the Caixa's success to public confidence, a core tenet of the Orthodox view, and explicitly warns against associating it with the potentially compromised Banco do Brasil."
+        }
+    ]
+}

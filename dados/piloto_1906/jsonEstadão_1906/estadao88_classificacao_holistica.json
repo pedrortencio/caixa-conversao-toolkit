@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article mentions two articles of a law related to the \"Caixa de Conversão,\" but provides no argumentation or context to allow for inferring an editorial stance. It simply states the legal text.  There is no other mention of the Caixa de Conversão or related monetary policy debates in the rest of the newspaper edition.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Art. 4. Pelo desvio do deposito de que trata o artigo antecedente incorre o artigo 195 do codigo penal, com a pena de 1 a 3 annos de prisão e multa de 100 a 500 mil réis.",
+            "reason_for_inclusion": "This quote presents a legal article related to the Caixa de Conversão, but offers no opinion or argument."
+        },
+        {
+            "quote": "Art. 29 Os bilhetes emittidos são garantidos em todo o territorio da União por todos os bens, direitos e acções em geral que figuram nos livros da caixa de conversão.",
+            "reason_for_inclusion": "This quote provides another legal detail about the Caixa de Conversão, but without expressing any stance on the related debates."
+        }
+    ]
+}

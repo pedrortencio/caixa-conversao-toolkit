@@ -1,0 +1,496 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+ANNO XXII
+PROPRIEDADE DE UMA SOCIEDADE AΝΟΝΥMA
+REDACCAO
+AVENIDA CENTRAL
+(ESQUINA DA RUA SETE DE SETEMBRO)
+Ο
+PAIZ
+RIO DE JANEIRO, Sabbado 2 de Junho de 1906
+O PAIZ a folha de maior tiragem e de maior circulação na America do Sul
+Bibliotheca Nacional.
+Rua do Passeio n. 70
+ASSIGNATURA
+30$000
+POR ANNO.
+POR SEIS MEZES. 15$000
+NUMERO AVULSO 100 RS
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+O NOVO CONCURSO DO PAIZ
+--- HEADLINE END ---
+--- HEADLINE START ---
+PREMIOS NA SORTES DE SÃO JOÃO
+N. 7912
+--- HEADLINE END ---
+--- HEADLINE START ---
+500$000 EM DINHEIRO
+--- HEADLINE END ---
+--- ADVERTISEMENT START ---
+UM VALE DE 500$000
+em flores naturaes, offerecido pela popular e acreditada casa Milne. Rosen-
+vald, Avenida Central n. 134.
+VALOR 100$000
+UM VALE DE 100$000
+para a conceituada Casa das Fazendas Pretas, do Sr. Pedro Queiroz, na Avenida Central, esquina da rua Sete de Setembro, em frente ao Paiz. O portador desse vale terá o direito de adquirir o que bem lhe aprouver nessa casa, onde é completo o sortimento para tudo quanto diz respeito a vestuario de senhora, sendo todas as mercadorias o preço marcado, até a concurrencia dessa somma. É o que se pode chamar um preço realmente real.
+VALOR 100$000
+DOIS CACHEPOTS DE FAIENCE DA BOHEMIA
+offerta des Sra. Estella & C., proprietarios da conhecida casa Ao Grão Turco, da rua do Ouvidor n. 64 A, que é um verdadeiro museu de raros e magnificos objectos de arte.
+VALOR 100$000
+Um ODEON com 36 discos
+superior e aperfeiçoada machina falante, de que é unico agente no Brazil o Sr. Fred. Figner, conhecida Casa Edison, rua do Ouvidor n. 105.
+VALOR 60$000
+(O cliché desta Odeon vai na 4ª pagina)
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+200$000 EM DINHEIRO
+UM VALE DE 200$000
+para a acreditada casa Vieira Nunes, fundada ha 80 annos na sua mesma rua do Hospicio 11 e 13, actualmente na Avenida Central 142, esquina da rua da Assembléa; é de propriedade do Sr. João Vieira Nunes, podendo escolher em tudo o que ha de mais chic para senhoras e meninos, soberba e bem montada alfaiataria em grande sortimento de fazendas, artigos para homens e especialmente em artigos para cama e mesa.
+VALOR 200$000
+UM ESPLENDIDO PARDESSUS SOB MEDIDA
+offerta dos Srs. Adjucto Ferreira & C., proprietarios do acreditado Club Primor da Elegancia e alfaiataria Ferreira
+da travessa de S. Francisco de Paula n. 1 (palacete Lishonne)
+VALOR 200$000.
+UM VALE DE 200$000
+para a importante casa Pare Koyat, dos Srs. M. Soares & C., no largo de S. Francisco, onde ha um completo e variadissimo sortimento de fazendas, armarinho, etc., etc.
+VALOR 200$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A Casa Idéal, do Sr. Frederico Otte, à rua do Ouvidor n. 101, é especialista destes magnificos Gramophones, marca
+Ideal
+Este premio será um desses soberbas Gramophones que levam 180$ cada um.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+1.000 charutos Flor da Bahia (forma Victoria) do estimado fabricante Fezier. Charutos esplendidos, cuidadosamente feitos à mão, com fumo unicamente da Bahia.
+VALOR 160$000
+Offerta da conceituada firma Hildebrando Costa & C., da rua dos Ourives n. 130, unicos agentes da fabrica.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Uma magnifica machina de costura, marca
+NEW-HOME
+estimada das nossas leitoras. Offerta da conhecida casa Arp & C.,
+VALOR 150$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Cinco duzias de sabonetes RIEGER
+PARA BANHO E TOILETTE - 30 annos de existencia, da casa Godoy Fernandes & Paiva, á rua S. Pedro n. 65.
+VALOR 70$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM BELLO CORTE DE SEDA
+da casa A Fama, dos Srs. S. Vieira & C., á rua Gonçalves Dias 22 A, ou a vale de mercadorias no
+VALOR DE 150$000.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um magico automatico
+offerecido pela A Paulicca, largo de S. Francisco n. 2.
+VALOR 150$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM BELLO CORTE DE RENDA
+PARA BLUSA com a largura de 0,45, da conhecida e estimada casa dos srs. Veiga Irmão & C., da rua do Ouvidor n. 93.
+VALOR 75$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM APPARELHO PARA TOILETTE
+offerecido pelos Srs. Raymundo Cerqueira & C., rua dos Andradas. 61, proprietarios da casa A Dridina, especialidade em enxovaes para noivas, fazendas, modas e armarinho.
+VALOR 40$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+250 charutos Gran-Via
+feitos a mão, superior fumo da Bahia, da fabrica de charutos Costa Ferreira & Penna. de S. Felix, Bahia, offerecidos pelos Srs. Jacobina & C., rua do Hospicio n. 120, agentes no Rio de Janeiro.
+VALOR 40$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um carrilhão com quatro cylindros
+offerecido los Srs. Raymundo Cerqueira & C., rua dos Andradas n. 61, proprietarios da casa A Dridina, especialidades enxovaes para noivas, fazendas, modas e armarinho.
+VALOR 40$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+30$000 EM DINHEIRO
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um chic par de vasos
+de Limoges. com sete peças, do BAZAR AMERICA, dos Srs. BAPTISTA & FONSECA, rua Uruguayana n. 30.
+VALOR 70$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+30$000 EM DINHEIRO
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UMA CAIXA DE VINHO DO PORTO
+marca IN VINO VERITAS, offerecido pelos Srs. A. Moreira & C., rua do Nuncio n. 55.
+VALOR 30$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um lampião para cima de mesa
+com bico incandescente Dan, para kerosene, com a respectiva tulipa de crystal.
+Offerta dos Srs. Azevedo Irmãos, proprietarios da conhecida casa Ao Luzeiro, da rua do Hospicio n. 166.
+VALOR 60$000
+--- ADVERTISEMENT END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+UM LAMPIÃO
+para parede, bico AN e globo de crystal da casa Ao Luzeiro, des Srs. Azer Irmão, rua do Hospicio n. 100.
+VALOR 60$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM PAR DE CALÇADO FLORSHEIM
+dos unicos agentes Commissaria Especial, á rua do Ouvidor n. 14,
+Valor de 28$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CHAPÉOS
+da Chapelaria Avenida, dos Srs. Correia & Romivo, à Avenida Central n. 144. até o valor de
+50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UMA FRUTEIRA
+da Casa F. Moreira, a rua do Ouvidor n. 67.
+Valor de 25$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM PAR DE BOTINAS
+de pellica para senhora, de Bijou de la Mode, rua da Carioca n. 142, de Sr. D. de Carvalho.
+VALOR 25$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CIGARROS DEMIR
+em cinco caixas, do Sr. Diran Demirbachian, rua Gonçalves Dias n. 30.
+VALOR 23$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um decimo de vinho verde
+marca Amarante, dos Srs. A. Moreira & C., rua do Rosario n.
+VALOR 46$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+48 garrafas de cerveja americana
+da Casa Clausen, à rua dos Ourives, 20.
+VALOR 46$500
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um par de calçado para senhora
+sob medida, da casa Ao Sapato Modelo, do Sr. A. Abronlios, a rua dos Ourives n. 1.
+VALOR 45$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM MAGNIFICO CHAPÉO PARA SENHORA
+primorosamente confeccionado na importante officina da Chapelaria do afamado fabricante Catina, da Vienna, offerta dos Srs. J. Cypriano & C., rua da Quitanda ns. 85 e 87, esquina da rua do Hospicio.
+VALOR 90$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM CHAPÉO CASTOR
+inglez, nitimo modelo, da Castro Chapelaria, largo de S. Francisco de
+VALOR 25$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM TINTEIRO
+art nouveau, com duas tintas, da Papelaria União, dos Srs. Gennaro Dias & C., rua do Ouvidor 43.
+VALOR 40$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CARRILHÃO COM QUATRO CYLINDROS
+offerecido pela conceituada firma A. Musso & Irmão, á rua Grogusyann. 10.
+VALOR 130$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM RICO GUARDA-SOL
+para senhora, cabo de prata, forrado de seda, da acreditada Ourivesaria Torres Carneiro, á rua do Ouvidor, esquina da de Gonçalves Dias.
+VALOR DE 70$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM CASACO PARA SENHORA
+forrado de seda, ou outra qualquer mercadoria, da Mazaison Nouvelle, dos Srs. Gonçalves & Teixeira, rua Gonçalves Dias n. 9, até o
+VALOR DE 60$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM MAGNIFICO FILTRO MALLIÉ
+E O COMPETENTE BANCO
+O melhor filtro conhecido até hoje, offerta dos agentes geraes para o Brazil, Srs. A. ABREU & C., rua Quitanda n. 102.
+VALOR 130$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+AVENCA DA AUSTRALIA
+em artistico vaso, do Estabelecimento Horticulo, da Viuva Silva & Filhos, á rua Conde de Bomfim n. 13.
+VALOR 60$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM CHIC ABOTOADOR
+offeretido pela conhecida joalheria Torres Carneiro, rua Gonçalves Dias, esquina da do Ouvidor.
+VALOR 30$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um artistico medalhão
+de faience das Caldas da Rainha, trabalho do saudoso Bordalo Pinheiro, offerecido pelos Srs. Candido Fernandes & C., proprietarios da conhecida casa As grandes occasiões, á rua do Rosario 135.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM CHAPÉO PANAMA'
+da grande Chapelaria Colosso, do Sr. R. S. Vargas, á rua Sete de Setembro n. 110.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um guarda-chuva
+cabo de prata e forrado de seda, da conhecida casa 10 PARA QUEDAS, do Sr. M. Castro, rua do Ouvidor n. 102.
+VALOR 30$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM APPARELHO PARA LAVATORIO
+de porcelana de cor, com sete peças, da Casa Christal, do Sr. Justino Destino 3, á rua Uruguayana n. 41.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Um terno de casimira superior
+sob medida, da conhecida e acreditada Alfaiataria do Povo, do Sr. F. Vaz Carvalho, rua Gonçalves Dias n. 38.
+VALOR 120$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UMA SOBEREA MORINGA
+encrustada de prata com lavores na base e na tampa.
+VALOR 120$000
+Offerta do Sr. José Pinto Sá Coutinho, propietario do afamado Club Lacroix, do Largo da Carioca.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM MAGNIFICO TERNO DE ROUPA
+sob medida para homem da conhecida alfaiataria Barra a escolher, na maenifica chapelaria Actualidade, do Sr. J. Barbosa, a rua Sete de Setembro n. 220
+VALOR 120$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM VALE DE 50$000
+para a conceituada casa de S. Manoel Alves da Fonseca, á rua da Carioca n 58, onde ha um esplendido e completo sortimento de collarinhos, punhos, gravatas e roupas brancas.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM RIQUISSIMO CHAPÉO PARA SENHORA
+sob medida da estimada firma Casemiro de Almeida & Soares, da rua Sete de Setembro n. 145 A.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+MERCADORIAS
+da grande Casa do Garcia - Bazar Especialidade em ricos enxovaes, fazendas, modas e armarinho à rua dos Andradas n. 35 C., esquina da da Alfandega, no
+VALOR DE 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UMA FIGA DE CORAL
+encrustada em ouro de 18 kilates, da distincta joalheria Armande Bernacchi, rua Gonçalves Dias, 76, 2º andar.
+VALOR 50$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Uma esplendida cama de casal
+modelo inglez, com barras de metal, offerecida pelos Sr. Bastos & C., á rua Sete de Setembro n. 120, propietarios da Grande fabrica de camas de ferro S. Paulo.
+VALOR 100$000
+--- ADVERTISEMENT END ---
+LER A 2ª PAGINA
+--- BLOCK:LotteryResults START ---
+1º 20$000
+2º 20$000
+3º 20$000
+4º 20$000
+5º 20$000
+6º 20$000
+7º 20$000
+8º 20$000
+9º 20$000
+10º 20$000
+91º 20$000
+92º 20$000
+93º 20$000
+94º 20$000
+95º 20$000
+96º 20$000
+97º 20$000
+98º 20$000
+99º 20$000
+100º 20$000
+101º 16$000
+102º 16$000
+103º 16$000
+104º 16$000
+105º 16$000
+106º 15$000
+107º 15$000
+108º 15$000
+109º 15$000
+110º 15$000
+111º 12$500
+112º 12$500
+113º 10$000
+114º 10$000
+115º 10$000
+116º 10$000
+117º 10$000
+118º 8$000
+119º 7$000
+120º a 150º 10$000 em dinheiro
+Uma assignatura de tres mezes do PAIZ
+151º A 250º PREMIOS CONSOLAÇÃO DE 2$ CADA
+--- BLOCK:LotteryResults END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- SECTION_HEADER START ---
+EXTERIOR
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+ABERTURA DAS CORTES FRANCEZAS
+Paris, 1.
+Realizou-se hoje com a solemnidade do costume a abertura das Cortes. O ministro Clemenceau, com todas as formalidades, leu o discurso da nação e entregou-o em seguida ao presidente Fallières, que declarou que as reformas expostas no programma do governo serão fielmente executadas.
+Ao discurso inaugural assistiram tambem muitos republicanos, que protestavam com um protesto vivo contra a permanência do conselheiro Sarraut no seio do governo.
+A COMPANHIA DOS TABACOS
+Napoli, 1.
+A directoria da Companhia dos Tabacos, em reunião extraordinária realizada hontem, resolveu aceitar as condições impostas pelo estado italiano para o fornecimento dos tabacos no paiz, assegurando ao governo uma renda annual de 950 contos.
+CONDECORAÇÕES HISPANO-AMERICANAS
+Madrid, 1.
+O rei D. Affonso condecorou com o grande collar da Ordem de Isabel a Catholica os Srs. Agustin Edwards, Gonzalez e D. Daniel Muñoz, representantes dos governos chileno, argentino e uruguaio na occasião do seu casamento.
+ABERTURA DA CÂMARA DOS DEPUTADOS — Brisson eleito presidente
+Paris, 1.
+Levou-se hoje a effeito a sessão de abertura da Câmara dos Deputados, tendo sido eleito presidente o Sr. Henri Brisson, que obteve 320 votos sobre 500.
+Foram apenas duas as chapas em branco.
+ENTREVISTA DO PRESIDENTE FALLIÈRES COM O MINISTRO JAPONEZ
+Roma, 1.
+Em Quirninal realizou-se hoje, ás 10 horas da manhã, entrevista entre o presidente Fallières e o novo ministro japonez, barão de Kurmo, tendo trocado phrases amistosas e affáveis sobre a amisade dos dois paizes, brindando as boas relações franco-japonezas.
+PROJECTO ADMINISTRATIVO
+Paris, 1.
+O ministério realizou hoje uma reunião decisiva, resolvendo submetter á Câmara dos Deputados, no início das suas sessões, um projecto administrativo sobre os indivíduos condemnados por crimes occorridos nos inventários das igrejas, os processados como anti-militaristas e por delitos de imprensa.
+Os marrocos - Reclamações francezas
+Tanger, 1.
+Partiu para Marrocos o cruzador Dupleix, cujo commandante levou ordem de depor as reclamações das autoridades francezas pelo assassinato de um funccionario do banco Morganti, commettido ha dias pelos habitantes marroquinos.
+O INSTITUTO DE AGRICULTURA
+Roma, 1.
+O representante do Paiz assignou hoje a convenção do Instituto de Agricultura.
+FESTAS EM HONRA Á SUISSA
+Genebra, 1.
+Reina nesta cidade extraordinária animação. Todas as casas estão profusamente decoradas e em todos os pontos se organizam festejos em honra aos membros das missões suissas que devem chegar hoje.
+Os visitantes serão recebidos na estação pelo prefeito da cidade, membros da municipalidade e demais autoridades civis e militares.
+Genova, 1.
+Os cidadãos suissos aqui residentes offereceram hoje um banquete ao Sr. Forrer, ás autoridades suissas e italianas. Terminado o banquete, os visitantes partiram para Genova, onde foram recebidos pelo ministro da marinha, almirante Mirabello, por grande numero de senadores e deputados e pelo prefeito da cidade.
+OS FUNERAES DE IBSEN
+Christiania, 1.
+Realizaram-se hoje com toda a solenidade os funeraes do honrado Ibsen. Assistiram ás cerimonias funebres o rei Haakon VII, os membros do ministério, autoridades civis e militares e todo o corpo diplomatico aqui acreditado.
+A QUESTÃO AGRÁRIA
+Buenos-Aires, 1.
+A União Nacional discutiu hoje a questão agraria.
+A PRAGA DOS GAFANHOTOS
+Asunción, 1.
+A imprensa publica uma carta do commandante Asdrubal indicando os meios que julga proprios para exterminar a praga dos gafanhotos no Chaco.
+OS ESTUDANTES E O BISPO LEÃO
+Buenos-Aires, 1.
+Os estudantes convocaram um meeting para domingo próximo, afim de protestar contra o processo intentado ao bispo de La Plata, por occasião das festas da independência.
+A MENSAGEM RIESCO
+Santiago, 1.
+Reunindo-se hoje, ás 11 horas da manhã, o congresso Nacional, sendo lida a mensagem do Dr. German Riesco, presidente da republica. Este documento é geralmente apreciado, pela clareza de exposição, onde infunde firmes seguros da boa solução das graves questões internacionaes e situação financeira do Chile.
+A POLITICA PAN-AMERICANA E O CONGRESSO NO RIO DE JANEIRO
+Buenos-Aires, 1.
+O deputado Luiz Drago vai interpellar o ministro das relações exteriores sobre a política pan-americana e a representação da Republica Argentina no congresso a reunir, no Rio de Janeiro.
+CONGRESSO MINEIRO
+O GOVERNO É CONVOCADO
+Ouro Preto, 1.
+O chefe do executivo se dirigirá ao palácio do Dr. Joaquim Pires,
+Ahi será servido banquete, durante o qual tocará uma charanga regida pelo maestro Dicterich. O brinde ao senador Euclides Malta será levantado pelo Dr. Joaquim Pires. Além dos jornaes independentes desta cidade, serão convidados os correspondentes dos fluminense, A commissão offerecerá ao senador Euclides Malta um álbum com expressiva inscripção em seda, bordada, O regresso do deputado de Muzambinho também será festivo.
+RENDAS ALFANDEGÁRIAS E ESTADUAES
+Santos, 1.
+A Alfândega nesta cidade rendeu em maio 1.031:753$011 e a Recebedoria do Estado 728:281$011.
+O VAPOR INGLEZ «MANDOS»
+Santos, 1.
+O capitão do vapor inglez Mandos abandonou hoje o seu navio, ha tempo em Santos, por se haver partido no meio.
+O CONGRESSO ITALIANO - Câmara italiana
+Roma, 1.
+A Câmara dos Deputados approvou em duas sessões os projectos authorizando o governo a conceder até um anno de licença com vencimentos aos funccionarios que contarem mais de 15 annos de serviço; e conceder um premio capital de Santorini, para seu patrimônio, o terreno que outr'ora foi aldeia inculta ou inculta e ervosa.
+RESOLUÇÕES SANCCIONADAS
+Bahia, 1.
+Foram sanccionadas as resoluções legislativas que criam os novos municípios de Feira de Santana e alguns de Campo Largo, todos daquella província.
+ACERVISTAS PARTINDO PARA O MÉXICO
+Porto Alegre, 1.
+Seguem hoje para o México numerosos acervistas que terminaram seus estudos na Republica Argentina.
+AS FESTAS EM QUE SE HOMENAGEOU O CORONEL CRIUMÔ
+Porto Alegre, 1.
+As cerimonias do real consórcio com a rainha, tão meiga e tão boa, com a doçura inigualável dessa familia real ingleza que não tem defeitos, já reconfortado, depois da haver chorado assaz e chorado aos soluços, sorri agora, ao relembrar a coragem superior e a calma com que assistiu á explosão o seu bravo esposo.
+A D. Affonso XIII não quer que se fale mais no attentado. A policia prosiga o inquérito, mas que suas nupcias não sejam mais perturbadas. E, consagrando a phrase celebre do Sr. Charles Dupuy, quando presidente da Câmara franceza, o jovem e voluntarios o rei ordenou:
+—Não foi nada! As festas continuam.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- SECTION_HEADER START ---
+ATTENTADO CONTRA AFFONSO XIII
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Madrid, 1.
+A população desta cidade cala ainda sob a tristissima impressão causada pelo attentado anarchista de hontem contra a vida do rei Alfonso XIII.
+De todos os pontos do reino e do estrangeiro chegam noticias da indignação que o doloroso acontecimento despertou.
+O governo expediu ordens para que o enterramento das victimas seja feito por conta do Estado. O rei Alfonso e altos dignatários da côrte assistirão ás ultimas homenagens prestadas aos mortos, que até agora são em numero superior a 18.
+Os feridos são calculados em 80.
+Todas as representações das embaixadas especiaes estrangeiras estão incolumes.
+A juven rainha Eugenia de Hespanha continua ainda indisposta, presa de grande excitação nervosa que lhe causou o attentado, sobre o qual ha mais as seguintes informações:
+Logo depois da explosão o Sr. Segismundo Moret, presidente do conselho, collocou-se ao lado da nova carruagem para a qual foram conduzidos os soberanos, acompanhando-os até ao palácio real.
+O Infante D. Carlos de Bourbon, cunhado do rei Affonso, no dar-se o attentado, abandonou o seu filho na carruagem em que vinha e foi collocar-se junto ao coche real.
+Ao chegar o cortejo ao palácio, foi feita estrondosa ovação ao rei Alfonso XIII pelos príncipes e representantes estrangeiros, que o felicitaram pelo sangue frio e coragem de que dera provas na occasião do vil acontecimento, que todos os hespanhoes deploram e condemnam.
+No palácio real reina grande tristeza; ha opiniões de que os festejos das bodas devem ser suspensos.
+É extraordinária a romaria de pessoas que a todo instante chegam ao palácio para saber pormenores e felicitar os soberanos. Os livros da portaria tem milhares de assignaturas.
+Consta que o autor do attentado é o anarchista Mateo Moran.
+COMENTARIOS E FELICITAÇÕES - D. Carlos de Bourbon visita os feridos - Versões sobre o crime - O numero de bombas - Um dos autores victimado - «Quem era esse individuo?» - Inquerito e diligencias policiaes - Prisões após o attentado - Pedido de libertação de um delles - Recusa das autoridades - Visita do rei ao Hospital - Na Câmara franceza; discurso do presidente do conselho - Uma noticia do «Temps» - Officios pelos bispos francezes - Te-Deum na capela Sixtina.
+Madrid, 1.
+O rei Alfonso XIII mandou visitar as pessoas feridas no attentado de hontem.
+Foi incumbido disso o infante D. Carlos de Bourbon, que esteve também no hospital militar informando-se do estado dos soldados e officiaes da escolta real attingidos pela explosão.
+O marquez de Tolosa, ao sabor da horrivel desgraça que victimaram sua esposa e uma filha, foi acomettido de uma syncope, achando-se seriamente enfermo.
+Londres, 1.
+Em artigos vibrantes, os jornaes londrinos atacam o attentado anarchista contra o rei de Hespanha, taxando-o de estupido e deshumano e felicitando a nação hespanhola pelo seu matrimonio.
+Em sua segunda edição, o Daily Mail publica um telegramma do seu correspondente em Madrid dizendo que o autor do attentado se chama Mateo Moran e conseguiu escapar ás pesquisas da policia.
+Este indivíduo tinha-se afastado de Barcelona no dia 21 de maio, indo hospedar-se nos principaes hoteis da capital. O proprietário do estabelecimento diz que o novo hospedo lhe recommendara que queria um quarto isolado, para poder trabalhar livremente, pois vinha incumbido de importante missão. O hospede, segundo declararam os empregados do hotel, sempre que se recolhia aos seus aposentos, trazia grande quantidade de flores, que depositava sobre uma mesa, occupando-se horas seguidas em fazer bouquets, que depois destruía. Pagava pontualmente e dava aos criados avultadas gorjetas.
+Roma, 1.
+Proseguem com toda a actividade as diligencias para a captura dos anarchistas implicados no attentado da Calle Mayor. Hoje de manhã foi preso, na estação de Madri-Din, um inglez do nome Roberto Hamilton, em quem um policial reconheceu um dos indivíduos que appareceram na sacada da casa n. 88, na occasião em que o anarchista Moran arremessou a primeira bomba.
+Em occasião da captura o povo tentou lynchar o preso, ao que obstaram as autoridades, que tiveram necessidade de usar de meios violentos para conter o multidão.
+Pouco depois foram presos na mesma estação mais tres anarchistas, que já haviam comprado passagem para o estrangeiro.
+O embaixador inglez, no ter conhecimento da prisão de Robert Hamilton enviou um officio ao chefe de policia, pedindo a sua libertação e declarando que o preso era pessoa conhecida e absolutamente estranha no attentado e seus autores,
+Madrid, 1.
+O rei D. Alfonso e a rainha Eugenia percorreram hoje em automovel e sem escolta as principaes ruas da cidade.
+Aos lados da carruagem corria enorme multidão, clamando vivas á Hespanha e aos soberanos
+Madrid, 1.
+O rei D. Alfonso visitou hoje de tarde no hospital as pessoas feridas pela explosão da bomba, assistindo em seguida, acompanhado dos ministros, ao enterro dos soldados que guardavam a portinhola da carruagem real na occasião do attentado.
+Madrid, 1.
+Esteve imponentissimo o enterro dos officiaes e soldados mortos no attentado de hontem.
+As cerimonias funebres presidiu o ministro da guerra, assistindo representantes da familia real, todos os ministros, membros das missões estrangeiras, todos os officiaes da guarnição e um pelotão de cada regimento.
+Nas immediações do templo onde se realizaram as exéquias estacionavam milhares de pessoas, que acompanharam o prestito até ao cemiterio, onde foram pronunciados vários discursos.
+Madrid, 1.
+As autoridades recusam relaxar a prisão do subdito inglez Robert Hamilton em quanto não ficar provada a sua innocencia.
+Londres, 1.
+Os jornaes publicam telegrammas de Madrid annunciando ter sido preso o indivíduo que arremessou a bomba contra a carruagem dos reis da Hespanha.
+Paris, 1.
+O presidente do conselho pronunciou hoje na Câmara eloquente discurso, condemnado o barbaro attentado de que foram sendo victimas os reis da Hespanha, e terminou felicitando suas magestades por terem escapado ilesos da covarde aggressão.
+Paris, 1.
+Le Temps publica telegramma de Madrid communicando que a bomba lançada contra a carruagem dos soberanos matou 25 pessoas e feriu 60.
+Paris, 1.
+Os bispos francezes, terminada a conferência que hoje realizaram, dirigiram-se á igreja do Sacré Coeur, onde foi celebrado um officio religioso em acção de graça pelo mallogro do attentado contra os reis de Hespanha.
+Roma, 1.
+O presidente Fallières enviou telegramma aos soberanos hespanhoes felicitando-os por terem saido ilesos do nefando attentado anarchista.
+Roma, 1.
+No próximo domingo, ás 10 horas da manhã, será celebrado na capella Sixtina um Te Deum em acção de graças pelo mallogro do attentado contra os reis de Hespanha.
+Á ceremonia assistirão sua santidade o cardeal e todo o corpo diplomatico junto ao Vaticano.
+Roma, 1.
+Os jornaes desta capital, occupando-se do attentado de que foram sendo victimas os reis da Hespanha, censuram esse acto e excitam as autoridades a mover uma guerra de morte aos anarchistas.
+O papa e o rei Victor Manoel logo que tiveram conhecimento do attentado enviaram telegrammas de felicitações ao rei Alfonso e á rainha Eugenia.
+Paris, 1.
+Todos os jornaes desta capital condemnam o attentado contra o rei Alfonso XIII.
+O Matin publica um telegramma do seu correspondente em Madrid dizendo ter ouvido o deputado Campello declarar em uma roda de amigos que estava convencido de ser autor do attentado um anarchista italiano, que se evadiu.
+Buenos-Aires, 1.
+Causaram nesta cidade a mais triste e desagradável impressão os successos de hontem, em Madrid.
+Todas as classes sociaes, nacionaes e estrangeiras, reprovam o abjecto attentado. Durante todo o dia de hoje, assim, tem sido uma verdadeira romaria ao palácio da legação hespanhola, manifestando este sentimento e apresentando felicitações por terem saido ilesos os soberanos,
+O chefe de policia conferenciou com os chefes dos serviços de investigação secreta, determinando que exerçam a mais severa vigilância sobre os anarchistas aqui residentes.
+Está verificado que Mateo Gumaro, supposto autor do attentado, nunca esteve nesta cidade.
+Montevideo, 1.
+Causa geral indignação o estupido attentado que hontem ensangüentou a Calle Major, em Madri. A sua magestade o rei Alfonso XIII, o presidente da Republica e associações hespanholas enviaram telegrammas de felicitações por
+--- ARTICLE END ---
+
+--- PAGE 3 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+O ENSINO NACIONAL
+O INQUÉRITO DO «PAIZ»
+(Opinião do Dr. Leoncio de Carvalho)
+(Conclusão)
+Os pais, tutores ou protectores de um menor, que não tenha completo os estudos das matérias do

@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-12-26",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The edition contains a single, brief, and purely factual mention of the Caixa de Conversão.  It reports on a procedural instruction from the Minister of Finance without offering any opinion or argument related to the broader monetary debate.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O Sr. ministro da fazenda determinou que a Casa da Moeda remettesse á caixa do conversão uma relação minuciosa, designando a série e numeros das notas conversíveis que ali se reimprimissem e doutorem inutilizadas.",
+            "reason_for_inclusion": "This is the only mention of the \"Caixa de Conversão\" in the entire edition and is purely factual."
+        }
+    ]
+}

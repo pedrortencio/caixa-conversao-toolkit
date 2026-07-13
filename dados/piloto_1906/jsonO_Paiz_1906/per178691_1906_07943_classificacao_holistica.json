@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-07-05",
+    "overall_classification": "Leaning Orthodox",
+    "stance_score": -1.0,
+    "overall_justification": "While the edition reports on the proposed structure of the Caixa de Conversão, the emphasis on maintaining a fixed exchange rate and the concern about potential misuse of funds align with core Orthodox principles. The article highlights the importance of the Caixa being \"destinada a receber moedas de ouro\" and \"resgatáveis em ouro,\" suggesting a focus on gold convertibility and stability, key concerns of the Orthodox perspective.  The cautionary tone regarding the separation of the Caixa from valorization schemes further reinforces this classification.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Pensar-se-ia em criar uma caixa destinada a receber moedas de ouro e outras casas, em troca de bilhetes ao portador representativos do valor egual, calculado á media dos dinheiros esterlinos por libra.",
+            "reason_for_inclusion": "This quote, from a report on David Campista's proposed structure for the Caixa, emphasizes the receipt of gold and exchange for notes, indicating an Orthodox concern for a gold-backed, stable currency."
+        },
+        {
+            "quote": "Os bilhetes terão curso legal e serão resgatáveis em ouro pela mesma caixa, que em caso algum poderá ser destinada a outro fim.",
+            "reason_for_inclusion": "This reinforces the focus on gold convertibility and the Orthodox concern that the Caixa should not be used for other purposes, such as valorization, which could threaten currency stability."
+        },
+        {
+            "quote": "Sabe-se agora que nas duas questões annexadas no convenio de Taubaté serão consideradas separadamente. A valorização do café correrá por conta dos Estados interessados e a Caixa de Conversão será objecto de um projecto de lei especial...",
+            "reason_for_inclusion": "The separation of the Caixa from the valorization scheme, a key Orthodox concern, is highlighted here.  This suggests a cautious approach to avoid potential inflationary pressures from valorization being linked to the Caixa."
+        }
+    ]
+}

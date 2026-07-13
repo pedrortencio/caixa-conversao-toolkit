@@ -1,0 +1,307 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+Anno XXVI
+GAZETA DE NOTICIAS
+RS. 3:000$000
+PREMIO TRISESTRAL AOS SEUS LEITORES
+1o premio de 6:000$
+2o » 400$
+3o » 300$
+4o » 200$
+5o » 100$
+6os a 10os 50$
+--- PAGE_METADATA END ---
+--- IMAGE START ---
+Image present.
+--- IMAGE END ---
+--- BLOCK:SubscriptionInformation START ---
+ASSIGNATURAS PARA A
+CAPITAL
+SEMESTRE ANNO
+PAGAMENTO ADIANTADO
+16$000  30$000
+ASSIGNATURAS PARA OS ESTADOS
+SEMESTRE ANNO
+PAGAMENTO ADIANTADO
+10$000  20$000
+NUMERO AVULSO 100 RS.
+Os artigos enviados á redacção não serão restituídos ainda que não publicados
+--- BLOCK:SubscriptionInformation END ---
+
+--- COLUMN 1 ---
+--- BLOCK:Lottery START ---
+QUARTO SORTEIO
+24 MACHINAS DE COSTURA
+De 18 de Junho a 30 de Julho
+de 1906
+CONCURSO
+(Gratuito aos que fizerem as-
+signatura de 6 mezes) durante
+o numero extraordinario de
+MACHINAS DE COSTURA
+(Distribuído em 4 sorteios).
+As 24 machinas serão
+distribuídas em 4 sorteios: A,
+B, C e D, 6 machinas em
+cada sorteio.
+As machinas serão em
+seguida postas em posse dos seus
+legítimos possuidores ou entregues
+a pessoas idôneas que os representem.
+ENTREGA DOS PRÊMIOS
+AOS 30 DE JULHO
+--- BLOCK:Lottery END ---
+--- HEADLINE START ---
+HOJE —8 PAGINAS
+--- HEADLINE END ---
+--- BLOCK:Summary START ---
+SUMMARIO
+Matto Grosso.
+Cambio e Café.
+Convênio de Taubaté na Câmara.
+Joaquim Nabuco.
+Príncipe de Cariati.
+Revolução em Matto Grosso.
+O programma naval.
+Um crime nas Furnas.—Forasteiro assassino.
+Rabiscos. — Oliveira e Silva.
+A herança do padre Lomba.
+Roubo á Casa da Moeda.
+Carta de Villa Rica.
+«Gazeta» dos Sports.
+«Gazeta» das crianças.
+Folhetim. —Amor mágico.
+Prefeitura.
+A comedia do Jury !
+--- BLOCK:Summary END ---
+--- ARTICLE START ---
+As 24 horas
+INTERIOR
+DO TEMPO — O thermometro subiu hontem á tarde a 27º,0. O mínimo foi de 20º.
+Barometro: 75º,8 pela manhã.
+76º,6 á tarde.
+Céo limpo.
+Médias da temperatura nos Estados:
+Cuyabá, 19,20; S. Paulo, 18,65; Florianópolis, 21,03; Porto Alegre, 10,23.
+O DIA.— Desde o nascer do sol o dia foi formoso, de uma claridade intensa e viva, sem uma sombra que deslustrasse as magnificencias da luz que o illuminavam gloriosamente.
+Dessa apothéose surgiam num forte destaque, muito nítidas e coroadas de luz, as eminências da soberba moldura que enquadra a querida Sebastiano do Rio, e sobre a face tranquilla do mar passavam virações cariciosas, abrandando os excessos do calor.
+A temperatura como se vê do registro do observatório, variou muito da manhã para a tarde.
+De 20º com que se contentou o thermometro ás 7 horas da manhã, subiu a 27 á 1 hora da tarde.
+POMPA FUNEBRE — Contrastando com os esplendores da festa dessa manhã de galas, revestia o centro da cidade o luto de uma grande pompa fúnebre.
+Na Candelária celebraram-se as exéquias solemnes que o governo do rei Victor Emmanuel de Itália mandara fazer pelo seu ultimo representante diplomatico no Brasil, o mallogrado príncipe de Cariati.
+Além da representação official do Brasil e da Itália, tomaram parte nessa derradeira homenagem á memória do illustre diplomata innumeros amigos que elle havia feito no seu posto e no notável concorrência de membros distintos da grande colónia italiana.
+A CÂMARA DOS DEPUTADOS—Para votação das matérias da ordem do dia não houve numero. Depois de agitado debate sobre os successos de Matto Grosso não podia haver calma para as deliberações. De das matérias dadas a debate ninguem se occupou, de sorte que foi encerrada a discussão de diversas matérias, que vêm augmentar a lista já crescida das muitas que pendem de voto.
+O SENADO — A única matéria a discutir teve a discussão adiada, em virtude de uma emenda.
+O governo resolveu-se finalmente dar conta ao parlamento da grave situação do Estado de Matto Grosso, ha mezes conflagrado por uma revolução armada contra o presidente do Estado, revolução que terminou pela morte deste.
+Nos termos do regimento e de accordo com a praxe, essa mensagem devia ir immediatamente á commissão de Constituição e justiça que, examinado o assumpto, proporia as medidas que cabe ao Congresso decretar em taes casos.
+Houve, entretanto, dous requerimentos de urgência no sentido de serem essas medidas immediatamente propostas em projecto por aquella commissão, e discutidas em seguida e até para que, independente da audiência da commissão, se discutisse a mensagem e se tomassem as deliberações que ella suggerisse.
+A Câmara, por grande maioria, não concedeu a urgência, que parecia indispensavel á minoria, nessa campanha representada pelos Srs. Pedro Moacyr e Barbosa Lima, fortemente amparados na bancada pernambucana e em alguns outros deputados de diversos Estados.
+Duvidando por duas vezes o leader, Sr. Carlos Peixoto, e dous membros da commissão de Constituição, os Srs. Germano Hasslocher e João Luiz Alves, a Câmara leve por melhor submetter o grave assumpto ao estudo da commissão, reservando-se para deliberar na conformidade do seu alvitre.
+Prevaleceu, naturalmente, entre outras, a consideração de que, se ao governo foram necessários dez dias, a contar do dia 1º do corrente, para ponderar a conveniência de communicar ao Congresso o que se passava em Matto Grosso, elle que possuía as informações sobre os successos, e só elle as possuía, ao corpo legislativo seria preciso ao menos um pouco mais de alguns minutos para discutir e votar as medidas de excepção que aconselhassem os successos.
+É bem de ver que esse incidente tornou a sessão por vezes agitada.
+No Senado as cousas correram mais tranquillamente. Não foi discutida a mensagem, nem se suggeriram alvitres.
+Ouvida a leitura daquelle documento, que teve o destino regimental, o Sr. A. Azeredo, senador por Matto Grosso, pronunciou o discurso de que damos o resumo em outra columna.
+O CAMBIO- — Tornaram-se hoje mais sensível. Dir-se-ia que o Banco do Brasil,desde que passou a sacar a 10 15/16 d., fornecia letras que serviam de cobertura ; com effeito, sendo certo que, simúltaneamente, os outros bancos compravam esse preço e vendiam a 16, 17 d. de letras legítimas, em todo o caso, era ainda bastante precárias por esse lado as condições legítimas do mercado.
+Os bancos estrangeiros deram as tabellas de 10" 7/8 e 16 27/32 d., esta apenas no London, repetindo o da Brasil a de 10 15/16 d., a que sacava com dinheiro para cobertura a 17 d.
+Os outros sacadores forneciam cambio a 16 1/16, 17/32 e 1/2 d., comprando a 10 7/16 d., mas achavam-se pejados nos movimentos por não lhes levarem cobertura nos tomadores do bancário.
+Nesse estado, ainda irresoluto, permaneceu o mercado em contemporisações, com o bancário negociado de 16, 16 3/4 a 10 15/16 d., contra 16 particular e repassado de 16 15/16 a 17 d.; os soberanos regularam de 11$300 a 11$350 e os vales, ouro, a 1$010, sem movimento de importância.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- ARTICLE START ---
+A REVISÃO DO PROCESSO DREYFUS.— A revisão do processo Dreyfus, promovida ante a Suprema Corte de Cassação pelos seus defensores, serviu de assumpto a um artigo do importante jornal Le Temps que diz ser necessário acabar quanto antes com essa nova agitação. A justiça dirá a ultima palavra para que se ponha uma pedra sobre esse dramático e perturbador capítulo da história nacional.
+La Patrie affirma que a carta publicada pelo general Mercier, que foi ministro da guerra quando Dreyfus foi processado e condemnado, assustou muitos partidários do capitão, os quaes receiam que elle seja submettido a novo conselho de guerra.
+A questão complica-se agora. A malfadada carta é causa de um duello cujas condições se estão combinando.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+FORMIDÁVEL INCÊNDIO. — Declarou-se ao meio-dia de hontem um pavoroso incêndio que destruiu, em Sevilha, o prédio em que funcionavam as repartições do governo civil, de fazenda e das obras publicas.
+O serviço de extincção do violento fogo tornou-se muito difficil em consequencia da grande falta de água.
+Os prejuízos foram consideráveis.
+Não só ficou destruída grande parte do edifício, como foram devorados quasi todos os documentos daquellas repartições publicas.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+PROJECTO DE AMNISTIA.— Na câmara dos deputados franceza, discutiu-se hoje o projecto de amnistia nos que tomaram parte no complot de maio ultimo em Paris.
+O deputado Berry pronunciou um longo discurso em que declarou que as victimas do governo não desejam de modo algum que essa medida os atinja, porque nenhum crime commetteram e por consequencia não precisam da benevolencia do ministério. Terminou o orador dizendo que o governo deveria confessar quanto antes que o pretenso complot monarchista é pura invenção dos poderes publi- cos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+ULTIMAS NOTICIAS.—A Municipalidade de Paris offerecer um banquete de 200 talheres ao rei do Cambodge, Sisawah.
+A Câmara dos Deputados approvou por 573 votos contra 1 a lei do descanso hebdomadário.
+Nas províncias da Rússia aggrava-se a situação; ha constantes conflictos entre os camponezes e as tropas.
+Em Grodno e Odessa declarou-se a greve geral.
+O rei D. Carlos agraciou com a gran-cruz da Torre e Espada o conselheiro João Franco, presidente do conselho.
+O governo italiano propoz a retirada da força de carabineiros destacada na ilha de Creta.
+Na Argentina, o Sr. José Pedro Ramirez organisa novo partido.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O CAFÉ—No mercado legítimo houve hontem menos animação. Melhorando também ligeiramente o banco. As notícias do exterior foram pouco favoráveis, abrindo o mercado no Centro calmo, na base de 6$300, vigorando, porém, ainda preços estimativos (6$700 a 6$800) para as poucas amostras a venda de cafés de côr; do café exposto foram retirados bastantes lotes regulando 6$400 a 6$500 a base offerecida pelas descripções americanas a ceceia em alguns casos e não pelos vendedores de Santos. Para exportação a procura esteve limitada aos cafés do estylo, não operando ainda as casas americanas. Á tarde, até á tarde.
+Foram 4.000 saccas as vendas do dia. 2.000 a 3.000 reahsadas no mercado da manhã e 1.000 saccas adquiridas aos ensaccadores.
+Em opções houve menos actividade com vendedores para setembro a 6$900 preço a que havia hontem compradores, constando mesmo negócios então reahsados a 7$000.
+Por Jundiahy passaram : entrando aqui 3.200 saccas dentro e cabotagem.
+Os mercados do exterior, que fecharam ante-hontem com 1/8 de alta na Europa e 5 pontos de baixa nos Estados Unidos, abriram hontem com 1/4 a 1/2 de baixa na Europa e sem alteração em Nova York, mantendo as bolsas da Europa nas segundas chamadas a baixa da abertura.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+CAMBIO E CAFÉ
+A differença que nos merece todo o juizo emittido pelo illustre Sr. Dr. Serzedello Corrêa obriga-nos a considerações muito rápidas, por agora, quanto ás suas opiniões hontem divulgadas nas columnas d´O Paiz sobre a Caixa de Conversão. A opinião publica está distraída por outros assumptos, e mesmo sobre este assumpto de capital importância está se aguardando o que haverá de definitivo no voto da commissão de finanças da Câmara, de que o Sr. Serzedello Corrêa é membro proeminente ; mas antes mesmo do pronunciamento da commissão, apenas hontem convocada pelo primeira vez e cujos debates poderiam modificar as opiniões de que a carta publicada em um dos factos consummados é que a revolução é o único recurso das populações que se julgam opprimidas. o que quer dizer que o nosso regimen federativo, tal como tem sido executado, não tem a elasticidade precisa para respeitar todos os direitos e reprimir todos os abusos e todas as violências.
+Náo é a primeira vez que o Banco da Republica, com todo o prestigioso amparo que lhe foi dado, não conseguiu obter a subscripção para um terço do capital do Banco do Brasil, e as acções do Banco do Brasil, na proporção da avaliação das acções antigas, valem menos de 130$, perdem 23 % do seu valor no próprio acto da emissão. O Sr. Serzedello Corrêa lembra o recurso dos capitaes estrangeiros e o desenvolvimento do nosso trabalho; mas ás industrias, de que S. Ex. é tão notável paladino e que tanto realmente lhe devem, S. Ex. acena com a taxa de 24 d., e aos capitaes estrangeiros, cuja fixação pretende obter, S. Ex. pondera que as actuaes taxas de cambio representam muito de especulação, o que é verdade, e aponta a perspectiva de todas as oscillações desde uma taxa que seja hoje verdadeira até os limites da ambicionada taxa de 21, isto é, S. Ex. assigala toda a desconfiança na estabilidade da moeda, que é a primeira das condições de retenção de capitaes formados por um valor universal.
+Em uma cousa tem razão o Sr. Dr. Serzedello Corrêa, e é quando diz que a fixação do valor do ouro não pôde ser feita por leis nem por decretos. Naturalmente, porém, S. Ex. fez ao illustre relator do Convênio a justiça de acreditar que não é esta a pretenção do debate ha longos mezes. As opiniões podem dividir-se e defla e cimente», mas sim objectos de relojoaria, o que constituía um grosso contrabando.
+EXTERIOR
+RECORDAÇÕES DA GUERRA.—O conselho de guerra a que respondeu o almirante Rodjestvensky, pela derrota que soffreu como commandante em chefe da esquadra russa no combate de Tsu-Shima, absolveu-o ; condemnour, porém, á morte quatro officiaes, para os quaes se pedirá o perdão do czar. A triste guerra da Rússia com o Japão custou á primeira os maiores lagrimas, e essa celebrada esquadra do mar Baltico, tão formidável, os pescado- pique no primeiro encontro que teve com as forças japonesas. O almirante Rodjestvensky, que atacou covardemente
+--- ADVERTISEMENT END ---
+
+--- COLUMN 3 ---
+--- ADVERTISEMENT START ---
+3.200 saccas por barra.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+POLICIA
+Foi recolhido ao hospital da Misericórdia Joaquim Gonçalves da Veiga, que se feriu caindo de um sotão.
+— Foi preso Antonio de Tal, vulgo Siaquimbé, que ha dias assassinou Maria das Dores, com duas facadas no ventre.
+A prisão se effectuou na Tijuca.
+Um crime destinado a prender a attenção publica, por mais de um dia — o que se deu hontem na Tijuca—pelo mysterio que o cerca, apezar de reconhecida logo a victima e preso o supposto assassino. Mas exactamente o que o torna mysterioso é este, pelo seu typo original, entre nós. Estrangeiro, trajando a africanista, armado de carabina, de revólver, de faca, de canivete, o forasteiro que aqui aportou ha poucos dias errou até ás furnas da Tijuca, onde fez pouso.
+Pela manhã, hontem, passava por alli Umbelino, filho de um pequeno lavrador.
+O forasteiro desfechou-lhe dous tiros de carabina Mauser. Depois arrastou o cadáver para uma grota, tomou conta dos animaes do morto e locou para a Bõa Vista. Em caminho, foi preso. Deu o nome de John Alexander Meyer e disse ser austríaco.
+Custodio Pereira Barbosa foi apanhado e morto por um trem, na estação de Sapopemba. O seu cadáver foi removido para o Necrotério.
+— O trabalhador Francisco de Abreu Lopes machucou-se, por ter dado uma queda quando carregava tubos de ferro no Retiro Saudoso.
+Na rua dos Inválidos, de umas obras cahiu o operário José Pelagone.
+Foi para a Santa Casa.
+A bordo do «Coblenz», foi victima de um desastre Manuel Pereira, que teve as pernas quebradas e todo o corpo bem machucado. A policia mandou-o para a Santa Casa.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+NOS ESTADOS.-No Rio Grande do Sul naufragou um vapor, o Eugenia. O sinistro deu-se no logar conhecido por Carpintaria, entre Cacequy e Uruguayana. Todos quantos iam a bordo salvaram-se. A carga, porém, perdeu-se, causando um prejuízo de oitocentos contos.
+O eminente diplomata Sr. Joaquim Nabuco não terá recepção festiva solemne no Rio. S. Ex. já participou ao governador de Pernambuco que saltaria no Recife com cerca de 30 delegados ao Congresso Pan-Americano. Ser-lhe-ão feitas ahi festas grandiosas.
+O Tribunal de Appellação e Revista da Bahia reuniu-se para tratar do juramento e posse do seu presidente; pedindo ao governo para designar o dia e hora em que se deverá realisar essa solemnidade.
+A não ser a morte de um ex-negociante em extrema pobreza e a partida do deputado Rocha Leal para o interior, afim de tratar de sua saúde; nada
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+João Barbosa Amorim andava a vender um estojo de barbearia.
+Não explicando a procedência do mesmo, foi preso e levado para a 7ª urbana.
+— O Sr. Sebastião Rodrigues da Motta foi atropellado e ferido pelo veículo guiado por José Gonçalves Ribeiro.
+Este foi preso.
+--- ADVERTISEMENT END ---
+
+--- PAGE 2 ---
+
+--- COLUMN 1 ---
+--- BLOCK:Lottery START ---
+OS SORTEIOS
+DA
+GAZETA DE NOTICIAS
+1º SORTEIO
+de 6:000$000
+2º SORTEIO
+de 400$000
+3º SORTEIO
+de 300$000
+4º SORTEIO
+de 200$000
+5º SORTEIO
+de 100$000
+6os a 10os SORTEIOS
+de 50$000
+É fazendo a somma de 7:350$000
+Estes sorteios se effectuarão sem prejuízo do concurso de
+24 MACHINAS DE COSTURA
+cuja entrega dos prêmios se fará aos 30 de julho.
+--- BLOCK:Lottery END ---
+--- BLOCK:Coupons START ---
+COUPONS
+HISTORIAS
+Era uma vez uma senhora que queria comprar alguidares de barro. Estava á porta da casa quando passou o vendedor.
+Chamou-o e começou a escolher. Batia com o dedo num, com o dedo noutro, experimentando o som, examinando qual o alguidar mais resistente. E nisso levou um tempo immenso.
+O vendedor, pacientemente, ia mostrando uma por uma da sua mercadoria.
+Nisto appareceu um maluco, muito conhecido no lugar, um pobre diabo que vagava pela rua, sem ter casa, fazendo graça para o povo que o via fazendo, minha senhora?
+Vendo destes alguidares qual o melhor.
+Deixe-me ver. Conheço bem a fazenda.
+E sentou-se. Tomou dous alguidares, um na mão esquerda e outro na direita.
+E atirou um no outro. Os dous alguidares, que eram de barro, quebraram-se logo ao primeiro choque. São muito prestas; quebram-se logo!
+--- BLOCK:Coupons END ---
+--- BLOCK:CouponsList START ---
+Recebemos coupons dos seguintes concorrentes:
+1.000, do nosso amiguinho Lolinho Fontella, para os pobres da Gazeta; 370, do nosso camaradinha Antonio Ribeiro, para o mesmo fim ;
+500, do interessante Nestor de Oliveira.
+--- BLOCK:CouponsList END ---
+--- ARTICLE START ---
+ISTO, ISSO E AQUILLO
+De tempos em tempos se discute a constitucionalidade da reforma compulsória. Discute-se, ora no Congresso, ora nos tribunaes. Até hoje, entretanto, ella tem sido conservada.
+Tem sido e deve ser porque é perfeitamente defensável.
+Há tres classes que, em todos os povos, têm tido um tratamento especial: magistrados, professores e militares.
+Esse tratamento não é um favor : é uma garantia contra os que exercem certas profissões, cujos erros podem ser irreparáveis. Por isso, é preciso não esperar que ellas demonstrem a invalidez, que nem todas as moléstias deixam perceber. Deve ser bastante que cheguem a uma idade, já lícito presumir o cansaço ou o enfraquecimento da attenção. Num lapso de magistrado, que já não tem o enthusiasmo pela sua profissão, vai ás vezes o patrimônio, o bem-estar, a honra dos cidadãos. Num desleixo do professor, que se tornou rotineiro pela fadiga do exercício, vai a perda de gerações de crianças ou de rapazes. Num entibiamento da decisão, que o militar não soube tomar a tempo, póde ir a perda de uma batalha, de que resulte a mutilação do território nacional, ou advenha uma derrota vergonhosa. É para evitar esses prejuízos que a invalidez dos membros dessas tres classes se presume tacitamente, desde que attinjam certa idade ou já tiveram um certo exercício.
+Póde-se discutir, portanto, só a idade para a reforma compulsória nos vários postos está bem marcada; mas o principio em si da compulsória dos magistrados, professores e militares é perfeitamente justo e tradicional.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- HEADLINE START ---
+MENSAGEM AO CONGRESSO NACIONAL
+NA CÂMARA DOS DEPUTADOS
+PROJECTO DE ESTADO DE SITIO
+NO SENADO
+Discurso do Sr. A. Azeredo
+TELEGRAMMAS E OUTRAS INFORMAÇÕES
+--- HEADLINE END ---
+--- IMAGE START ---
+Portrait of a man.
+--- IMAGE END ---
+--- CAPTION START ---
+CORONEL ANTONIO PAES DE BARROS
+Presidente do Estado de Matto-Grosso e que foi morto pelos revolucionários
+--- CAPTION END ---
+--- ARTICLE START ---
+O Convênio
+Foi hontem na Câmara dos Deputados, na commissão de finanças, apresentado pelo Sr. David Campista o seu parecer sobre o Convênio de Taubaté. O Sr. Serzedello Corrêa apresentou um voto em separado, no qual se manifesta contra a Caixa de Conversão e apresenta meios tendentes a melhorarem o nosso problema monetário.
+O parecer, que foi a imprimir, para estudo do Sr. Cincinato da Fonseca, que delle terá conhecimento depois de impresso.
+O ex-deputado por Sergipe, Estelino Prado, esteve brevemente em nossa redação, deixando-nos o seu último número, que é o 5º, e apparece tratado com todo o esmero, vem cheio de artigos interessantes, trazendo ainda a continuação do excelente estudo assignado pelo director da revista, relativo á influencia do padrão da moeda sobre a evolução econômica e financeira do Brasil.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O ASSASSINATO DO CORONEL ANTONIO PAES DE BARROS
+Ainda não sabemos mais que o commandante da flotilha do Ladário, no seu despacho, confirmava o assassinato do coronel Paes de Barros, presidente de Matto-Grosso.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Do official do exercito
+O general Hermes da Fonseca, commandante do 1º districto militar, recebeu hontem telegramma do coronel Fontoura, commandante do 8º batalhão de infantaria do exercito, que se acha em Guyaha, communicando que o aspirante Mário Hermes havia estado naquella cidade como emissário do general Dantas Barreto, chefe da expedição militar que seguiu para Matto-Grosso, afim de soffocar a revolta.
+O coronel Fontoura participa igualmente haver o mesmo aspirante regressado, sem novidade, ao acampamento das forças expedicionarias, depois de ter cumprido a missão de que estava encarregado.
+O chefe do estado-maior do exercito, general Rodrigues de Salles, recebeu diversos telegrammas de Corumbá, do coronel Affonso de Oliveira, encarregado do expediente daquelle districto militar, informando a S. Ex. correr tudo em paz na cidade.
+Esses telegrammas foram enviados á residência do marechal Argollo, bem como os recebidos de Cuyabá. O coronel Dr. Moraes Rego, secretario do Sr. ministro da guerra, nos declarou que estes telegrammas careciam de importância, tratando unicamente de detalhes de serviço.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+O Sr. Príncipe de Cariati
+AS EXÉQUIAS
+No templo do Sacramento
+E FORASTEIROS
+Com toda a imponência e pompa, foram hontem celebradas, na matriz do Santissimo Sacramento, as exéquias em memoria do saudoso ministro da Itália, o Sr. príncipe de Cariati.
+O templo do Sacramento da antiga Sé, recentemente reformado, foi para essa solemnidade ornamentado com impeccavel gosto, revestido todo de negro velludo e ricamente decorado com sanefas negras franjadas de ouro que se espalhavam pelas tribunas, cêro, pulpito e portas. No centro da nave ostentava-se uma riquíssima eça, com dous estrados, tendo no alto o catafalco coberto por um manto de velludo grenat, tendo estampada uma cruz prateada. A eça se erguia envolta nos seus velludos negros, enchendo de tristeza e de commoção a alma italiana e nacional.
+A frente do catafalco via-se sobre o negro velludo uma riquíssima grinalda de flores artificiaes, tendo ao centro, num manto grenat, uma coroa de flores naturaes, tendo ao centro, num manto grenat, uma coroa de flores naturaes, com as letras F. C. entrelaçadas.
+Duas largas fitas negras cabiam com as inscripções: «Società Benevolenza Italiana e M. S. Centro de Instruzione e Circolo Operaio, al príncipe Cariati, ministro al Brasil.—Rio, 10—7—1906.»
+Em cima, no catafalco, as bandeiras italiana e brasileira envoltas em crepe entrelaçavam-se num estreito amplexo de saudade.
+Na face posterior appareciam dous trophéus armados com os pavilhões italiano e brasileiro, tendo na base uma coroa de flores naturaes deixando ver as letras seguintes, em italiano: «Delegazione d´Italia e comando della R. nave Fieramosca, al suo ministro plenipotenziario e inviato straordinario, al compianto suo capo...»
+Doze grandes tocheiros dourados circumdavam a eça, e sobre dous estrados, cento e cincoenta castiçaes ostentavam velas que illuminavam tristemente aquelle quadro. A guarda de honra ao catafalco foi dada por seis marinheiros italianos, do cruzador Fieramosca, de uniforme branco, e seis soldados do corpo de infantaria de marinha, em 1º uniforme.
+Sobre o catafalco pendia uma enorme aranha com quatro fachas negras com lagrimas de prata. No altar-mór, também revestido do pesado luto, destacava-se uma bella imagem de Christo, que repousava sobre uma grande cruz marchelada de prata.
+As exéquias
+As 10 1/4 já era extraordinária a concorrência de convidados.
+A essa hora foi dado começo ás exéquias solemnes, da qual foi officiante o Revdm. conego Manuel Marques de Gouvêa, auxiliado pelos Revdms. padres Populo Galaça, Francisco Traverso, Nino Minello, Francisco Pinto da Cunha, conego José Gonçalves Serejo, padres Vestri, Caetano, Donati, João da Silveira Madruga, Justiniano Antonio e Trigo de Negreiros.
+No coro executou marchas commovendes a orquestra da Escola Cantorum, sob a direcção do maestro Carlos de Carvalho, auxiliado pelos sargentos instructores o Libera-me de Perosi.
+As salvas
+Na occasião em que o sacerdote officiante, conego Manuel Marques de Gouvêa, elevou a hostia, as forças que se achavam formadas na Avenida Passos deram as descargas de estylo.
+A força
+As 10 1/2 horas da manhã, ao som da musica, entrava na Avenida Passos, marchando com garbo e trajando uniforme branco, a companhia de guerra do couraçado Fieramosca, sob o commando do tenente de navio M. di Ginsenbäch Max, trazendo como auxiliares os guardas-marinha: Julio Salastoro (porta bandeira); Rerolte Parisio, Pinto Roberto, Roberti Cuabatidci, e os machinistas Suffrenino Eaves e De Jelice Alberto.
+Logo após chegaram: a companhia de guerra do corpo de infantaria de marinha, sob o commando do capitão-tenente William Canditt, tendo como subalternos o 1º tenente Nicoláo Muniz e 2os tenentes Paes de Oliveira, Soares Dutra e Leal, e uma brigada do exercito, em 1º uniforme, com força do 1º batalhão de infantaria, sob o commando do major Affonso Uruguaj ; o 7º da mesma arma, commandado pelo coronel Lydio Porto e um esquadrão do 9º regimento de cavallaria, commandado pelo capitão Jorge Cavalcanti.
+Esta brigada formou sob o commando do sub-chefe do estado-maior do exercito, general Bernardino Bormann, tendo como ajudantes de ordens os 2os tenentes Azambuja e Saturnino Pereira, representando o Sr. ministro da guerra o capitão Pamplona, representando o marechal Argollo, ministro da guerra ; coronel Benevenuto de Magalhães, representando o Sr. ministro do interior ; tenente Costa, representando o Dr. chefe de policia ; capitão-tenente Paulo de Mendonça, representando o almirante Proença, chefe do estado-maior general da armada : capitão Isaltino Santos, representando o general Almeida Barreto; coronel Botafogo, 1º tenente Barros dos Santos Lima, representando o general Luiz de Medeiros, director geral de artilharia ; visconde de Ouro Preto, Dr. Pereira Passos, prefeito do Districto Federal; César Elli, presidente do Centro Italiano d´Instruzione Principo do Piemonte; Giovanni Luglio, Francisco Jannuzzi, Sociedade Internacional Memória a Humberto Primo , João Fazzani, Carlo Leopoldo Manavila, Luiz Calcagno, José Trolle, Elias Serais, Sociedade Beneficente Mutuo Soccorro, capitão de corveta Paulo de Mendonça, representando o almirante Proença, chefe do estado-maior da armada; Circolo Operaio Italiano, Società Italiana de Benefícenza e Mutuo Soccorro, Ospitale Umberto 1º, Socielá Italiana de Beneflcenza di San Paulo; Socielá Italiana de Beneflcenza e Mutuo Soccorro de Nova Friburgo, Luigi Camuyrano e família, Carlos Lix Kleber, cônsul geral da Republica Argentina ; José Ricaldone, Antonio Larroca e Mariano Lamasca pela Socielá Italiana B. Príncipe de Napoles, de Nova Friburgo; Raphael Santos, Leoncio Paixão, Nirola Alolli, Rataele Carnevale, Vincenzo Gribi, Américo Barbosa, Viriato Lemos, Alfredo Francisco Caparolli, Antônio Jannuzzi, Liga Operaria Italiana, G. Tironi, Cassio A. Farinha, pelo Tiempo e Tribuna Popular do Montevideo; capitão de fragata Marques da Rocha, Dr. Carlos A. Cavalcanti, Achille Bove, Camera Italiana di Commercio e de Arti de S. Paulo ; A. Gorila & C, G. Agueso, Armando Tavares Veras, aspirante de machlnista; Francisco Jannuzzi Júnior, aspirante de machlnista : Itamarte Ângelo, Pascoalli Michelli, Amadeu de Beaurepaire Rohan, pelo Jornal do Brasil; Sant´Anna Bario, E. Lino Sellos, pel´O Dia; Carmine Leonareto Manso, Giuseppe Miberlo, Joaquim da Silva Paranhos, Pasquale d´Ambuli, Dr. Rostilio Augusto Lopes, Francesco A. Arnato, presidente della Società Italiana ; Affonso Honorato do Azevedo, Zeopisto Lopes de Abreu, Caetano Segreto, Virgínio Menotir pelo Patronato dos Emigrantes de S. Paulo e Rebecchi, Henrique Cardone, Valentino & C, pela Unione Italiana; Vincenzo Copertmo, pelo Gircolo Operaio Italiano; Francisco Cosenza, pela S. I. M. S. de Petropolis; Horacio Quartin, pelo Correio do Povo; Carlos Ruysecco, pelo Fanfulla, de São Paulo; Agenor Nogueira, Adalberto Manuel Abad, Washington Santoro, Manoel do Senado do Brasil e o representante da Gazeta de Noticias.
+O aspecto das ruas
+Nas temperadas horas do dia de hontem foi extraordinaria a concorrência de pessoas em vehiculos e crianças, que se deslocavam para a Avenida Passos, afim de assistir ás exéquias em homenagem ao principe Cariati.
+Innumeras famílias, sendo extra-ordinária a concorrência de pessoas que se agglomeravam perto da igreja do Sacramento. As janellas e portas dos edifícios achavam-se guarnecidas de damas e crianças para assistirem ás vistorias
+--- ADVERTISEMENT END ---
+
+--- PAGE 3 ---
+
+--- COLUMN 1 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+PORTUGAL
+LISBOA, 10
+O rei D. Carlos chamou ao paço o presidente do conselho e agraciou-o com a gran-cruz de Torre e Espada.
+Sua magestade entregou ao conselheiro João Franco as próprias insígnias com o respectivo estojo.
+RUSSIA
+S. PETERSBURGO, 10
+Por divergências sobre o projecto da desapropriação das terras, que se discute na Duma Nacional, deu-se um conflito em Krasnoe Selo entre camponeses russ

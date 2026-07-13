@@ -1,0 +1,51 @@
+```text
+--- PAGE estadao74.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+O ESTADO DE S. PAULO
+S. PAULO - Domingo, 16 de setembro de 1899
+Anno XII - N. 3556
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+O CAFFÉ
+Ante-hontem
+100 rs.
+Hontem
+ 
+--- TABLE START ---
+| | Entrada | Saida | Existencia |
+|---|---|---|---|
+| Santos | 3.432 | 1.000 | 27.516 |
+| Rio | 2.800 | 6.000 | 46.750 |
+| Victoria | | | |
+| Bahia | | | |
+| Total | 6.232 | 7.000 | 74.266 |
+--- TABLE END ---
+
+--- ADVERTISEMENT START ---
+[ILLEGIBLE SECTION]
+--- ADVERTISEMENT END ---
+
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+
+--- ADVERTISEMENT START ---
+[ILLEGIBLE SECTION]
+--- ADVERTISEMENT END ---
+
+--- COLUMN 2 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 3 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 4 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 5 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 6 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 7 ---
+[ILLEGIBLE SECTION]
+--- COLUMN 8 ---
+[ILLEGIBLE SECTION]
+
+```

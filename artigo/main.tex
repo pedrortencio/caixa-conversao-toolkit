@@ -1,0 +1,52 @@
+% Artigo: O Câmbio na Imprensa — posicionamentos dos jornais brasileiros
+% sobre a Caixa de Conversão (1906-1914)
+% Pedro Ortencio Pires de Campos Telles — FFLCH-USP
+%
+% Compilar: pdflatex main && bibtex main && pdflatex main && pdflatex main
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{natbib}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\title{O Câmbio na Imprensa: os posicionamentos dos jornais brasileiros\\
+sobre a Caixa de Conversão (1906--1914)}
+\author{Pedro Ortencio Pires de Campos Telles\thanks{FFLCH-USP, História Econômica. pedrortencio@gmail.com}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% Resumo: pergunta (qual pensamento prevaleceu no debate da Caixa entre os
+% principais diários de RJ/SP), corpus (4 jornais, Hemeroteca Digital, 1906-1914),
+% método (stance detection por LLM validada por codificação humana, DSL),
+% principais resultados. 150-250 palavras.
+\end{abstract}
+
+\section{Introdução}\label{sec:intro}
+\input{secoes/introducao}
+
+\section{O debate monetário e a Caixa de Conversão, 1906--1914}\label{sec:contexto}
+\input{secoes/contexto}
+
+\section{Dados e método}\label{sec:metodo}
+\input{secoes/metodo}
+
+\section{Resultados}\label{sec:resultados}
+\input{secoes/resultados}
+
+\section{Conclusão}\label{sec:conclusao}
+\input{secoes/conclusao}
+
+\bibliographystyle{apalike}
+\bibliography{referencias}
+
+\end{document}

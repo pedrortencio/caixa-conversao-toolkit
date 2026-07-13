@@ -1,0 +1,322 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+Anno XXI—N.° 306 RIO DE JANEIRO—Sexta-feira, 2 de Novembro de 1906
+GAZETA DE NOTICIAS
+NUMERO AVULSO 100 RS.
+Assinaturas começam e terminam em qualquer mez
+PAGAMENTO ADIANTADO
+16$000
+8$000
+--- PAGE_METADATA END ---
+--- ARTICLE START ---
+Expediente
+DIÁRIO—Sai todos os dias NO RIO
+de Janeiro. Redacção e Administração—Rua do Ouvidor, 61—Primeiro andar. Telephono n.° 1029
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Typographia
+DA Gazeta de Noticias
+Rua 1° de Março, 70
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Loteria
+da Consolação
+Próxima mensalidade de 150$
+em 14 de Novembro
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Bilhetes
+em casa Arroz & C., Rua do Ouvidor, 68
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+R. MAS
+2 HORAS
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+24 HORAS
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+O DIA DOS MORTOS
+--- HEADLINE END ---
+--- HEADLINE START ---
+OS CEMITÉRIOS
+--- HEADLINE END ---
+--- HEADLINE START ---
+TÚMULOS ORNAMENTADOS
+--- HEADLINE END ---
+--- HEADLINE START ---
+A VISITAÇÃO HONTEM
+--- HEADLINE END ---
+--- IMAGE START ---
+Image present.
+--- IMAGE END ---
+--- ARTICLE START ---
+CÂMARA.—Embora o numero não desse para deliberar, chegou para abrir a sessão e adiantar trabalhos.
+No expediente os Srs. Wencesláo Escobar e Pedro Moacyr discutiram cousas eleitoraes do Rio Grande do Sul, a proposito de um requerimento do primeiro.
+Ainda não ficou encerrado esse debate porque pediu a palavra o Sr. James Darcy, já ao findar a hora do expediente.
+Ficou encerrada a discussão das emendas ao projecto de orçamento da guerra, depois de haverem falado o Sr. Galeão Carvalhal, relator, e o Sr. Homero Baptista, e bem assim a dos orçamentos das relações exteriores e do interior e justiça.
+No debate aberto sobre este ultimo projecto falaram os Srs. Domingos Gonçalves e Menezcs Doria.
+Mais treze projectos figuravam na ordem do dia, alem dos que ficam mencionados, mas desses ninguém falou e a respectiva discussão foi igualmente encerrada.
+A Câmara tem, assim, muita matéria sobre que deliberar, logo que para isso haja quorum sufficiente.
+
+GOVERNO DO RIO.—O Sr. Nilo Peçanha deu por terminado hontem o honroso mandato que lhe conferiu o Estado do Rio de Janeiro e que S. Ex. desempenhou com brilho para o seu nome correspondente ao proveito que tirou sua terra natal de uma administração intelligente, patriótica e orientada.
+Não vai repousar, concluindo obra tão meritória o illustre ex-presidente do Rio de Janeiro. Chamado pelo voto da nação ás altas funcções de vice-presidente da Republica, S. Ex. vai continuar, em outra esphera da acção, a prestar á causa publica os serviços que se tem o direito de esperar do seu talento e patriotismo.
+O governo do Estado do Rio passou para o vice-presidente Dr. Oliveira Botelho.
+--- ARTICLE END ---
+--- BLOCK:NotaConfidencial START ---
+Nota confidencial
+(de que todo o mundo tem noticia) em que o ministro de Portugal em Buenos Aires, aconselhava o governo argentino a recusar as propostas que lhe foram apresentadas para a creaçao e organisação de um serviço rápido de navegação entre a Republica platina e a Europa. A nota diplomática dizia que, esse serviço só poderia acarretar graves prejuízos aos interesses argentinos.
+--- BLOCK:NotaConfidencial END ---
+--- ARTICLE START ---
+ARGENTINA E OS GAFANHOTOS—A nossa visinha do sul, no louvável empenho de exterminar os gafanhotos, em nuvens ou não, gasta annualmente ricos milhões de pesos.
+Acontece, porém, que a medida tem-se verificado improficua; de facto, não basta gastar os milhões, o indispensavel é extinguir os gafanhotos. O deputado Uribuiú acha que isso, afinal, é um escândalo e, por esse motivo, vai interpellar o governo, o que fará na próxima segunda-feira, se não chover.
+--- ARTICLE END ---
+--- ARTICLE START ---
+OS JAPONEZES EM S. FRANCISCO—Sem se saber por que motivo, as crianças japonesas foram excluídas das escolas publicas de São Francisco da Califórnia.
+A noticia, transmittida para Tokio, tem dado logar a vehementes protestos.
+Ainda hontem realisou-se na capital japoneza uma reunião de jornalistas para protestar contra esse acto, considerando-o intolerável menosprezo dos Estados Unidos para com o Japão.
+Foram proferidos violentos discursos contra os norte-americanos, declarando-se todos solidários em exigir que o governo imponha aos Estados Unidos uma satisfação capaz de salvar a honra offendida do povo japonez.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ULTIMAS NOTICIAS—Aggrava-se a situação dos grevistas de Clyde, na Escossia.
+Falleceu o archiduque Otto Francisco.
+O czar e toda a familia imperial deixaram o palácio de Peterhof fixando residência em Tzarskoe-Selo.
+Foram desterrados para a Siberia o presidente e mais quatorze membros do conselho operário ; nove tiveram a pena de prisão, sendo alguns absolvidos.
+Foi inaugurado o ramal férreo entre Villa Real e Bragança, onde a população recebeu com grande júbilo a primeira locomotiva.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- PAGE_METADATA START ---
+Anno XXI—N.° 306 RIO DE JANEIRO—Sexta-feira, 2 de Novembro de 1906
+GAZETA DE NOTICIAS
+NUMERO AVULSO 100 RS.
+Assinaturas começam e terminam em qualquer mez
+PAGAMENTO ADIANTADO
+16$000
+8$000
+--- PAGE_METADATA END ---
+--- ARTICLE START ---
+Até actualmente a casa da moeda já cunhou cerca de 200$000 em moedas de prata.
+A troca dessas moedas pelas notas de 2$, 1$ e 500 réis vai augmentando sensivelmente, sendo muito procurado pelo publico.
+Nas officinas proseguem os trabalhos da cunhagem, tendo recebido a casa da moeda 20 barras de prata, apurando-se na conferência cerca de sete toneladas daquelle metal.
+O director de contabilidade do thesouro aguarda que haja o necessário stock para mandar fazer remessas das novas moedas ás delegacias fiscaes.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Novos modelos, dos seguintes artigos recebidos pela Casa Colombo: de chapéos de palha, de 6$, ao fino Panamá, por 50$; dos afamados collarinhos de cinco folhas de linho, de gravatas de crepe, a 3$500.
+Além dos artigos de mez, jaz também a Casa Colombo uma completa exposição de roupas feitas apropriadas para o verão: costumes de flanella, a 40$; ternos de paletó, a 55$ e 75$; ternos de fraque, a 75$ e 100$000.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+INTERIOR
+
+TEMPO.—O máximo da temperatura de hontem foi 27.° e o minimo 21.°.
+O barometro marcou 762 pela manhã e á tarde 751.7.
+O céo esteve nublado pela manhã e claro depois.
+Muito formosa a manhã de hontem, e o dia quasi todo de sol resplandecente. Para a tarde appareceram aqui e alli no céo largas manchas azues que se agglomeiravam e se dissipavam rapidamente. A lua cheia brilhou a noite inteira.
+A temperatura não teve disfarces hyem. Subiu alto como verdadeira temperatura de verão.
+
+SAÚDE.—Aspecto de dia santo. A actividade industrial quasi parada e a dynamica commercial a meia força. Pouca gente na cidade e pelos arrabaldes insignificante movimento, durante as 2 horas em que nos outros dias é mais denso.
+A tarde é que a circulação ganhou intensidade ao começar a peregrinação, para os cemitérios, dos que costumam fazer na véspera o seu culto aos mortos; uns porque querem furtar, aos olhos da grande multidão, o dia de finados, outros talvez porque tinham pressa de dar por preenchida a triste e piedosa tarefa.
+A noite accentuou-se o curioso contraste. A maior parte da gente coberta de preto, com physionomia apropriada á circumstancia, que voltava dos cemitérios e a gente que sahia de casa, para aproveitar o luar e respirar as vibrações suaves da noite, alegre e despreocupada, aguardando para só hoje expandir a saudade dos seus defuntos, encontrava-se toda reunida, concorrendo em diversas parcellas, em disposições de espirito diversas, para dar, apparentemente tão disparatadamente, animação, brilho e alegria á noite clara e amenissima de hontem.
+--- ARTICLE END ---
+--- ARTICLE START ---
+POLICIA.—No correr dos ultimos dias foi attingido por quatro tiros de revolver na estação de Rodeio, deto municipio, o desordeiro Pula Ventana.
+Próximo á ilha do Bom Jesus houve um tiroteio entre os tripulantes de dous botes.
+Na rua General Caldwell, um electrico atropelou e feriu o 2° sargento Antônio Epiphanio Soares, invalido da pátria.
+Recolheu-se ao hospital da Misericordia o menor José Pereira da Silva que ha dias fora victima de um desastre no municipio de S. José d'El Rey, Minas Geraes.
+Falleceu no hospital da Misericordia Claudina de Castro, a Pio-Pio, que no domingo ultimo fora ferida num conflicto, por occasião da festa da Penha.
+Na rua 21 de Maio, um electrico fracturou uma perna de Antônio João Soares, residente no campo do Botafogo.
+Foi encontrado cahido hontem na rua de Santa Luzia Manuel Moreira, que apresentava um ferimento na cabeça.
+
+NOS ESTADOS.—E' candidato á vaga de deputado estadual de Minas pelo 2° districto o Dr. Randolpho Fernandes das Chagas.
+Falleceu na Bahia D. Maria Tourinho Moreira.
+Foi hontem muito acclamando em Bello Horizonte o Dr. Miguel Calmon, futuro ministro da industria.
+Ao enterro do Dr. Veríssimo de Castro, em Bagé, compareceram hontem mais de duas mil pessoas.
+Foi preso em Porto Alegre e seguiu para o Paraná o moedeiro falso Antonio Martinez Júnior.
+O governo de S. Paulo comprou, por 200:000$, 1.400 alqueires de terras em Araraquara.
+O juiz Dr. Chrisliano de Castro, em S. Paulo, pronunciou o Sr. Victor de Assis Silveira por crime de estellionato.
+A alfândega de Santos rendeu no mez passado 4.267:759$906.
+Os gafanhotos causaram grande estrago à lavoura em Ribeirão Preto.
+--- ARTICLE END ---
+--- ARTICLE START ---
+EXTERIOR
+
+O «BENJAMIN CONSTANT».— Deixou hontem o porto do Havre o nosso navio escola Benjamin Constant, que alli se demorou para fazer os concertos de que carecia nas suas machinas.
+Ao sahir, o cruzador trocou saudações com os semaphoros, emquanto a banda de bordo tocava a Marseiheza e os marinheiros subiam ás vergas e davam vivas á França.
+Depois de sahir do porto, o Benjamin Constant ainda deu uma salva de 21 tiros, respondendo as baterias de terra.
+Da officialidade brasileira foram despedir-se todas as notabilidades militares e commerciaes e numerosa massa popular que acclamou os brasileiros.
+
+«VIAGENS RÁPIDAS ?»—A questão das viagens rápidas para a Europa não vai para diante; antes, pelo contrario.
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- PAGE_METADATA START ---
+Anno XXI—N.° 306 RIO DE JANEIRO—Sexta-feira, 2 de Novembro de 1906
+GAZETA DE NOTICIAS
+NUMERO AVULSO 100 RS.
+Assinaturas começam e terminam em qualquer mez
+PAGAMENTO ADIANTADO
+16$000
+8$000
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+A CAIXA
+--- HEADLINE END ---
+--- ARTICLE START ---
+Uma das accusações formuladas contra a Republica pelos seus adversários radicaes e até certo ponto apoiada pelos seus defensores consiste na falta de homens com os predicados necessários para a gestão dos negócios públicos. Tão fundo se enraizou essa allegação, que mesmo nos primeiros tempos do novo regimen foram aproveitados —e não diremos que fosse um erro—os republicanos da ultima hora, que não reputamos nem piores nem melhores que os da primeira.
+Os factos, porém, já se encarregaram de mostrar até á evidencia a inanidade dessa accusação.
+O Dr. Nilo Peçanha, republicano historico, que nunca havia tido a responsabilidade de nenhuma administração, acaba de deixar a do Estado do Rio de Janeiro, marcando um grande sulco na historia das administrações republicanas.
+Todos que compararem a situação em que o jovem administrador encontrou aquelle Estado e a situação em que o deixa têm de calar os seus ressentimentos, os seus despeitos, as suas antipathias partidárias e até as suas divergências, para reconhecerem a sua grande actividade, o seu zelo, a sua bella orientação na obra de reparação levada a effeito com tanta tenacidade.
+Não é num curto periodo governamental que se pode transformar em prospera uma situação embaraçosa e precária, filha de circumstancias varias e do predomínio de complexos elementos. Mas, ao mesmo tempo que reparou e reorganisou o que lhe foi possivel reorganisar e reparar, sem o concurso de elementos fictícios e ephemeros e cujos effeitos fatalmente haviam de com elles desapparecer, o Dr. Nilo Peçanha deixado Estado do Rio de Janeiro com todas as bases para a sua prosperidade.
+Para que ella seja attingida e se torne uma realidade, basta manter com tenacidade a sua politica econômica e financeira, synthetisada, por um lado, na economia dos dinheiros públicos e, por outro, no desenvolvimento dos recursos —e tantos são elles—naturaes do solo fluminense.
+O Sr. Nilo retira-se da administração para occupar o alto posto de vice-presidente da Republica. Os seus serviços ficam e hão de perdurar pelos seus resultados efficaaes e inilludiveis. Mais do que os applausos que esses serviços arrancam, actuará na sua consciência de patriota e de republicano a mais intensa satisfação que um homem publico deve almejar —a satisfação do dever cumprido.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Uma série dos argumentos contra a Caixa de Conversão ha cousas curiosissimas que não podemos deixar de assignalar, apezar do propósito em que estamos de attender o desenvolvimento da acção parlamentar sobre esse assumpto.
+Mas não vamos falar na Introducção do relatório do Sr. ministro da fazenda, que é uma compilação de tudo quanto já se disse, além de não ser mais que uma repetição do que todo o mundo já sabe porque já foi dito tantas vezes, nem nas allegações de que é excessiva a circulação porque por effeito do augmento de moeda já está ella sendo retrahida. A allegação de que essa emissão será conversível, respondeu-se que todos os papeis o são porque, vigorando a mesma taxa, tanto fazia ir á Caixa receber o ouro com uma nota de 16$ convertivel, como ir ao banco tomar um saque de bina com 16$ inconvertiveis. É esta proposição, que é um argumento a favor da estabilidade do cambio, foi dada como argumento contra a creaçao da Caixa !
+Agora começam a apparecer argumentos de ordem exactamente inversa isto é, começa-se a dizer que a Caixa será um apparelho productor... do retrahimento da circulação ! Não ha mais o receio da superabundancia; o receio agora é da deficiencia. Quem não acreditar, que leia o telegramma hontem publicado pelo Jornal do Commercio transmittindo as impressões de um banqueiro que muito influiu para a acceitação do contracto do funding. Diz esse banqueiro que «quanto á noticia de que se pretende applicar cerca de cinco milhões do fundo de garantia em resgate das notas actuaes, substituindo-as pelas da Caixa, uns oitenta mil contos de nova espécie serão retidos pelos bancos e outras instituições ou indivíduos que precisarem de ouro, havendo fatalmente grande contracção da circulação por não se dar augmento de valor nas notas do Thesouro que restarem».
+Ora, não se comprehende bem como é que esse phenomeno de retenção do dinheiro de nova espécie não se verifica em geral, mas somente quando elle tem filiações com o fundo de garantia; o que nos parece é que os banqueiros acham muito ruim e muito inconveniente que se toque no fundo de garantia, quer seja para resgatar papel até pelos processos que passaram na fantasia inesgotável do Sr. Bulhões, quer seja para servir de lastro á emissão conversível.
+E até não se nos dava de apostar que talvez não fosse julgada de todo desarrazoada a idéa de emitir papel inconvertivel comtanto que tivesse especialmente o fim de ser applicado á compra de cambiacs para augmentar aquelle fundo e comtanto que o fundo continuasse a ser depositado em Londres.
+Mas das emissões inconversiveis, Deus nos há de preservar. E, quanto á manutenção do fundo de garantia em Londres, estamos certos de que o governo futuro vai encontrar um campo de conciliação, para segurança de sympathias que ha longos annos nos são protestadas. Encontrado esse campo, só nos restará aguardar tranquillamente a modificação, senão a mudança de muitas opiniões que nos vêm pelo telegrapho...
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+200:000$ — Amanhã, ás 3 1/2 horas! novo plano da Loteria da Capital.
+--- ADVERTISEMENT END ---
+--- COLUMN 4 ---
+--- PAGE_METADATA START ---
+Anno XXI—N.° 306 RIO DE JANEIRO—Sexta-feira, 2 de Novembro de 1906
+GAZETA DE NOTICIAS
+NUMERO AVULSO 100 RS.
+Assinaturas começam e terminam em qualquer mez
+PAGAMENTO ADIANTADO
+16$000
+8$000
+--- PAGE_METADATA END ---
+--- ARTICLE START ---
+hinas estão em exposição na casa Arroz & C., Rua do Ouvidor, 68
+--- ARTICLE END ---
+--- ARTICLE START ---
+Trens para o interior do prado ás 12-1/2, 1-1/2 e 2-1/2.
+--- ARTICLE END ---
+--- ARTICLE START ---
+No dia 6 de outubro foi operado no Marien Krankenhaus (hospital catholico do Hamburgo) o Sr. L. Henrique Pimenta Bueno, do Pará. O nosso patrício, que há muito soffria dos intestinos, achava-se, á data das ultimas noticias, em estado satisfactorio.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Combatei a Influenza, bronchites, etc, com o anti-catarrhal (Cardus Benedictus) de Granado. O resultado é immediato.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Sucesso completo, a grande exposição de começo de mez da Casa Colombo: collets do brim de côr, a 6$ e 8$; pyjamas inglezas, a 8$ e 10$; calças de brim lona, a 10$ e 12$; e costumes de dólman, a 18$000.
+--- ADVERTISEMENT END ---
+--- SECTION_HEADER START ---
+JOCKEY-CLUB
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Nas corridas de domingo terão logar tres provas importantes, com as denominações de: 1ª—Grande Prêmio Presidente Rodrigues Alves ; 2ª—Dr. Lauro Muller ; e 3ª—Dr. Francisco Pereira Passos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+S. Francisco Xavier
+
+A VISITAÇÃO.—Como acontece todos os annos, o cemitério de S. Francisco Xavier já desde hontem abriu os seus pesados portões ás visitações de sepulturas.
+A concurrencia, porém, foi relativamente pequena. Pelo labyrintho das ruas do campo santo, raras senhoras, trajando luto, passeavam vagarosamente em demanda da morada de pessoas caras. Em alguns sarcòphagos, demoravam-se senhoras, joelho em terra, fazendo preces, pedindo ao Creador pela alma do seu esposo ou do seu caro filhinho.
+Havia mesmo poucos carneiros enfeitados. E' que hontem elles ainda estavam sendo limpos.
+O cemitério; —O numero do enterramentos no cemitério do Caju este anno attingiu a 11.290, prefazendo o numero total, desde 1852, quando foi fundado, de 623.290.
+Quem entra hoje neste vasto campo dos mortos depara logo á direita com um bello monumento granitico, mandado erigir á memória do conselheiro Paulino José Soares de Souza, que foi um dos seus mais dignos provedores. O monumento é de grande valor artístico.
+Ao cimo duma columna de grande destaca-se o busto do grande provedor, um bello bronze burilado pelo notável escultor Bernardelli.
+O cemitério do Caju não é mais aquelle campo outr'orá desprezado. Hoje elle tem a fortuna de ter á sua frente dous homens de energia e força capazes de elevar o melhor talvez dos nossos cemitérios.
+Todas as suas ruas antigamente descampadas hoje ostentam lindas arborisações. Durante este anno foram plantados mais 1.500 pés de eucalyptus e 400 e tantos pés de arvores de espécies variadas.
+As ruas, entre as sepulturas, outr'orá cheias de rasteiro capim, cobertas de lama, hoje são alvas avenidas cimentadas e fartas de asseio.
+Também as alamedas, por onde correm as carroçagens, são hoje todas calçadas a paralelipipedos, sem aquellas poças d'água e sem aquella poeira immunda de antigamente.
+Aqui e alli vêm-se agora canteiros floridos, perfumados, como que compensando a alvura triste daquellas lousas.
+A rua principal que vai ao Cruzeiro Central, está prolongada, toda ella é uma longa e ampla avenida, cujo fim desapparece aos olhos do observador: tem 1.100 metros de extensão sobre 19 de largura.
+O enorme e infeccto monturo que existia aos fundos do cemitério quasi já desappareceu. Todo elle está sendo aterrado e esta parte vai ser aproveitada para a dilatação da area das catacumbas.
+Esses e outros melhoramentos introduzidos pelos digno administrador Sr. João Henrique dos Santos e pelo seu activo e distineto ajudante Sr. Carlos Pimentel provocaram outros mais, como a construcção de 150 degráos, vai ser lateralmente arborisada, para abrigar os transeuntes dos raios ardentes do sol.
+O systema de numeração das cova-rasas também foi modificado. As chapas metallicas foram substituidas por alvas pilastras numeradas em ordem, de modo a facilitar a sua busca.
+A digna administração do cemitério de S. Francisco Xavier vai iniciar a construcção de calumbarios á semelhança dos existentes no cemitério de S. João Baptista, que vêm de grande modo servir á pobreza. Com um dispendio relativamente insignificante, uma pessoa poderá ter um jazigo perpetuo em condições vantajosissimas.
+Assim, pode-se dizer: o anno que está a findar trouxe, para este vasto campo santo, uma serie infinita de melhoramentos que muito recommendam a sua sabia administração.
+Na visita que hontem fizemos, observamos com alegria um grande asseio em todas as suas dependências—capella, ossuario, necrotério; etc.
+
+Quando percorríamos o cemitério, vimos o Sr. barão do Rio Branco depositar uma palma sobre a lousa do túmulo do seu progenitor o Sr. visconde do Rio Branco.
+O Sr. barão do Rio Branco demorou-se junto á morada do emérito Visconde do Rio Branco, e depois visitou o monumento dos mortos do Lombardia.
+Ali jazia uma linda corbeille artificial, da qual pendia uma chapa dourada com estes dizeres: Ai compagni caduti morti sulla Lombardia:—La H. It. Ettore Fieramosca.
+Dentre os sarcòphagos ornamentados com esmerado gosto, vimos o do commendador Antonio Corrêa de Ávila e sua familia.
+No interior da capella, cheia de lyrios, de perpétuas e de saudades, ardiam dous cyrios.
+A' porta do cemitério, como sempre acontece, apinhava-se uma multidão de mendigos, e ao pé das palmeiras fronteiras, os floristas e os doceiros armaram as suas barracas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+S. Francisco da Penitencia
+
+VISITAÇÃO.—Foi relativamente numerosa a concurrencia hontem ao cemitério da Penitencia.
+Desde muito cedo viam-se senhoras e cavalheiros, sobraçando flores caminhando pelas alamedas dos túmulos em busca dos carneiros alvos que guardam os restos de parentes e de amigos caros.
+O vasto campo santo da Penitencia é talvez o mais asseiado e o mais bello dos nossos cemitérios. As suas catacumbas sempre bem tratadas, sempre muito alvas, são as mais evidentes provas do zelo com que o seu administrador Sr. Alves Cardoso, o seu digno e honrado administrador.
+O movimento de enterros este anno foi menor que o do anno passado ; este anno foram dadas sepulturas a 173 irmãos, ao passo que o anno passado foram enterrados 183 irmãos.
+Este anno ficaram concluídas as obras iniciadas pelo Sr. Alves Cardoso, com o poderoso auxilio do irmão provedor, Sr. Augustinho José Ferreira.
+Agora, o cemitério tem um confortável e bem montado escriptorio e o de revestimento de louça está excellemente installado, graças ainda á actividade incansável do bom administrador que é o Sr. Alves Cardoso.
+Vimos a sua capella, a igreja matriz da irmandade. E' bem tratada, cheia de ar.
+Sobre a pedra que a sustenta está esculpida a imagem do padroeiro da irmandade, S. Francisco da Penitencia.
+A sacristia está muito confortável e cheia de luz.
+Hoje, ás 7 horas da manhã, serão celebradas varias missas por alma dos irmãos fallecidos; até ás 10 horas da manhã.
+Aos pés da pittoresca capella, situada bem no alto do cemitério, está installado o necrotério com duas mesas e uma bella urna de mármore.
+Sobre esta acha-se depositado actualmente o corpo embalsamado de Mlle. Lucila Maia, estremecida filha do Sr. José Alves de Azevedo Maia e fallecida a bordo de um transatlantico quando em viagem de Europa para esta capital.
+Sobre o caixão de Mlle. Lucila havia uma profusão de flores e de coroas com dizeres de saudade.
+O administrador, Sr. Alves Cardoso, com o seu incansável esforço, conseguiu restabelecer uma antiquissima urna de madeira que pode-se considerar uma verdadeira preciosidade.
+O Sr. Alves Cardoso descobriu ali, abandonadas, as ricas peças de madeira desta urna e as mandou concertar e dourar, bem como seis riquissimos tocheiros que a acompanham.
+Por investigações feitas, o honrado administrador chegou á conclusão de que aquella bellissima urna conta nada menos de 300 annos. E' com effeito, uma preciosidade.
+Não pára um só instante a actividade infatigavel do excellente administrador; outros melhoramentos estão sendo postos em execução, um grande ossário e outros muitos que brevemente serão inaugurados.
+E' um facto digno de attenção de todos os encomios, o asseio e limpeza em que se encontram os túmulos no cemitério da Penitencia, sem excepção da mais modesta cova rasa. E' um gosto olhar por todo aquelle trabalho.
+Dos novos túmulos vimos os seguintes:
+O da barão de Inhaúma e Castello que é talvez o mais sumptuoso dos novos monumentos.
+Sobre uma linda columna de mármore, ha o Symholo da Esperança apontando para o céo e tendo em baixo, em relevo, a palavra Sempre; traduzindo—a Fé, Esperança e Caridade.
+O do Sr. Antonio Augusto de Souza Bogarin, com um crucifixo e a palavra aSemper perdurarei em Deus.»
+O do Sr. Antonio Rosa e Silva é uma capellinha de neve e com os symbolos da Fé, Esperança e Caridade.
+O do Sr. Alexandre Pereira da Costa, coberto de goivos e de saudades, tendo ao cimo uma imagem symbolisando a Caridade.
+O do Sr. Henrique Luiz de Moura, coberto de flores e de grinaldas.
+O do Sr. Alexandre Pinto Ribeiro, ostentando uma cruz losca de mármore.
+O de Mme. Francisca Balbina Moraes Cintra, esposa do Sr. conselheiro Silva Neves. Este é um túmulo simples e de um gosto artistico extraordinário e havia muito enfeitado com variadas flores naturaes.
+O jazigo perpetuo do Sr. Manuel João Fernandes e familia, ricamente ornamentado, tendo acesas duas velas.
+O de Mme. Izabel Ferreira, um simples e bonito carneiro, enfeitado com goivos e perpétuas.
+Quasi todos os carneiros dos antigos estavam cheios de flores. Pelas lousas brancas flutuavam perolas esparsas e aos cantos ostentavam lindas jarras floridas.
+O digno administrador trazia com rigoroso cuidado de todos os túmulos que guardam os restos dos ministros jubilados da ordem.
+O Sr. Alves Cardoso prepara-se para fazer celebrar, por ordem da irmandade, no dia 26 do corrente, a benção da capella.
+Para que esse acto seja revestido de toda solemnidade, o distinto administrador não tem sabido poupar esforços.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Ordem 3ª do Carmo
+
+A VISITAÇÃO.—Já hontem começou no cemitério da Veneravel Ordem 3ª do Carmo a romaria dos que vão levar um preito aos entes queridos que se foram para as regiões do além.
+Desde pela manhã que os túmulos e jazigos eram acercados por grande numero de pessoas que com mãos carinhosas depositavam flores em profusão nas campas em que repousavam pais, filhos, irmãos, esposos e esposas, amigos, entes queridos, aquelles que a morte arrancou do convívio estremecido dos que lhes eram caros.
+Lagrimas piedosas eram derramadas nos arredores dos túmulos, que estavam em sua maioria ricamente adornados com flores e grinaldas vistosas, de biscuit, etc.
+--- ARTICLE END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+Anno XXI—N.° 306 RIO DE JANEIRO—Sexta-feira, 2 de Novembro de 1906
+GAZETA DE NOTICIAS
+--- PAGE_METADATA END ---
+--- ARTICLE START ---
+Aqui via-se uma noiva prostrada, joelhos no chão, lamentando o destino que arrancou-lhe sem piedade o escolhido de seu coração: alli uma mãi, que toda entregue á sua dôr, chorava o filho bom que se foi deixando-a ao desamparo; mais além um esposo recordando-se da extremosa e carinhosa esposa tão cedo roubada ao lar pela implacavel ceifadora que nada attende; mais longe um amigo contrido curtindo a saudade do seu bemfeitor desapparecido no momento em que mais necessários eram os seus exemplos e conselhos.
+De todo esse quadro o que mais attenção chamava ao visitante despreocupado, eram as crianças de tenra idade respeitosamente prostradas ao redor dos túmulos dos seus, orando em fervorosas preces pedindo ao Altissimo paz para as suas almas e conforto para os que estavam orphãos dos carinhos e desvelos dos adorados pais.
+Em diversos lábios desses innocentes ouvia-se o balbuciar das phrases que registramos, vendo-se também o respeito com que aquellas criaturinhas endereçavam as suas orações.
+
+O cemitério.—O campo santo estava de um impeccavel asseio, tendo-se esforçado o seu administrador e a Ordem Terceira do Carmo para conservar com esmerado cuidado todas as suas dependências.
+Diversos melhoramentos foram introduzidos no decorrer do anno, sendo reformada com escrupuloso cuidado a escriptorio, de modo a ser com a máxima facilidade dada qualquer informação relativa ao numero dos mortos sepultados, ao quadro e numero precisos dos carneiros e jazigos, ao dia em que foi sepultado o irmão, e muitas outras uteis modificações.
+O jardim que circumda a entrada do Campo-Santo está cuidadosamente tratado, notando-se o carinho com que é velada aquella parte do cemitério.
+Importantes obras foram igualmente feitas no cemitério, para prompto escoamento das águas, facil accesso aos carneiros e ruas dos diversos quadros, tudo com esthetica e intelligencia da digna administração da Veneravel Ordem Terceira do Carmo.
+O cemitério está verdadeira e caprichosamente tratado, notando-se em todas as ruas e dependências o seu asseio e esmero dado pelo correcto administrador, que não poupa esforços nem sacrfficios para esse fim.
+Quasi todas as campas que guardam os restos dos que se foram da jornada da vida, estão bem tratadas e cobertas de flores, coroas e grinaldas de missangas e biscuit, tendo em diversas ardido hontem velas collocadas por pessoas de suas famílias.
+Hoje faremos visita mais minuciosa a este cemitério, afim de informar os leitores do que nelle occorrer.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Costumes a 40$ e 70$; calças 10$ e 12$; ternos de casimira côr ou preto sob medida.—72, rua Uruguayana, 72.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Os deputados á assembléa legislativa do Estado do Rio de Janeiro fizeram ante-hontem uma manifestação ao Sr. Dr. Porto Sobrinho, secretario geral, que nas duas primeiras sessões da legislatura que agora findou occupou o posto de tender da mesma assembléa. A's 8 horas da noite, no gabinete de S. Ex., na secretaria geral, onde havia numerosa concurrencia, o Dr. Alexandre de Moura, em nome de seus collegas, pronunciou eloqüente discurso e terminou offerecendo-lhe «uma estatueta de bronze symbolisando a supplica.» O Dr. Porto Sobrinho agradeceu comovido, sendo offerecidos aos presentes doces e champagne.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+200:000$ — Amanhã, ás 3 1/2 horas, novo plano da Loteria da Capital.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Os Srs. Ricardo & Ramos inauguraram hontem, no bello prédio da travessa de S. Francisco, esquina da rua da Carioca, recentemente construído, um estabelecimento destinado ao commercio de café e bebidas.
+O Revmo. padre Francisco Avnetto procedeu á benção do novo estabelecimento e fez um pequeno discurso alusivo ao acto.
+Os Srs. Ricardo & Ramos foram de muita gentileza para com os seus convidados e a imprensa.
+--- ARTICLE END ---
+--- ADVERTISEMENT

@@ -1,0 +1,245 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+GAZETA DE NOTICIAS
+Rio de Janeiro, Terça-feira, 11 de Dezembro de 1906
+N. 3245
+ANNO 70
+NUMERO AVULSO 100 RS.
+Stereotypada e impressa nas maquinas rotativas de Marinoni, na typographia da Sociedade anonyma "Gazeta de Noticias"
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+EXPEDIENTE
+NO NOVO EDIFÍCIO
+DA RUA DO OUVIDOR, 70 E 72
+--- HEADLINE END ---
+--- ARTICLE START ---
+(Para os nossos assignantes)
+Temos com a mais viva satisfação de poder communicar que causou o mais estrondoso successo, sendo em toda a parte acolhida com verdadeiro enthusiasmo, a idéa que ha tempo aventámos de mudar o systema dos nossos prêmios annuaes aos assignantes da GAZETA DE NOTICIAS.
+
+A substituição de prêmios em objectos e outros objectos em que, aliás, sempre nos esmeramos, por prêmios em dinheiro, correspondeu em todo o modo aos desejos de nossos estimados assignantes, que immediatamente a applaudiram. Assim, a Gazeta distribuirá aos assignantes de anno e semestre
+
+9:000$000 EM PRÊMIOS
+
+constituindo esses prêmios um
+
+SORTEIO EXTRAORDINÁRIO
+
+regulado pela seguinte tabella em quaes o primeiro é destinado aos assignantes de um anno e os restantes aos assignantes de anno e semestre.
+1 prêmio de 3.000$...3.000$000
+1  »   »  1.000$...1.000$000
+5  »   »    500$... 500$000
+10 »   »    200$... 200$000
+15 »   »    100$... 100$000
+40 »   »     50$...  50$000
+50 »   »     30$...  30$000
+100 »   »     20$...  20$000
+200 »   »     10$...  10$000
+
+Todos os assignantes de anno e semestre terão direito a um exemplar do NOSSO ALMANAK, um utilissimo repositório de informações e contém uma selecta parte recreativa, excelentemente collaborada, e impresso em magnífico papel com grande numero de illustrações.
+
+Além bem do ALMANAK, todos os assignantes, e bem assim todos os leitores da Gazeta de Noticias, serão contemplados com a linda
+
+Folhinha-Calendario
+
+que distribuiremos no dia 1o de fevereiro e que será illustrada pelo distincto caricaturista CA RYBE (J. Cordeiro), cujos trabalhos dispensam recommendação.
+SORTEIO PARA O CARNAVAL com os coupons de 1o de dezembro de 1906 a 15 de janeiro de 1907.
+XX SORTEIO com os coupons de 25 de janeiro a 31 de dezembro 1906.
+GRÊMIOS DE CONSOLAÇÃO mensaes da GAZETA DE NOTICIAS.
+FORMA DAS ASSIGNATURAS
+A Gazeta de Noticias vai passar da administração para o NOVO EDIFÍCIO da rua do Ouvidor ns. 70 e 72 do dia 11 do corrente em diante serão recebidas as novas assignaturas para 1907.
+--- ARTICLE END ---
+--- BLOCK:LotteryResults START ---
+1º Premio 1:000$000
+10   »      300$000
+15   »      100$000
+20   »       50$000
+40   »       20$000
+--- BLOCK:LotteryResults END ---
+--- ADVERTISEMENT START ---
+9:000$000 EM PRÊMIOS
+riquíssimas fantasias de crépe georgette, de seda ou cetim liso ou estampado, com casaquinho de lindo tecido metallico com enfeites e franja prateados.
+Em exposição na Casa
+A FORTUNA à praça 11 de Junho.
+HOJE — 8 PAGINAS
+--- ADVERTISEMENT END ---
+--- SECTION_HEADER START ---
+O TEMPO
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+O máximo da temperatura do dia de hontem foi de 26.5 e o mínimo de 21.8,
+
+O barometro marcou 750,9 pela manhã e 751,1 á tarde.
+
+O céo esteve encoberto pela manhã, claro das 10 horas á 1 da tarde e depois limpo.
+
+Probabilidades para hoje, até meio dia: Tempo, bom. Ventos, de sueste.
+
+Temperatura media nos Estados : Belém, 27.25; S. Luiz, 29.50; Fortaleza, 26.85; Natal, 27.30; Parahyba. 27.35: Recife, 28.30; Maceió, 27.75= Aracaju. 26.95 ; S. Salvador, 24.40-; Cuyabá, 29.50; Victoria, 22.80 : S. Paulo, 20,35 ; Curitiba. 17.75 ; Florianópolis, 25.00; Porto Alegre, 27.15.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+O MAR
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Apenas a suspeita de uma sombra veiu pela manhã empanar a limpidez do céo, e a luz rojou depois por toda parte, abundante e numa prodigalidade inexcedivel.
+
+Subiu mais um pouco a temperatura. Mesmo pela manhã já se sentia que aquella amenidade primaveril dos ultimos dias estava a acabar e, de facto, o calor se foi tornando mais forte, á medida que o sol subiu, e nem á tarde foi muito sensível a declínio, porque eram escassas as virações, embora não tivessem faltado de todo.
+
+Não foi ainda um dia quente, como sabem ser quentes os dias de dezembro; como, porém, a gente já se deshabituou dos fortes calores em que se torrava outr'ora, foi mal recebida essa tendência do thermometro para a alta.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+RIO-DE-JANEIRO
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Não regulou a folhinha, ou então ninguém reparou que era segunda-feira. O movimento foi consideravel e, se esmoreceu por algum dos pontos da cidade, não foi certamente na city, nos centros onde a actividade febricita na sua faina ardente e varia, nem na rua do Ouvidor que teve a sua circulação em grande intensidade durante todo o dia.
+
+E pelas avenidas o mesmo vai e vem de gente occupada com afazeres e de gente desoccupada ou occupada apenas com os afazeres dos outros.
+
+A noite é que se podia notar algum esmorecimento na animação das ruas, o que era natural. Houve uma série de dias feriados e mais uma véspera, que dizem os entendidos ser ainda melhor, e isso explica que mais cedo entrasse hontem o Rio em repouso.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+A CAMARA
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+A sessão foi muito rapida e quasi que se limitou ao expediente.
+
+Nessa hora foram á tribuna tres oradores : o Sr. Homero Baptista, para explicar que aguardava informações pedidas ao governo afim de dar o seu parecer sobre o projecto que providencia sobre a situação das victimas do Aquidaban ; o Sr. Nogueira Jaguaribe, para tratar do seu substitutivo ao projecto relativo ao salário de trabalhadores agrícolas; e o Sr. Jorge de Moraes.
+
+Representante do Amazonas e attento, como toda a representação amazonense, ao que se passa no território do Acre e ao que sobre elle se diz e se escreve, o Sr. Jorge de Moraes levantou, para combater, a hypothese insinuada de se unificar a administração daquelle território, confiando-a a um só prefeito.
+
+E a propósito, insistia o orador nos direitos do Estado, que representa, aquella região.
+
+Das matérias da ordem do dia ninguem fallou. Eram seis projectos e encerrou-se a discussão de todos, sem debate, de sorte que ás 2 horas estava a sessão terminada.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+O SENADO
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Dous orçamentos estavam na ordem do dia de hontem— o das relações exteriores, em 3ª discussão. e o da guerra em 2ª. A ambos foram offerecidas emendas, não tendo sido, por isso, encerrada a discussão.
+
+Houve mais tres projectos, cuja discussão ficou encerrada sem debate, e um muito debatido. Este é o que auctorisa o Prefeito do Districto Federal a contrahir um emprestimo de dez milhões.
+
+Tomaram parte na discussão os Srs. Erico Coelho e Severino Vieira, que impugnaram o projecto argumentando a sua inconstitucionalidade e o Sr. Oliveira Figueiredo, que sustentou o projecto.
+
+Ficou tambem essa discussão encerrada, devendo ser hoje votado o projecto.
+
+No expediente, o Sr. Barata Ribeiro enviou á mesa uma representação dos advogados das praças compromettidas na sedição da fortaleza de Santa Cruz, pedindo amnistia para os seus constituintes.
+
+Nada se votou na sessão de hontem.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- HEADLINE START ---
+O DR. ÂNGELO NETTO
+--- HEADLINE END ---
+--- ARTICLE START ---
+A nota triste de hontem foi o fallecimento do joven deputado por Alagoas, Dr. Ângelo Netto. Nem por ser ha muitos dias esperada deixou a triste nova de causar grande impressão nas rodas políticas e nas das relações pessoaes do mallogrado moço, que gosava de grande estima e sympathia.
+--- ARTICLE END ---
+--- HEADLINE START ---
+CONFLICTO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Hontem á noite repetiu-se mais uma vez o triste e deprimente espectaculo que se tem ultimamente observado de estabelecerem rusgas e conflictos, em plena rua, soldados de mar e terra.
+
+No largo do Rocio, cerca de 11 horas da noite, tornou-se o transito arriscado e dominou o pânico em virtude de ahi ter tido logar uma luta travada por algumas praças do exército e navaes, luta em que entraram a navalha e revólver com impiedoso desplante.
+
+Consignar o facto basta. E' escusado encarecer a necessidade absoluta de evitar que se reproduza.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O CAMBIO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Ainda hontem tivemos o mercado fraco, quieto, sendo reproduzidas as tabellas de 15 5/16 e 15 3/8 d., a que se conservaram respectivamente o London e outros bancos.
+
+Cotavam-se as letras bancarias de 15 3/8 a 15 13/32 d., dando ao melhor preço o Banco do Brasil e o Ítalo-Brasiliano, mas fazendo-se pequenos negocios contra letras a 15 7/16 d. a 15 15/32 d.
+
+No correr do dia, continuando a falta de dinheiro, o Brasiliano propoz-se a sacar a 15 7/16 d., mas os outros bancos operavam a 15 3/8 e 15 13/32 d. comprando a 15 1/2 e 15 11/32 dv. sem que houvesse mais alteração.
+
+Os soberanos deram de 10$100 a 10$050 e os vales, ouro, de 18$770 a 18$774, tendo-se cotado o papel bancário de 15 3/8 a 15 7/16 d., contra o particular de 15 7/16 a 15 1/2 d.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O CAFÉ
+--- HEADLINE END ---
+--- ARTICLE START ---
+O mercado aqui não funccionou no sabbado quando fechavam ainda com baixa sensível os mercados consumidores. Hontem baixaram novamente na abertura as bolsas da Europa, abrindo o mercado aqui também mais fraco e menos activo. No Centro vigoraram a principio preços na base de 6$200, conhecidas porém, as noticias da Europa, predominavam as offertas na de 6$100 embrulhando-se por isso grande parte do café á venda; o mercado esteve regularmente supprido vendendo os commissarios ás casas mixtas perto de 9.000 saccas. As segundas bolsas da Europa accusavam ainda baixa, abrindo a de Nova York com 10 a 20 pontos também de baixa.
+
+O mercado legitimo em vista do desanimo no exterior, esteve parado e em observação, os ensaccadores mesmo assim mantiveram as cotações de 6$200 a 6$100, fechando o mercado com os preços nominaes e os compradores retrahidos.
+
+Em futuros também não houve trabalho, regulando 6$300 a cotação para este mez e 8.00 a 8.10 para março,
+
+Por Jundiahy passaram 80.850 saccas entrando aqui 15.035 saccas por barra dentro e cabotagem.
+
+Pela commissão de estimativos foi avaliada em 3.500.000 a futura safra de 1907/1908, Rio.
+
+Santos.— Base. 3.8700 ; mercado calmo; foram vendidas hontem 49.725, registradora 21.000. Entraram hontem 75.752; entradas : desde 1 deste mez, 466.746., média, 36.704, desde 1 de julho, 8.418.901. Existiam hontem em primeiras e segundas mãos. 1.805.040; passagens : hontem, 80.850; desde o dia 1, 485.068; palita semanal, 400 réis.
+
+Foram hontem baldeadas com destino a Santos: em Jundiahy. 52.672, em S. Paulo e Sorocabana, 11.191, em Campo Limpo, 713, no Braz, 1.725 e no Pary, 14.519, total, 80.850.
+
+Foram embarcadas : no dia 1. 21.202; desde 1 do mez, 268.388. Despachadas hontem, 49.317. Sahiram desde o 1 do mez: para a Europa. 121.019; Estados Unidos, 35.886 e Buenos Aires, 20.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Casa Moreira. — Jornaes illustrados e cartõens para o exterior pelo Magellan. Quitanda 101.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Clinica de moléstias dos olhos e ouvidos.—Dr. Neves da Rocha, rua Primeiro de Março 15, de 1 ás 4 da tarde.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+NOVOS ASPECTOS
+--- HEADLINE END ---
+--- ARTICLE START ---
+Desde os aspectos mais simples aos aspectos mais importantes, pode dizer-se ter sido operada uma transformação na administração publica.
+
+Como um dos aspectos mais simples, podemos citar a deliberação dos despachos collectivos, nos quaes ficam scientes e conhecedores de todos os negócios publicos os Srs. secretários e ministros do Sr. presidente da Republica.
+
+Essa deliberação não se afigura á primeira vista muito consentanea com a índole do systema presidencialista; mas na realidade ella perde de importância sob o ponto de vista das exigências do regimen e dos interesses geraes, porque afinal não passa de uma questão de forma. Nem com esse systema o honrado presidente da Republica perde um ceitil da sua auctoridade e da sua responsabilidade, nem com elle augmentam ou diminuem a autonomia e a responsabilidade dos seus secretários. No fundo não ha talvez nisso senão uma questão de simplificação de expediente e de commodidade quer para o Sr. presidente da Republica, quer para os seus secretários. A solução de todas as questões affectas ao governo não depende nem de despachos collectivos, nem de despachos isolados: depende unicamente do critério com que ella é dada.
+
+Mas o que dá uma nova phase ao novo governo são as bases já adoptadas, em que elle tem de assentar e desenvolver a sua acção administrativa.
+
+Elle começa por ter de dar execução á lei que creou a Caixa de Conversão, instituição destinada a alterar e remodelar o nosso meio circulante. Por outro lado, elle encontra em execução o convenio para a valorisação do café.
+
+Essas duas medidas, de cujo êxito não duvidamos, porque suppomos que qualquer que elle seja não nos fará retrogradar da situação a que chegamos, constituem só por si uma nova ordem de cousas. Elias não são mais do que a base de uma alteração que fatalmente tem de reflectir em toda a nossa vida economica e financeira.
+
+Seria talvez curioso, se não fosse inútil sob o ponto de vista pratico, recordar as evoluções da opinião em torno da idéa da Caixa de Conversão. Ha, porém, um facto que convém mencionar: alguns dos mais intransigentes condemnadores dessa instituição, daqui e d'além mar, são hoje os seus apóstolos mais mansos e mais convictos.
+
+Pouco importa isso, pois que o que importa é acentuar e deixar bem definido que o novo governo começa o desenvolvimento das suas idéas e acções sob uma nova phase e em condições perfeitamente definidas. O ponto de mira brilha no horizonte com uma intensidade de luz que não permitte desvios, nem alterações na rota. Do ponto de partida, também clara e positivamente fixado, só ha a percorrer, avançando sempre para uma completa e radical transformação da vida nacional.
+
+A adopção ou á execução dessas medidas prende-se a necessidade de outras que não são mais do que o seu desenvolvimento. Elias são o foco de onde têm de irradiar providencias em todos os sentidos e em todas as direcções.
+
+O novo governo assumiu a direcção do paiz com a quasi unanimidade do apoio político. Isto tem acontecido, mais ou menos, a todos os outros. O que não se deu com elles foi a serie de circumstancias, que habilita e impõe ao actual uma marcha segura e certa para o desenvolvimento material e moral do paiz.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Para ser chic E' preciso usar das lindas blusas de cassa ou linho bordadas, ou ainda de lingerie e messaline que está vendendo desde 1$500 a Casa "das Fazendas Pretas", 141 Avenida Central, 143
+--- ADVERTISEMENT END ---
+--- BLOCK:News START ---
+Estiveram hontem em palácio os Srs. ministro da industria, senadores Coelho e Campos, Francisco Glycerio e Urbano Santos deputados Aggripino Azeredo, commandante Eurico Pedroso, Sidney Bennet, Drs. Araújo Vasconcellos e Pelino Guedes.
+--- BLOCK:News END ---
+--- BLOCK:Appointments START ---
+Foram nomeados presidente e membros da commissão que tem de examinar diversos artigos a cargo do 1º regimento de cavallaria o coronel Pedro Augusto Pinheiro Bittencourt, commandante do 9º regimento da mesma arma, capitão Francisco Xavier de Alencastro Araújo e o 2o tenente José da Silva Marques.
+--- BLOCK:Appointments END ---
+--- BLOCK:News START ---
+Mme. Affonso Penna, acompanhada de seu filho Dr. Álvaro Penna, esteve ante-hontem na legação de Portugal para agradecer a Mme. Camelo Lampreia o seu comparecimento á ultima recepção dada em palácio.
+--- BLOCK:News END ---
+--- ADVERTISEMENT START ---
+RAUNIER & C.
+Continuam com o desconto de 10 °/o em todos os artigos inclusive em sobretudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-
+retudos novos e sob-retudos novos e sob-
+retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-retudos novos e sob-
+Só gozaram dos abatimentos nas vendas em dinheiro.
+RUA DO OUVIDOR 138
+--- ADVERTISEMENT END ---
+--- BLOCK:Appointments START ---
+Foram nomeados presidente e membros da commissão que tem de examinar diversos artigos a cargo do 1º regimento de cavallaria o coronel Pedro Augusto Pinheiro Bittencourt, commandante do 9º regimento da mesma arma, capitão Francisco Xavier de Alencastro Araújo e o 2o tenente José da Silva Marques.
+--- BLOCK:Appointments END ---
+--- BLOCK:Appointments START ---
+Cumprindo a deliberação tomada na ultima assemblèa geral, esteve hontem em palácio uma commissão dos funccionarios públicos civis, composta dos Srs. capitão Júlio Henrique do Carmo, Augusto Spuza Lobo, José Dias de Mello, Manuel José de Lacerda, Miguel Pinto Vieira e Luiz da Silva Reis.
+--- BLOCK:Appointments END ---

@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1900-03-14",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "While the newspaper mentions the need to \"improve the conditions of the Caixa de Conversão (conversion fund)\", it does not offer any specific policy recommendations or take a clear stance in the broader debate between Orthodox and Expansionist views. The mention is brief and lacks context, appearing within a section discussing various unrelated news items. Therefore, the overall stance is classified as Neutral/Factual.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "No ambito artistico não esta corrente a receita de uma subscripção aberta com o fim de angariar fundos para melhorar as condições do caixa de conversão.",
+            "reason_for_inclusion": "This is the only mention of the \"Caixa de Conversão\" (conversion fund) in the entire edition and it simply states that raising funds to improve its condition is not a current artistic trend.  It doesn't express any opinion on how to improve the fund or what its ideal state should be."
+        }
+    ]
+}

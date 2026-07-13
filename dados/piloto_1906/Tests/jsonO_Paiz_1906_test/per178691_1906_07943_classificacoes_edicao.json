@@ -1,0 +1,38 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-07-05",
+        "original_snippet_context": "News about the status of the Convênio de Taubaté and proposed Caixa de Conversão.",
+        "relevant_quote": "Sabe-se agora que nas duas questões annexadas no convenio de Taubaté serão consideradas separadamente. A valorização do café correrá por conta dos Estados interessados e a Caixa de Conversão será objecto de um projecto de lei especial, que o Sr. David Campista já tem assignado, ao menos, nos seus pontos capitaes.",
+        "classification": "Neutral/Factual",
+        "justification": "This snippet reports on the legislative process regarding the Caixa de Conversão and the Convênio de Taubaté, presenting factual information without expressing an opinion on the monetary aspects.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-07-05",
+        "original_snippet_context": "Description of the proposed mechanism of the Caixa de Conversão.",
+        "relevant_quote": "Nessa caixa, que nos merece inteira fé, deu-nos delle o seguinte resumo: «Pensar-se-ia em criar uma caixa destinada a receber moedas de ouro e outras casas, em troca de bilhetes ao portador representativos do valor egual, calculado á media dos dinheiros esterlinos por libra.» Os bilhetes terão curso legal e serão resgatáveis em ouro pela mesma caixa, que em caso algum poderá ser destinada a outro fim.",
+        "classification": "Neutral/Factual",
+        "justification": "This describes the operational mechanism of the proposed Caixa, explaining how it would exchange gold for paper currency, a factual description without explicit alignment with either monetary perspective.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-07-05",
+        "original_snippet_context": "Comparison of the proposed Caixa with Argentina's experience and its purpose.",
+        "relevant_quote": "Na Argentina, há um tempo, se decretou a fixação do cambio para acudir aos productores alarmados com a valorização do papel moeda e á conversão futura em case de ouro padrão; aqui se está pretendendo pelo projecto o primeiro: nestes paizes sua acção pela alteração poder linha, o hoje ministro Thierry...",
+        "classification": "Leaning Expansionist",
+        "justification": "The reference to Argentina's use of exchange rate fixing \"para acudir aos productores\" (to help producers) suggests a focus on supporting the productive sector, aligning with the expansionist view. However, the incomplete sentence and unclear reference to Minister Thierry make the classification less certain.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-07-05",
+        "original_snippet_context": "General description of the function of the Caixa de Conversão.",
+        "relevant_quote": "É, em suma, um apparelho destinado a servir de abrigo ao ouro, esperançado, mobilizando o seu recreio por meio de bilhetes especiaes emittidos em determinada relação.",
+        "classification": "Neutral/Factual",
+        "justification": "This provides a concise, functional description of the Caixa as a mechanism for managing gold reserves and issuing banknotes, without advocating for a specific conversion rate or monetary policy.",
+        "confidence": "High"
+    }
+]

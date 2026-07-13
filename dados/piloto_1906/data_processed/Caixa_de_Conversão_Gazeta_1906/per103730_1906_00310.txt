@@ -1,0 +1,339 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+31° Anno—N.° 310
+Gazeta de Noticias
+Rio de Janeiro — Terça-feira, 6 de Novembro de 1906
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+ASSINATURAS
+--- HEADLINE END ---
+--- ADVERTISEMENT START ---
+PAGAMENTO ADIANTADO
+Estabelecimento na Galeria
+MOREIRA CESAR ... 70, Alfândega, 62
+NUMERO AVULSO 100 RS.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Almanak da Gazeta de Noticias vai
+sair no dia 15 de dezembro. Como nos annos anteriores a útil publicação será um repositório de informações uteis aos leitores da nossa diária: dias úteis, dominicaes, feriados na capital e nos Estados, itinerarios das estradas de ferro, regulamentos de visita e existência de incêndio, companhias urbanas e sedes das repartições publicas, estabelecimentos e repartições diplomaticas que funccionam em seus prédios. Camara, Senado, Conselho Municipal e tudo quanto possa ser util aos leitores, a par da costumeira parte literária a cargo do nosso apreciado jornalista.
+O numero de annuncios das principaes casas commerciaes desta capital faz augmentar mais esta obra que só por este lado se por si justifica. Desde 1876, com a actual tiragem de 30.000 exemplares, o que dá a perceber a circulação em que é lido.
+Rogamos aos nossos amigos que ainda não tenham mandado as suas ordens de paginas que precisam para os seus annuncios, fazel-o até o fim do corrente, afim de, não retardar o apparecimento do Almanak.
+--- ARTICLE END ---
+--- HEADLINE START ---
+Variados aspectos
+--- HEADLINE END ---
+--- ARTICLE START ---
+Amanheceu nublado ; foi claro pouco depois, com bastante sol e bonito céo ; tornou a ficar encoberto ; e, por fim, á tarde havia de tudo no firmamento: nuvens pesadas e escuras aqui e acolá e os mais deslumbrantes matizes por outros cantos do horizonte.
+O dia foi quente, abafado, com pouca venciação, um tanto mais activa para a noite.
+--- ARTICLE END ---
+--- HEADLINE START ---
+A CIDADE
+--- HEADLINE END ---
+--- ARTICLE START ---
+Uma segunda-feira insípida e banal. O movimento da cidade não passou do ramerrão monótono da vida ordinária e o aspecto das ruas não teve nenhuma nota predominante. Nem por isso houve depressão da actividade, porque o movimento ordinário da capital já é sufficiente, mesmo sem attractivo especial, para dar-lhe a feição de um vasto e fecundo laboratório.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+As assignaturas começam e terminam em qualquer mez.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+LHO. SORTEIO
+dos
+livros
+e coupons
+da serie
+de Novembro
+de 1906
+--- HEADLINE END ---
+--- BLOCK:LotteryResults START ---
+1.000.000$
+500.000$
+200.000$
+100.000$
+50.000$
+--- BLOCK:LotteryResults END ---
+--- ADVERTISEMENT START ---
+DE CONSOLAÇÃO
+Assignaturas mensaes da
+Gazeta de Noticias
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+A CÂMARA DOS DEPUTADOS
+--- HEADLINE END ---
+--- ARTICLE START ---
+O Sr. Wencesláo Escobar julgou mais acertado retirar hontem o seu requerimento a propósito dos processos eleitoraes, de cuja suspensão S. Ex. accusava os directores da política do seu Estado. Retirou o requerimento, mas fez, antes disso, longas considerações durante todo o tempo consagrado ao expediente. Na ordem do dia foi approvado o orçamento do ministério do exterior, sendo depois votadas 10 emendas das 72 apresentadas ao orçamento da guerra. Discutiu-se em seguida o orçamento da marinha, fallando os Srs. Carlos de Carvalho, Galvão Baptista e Antônio Nogueira, discorrendo este ultimo sobre pharóes com toda a sua technica de official da armada.
+A reorganisação do exercito foi mais uma vez criticada pelo Sr. Thomaz Cavalcanti que, em meio de suas considerações, apresentou um requerimento para que o respectivo projecto volte á commissão. S. Ex. promette continuar, tendo limite interrompido o seu discurso, para que sobre o projecto tambem fallasse o Sr. Jorge de Moraes. Este, que é medico e estreou o anno passado com um projecto sobre educação physica nas escolas, fallou sobre a educação physica do soldado que, a seu ver, deve ser uma das preocupações dos reorganisadores do exercito.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+CLARK é o calçado mais forte que existe, além de econômico e extremamente confortável. O preço actual é de 20$ para cima.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+O SENADO
+--- HEADLINE END ---
+--- ARTICLE START ---
+A ordem do dia consignava apenas trabalho de commissões, para o que não era preciso numero legal. A sessão consistiu na leitura da acta e do expediente, cousa de dez minutos.
+--- ARTICLE END ---
+--- HEADLINE START ---
+A chegada do conselheiro Lampreia
+--- HEADLINE END ---
+--- ARTICLE START ---
+Mais do que um incidente de política internacional, a chegada do Sr. conselheiro Camelo Lampreia, depois de alguns mezes de ausência no seu paiz, é um acontecimento da vida carioca. Depositario da alta confiança do governo de el-rei, como seu representante junto ao do Brasil, o illustre diplomata é na sociedade brasileira considerado um amigo, tão estimado pela sua bondade e distincção, quanto pelo seu nobre caracter e elevado criterio.
+Dos seus compatriotas e dos innumeros amigos que conta nos melhores círculos sociaes, o Sr. conselheiro C. Lampreia recebeu hontem, por occasião da sua chegada, as mais expressivas demonstrações de justo apreço e carinhosa amizade.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+WALK-OVER é o afamado calçado americano, cujos únicos depositarios é a Casa Colombo. E' confortável, durável e elegante.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+O resumo do Sr. Burgess
+--- HEADLINE END ---
+--- ARTICLE START ---
+Já aqui demos um resumo dos tópicos principaes de um discurso pronunciado em Berlim pelo professor Burgess, em presença do imperador Guilherme II, sobre a doutrina de Monroe e a colonisação allemã na America do Sul.
+Referimo-nos igualmente ás observações que a respeito fizeram os jornaes de Washington.
+O incidente não está terminado.
+O discurso desagradou profundamente a colônia norte-americana residente na Allemanha, porquanto o illustre professor parece ter dado a entender que a doutrina de Monroe entrou em franca decadência no novo continente e que, portanto, a Allemanha pôde continuar tranquilla e desassombradamente a sua obra colonisadora no sul do Brasil.
+Ao governo allemão a peça oratória parece ter agradado, pois, diz o nosso telegramma, mandou distribuir milhares de exemplares por todo o império. Agora organisaram os membros proeminentes da colônia norte-americana um movimento contra o indiscreto professor, afim de induzil-o a retirar-se para os Estados Unidos.
+--- ARTICLE END ---
+--- HEADLINE START ---
+Os conservadores na Hespanha
+--- HEADLINE END ---
+--- ARTICLE START ---
+Os chefes do partido conservador hespanhol resolveram entrar num período de grande actividade pela propaganda de suas idéas.
+A lula se travará encarniçada, pois é evidente a marcha progressiva que seguem as idéas liberaes no velho reino dos Felipnes.
+A arma escolhida para o inicio da batalha de idéas é fidalga, é delicada e eloqüente: é o ultimo discurso do chefe dos chefes do partido conservador, Sr. Antonio Maura ; o discurso será profusamente distribuído pela península ibero-hespanhola
+Infelizmente ha outras armas: em Valencia foi encontrado na rua, completamente crivado de punhaladas, o cadáver do chefe político Domingos Garcia.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+Por motivo de sua nomeação para o cargo de subdirector da directoria de obras da Prefeitura, foi hontem cumprimentado em sua repartição por todos os funccionarios da Prefeitura o illustre engenheiro Dr. José Dias Cupertino Durão. Crescido foi o numero de cartas e cartões recebidos pelo recém-nomeado, tendo á noite de sabbado sido cumprimentado em sua residência por muitos amigos e pessoas do suas relações.
+O general Dionysio Cerqueira e toda a sua familia, os deputados Joaquim Cruz e José Cruz estiveram até depois de 1 hora da madrugada na residência do Dr. Durão.
+Fez-se boa musica e dansaram até á madrugada de domingo, em regosijo pela feliz escolha do Dr. Prefeito.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A Gazeta de Noticias
+A APOLOGIA
+O actual governo está agonisante e já os prelos gemem com a sua apologia.
+O espirito christão não permitte a critica imparcial nem o juizo justo a respeito dos mortos.
+Ante o desapparecimento calam-se até os resentimentos e os despeitos.
+Nem os offendidos dizem mal dos defuntos. A pá de cal é um symbolo que tudo apaga.
+A respeito do Sr. Rodrigues Alves, calam-se no ultimo momento as falhas de seu governo, e quando dizemos de seu governo, queremos accentuar precisamente as falhas da sua orientação, da sua vontade e da sua intervenção.
+Para se pôr em foco luminoso o seu governo, projecta-se a sombra sobre as administrações a que elle succedeu. E' uma injustiça perfeitamente dispensável. Ninguém contesta os serviços, a moralidade e, se quizerem, a rectidão do governo que está a sahir do Cattete.
+A essa justiça corresponde, para quem não está eivado de veneno do partidarismo pessoal, a justiça de reconhecer que S. Ex. encontrou o terreno perfeitamente adubado para o gênero de cultura a que de preferencia se dedicou.
+O trabalho mais ardno e mais difficil, consistiu em preparar-se esse terreno. Colher os frutos é mais fácil do que querer cuidar a sementeira.
+Nós sentimos um grande júbilo em ouvir-se e patriótico o governo do Sr. Rodrigues Alves. Não sejamos, pois, exagerados, ou antes, não sejamos illcondicionaes, já que a phrase está na moda.
+Applaudamos o governo do Sr. Rodrigues Alves, pelo que elle tem de bom, de útil e patriótico, mas não façamos a injustiça de desconhecer os serviços das administrações passadas e sobretudo não esqueçamos que, dadas as circumstancias em que S. Ex. governou, muito mais e muito melhor poderia ter feito, para maior gloria do seu nome e maior felicidade da nação.
+Há no seu governo actos de alto valor inexeedivel para o progresso do paiz, como, por exemplo, os emanados da pasta da viação, de onde se desprendeu o vôo para os grandes progressos materiaes.
+Mas os governos não peccam ou não erram unicamente pelas suas acções. Freqüentemente erram por omissão.
+O Sr. Rodrigues Alves pode julgar —e é natural que disso esteja convencido— que fez tudo quanto pôde. Não seremos nós que, aliás não lhe regateamos os merecidos louvores aos seus actos bons e patrióticos, que procuremos tirar essa illusão.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Os 100.000$ por 3$200!—Grande Loteria da Capital, sabbado, ás 3 1/2 horas.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Lauro Muller, ministro da industria, conferenciará e despachará hoje com o Sr. presidente da Republica. Entre os decretos que serão submettidos á assignatura de S. Ex. serão assignados os que concedem cartas-patentes de invenção a diversos industriaes.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Por motivo de sua nomeação para o cargo de subdirector da directoria de obras da Prefeitura, foi hontem cumprimentado em sua repartição por todos os funccionarios da Prefeitura o illustre engenheiro Dr. José Dias Cupertino Durão. Crescido foi o numero de cartas e cartões recebidos pelo recém-nomeado, tendo á noite de sabbado sido cumprimentado em sua residência por muitos amigos e pessoas do suas relações. O general Dionysio Cerqueira e toda a sua familia, os deputados Joaquim Cruz e José Cruz estiveram até depois de 1 hora da madrugada na residência do Dr. Durão.
+Fez-se boa musica e dansaram até á madrugada de domingo, em regosijo pela feliz escolha do Dr. Prefeito.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Conforme antecipámos, foi removido o Dr. Francisco Manuel das Chagas Doria, do cargo de consultor technico do ministerio da industria, para o de director da estrada de ferro Oeste de Minas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+As auctoridades superiores da armada apresentaram-se hontem o capitão de mar e guerra Baptista das Neves e o capitão de corveta Eloy da Câmara o primeiro por ter deixado e este por haver assumido o commando do cruzador Tathandarê.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O capitão de mar e guerra Baptista das Neves partiu no dia 7 do corrente a desempenhar as funcções de commandante do couraçado Rio de Janeiro.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Conforme antecipámos, foi removido o Dr. Francisco Manuel das Chagas Doria, do cargo de consultor technico do ministerio da industria, para o de director da estrada de ferro Oeste de Minas.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A força de não haver dias úteis onde se accumulem as industrias, a falta é insensivel. Volta a finação das ruas onde se fizerem precisas.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. senador Ruy Barbosa recebeu hontem muitas demonstrações de apreço dos seus amigos e admiradores, por motivo do seu anniversario.
+Á noite, depois do jantar de familia em que tomaram parte algumas outras pessoas de intimidade, houve brilhante e concorrida recepção.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Telegrammas de Porto Alegre dizem haver o Sr. senador Ramiro Barcellos recebido communicação do engenheiro Gorthell de estar inteiramente preparado para dar começo, dentro do prazo do respectivo contracto, ás obras do porto do Rio Grande.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A alfaiataria do Novo continua a cumprir as ordens dos seus amigos e freguezes, e liquidando todo o seu grande stock de roupas feitas a preços sem competencia, á rua do Gonçalves Dias 38 provisoriamente.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Leopoldo de Bulhões, ministro da fazenda, pretende despachar hoje com o Sr. presidente da Republica.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+SANTOS DUMONT.—Acha-se convenientemente reparado o aeroplano de Santos Dumont, ficando o apparelho alliviado do peso de 45 kilos. O aeronauta brasileiro annuncia para breve uma nova prova em que se propõe disputar a taça Archdeacon-Deutsch, instituida para aquelle que primeiro percorrer, com um aeroplano, a distancia de um kilometro, ida e volta, sem tocar no solo.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Nas ultimas noticias das eleições municipaes realisadas no Porto, sahiram victoriosos os candidatos da lista camararia, sendo completamente derrotados os governistas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Correu hontem agitadissima a sessão da Camara dos Deputados por causa da suspensão do Dr. J. J. Seabra.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Os revolucionários de Kutno, na Polônia, assassinaram 17 officiaes do exercito.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Na Mauritânia têm-se dado combates entre mouros e francezes, havendo mortos de ambos os lados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O gabinete Clemenceau mantém a alliança franco-russa. O presidente do conselho expoz ao parlamento largo programma econômico.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Nos destroços de navios da Armada Invencivel descobriram-se tres caixas cheias de ouro e prata.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O grão-duque Nicoláo Nicolauwitch vae casar com a grã-duqueza viuva do grão-duque Sérgio.
+--- ARTICLE END ---
+--- ARTICLE START ---
+E' provável a recomposição do gabinete argentino, em virtude da renuncia do ministro da marinha.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foram demittidos alguns corretores da Bolsa de Buenos Aires.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O despacho de hontem:
+--- HEADLINE END ---
+--- ARTICLE START ---
+Foram assignados hontem os seguintes decretos da pasta do interior e justiça:
+Nomeando o bacharel Luiz Gastão d'Estrangeville Gloria para o logar de lente da cadeira de Historia, especialmente para o Brasil, do professor commilitone Cypriano Noronha;
+Reformando o soldado da Força Policial do Districto Federal João Horacio de Andrada;
+Concedendo a medalha de ouro com passadores sobre os de bronze, e o de ouro, ao coronel José Brasil Paulista Píeda, commandante da 1ª brigada de cavallaria da guarda nacional da comarca de S. Paulo;
+Concedendo identica distincção ao tenente-coronel Ignacio von Borzinger, commandante do 7° batalhão de infantaria da guarda nacional de S. Carlos;
+Concedendo identica distincção ao coronel José Luiz Nascimento Pereira e Silva, inspector geral do commando superior da guarda nacional desta capital;
+Concedendo ao Collegio Modelo Braz, da capital de S. Paulo, os privilégios e garantias de que goza o Gymnasio Nacional;
+Alludindo o credito de 72:000$ para occorrer ao pagamento das differenças de vencimentos do pessoal administrativo da Escola Nacional de B.llas Artes e do Instituto Nacional de Música;
+Concedendo um anno de licença, com vencimentos, ao Sr. Dr. João Pedro Belfort Vieira, ministro do Supremo Tribunal Federal:
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+O Elixir de Cardus Benedictus, de GIRARD, é excellente contra tosses, bronchites, rouquidão e influenza.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Diz-se hontem que uma das grandes preocupações da bancada mineira, actualmente, é a renovação do Congresso Estadual de Minas, com as eleições de março vindouro,— renovação que se está tornando embaraçosa, tal o numero de candidatos ostensivos,—e a difficuldade de satisfazer a todos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. ministro do interior auctorisou o engenheiro de obras publicas daquelle ministerio a mandar fazer no edificio do Fórum alguns melhoramentos necessários, como sejam o calçamento de toda a superficie da área, elevando-a á altura conveniente, de modo a evitar a invasão das aguas pluviaes, construcção de um pavilhão para installação de apparelhos sanitários, ladrilhamento e forração do tecto da entrada do 2° tribunal do jury e pintura externa em parte do edificio.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Dr. João Pinheiro, presidente do Estado de Minas, offerecerá no dia 7, em Bello Horizonte um grande banquete ao Sr. Dr. Affonso Penna.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+O Sr. ministro da industria, ás 3 horas da tarde, dirigiu-se para o palácio do Cattete, afim de conferenciar com o sr. presidente da Republica.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Pelo Danube, chegou hontem o Sr. Dr. J. de Rego Barros, nosso ministro junto aos governos da Bélgica e dos Paizes Baixos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Hontem á noite, falleceu na residência do Sr. commendador J. Dias, sua distincta filha D. Maria Brandon, esposa do Sr. Carlos Brandon. A infeliz senhora estava enferma ha dias de uma pleurisia e, embora guardando o leito, nada fazia prever um fim tão próximo á creatura cheia de mocidade e vigor.
+A prematura morte de Madame Carlos Brandon fere profundamente a sociedade fluminense, onde a familia Dias e as familias que lhe são ligadas tem vasto círculo de relações.
+Ao Sr. commendador J. Dias e sua Exma. senhora, ao Sr. Carlos Brandon e a toda Exma. familia da finada apresentamos os nossos mais sinceros e mais sentidos pesames.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. almirante, chefe do estado-maior da armada permittiu que o navio-escola Benjamin Constant, que devia ter partido hontem de Cherburgo, fizesse a vapor a viagem até ao porto de Las Palmas.
+--- ARTICLE END ---
+
+--- PAGE 2 ---
+--- PAGE_METADATA START ---
+Gazeta de Noticias — Terça-feira, 6 de Novembro de 1906
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+O Sr. Dr. Leopoldo de Bulhões, ministro da fazenda, visitou hontem, pela manhã, as obras do novo edifício da Caixa da Amortisação na Avenida Central, em companhia dos Srs. Dr. Couto Fernandes, engenheiro, e Pertocarrero, Angosto de Paria e Assis Costa, auxiliares.
+S. Ex. pôde assim verificar que os trabalhos estão em estado adiantado e que falta apenas acabar a armação dos tectos, construir a escadaria que dá para a Avenida Central, achando-se quatro das casas fortes munidas das respectivas portas, faltando-as apenas em duas.
+Pela marcha dos trabalhos observada, o Sr. Dr. Leopoldo de Bulhões pensa que poderá ser feita a inauguração do novo edifício entre os dias 12 e 14 do corrente.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Rodrigues Alves teve a fortuna de encontrar como auxiliares homens como Rio Branco, Lauro Muller, Passos, Seabra, Oswaldo Cruz e tantos outros que deram brilho á sua administração.
+Sob o ponto de vista material, é imperecedora a obra de seu governo.
+A Republica alastrou os seus dominios territoriaes, libertou-se de uma porção de questões de caracter e de pressão internacionaes ; mas a Republica, que reconheceu a sua impotencia, ou a impotencia da sua legislação, para punir attentados contra as instituições, não deu um passo em favor da sua defesa legal. A instrucção publica, em qualquer dos seus ramos ou sob qualquer dos seus aspectos, não deu um passo para fora dos cabos em que se debatia e em que se debate. As classes productoras e o trabalho nacional só não andaram positivamente á matroca, porque, ao passo que um ministro procurou por todos os meios, pelos melhoramentos dos portos e por outras medidas, fomentar e proteger os grandes interesses nacionaes, um outro com a obcecação das rendas aduaneiras e com a preoccupação do livre-cambio, procurou sempre contrariar essa política de desenvolvimento do trabalho e da producção nacionaes.
+Não sejamos, pois, exagerados, ou antes, não sejamos illcondicionaes, já que a phrase está na moda.
+Applaudamos o governo do Sr. Rodrigues Alves, pelo que elle tem de bom, de útil e patriótico, mas não façamos a injustiça de desconhecer os serviços das administrações passadas e sobretudo não esqueçamos que, dadas as circumstancias em que S. Ex. governou, muito mais e muito melhor poderia ter feito, para maior gloria do seu nome e maior felicidade da nação.
+Há no seu governo actos de alto valor inexeedivel para o progresso do paiz, como, por exemplo, os emanados da pasta da viação, de onde se desprendeu o vôo para os grandes progressos materiaes.
+Mas os governos não peccam ou não erram unicamente pelas suas acções. Freqüentemente erram por omissão.
+O Sr. Rodrigues Alves pode julgar —e é natural que disso esteja convencido— que fez tudo quanto pôde. Não seremos nós que, aliás não lhe regateamos os merecidos louvores aos seus actos bons e patrióticos, que procuremos tirar essa illusão.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Os 100.000$ por 3$200!—Grande Loteria da Capital, sabbado, ás 3 1/2 horas.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Diz-se hontem que uma das grandes preocupações da bancada mineira, actualmente, é a renovação do Congresso Estadual de Minas, com as eleições de março vindouro,— renovação que se está tornando embaraçosa, tal o numero de candidatos ostensivos,—e a difficuldade de satisfazer a todos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. major Remon, addido militar da embaixada americana, offerecerá depois de amanhã, ao meio-dia, no Club dos Diários, um almoço a diversos officiaes do exercito, que tomaram parte nas manobras militares realisadas no Curato de Santa Cruz.
+Já hontem foram convidados o general Hermes da Fonseca, commandante do 1° districto militar, coronel Torres Homem, generaes José Chrislino, Caetano de Faria, Marciano de Magalhães, commandantes dos corpos que tomaram parte naquelles exercícios, ajudantes de ordens e todo o estado-maior do general Hermes.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+LAXOL é o purgativo ideal.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. marechal João Barbosa, commandante superior da guarda nacional, esteve hontem combinando com o Sr. Dr. Felix Gaspar, ministro do interior, as providencias necessárias para a formatura de uma brigada daquella milícia, que, no dia 15 do corrente, deve dar guarda de honra ao palácio do Cattete.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Dr. Felix Gaspar, ministro do interior, remetteu hontem á mesa da Camara dos Deputados a mensagem do Sr. presidente da Republica solicitando a attenção do Congresso Nacional para uma representação do secretario da Sociedade Propagadora das Bellas-Artes em que são pedidas providencias a favor do Lyceu de Artes e Officios desta capital.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grande sortimento de artigos para crianças, na Casa Colombo. Vestuários de brim, a 7$; chapéos de palha, 6$; suspensores, gravatas, meias, etc., a preços reduzidos.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+No gabinete do Sr. ministro da industria estiveram hontem, á tarde, com S. Ex. os Srs. senadores Urbano de Gouvèa e Rosa e Silva.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. conselheiro Rosa e Silva conferenciou com o Sr. ministro sobre o porto de Pernambuco.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A PERFUMARIA NUNES reduziu os preços de todas as mercadorias.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Ao Sr. ministro do interior, o Sr. Dr. Antônio Januário Pinto Ferraz, lente cathedratico da Faculdade de Direito de S. Paulo, solicitou a gratificação addicional a que tem direito, por contar mais de 15 annos de serviço effectivo do magistério.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Gêneros alimenticios e molhados finos não ha quem venda mais barato, Colombo. Praça José de Alencar 3 C e 3 D, entregas a domicílio.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. ministro da guerra, ás 3 horas da tarde, dirigiu-se para o palácio do Cattete, afim de conferenciar com o sr. presidente da Republica.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Regressando á sua secretaria S. Ex. despachou hontem com o general Hermes da Fonseca, commandante do 1° districto militar.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Chegou hontem pelo Danube, com sua Exma. esposa, o Sr. senador Indio do Brasil, que ha mezes estava na Europa.
+--- ARTICLE END ---
+--- ARTICLE START ---
+No Circulo Catholico realiza-se hoje a 5ª conferência de doutrina e propaganda. E' orador o nosso collega Oliveira e Silva que dissertará sobre—A acção catholica.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A PREA PREFEITURA
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Nas «Cartas Politicas», do correspondente do jornal A Republica, da capital do Ceará, de 14 de outubro próximo findo, encontramos a seguinte e honrosa referencia á administração do actual Prefeito do Districto Federal, a qual, pelo elevado criterio com que é escripta, convém ser conhecida dos fluminenses:
+«Perante o Conselho Municipal, que iniciou no dia 5 do corrente os trabalhos de suas sessões, leu o Sr. Dr. Pereira Passos, Prefeito do Districto Federal, a ultima mensagem do quatriennio de sua admirável administração. E' sóbrio de palavras este importante documento, mas riquíssimo em dados e informações que põem em alto relevo o extraordinário valor administrativo e a grande capacidade deste homem, que teve, para bem dizer, o poder mágico de transformar por completo, em tempo relativamente escasso, a cidade do Rio de Janeiro.
+Quem viu a capital da Republica, ha quatro annos, e a vê hoje, julga estar em uma cidade inteiramente nova. Aquellas ruas estreitas, escuras, mal calçadas, de casarões feios e pesados, desappareceram para dar logar a bonitas avenidas, alegres, arborisadas, cheias de luz, asphaltadas e ostentando bellos edifícios, de architectura moderna. A par disso, innumeros outros melhoramentos completam esse quadro maravilhoso, como os jardins públicos esmerados e floridos, que deliciam a vista e enchem a cidade de encanto.
+E' uma obra surprehendente pela estreiteza do tempo em que foi realisada, pelo esforço ingente que foi preciso dispender para consegui-lo, e sobretudo, pelo gosto apurado que denota.
+Diante de tão deslumbrante realidade, os eternos censores de obra feita tiveram que ceder á evidencia, mas diziam a bocca pequena que o Districto Federal estava empenhado por muitos annos em mais de cem mil contos de réis.
+O Dr. Passos em sua mensagem demonstrou que a divida municipal não só não se eleva á cifra assombrosa e que dentro dos recursos ordinários será amortizada.
+Não ha exemplo de facto igual. E' inaudito o opulento acervo que apresenta da sua memorável administração o Sr. Dr. Passos.
+Elle fez a sua immortalidade, attestando-a para todo o sempre esta metamorphose feérica do Rio de Janeiro. Invejável felicidade a deste homem, que no declinio da vida sente que de cada angulo desta vasta cidade, que elle fez bella e formosissima, chovem-lhe sobre a fronte, como flores immarcessiveis, as bençãos do povo agradecido.»
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- HEADLINE START ---
+JURADOS QUE SE VENDEM
+ABSOLVIÇÃO ESCÂNDALO
+--- HEADLINE END ---
+--- HEADLINE START ---
+PARECER DO 5° PROMOTOR PUBLICO
+--- HEADLINE END ---
+--- ARTICLE START ---
+E' do domínio publico a absolvição escandalosa do barbeiro Abílio Saraiva da Costa, que matou barbaramente a sua infeliz esposa, uma mocinha de 14 annos de idade.
+Abílio, apenas sahindo solto, fugiu desta capital para Portugal, sua pátria, sendo contra os responsáveis pela sua absolvição instaurado processo, como se sabe, por crime de suborno. Foram denunciados como incursos nesse crime, pelo Dr. Cesario Alvim, 5° promotor publico, Manuel Antônio Pereira e Benjamin de Magalhães como subornadores, Francisco Vieira de Lima Júnior, Carlos Xavier de Siqueira Bravo, Antônio Francisco Casaes, Lauro Augusto dos Reis Nobrega e Paulino José da Silva, como subornados.
+E hontem o illustre promotor, apreciando as provas colhidas no summario de culpa, opinou pela pronuncia dos accusados, com excepção de Antônio Francisco Casaes e Paulino José da Silva, para os quaes pede justiça. O parecer é concebido nos seguintes termos e reproduzimo-lo integralmente porque se trata de documento muito interessante :
+«Não sendo admissível nesta phase do processo apurarem-se as provas contra os denunciados, só analysadas no plenário, vejamos os indícios colhidos contra cada um delles e se são de natureza a accorrerem a pronuncia.
+Manuel Antônio Pereira—Inquirido a fls. 26, declara, em resumo, que foi á Casa de Detenção a pedido de Abílio Saraiva e alli este lhe communicou que precisava de dinheiro, «pois o Sr. Benjamin de Magalhães estava fazendo um movimento para sua absolvição». Dahi nasceu a subscripção de 220$, no fim da qual o denunciado, segundo sua própria confissão, lançou com sua letra a nota de que havia dado ao chefe dos jurados a quantia de 220$. Tres testemunhas —Henrique Ernesto da Silva Chaves (fls. 132), Paulino Augusto Vieira (fls. 140) e Antônio de Souza Coelho (fls. 181 v.), informados de que na barbearia do denunciado se iriam pagar votos de venalidade aos jurados, em dia certo, vão observar o que alli se passa e vêem nella realmente entrar, pela fórma que minuciosamente descrevem, os denunciados Lauro Augusto dos Reis Nobrega e Benjamin de Magalhães, ouvindo estas testemunhas, mais tarde, de Nobrega, que alli fora para receber 50$ pelo voto de absolvição que dera, como jurado, a favor de Abílio Saraiva. A testemunha informante Evaristo de Moraes declarou que, antes do julgamento de Saraiva, o denunciado fora a seu escriptorio pedir protecção para o réo, e soube pelo jurado Esteves, funccionario da Estrada de Ferro, que barbeiros, amigos do réo, offereciam dinheiro aos jurados que absolvessem Saraiva.
+Benjamin de Magalhães — Este denunciado é visto na barbearia já referida pela 1ª, 3ª e 6ª testemunhas do summario, depondo, ainda, a 6ª testemunha que tem lembrança de lhe haver Nobrega declarado que recebera de Benjamin de Magalhães 10$000. Justianiano Rodrigues Chaves (4ª testemunha) a fls. 162 v. declara que Vieira Júnior lhe dissera que era verdade que Benjamin de Magalhães, emquanto estava na sala secreta do conselho que julgava Abílio Saraiva, quizera lhe dar 200$ para ser proferida a sentença de absolvição, não o conseguindo.
+A 2ª testemunha (fls. 170) diz que Carlos Esteves lhe communicara que Benjamin de Magalhães procurava subornar jurados e lhe offerecera, a elle, Esteves, 50$ para dar seu voto de absolvição a favor de Abílio Saraiva.
+Ainda fornece indícios contra o denunciado a 1ª testemunha informante, ou seja, cinco testemunhas, de numero cinco, informantes.
+Francisco Vieira de Lima Júnior — Offerecendo dinheiro ao Magma (fls. 131), e confessa participar do crime a Justianiano Rodrigues Chaves (fls. 161), e da sua criminalidade são informadas a 1ª, 3ª e 6ª testemunhas, pelo denunciado Nobrega.
+Des

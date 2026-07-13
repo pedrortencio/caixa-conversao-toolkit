@@ -1,0 +1,332 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+Anno XXXII
+NUMERO AVULSO 100 RS.
+Rio de Janeiro em Terça-feira 14 de Agosto de 1906
+N. 225
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- ADVERTISEMENT START ---
+ASSIGMATURAS PARA A CAPITAL
+PAGAMENTO ADIANTADO
+1 MEZ . . . . 16$000
+3 MEZES . . . 30$000
+6 MEZES . . . 55$000
+ANNO . . . . 100$000
+Stereotypada e impressa nas machinas rotativas de Marinoni, na typographia da Sociedade anonyma «Gazeta de Noticias»
+Os artigos enviados á redacção não serão restituidos ainda que não sejam publicados.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+ASSIGMATURAS PARA OS ESTADOS
+PAGAMENTO ADIANTADO
+1 MEZ . . . . 16$000
+3 MEZES . . . 30$000
+6 MEZES . . . 55$000
+ANNO . . . . 100$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A demolição dos predios em que funccionavam as officinas da GAZETA DE NOTICIAS, ns. 55 e 70, forçou-nos a installar provisóriamente o nosso escriptorio de administração na casa n. 127 da Avenida Central.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+ASSICNATURAS
+COM OS COUPONS
+QUINTO SORTEIO
+com os coupons de 15 de julho a 20 de agosto
+1 PREMIO  . . . 6:000$000
+»      . . . 3:000$000
+»      . . . 1:500$000
+»      . . . 400$000
+»      . . . 200$000
+15 PREMIOS . . 150$000
+40 PREMIOS . . 100$000
+50 PREMIOS . . 50$000
+200 PREMIOS . . 20$000
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+14 de agosto de 1906
+SEXTO SORTEIO
+DEDICADO A CLASSE OPERARIA
+ao qual, como de costume, podem concorrer todas as pessoas que apresentarem os coupons da Gazeta.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Concurso de 43 CAMAS
+com os coupons de 15 de Agosto a 15 de Setembro
+AS INSCRIPÇÕES ESTÃO ABERTAS
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+A noticia de começo de greve na companhia de bonds de Villa Isabel, embora dada pelos jornaes em termos tranquillisadores, quanto ás consequências que poderia ter o movimento, determinou naturalmente uma certa hesitação:
+Não se sabia em que termos haviam as cousas amanhecido, o que succedera depois das ultimas notas da reportagem.
+E, pelo sim, pelo não, muita gente foi-se deixando ficar em casa, se não pertencia ao numero dos que têm que sair quer haja quer não haja greve ou qualquer outra perturbação.
+E, embora fosse circumscripta a parede a uma das linhas de transporte, a diminuição de movimento se fez sentir nas outras, porque, afinal de contas, não se calcula certo até onde podem repercutir certas explosões.
+Felizmente cedo se soube que o serviço daquella linha estava se restabelecendo e, logo depois, que estava normalisado de todo.
+Continuou outra impressão accentuada a notar na vida carioca, nessa segunda-feira que passou hontem serenamente, entre a meia preguiça característica de todas as segundas-feiras e a meia actividade a que a obrigação arrasta os que não são irreductivelmente preguiçosos ou commodistas.
+--- ARTICLE END ---
+--- HEADLINE START ---
+A CAMARA DOS DEPUTADOS
+--- HEADLINE END ---
+--- ARTICLE START ---
+A sessão de hontem teve de ser suspensa quando estava ainda no expediente, em consequencia de um conflito entre espectadores. Como esclarecimento preliminar convém dizer que não eram espectadores da galeria publica, mas do recinto, espectadores munidos de cartões especiaes de ingresso.
+Durou pouco a interrupção. Tomadas as providencias, que a mesa entendeu, e diminuido o tumulto, recomeçou a sessão.
+Antes do incidente, havia o Sr. Rodrigues Doria fallado acerca dos successos de Sergipe, narrando, segundo as informações que recebera, os factos que precederam á renuncia do governador e vice-governador do Estado, renuncia forçada pelas circumstancias e que S. Ex. classifica de verdadeira deposição.
+Depois do incidente, continuou o Sr. Benedicto de Souza o discurso que começara sobre politica de Matto Grosso e interrompera ao ser suspensa a sessão.
+O primeiro discurso, porém, que se proferiu, quando ainda se não havia dado o desacato dos espectadores á Camara, foi o do Sr. L. Tosta pedindo um voto de pesar pela morte do bispo de S. Paulo, victima do naufrágio do «Sirio», pedido que o Sr. G. Hasslocher ampliou ás outras victimas do sinistro.
+Na ordem do dia não houve numero para votar, mas encerrou-se a discussão de alguns projectos de credito e outros, entre estes o que manda incorporar á justiça local do Districto Federal o juizo dos feitos da saúde publica.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O SENADO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Ficou encerrada hontem a 2ª discussão da proposição da Câmara dos Deputados, que reforma o processo de falencias, sem que tivesse havido debate.
+O outro projecto submettido á discussão foi o que se refere á reforma compulsória dos officiaes de terra e mar. Discutiu a matéria o Sr. Pires Ferreira que, achando essa questão importante e complexa, propoz a nomeação de uma commissão especial para estudal-a, verificando as medidas que convém adoptar.
+A discussão foi adiada, não pela hora, mas porque o numero de senadores presentes estava reduzidissimo.
+--- ARTICLE END ---
+--- HEADLINE START ---
+VIAGEM DO DR. A. PENNA
+--- HEADLINE END ---
+--- ARTICLE START ---
+O Dr. Affonso Penna chegou hontem á cidade do Rio Grande.
+Depois de alguma demora conseguiu transpor a barra, seguindo directamente para Porto Alegre, pelo rio São Gonçalo, e depois pela lagoa dos Patos até ao Itapoan.
+Quando o Sr. Dr. Affonso Penna chegou á barra, havia alli seis navios que ha longas semanas esperam tambem a sua vez de entrar, attestando a urgência das obras, para que cessem as demoras na entrada daquella barra, que grandes prejuízos causam ao Estado rio-grandense.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- HEADLINE START ---
+O CASO DE SERGIPE
+--- HEADLINE END ---
+--- ARTICLE START ---
+O caso de Sergipe, por bem dizer, esfriou. Já perdeu toda a sua importância. Já não commove ninguém. Todavia, começam a chegar pormenores. Um delles é que o interior, durante a revolta, se conservou mais calmo que um lago sem rugas ; o outro é que o Dr. Fausto Cardoso expediu ordens para que se destruíssem os instrumentos seviciosos dos quartéis de policia.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O CAMBIO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Hontem tivemos o mercado estacionario, não permittindo os phenomenos do próprio mercado imprimir-lhe uma feição qualquer. Comtudo, porque se achava sustentado e nenhum acontecimento de monta era conhecido, manteve-se sem negócios e inalterado. Não havia dinheiro para remessas, escaseavam as letras de saccadores, a especulação achava-se retrahida, de sorte que tivemos um dia sem importância no cambio.
+Os bancos approximaram mais as condições dos saques, dando os estrangeiros a tabelia de 16 7/8 e o do Brasil a de 16 29/32 d. ; mas, para as letras de cobertura corria apenas o preço de 16 15/16 d., a que havia dinheiro na rua e nos bancos.
+Não obstante essa harmonia de vistas, foram dadas as tabellas de 16 1/8, 16 27/32, 16 1/8 e 16 7/32 d., sendo a primeira no British, a segunda no London, a terceira no River e no Brasilianische e a quarta no do Brasil. Por ultimo saccava o London a 16 27/32 d., e os outros mantendo-se a 16 7/8, 16 29/32 d., como particular a 16 27/32 e 16 15/16 e sem negócios.
+Os soberanos correram a 18$600 e os vales, ouro, de 18$ a 18$100 contando as cambiacas de letras directas de 16 27/32 a 16 29/32 d. contra indirectas de 16 29/32 a 16 15/16.
+Com o fechamento em alta em Nova York e Hamburgo, houve hontem mais actividade no mercado, sendo em geral tambem melhor a sua feição. Na abertura de hontem dos centros europeus, subiram os preços 1/4 na bolsa de Hamburgo, mantendo a do Havre a baixa de 1/8, com que fechou no sabbado.
+Nos commissarios o mercado abriu sustentado na base de 7$000 a 7$200, vigorando a base mais alta para os lotes vendidos no encerramento do mercado ; as casas mixtas foram compradores de 7.000 saccas e disputavam com empenho a acquisição de certos lotes. Os exportadores estiveram tambem mais inclinados a negócios, orçando-se em 5.000 saccas as vendas conhecidas : o mercado esteve estável, porém, sustentado, tendo havido bastante café classificado.
+Base 7$100 com alguns negócios a 7$200.
+Os mercados da Europa accusavam 1/8 de baixa nas segundas bolsas, abrindo a bolsa de Nova York com 5 pontos de baixa e 5 de alta.
+Por Jundiahy passaram 48.700 saccas entrando aqui 19.186 saccas por barra dentro e cabotagem e 3.329 pela estrada até ás 2 horas.
+Santos. 13.—Base 4$200; mercado calmo; foram vendidas hontem 19.775 saccas. Registradora, 15.000; entraram hontem 28.031; entradas desde 1 deste mez, 815.881; media, 27.245; entradas desde 1 de julho, 1.474.801; existiam hontem em primeiras e segundas mãos, 1.182.053; passagens hontem, 28.720; desde 1 do mez, 599.465; desde 1 de julho, 1.295.825. Pauta semanal, 500 réis. Foram hontem baldeadas com destino a Buenos Aires 4.000 saccas.
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- HEADLINE START ---
+UMA COROA IMPERIAL
+--- HEADLINE END ---
+--- ARTICLE START ---
+Um telegramma do nosso correspondente em Lisboa informa ter sido preso um senhor de nome Guerreiro, accusado de ter roubado uma coroa imperial do Brasil, avaliada em cem mil libras esterlinas.
+O despacho telegraphico nada mais diz: nem onde se achava essa coroa imperial nem se ainda tinha todos os seus brilhantes ; é notório que nem todas as coroas imperiaes subsistem de posse de todas as suas pedrarias.
+--- ARTICLE END ---
+--- HEADLINE START ---
+REGRESSO DO REI D. CARLOS DE PEDRAS SALGADAS
+--- HEADLINE END ---
+--- ARTICLE START ---
+De regresso de Pedras Salgadas, o rei D. Carlos chegou hoje a Cintra,onde foi recebido pela rainha D. Amélia, princeza Luiza de Orleans, ministros e autoridades locaes.
+Innumera multidão apinhou-se nas immediações da estação, lindamente enfeitada, e acclamou enthusiasticamente o monarcha.
+--- ARTICLE END ---
+--- BLOCK:LotteryResults START ---
+Aos Srs. João Antonio de Paiva, Joaquim Chaves da Costa e Antonio Francisco da Costa, lavradores em Rio Preto, freguezia de Araxá, Estado de Minas, foram hontem pagos, pela loteria Esperança, tres décimos do bilhete n. 54194, premio foi 50:000$, na loteria extrahida no dia 18 de julho próximo passado, recebendo cada um a quantia de 5:000$000.
+--- BLOCK:LotteryResults END ---
+--- ADVERTISEMENT START ---
+O calçado Walk-Over é o unico que reúne os requisitos de conforto, durabilidade e elegância ; os preços começaram : para sapatos, de 22$; e para botinas e borzeguins, do 24$; unico recebedor a Casa Colombo.
+Magalhães Castro, gerente
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Gêneros alimenticios e molhados finos são baratos na venda mais barato; Commito, praça José Alencar 3 C e 3 D, entregas a domicilio.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Lauro Muller, ministro da industria, esteve hontem durante todo o dia trabalhando na inspectoria geral de illuminação publica, em companhia do Sr. Dr. Theophilo de Almeida, inspector da referida repartição. S. Ex. teve uma longa conferência com o Sr. Dr. Raymundo Barros e os directores da Light and Power, Srs. Pearson e Mackenzie, tratando do contracto com essa companhia para illuminação electrica da cidade.
+Segundo fomos informados ainda hontem nada foi resolvido definitivamente.
+Pelo ministerio da industria foi communicado á repartição geral dos Correios ter providenciado para que seja pago no Correio Allemão o saldo do 2$129, devido ao mesmo correio em virtude da permutação dos vales internacionaes durante o mez de março, próximo findo.
+O ultimo relatório apresentado á Irmandade do Santissimo Sacramento da Candelária pelo seu distincto provedor Manuel Lopes de Carvalho é mais um attestado dos relevantes serviços prestados por esse senhor a essa benemerita instituição.
+O Sr. Lopes de Carvalho exerceu esse cargo desde 1901 e exerceu-o numa das phases mais accidentadas e trabalhosas da benemerita instituição, pois coincidiu com o periodo febril de transformação da cidade.
+Como se sabe, a Candelária tem as suas propriedades espalhadas pela cidade e muitas dellas foram attingidas pelos melhoramentos urbanos, o que até certo ponto representou uma diminuição nas rendas da irmandade que, entretanto, não suspendeu nem diminuiu um unico dos seus encargos, graças á administração criteriosa, intelligente e dedicada do seu provedor.
+Assim foi que a Irmandade teve de perder, por desapropriação, muitos dos seus predios, tendo de ver, portanto, diminuida a sua renda se um intelligente plano financeiro não equilibrasse essa diminuição pela creação de outras fontes.
+E tão criteriosas foram as operações nesse sentido feitas pelo Sr. Manuel Lopes de Carvalho, que não houve necessidade de recorrer a empréstimos que sobrecarregariam extraordinariamente as responsabilidades de tão util instituição. Uma administração assim dirigida dispensa elogios que já estão feitos na sua própria obra e nos beneficios que della advieram.
+Agradecemos o exemplar do interessante relatório que nos foi enviado.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Chapéus de palha para a primavera. Casa Colombo.
+--- ADVERTISEMENT END ---
+
+--- COLUMN 4 ---
+--- ADVERTISEMENT START ---
+As ultimas formas em chapéos acham-se em exposição á rua Sete de Setembro 124 - únicos agentes Silveira & C.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+hoje — ultimos
+SALVARO
+Calçado Feito.
+--- ADVERTISEMENT END ---
+--- BLOCK:Summaries START ---
+10 na Camara dos Deputados.
+Conferência Internacional Americana.
+Greve dos motorneiros.
+Marins publicos.
+Dr. Affonso Penna.
+A igreja.
+Funcionalismo.
+Visita Imperial.
+Pauta brasileira.
+O banqueiro assassino.
+Fechamento das portas.
+Manuel Lyrio.
+Mataram... porque ?
+O caso de Sergipe.
+Revolução em Matto Grosso.
+O perigo amarello.
+Congresso Nacional.
+O nosso café.
+Manuel do Riachão.
+Suburbios.
+Concurso das Crianças.
+Gazeta dos Sports.
+Um Amor Trágico.
+As releituras.
+--- BLOCK:Summaries END ---
+--- SECTION_HEADER START ---
+As 24 horas
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+INTERIOR
+Rio de Janeiro.—19° foi o máximo da temperatura do dia de hontem e 18.0 o minimo.
+O barometro marcou 761.2 pela manhã e 759.1 á tarde.
+O céu esteve encoberto pela manhã e limpo para a tarde.
+Aspecto do sol—Dia 13 de agosto ás 9 h. e 10 m.—Condições atmosphericas boas. Existe actualmente apenas duas pequenas manchas visíveis na região central do astro.
+Media da temperatura nos Estados:
+Belém, 28.10; S. Luiz, 28.50; Fortaleza, 29.30; Natal, 24.45; Parahyba, 24.85; Recife, 24.15; Maceió, 26.50; Aracaju, 24.40; Bahia, 23.25; Victoria, 24.25; São Paulo, 19.40; Curityba, 17.00; Florianopolis, 21.50.
+Rio de Janeiro.—Foi claro, deslumbrantemente claro. O sol pompeou faiscante desde que surgiu e não teve eclipses, porque o céu esteve de uma limpidez suprema.
+Com tanta luz de sol não podia deixar de ser quente, como foi, mas quente de um calor muito suportavel, modificado por aragens brandas, que mais se fizeram sentir pela tarde, uma formosissima tarde que passou á noite pela transição de um crepúsculo maravilhosamente bello.
+Noite clara e amenissima.
+A CIDADE.—As primeiras horas do dia notava-se um retrahimento em certa feição.
+--- ARTICLE END ---
+
+```
+```text
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+CAUSAS E EFFEITOS
+Houve hontem um incidente desagradabilissimo na parte do recinto da Camara dos Srs. Deputados geralmente frequentada pelo publico.
+O incidente foi uma consequência das formidáveis scenas de Sergipe. Mas não é o incidente em si que merece reparos. Em qualquer logar se pode quebrar a cara de outrem, ou ficar-se com ella quebrada. Onde está o homem está o perigo.
+Mas o incidente de hontem, com todas as suas bengaladas, todo o seu sangue e toda a confusão que provocou, não tem verdadeira e realmente senão uma causa, e uma causa indígena: a facilidade com que toda a gente entra na sala das sessões da Câmara dos Srs. Deputados. Em nenhum parlamento do mundo ha facilidade igual e, mesmo entre nós, o Senado dá á Câmara, a esse respeito, exemplos de ordem, disciplina e correcção.
+Ha um grande numero de pessoas que, graças ás relações que mantêm com os Srs. deputados, obtêm bilhetes que lhes facilitam o ingresso no recinto das sessões.
+Não ha, nem pode haver, um numero fixo para esses bilhetes, e o resultado é que geralmente ha mais gente nas immediações do recinto do que dentro delle.
+Comprehende-se essa affluencia de espectadores : uns são pretendentes e outros são simples curiosos.
+Mas para os pretendentes, para os que têm necessidade de procurar e fallar aos Srs. deputados, quer seja para pedir a sua protecção, quer seja para lhes apresentar uma carta, ha em todos os parlamentos do mundo salas reservadas a esse serviço. E isto não é uma simples formalidade : é uma medida de prevenção e de cautela. O logar do publico é nas galerias, o logar dos pretendentes ou das visitas é fora do recinto das sessões.
+Assim como os frequentadores do recinto brigam entre si, nada mais fácil nem mesmo mais natural do que brigarem com os deputados ao alcance do seu murro e da sua bengala. Depois pode vir a punição ; mas o facto fica, assim como podem ficar as cicatrizes da aggressão.
+A promiscuidade de espectadores e de deputados, no mesmo recinto, apenas divididos por uma teia que facilmente se derruba ou se transpõe, é um perigo para a integridade physica e para a inviolabilidade moral dos Srs. deputados.
+O edifício em que funcciona a Camara não offerece todas as commodidades que a representação nacional devia usufruir. Mas a falta de commodidades e de conforto não vai ao ponto de não se poder evitar que o recinto das sessões offereça o espectaculo que diariamente offerece, em prejuízo do prestigio da representação nacional. Apesar da falta dessas commodidades de conforto, ha galerias e tribunas para o publico e salas para visitas.
+Haja energia, por parte da mesa e não só se evitarão incidentes como o de hontem, como se evitarão aggressões aos próprios Srs. deputados.
+As reuniões ou as sessões da Câmara não são comícios na praça publica, e todas as castas de abusos só tem uma causa : o excesso de tolerância.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. ministro da fazenda indeferiu o requerimento de Aureliano Colomitto, filho do lhesoureiro do Thesouro Federal actualmente suspenso, pedindo pagamento de seus vencimentos de janeiro a junho ultimo.
+--- ARTICLE END ---
+--- HEADLINE START ---
+CONFLICTO
+NA
+Câmara dos Deputados
+--- HEADLINE END ---
+--- HEADLINE START ---
+DIVERSOS TIROS
+NO 4° DISTRICTO MILITAR
+--- HEADLINE END ---
+--- HEADLINE START ---
+Eco da revolta de Sergipe
+--- HEADLINE END ---
+--- ARTICLE START ---
+Corria calma a sessão de hontem, poucos deputados no recinto ouvindo as observações que, sobre o caso do Matto Grosso, fazia da tribuna o Sr. Benedicto de Souza, quando no corredor da direita, logo á entrada, lado da rua da Misericordia, uma scena de pugilato alarmou a mesa e todos os deputados que, immediatamente, se levantaram, encaminhando-se para o logar do conflito.
+Os culpados nesse incidente, os Srs. Armando de Siqueira Cardoso, filho do deputado Fausto Cardoso, ascilio de Avila Garcez, official do exercito e deputado estadoal em Sergipe e seu irmão Francisco de Avila Garcez, ficaram envolvidos por uma onda de deputados e espectadores que delles se acercaram, procurando dominar o tumulto e inquirir do desagradavel incidente, do qual sahiram feridos os irmãos Garcez.
+Uma troca de palavras sobre a politica de Sergipe exaltara os animos, determinando provocações, de parte a parte, que acabaram no lamentável incidente, de que foram victimas os irmãos Avila Garcez: um com leves escoriações e o outro com dous ferimentos, no rosto e no parielal esquerdo.
+A mesa, de accordo com o art. 223 do regimento interno, fez recolher os delinquentes em salas reservadas e, quando procurava proceder a averiguações do occorrido, verificou que se haviam ausentado as testemunhas do facto, limitando-se a ouvir os culpados.
+Estes declararam que desistiam de qualquer procedimento judicial, dando por findo o incidente e recusando-se a fazer qualquer declaração sobre o conflito.
+A vista disso, a mesa fez apresental-os com um officio narrando o occorrido ao pretor da 4ª pretoria, sendo todos acompanhados do official da secretaria da Camara Agenor do Amaral.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O marechal Argollo, pouco depois de haver chegado hontem em seu gabinete no quartel general do exercito, recebeu longo telegramma do general Dantas Barreto, commandante do 7° districto militar, communicando diversos factos que se têm passado em Cuyabá, solicitando urgentes providencias. S. Ex., depois de ter conferenciado com o Sr. general Rodrigues de Salles, chefe do estado-maior do exercito, dirigiu-se para o palácio do Cattete afim de submetter á consideração do Sr. presidente da Republica o alludido despacho telegraphico.
+Em palácio o Sr. ministro da guerra encontrou-se com os Srs. almirante Julio de Noronha, ministro da marinha, Dr. Felix Gaspar, ministro do interior e barão do Rio Branco, ministro do exterior, tendo todos conferenciado com o presidente da Republica relativamente ao caso de Sergipe, informando o Sr. ministro da guerra ao chefe da nação não haver recebido até aquelle momento telegramma de especie alguma do commandante do 7° districto militar, nem da chegada do 26° batalhão de infantaria a Aracaju.
+O general Hermes da Fonseca, commandante do 4° districto militar, recebeu hontem do general Paula Guimarães, presidente da Câmara dos Deputados, requisição de um official do exercito para conduzir preso aquelle commando o 2° tenente Avila Garcez, preso no recinto daquella casa do Congresso por se achar envolvido no conflito alli havido com o filho do deputado Dr. Fausto Cardoso.
+Immediatamente o general Hermes da Fonseca designou o 2° tenente do 10° batalhão de infantaria Fernandes Dantas, para a alludida commissão.
+O tenente Fernandes Dantas, chegando á Câmara e apresentando-se ao general Paula Guimarães, foi informado por este não serem mais precisos os seus serviços, visto ter relaxado á prisão do 2° tenente Avila Garcez.
+Como era versão corrente pela cidade estarem envolvidos neste conflito os filhos do Sr. senador Martinho Garcez, enviamos um nosso representante á residência do illustre senador pelo Estado de Sergipe, na Muda da Tijuca, onde foi pelo mesmo averiguado em nada se entenderem com os referidos moços as scenas desenroladas hontem na Câmara dos Deputados.
+O senador Martinho Garcez e sua familia receberam, com grande surpresa, diversas perguntas, de parentes e pessoas de amisade, referentes ao caso, respondendo a todos que delle apenas haviam tido conhecimento pela rapida noticia dos jornaes da tarde.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- IMAGE START ---
+Map of South America with a route highlighted.
+--- IMAGE END ---
+--- HEADLINE START ---
+Estrada de Ferro Transcontinental
+(TRAÇADO LUIZ GOMES)
+--- HEADLINE END ---
+--- ARTICLE START ---
+Já aqui demos uma vez a lista de alguns adversarios do Convenio na Câmara que se aprestam para atacar o projecto relativo á reforma monetaria.
+Vamos hoje dar alguns nomes dos deputados que se diz subirão á tribuna para defender esse projecto.
+Começando pela bancada paulista, os que têm revelado esse intento são por emquanto os Srs. Adolpho Gordo, Altino Arantes, Galeão Carvalhal e Alberto Sarmento.
+E' possivel que o estado de saúde deste ultimo o impeça de tomar parte nos debates e, sendo assim, o Sr. Cincinato Braga talvez tambem se disponha a prestar o auxilio de sua auctorisada palavra aos defensores do Convenio.
+Tendo lugar no dia 19 do corrente a grande assemblea, para tratar-se, entre outros assumptos, da desejada equiparação, tomo a liberdade de apresentar-vos a seguinte tabella que, penso, estudada pela commissão e acceita pelo poder competente para as repartições do ministerio da industria, a todos satisfaria:
+Mensal Annual
+1ª escrip. ou 1° official 600$000 7:200$000
+2ª » » 2° » 500$000 6:000$000
+3ª » » 3° » 400$000 4:800$000
+4ª » » amanuenses 300$000 3:600$000
+Praticantes 200$000 2:400$000
+Não será grande a differença nem muito o liquido a resultar-se, attendendo-se aos descontos obrigatórios.
+Que a digna commissão, que tão brilhantemente trabalha para ser uma realidade a equiparação dos vencimentos dos funccionarios publicos, não desanime e leve avante o seu desideratum, auxiliada pela Gazeta de Noticias e demais jornaes desta capital, é o que, para honra nossa e da Republica, deseja um modesto funccionario que, agradecido, se vos confessa.
+Em 13 de agosto de 1906.
+Floriam Commentarius
+--- ARTICLE END ---
+--- ARTICLE START ---
+Lemos a enqnite ha dias publicada em seu conceituado orgão e apresentamos igualmente os nossos applausos pelos conselhos contidos nesse bem elaborado artigo ; vamos nos referir aos funccionarios da estrada de ferro Central do Brasil, visando em primeiro logar aos empregados do movimento, classificados «Conductores de trens».
+Estes funccionarios distribuidos em quatro categorias são os que mais lutam pela existencia, já pela escassez de seus vencimentos, já pelas grandes despezas a que são obrigados e ainda mais pelos grandes perigos a que se acham expostos.
+Basta reflectir que esses funccionarios, especialmente os conductores de 4ª classe, os mais sacrificados da classe, vencem o parco salario de 150$000 mensaes, soffrendo ainda o desconto de lei, o que reduz o honorario a menos de cento e quarenta mil réis!
+Estes empregados, obrigados muitas vezes por mez a servirem na escala de 3ª classe, são mandados para o interior em serviço do «movimento» e quasi sempre para destacamentos onde se demoram vinte dias e mais.
+Ora estes pobres funccionarios, a maioria delles casados, são sobrecarregados no interior com despezas extraordinarias de manutenção, pagas a expensas proprias e o que lhes reduz grandemente o ordenado.
+Assim sendo, ficam, portanto, exhaustos para poderem fazer face ás despezas da familia, sujeitando-as a uma serie de dissabores bem facil de imaginar, privando-as dos pagamentos a seus fornecedores, etc.
+E' cruel o que se passa com essa classe de funccionarios que além de tudo têm a sua vida sempre arriscada.
+Sabemos de muitos conductores que, se bem que cumpridores do seus deveres, raro é o mez em que não têm deficit, o que repetido durante alguns mezes os colloca em situação por demais precaria.
+Ao passo que uns soffrem todos esses tormentos, outros ha, como por exemplo, a classe de 4° escripturarios que vencem o honorario de 225$000 mensaes, trabalhando pelas das 10 ás 4 horas da tarde e em serviço relativamente suave, isento dos intempéries, sem pernoites nem madrugadas e sem os grandes perigos a que se acham expostos os empregados do movimento.
+Estes nossos considerandos visam unicamente a equiparação dos vencimentos daquelles funccionarios aos destes, incontestavelmente dignos de melhor sorte.
+Na escala gradativa o mesmo se dá com os conductores de 3ª, 2ª e 1ª classes que devem tambem ser equiparados aos escripturarios das classes respectivas.
+E' mister que os poderes publicos, principalmente neste momento em que funcciona o Congresso Federal, se condoam da sorte desses funccionarios e decretem medidas tendentes a minorar-lhes a situação angustiosa porque passam, nella participando os entes que lhes são caros.
+Não é admissivel que, emquanto outros funccionarios com menos direito gosem vida folgada e milagrosa—os da estrada de ferro Central do Brasil permaneçam no esquecimento, o que constitui uma clamorosa injustiça.
+E portanto a vós Sr. redactor que faço appello com a sublima esperança de ver tornar grande empreendimento, que é a aspiração nacional, uma realidade, são os nossos votos.
+Azor.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Quem vendo as sortes grandes paga 140 réis. Uma loteria de 50:000$. G. Dias 17 A.
+--- ADVERTISEMENT END ---
+
+--- COLUMN 3 ---
+--- ADVERTISEMENT START ---
+SAMUEL
+CASA CENTRAL. RUA DO OUVIDOR, 103
+MATRIZ. LARGO S. FRANCISCO
+FILIAES: RUA DA QUITANDA, 24; RUA GONÇALVES DIAS, 41 E 43; AVENIDA CENTRAL, 7 E 101.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Januario da Silva Lara, nomeado ha dias fiscal do governo junto á Companhia City Improvements, tomou hontem posse do referido cargo e apresentou-se ao Sr. ministro da industria, a quem agradeceu a sua nomeação.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Bonbons de Pará na Casa Colombo.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Apresentaram-se hontem ao chefe do estado-maior do exercito os seguintes officiaes: commandante do 7° batalhão de infantaria Febronio de Brito, por haver chegado do Rio Grande do Sul transferido do 1° batalhão para aquelle corpo; 2° tenente do 8° batalhão de infantaria Nilo Correa de Moraes, passando a contar antiguidade e graduação de 1° tenente.
+Sob o commando do coronel Carlos Frederico de Mesquita, chega no dia 26 do corrente a esta capital, vindo de São João d'El Rey, o 28° batalhão de infantaria do exercito.
+O batalhão vem tomar parte nas manobras e exercícios militares que se devem realisar no próximo mez de setembro nos campos de Santa Cruz.
+O 28° batalhão deve aquartelar em dependências do quartel general do exercito.
+O general Hermes da Fonseca, commandante do 4° districto militar, irá na próxima semana a Santa Cruz, afim de escolher os diversos pontos em que acamparão as brigadas que tomarão parte nos exercícios e manobras militares de setembro.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Roupas feitas. Seja qual for o seu preço, compare os seus preços ; Ouvidor 62 e 66.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Thesouro Federal recebeu hontem 93:689$716, ouro, de Mauricio Israelson, proveniente de quotas de vendas de areias monaziticas, de janeiro a junho ultimo.
+Pelo ministerio da industria, foi auctorisado o director da estrada de ferro Central do Brasil a abonar, a quem de direito, os vencimentos que competiam ao agente de 5ª classe da mesma estrada, João Antonio Vieira de Carvalho, como licenciado até a véspera de seu fallecimento.
+O Diario Official deve publicar hoje a mensagem ao Sr. ministro da industria, ao Senado Federal, prestando as informações solicitadas por essa casa do Congresso, a respeito da prorrogação de

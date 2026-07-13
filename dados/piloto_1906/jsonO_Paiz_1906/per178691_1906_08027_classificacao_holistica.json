@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "This edition of \"O Paiz\" takes a strongly Orthodox stance against the proposed \"Caixa de Conversão\" as presented by David Campista. The editorial focuses on the perceived dangers of the plan, highlighting potential damage to the nation's credit and a breach of the gold standard.  It criticizes Campista's dismissal of \"promessas legaes\" as mere \"embaraços theoricos,\" seeing this as a dangerous disregard for the nation's financial integrity. The article's forceful language and prominent placement on the front page clearly signal the newspaper's strong opposition to the current proposal.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "A promessa legal de 1846 é a de pagar a nota de papel-moeda pelo seu valor prefixado em ouro; retrata a horiombilidade do devedor offerecendo em garantia da estricta observância de seu contrato; traduz o direito de quem recebeu a nota e a cedeu a seu credor, como documento em que o mesmo direito se acha explicitamente reconhecido; aquella promessa legal é, por assim dizer, a própria dignidade do Estado...",
+            "reason_for_inclusion": "This quote emphasizes the importance of upholding the existing gold standard and legal promises, a core principle of the Orthodox perspective."
+        },
+        {
+            "quote": "E' assim que as emendas em preparo transformam radicalmente a Instituição primitiva, imprimindo-lhe nova ficção, não suspeita até agora.",
+            "reason_for_inclusion": "This highlights the newspaper's suspicion and disapproval of Campista's amendments to the original Caixa proposal, suggesting a deviation from established monetary principles."
+        },
+        {
+            "quote": "Um pavio acceso pelas duas extremidades para mais rápida combustão; uma rasoura a cortar desabridamente a nossa esperança de melhorar de sorte; uma caixa de conversão fatídica, que, mesmo antes de nascer, já nos está escalavrando o credito...",
+            "reason_for_inclusion": "This highly charged language demonstrates the newspaper's alarm and strong condemnation of the proposed Caixa, portraying it as a destructive force for the nation's credit."
+        }
+    ]
+}

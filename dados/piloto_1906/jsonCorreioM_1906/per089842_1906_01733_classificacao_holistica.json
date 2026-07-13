@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-04-10",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "Andrade Figueira's article on \"O Padrão Legal\" takes a strongly Orthodox view, criticizing the proposed Caixa de Conversão and emphasizing the importance of maintaining the existing gold standard and national \"probidade.\"  This article, prominently placed on the front page, outweighs other news items in the edition, setting the overall tone for the day.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Nem é correcto aferir o valor da moeda legal pelo artificio do papel moeda, que produz a alta geral dos valores, propria do regimen da inflacção ; nem pelo curso dos câmbios, que obedecem ainda a outros factores, como sejam a balança commercial, acontecimentos politicos, guerra, etc., sendo que a elle estão sujeitas ainda as praças com regimen metallico firmado.",
+            "reason_for_inclusion": "This quote, from the beginning of Figueira's article, establishes his critique of using paper money manipulations and fluctuating exchange rates to determine the value of currency, a core tenet of the Orthodox position."
+        },
+        {
+            "quote": "Precisamente porque a Republica Argentina nada em prosperidade, menos defensavel, porque desnecessario foi o recurso de que lançou mão para reduzir a menos de metade, a 44 \"/„, o seu padrão monetario.",
+            "reason_for_inclusion": "Figueira uses Argentina, often cited by Expansionists as a success story, as a *negative* example, arguing against altering the monetary standard even in times of prosperity. This directly counters the Expansionist narrative."
+        },
+        {
+            "quote": "Acima dos vulgares conceitos de vantagem transitorias e illicitas, pairo bem alto o symbolo da nossa probidade nacional.",
+            "reason_for_inclusion": "This concluding statement reinforces the Orthodox emphasis on national \"probidade\" (integrity/honesty) as paramount, implicitly criticizing the Caixa de Conversão as a threat to this principle."
+        }
+    ]
+}

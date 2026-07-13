@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-29",
+        "original_snippet_context": "Discussing government measures to benefit commerce.",
+        "relevant_quote": "o governo vai estabelecer a caixa de compensação para movimento de cheques, com dispensa da intervenção do dinheiro do contado nas operações bancarias.",
+        "classification": "Neutral/Factual",
+        "justification": "This mentions the establishment of a \"caixa de compensação\" (clearing house) which, while related to banking and currency, is distinct from the \"Caixa de Conversão\" and presented as a factual government initiative.",
+        "confidence": "High"
+    }
+]

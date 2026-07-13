@@ -1,0 +1,87 @@
+```text
+--- PAGE estadao44.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+ACERVO O ESTADO DE S. PAULO Copyright © 1875-2012. Todos os direitos reservados
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+O ESTADO DE S. PAULO
+--- HEADLINE END ---
+--- ARTICLE START ---
+ΑΥΝΟ ΧΧΧΙ
+
+S. PAULO-Sabbado, 22 de setembro de 1906
+
+POLVO?
+
+Carvalho de Mendonça que elle se obrigou a defender com a sua aureola do jurisconsulto estudioso, E' tambem um mestre acatado pela gens togata, nesse difficil caso, se os argumentos forem procedentes, só o convenceram a companhia, quando além do contostasto se vanta-gens do privilegio. Más, neste caso, com o fito de luevo, nese dia em que o prezne advogado reveste de justa autoridade sua palavra.
+Foi um conteudor deste nome que, mal passára os olhos pelo nosso artigo a proposito das dócas de Santos, apressou-se a egntestar-nos. A presteza da réulica, a linguas dos volumes.
+Não! Quem surgiu hontem polas columnas ineditorises do nome que, mal passára os olhos pelo nosso artigo a proposito das dócas de Santos, apressou-se a egntestar-nos. A presteza da réulica, a linguas pordovia a direito á consideração publica. Era uma penna estipendiada.
+Desde 1 do mes, 1.216.258 saccos.
+
+Mercado calmo
+Entradas do dia, 13.140 saccos.
+Exatacia hoje em primei-ra e segunda mão, 15 1/2 15 5/8
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+REDACCAO
+Praça Antonio Prado-Palaccto
+Numero atrazado, 200 réis
+Stereotypado impresso em machinas rotativas de Marinoni
+ASSIGNATURAS
+assignaturas começam em qualquer dia e terminam em um de junho e dezembro
+8$- Someste
+1.5$- Aguas Externas
+50$- Extrangeles
+Numero do dia, 100 réis
+--- ADVERTISEMENT END ---
+--- BLOCK:MarketReport START ---
+O CAFE'
+JUNDIANY, hoje, 22
+Mercado nacinaes
+Vendas, 49.000 saccos.
+Kabarendas desde i do moz,...
+passado:
+Soberanos 10 13:16 14410
+1 RIO 10 15 17
+(Commercial Telegramma)
+--- BLOCK:MarketReport END ---
+
+--- COLUMN 2 ---
+--- ARTICLE START ---
+
+Mercados nacinaes
+
+SANTOS, 21 (Telegramma do Estado).
+Movimento do porto:
+Entradas:
+Do Rio de Janeiro, con 10 horas de viagem, o vapor nacionaes de 1.100 toneladas, carga varios generos, Consignado a Rodolpho M. Gui-marães & Comp., para prente valio linde der militar.
+De Antuerpia, com 45 dias de viagem, o vapor ingles Rel-gio de 2.000 toneladas.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+7.331, Companhia Paulista de Vias Ferreas, despache-se de accordo com as relações entre ta capital;
+8.133, Carrares & Comp., projecto abolindo as relações entre
+8.114, В. E. Johnsinn de Comp., ao sr. Azevedo para at-
+7.549, Manuel de O. Lima, despache-se accordo com as
+8.087, primeiraten Fratelli Martinelli Mar & Juloud commindo de finanças,
+8156 e 57, Fratelli Puglisi & Comp, ao sr. Azevedo para at-
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+MADRID, 21.
+Na ordem do dia, não haven-do muti-lados, evi-dente, quanto aos trabalhos dos muti-lados, evi-dente, quanto ao trabalho
+Em Saragoen foi preso um individuo filiado ao partido carlista.
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- ARTICLE START ---
+MADRID, Domingues, pre-sidente do cora-ção da camara dos deputados, Wanderley, Mendes, José Carlos de Car-valho e sr. Ricar-do Rodrigues, pre-sidente da commissão de finanças, international.
+O sr. Eleuterio Lobos está carregado pad-rão, unico recurso.
+Osr. Wenceslau Escobar confirmón vigellação do sol para os governos dos muti-lados, evi-dente, quanto ao trabalho e hu-mildade de orientar a politica internacional.
+O sr. Galeão Carvalhal, mem-bro da commissão de finanças, international.
+BUENON AIRES, 21. O ministro confirmón as noticias publicados pela impren-sa, de que está imminente uma reorganisação do exercito pelge dros do charlatanismo conferveno favoravel por propicio aos seus interesses, continuando a propaganda bellicosa na Argentina e no Brasil, o que doble for uredindo de infau-mia papa, aguardando submetida a contestação, para os so para os seus interesses, continuando a preteri nas massas irresponsaveis do po-vo, censurando o estado samento civil.
+Obispo de Cordoba publicou trabalho censurando o estado samento civil.
+--- ARTICLE END ---
+
+
+
+```

@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-10-10",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition mentions the \"Caixa de Conversão\" only briefly in a factual report about the distribution of the related project for review.  There is no explicit argumentation or editorializing about the merits or drawbacks of the Caixa itself.  The rest of the newspaper focuses on unrelated news items, primarily a local crime story.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O projecto relativo á Caixa de Conversão foi hontem distribuído pelo presidente da commissão de finanças do Senado, sr. Gomes de Castro, ao sr. Urbano dos Santos, que deverá apresentar dentro de alguns dias o seu parecer, ao que dizem favorável ao projecto.",
+            "reason_for_inclusion": "This is the only mention of the \"Caixa de Conversão\" and is purely factual reporting on the procedural step of distributing the project for review."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "While the newspaper mentions the \"Caixa de Conversão,\" it does so in a purely factual manner, reporting on the quantity of notes processed. There is no editorializing, argumentation, or endorsement of any particular stance regarding the conversion itself.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Nas duas casas \"Caixa de Conversão\" foram hontem recolhidas 104.824,- no valor de 32.781$000 e frs. 8,0, no valor de 1$750, perfazendo o total de 32.781$750, em notas conversíveis.",
+            "reason_for_inclusion": "This quote is a factual report of the Caixa's activity, devoid of any editorial slant."
+        },
+        {
+            "quote": "A Casa da Moeda passou a remetter directamente a Caixa de Conversão as notas conversíveis, cuja impressão está sendo feita.",
+            "reason_for_inclusion": "This is another purely factual statement about the production and delivery of convertible notes."
+        }
+    ]
+}

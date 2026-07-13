@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-18",
+        "original_snippet_context": "Report on Senate approval of the Caixa de Conversão project.",
+        "relevant_quote": "O Senado approvou hontem, sem discussão, sem alterações, por 32 votos contra 10, o projecto que institue a caixa de conversão.",
+        "classification": "Neutral/Factual",
+        "justification": "This excerpt simply reports the Senate's approval of the project without expressing any opinions about the conversion rate or its economic impact.",
+        "confidence": "High"
+    }
+]

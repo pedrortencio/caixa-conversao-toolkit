@@ -1,0 +1,29 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussion about the potential impact of poor harvests on the proposed Caixa de Conversão and its gold reserves.",
+        "relevant_quote": "Ahi se vê que no anno da má colheita —1897—a importação diminuiu quatorze milhões, o que quer dizer,—com a differença de um milhão de pesos, igual á diminuição total da nossa exportação nesse anno.",
+        "classification": "Clearly Expansionist",
+        "justification": "This section argues that even in bad harvest years, reduced imports would compensate for lower export earnings, thus protecting the gold reserves of the Caixa de Conversão, a key expansionist argument for its viability.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Addressing concerns about banks potentially withdrawing gold from the Caixa de Conversão, destabilizing it.",
+        "relevant_quote": "Chega agora a segunda hypothese que, em caso de ser decidida a reforma monetária, os bancos se dariam pressa de sacar o ouro da Caixa de Conversão para se porem a coberto das contingencias do porvir, e esses saques fariam perigar a estabilidade da conversão e poderia trazer o descalabro da mesma Caixa.",
+        "classification": "Neutral/Factual",
+        "justification": "This passage presents a hypothetical concern about the Caixa's stability without endorsing or refuting it, making it a neutral presentation of a potential risk.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Analysis of the amount of paper money held by banks versus the public, and its implications for the Caixa de Conversão's gold reserves.",
+        "relevant_quote": "Nosso povo, proporcionalmente maior que qualquer outro, parece ter o habito de althessouramento directo da moeda e não na moeda metálica, si não no tão escarnecido peso-papel. Na actualidade a nossa emissão fiduciária aproxima-se de 100 milhões de pesos-papel, o que dá á proporção de cerca de cincoenta pesos por cabeça, proporção que, seja dito de passagem, para a maioria dos economistas da escola europeia, representa uma infracção horrorosa e symptomatica de uma próxima catastrophe.",
+        "classification": "Leaning Expansionist",
+        "justification": "While seemingly neutral, the author's dismissive tone towards European economists' concerns about high per capita paper money circulation suggests an expansionist leaning, downplaying risks to the Caixa.",
+        "confidence": "Medium"
+    }
+]

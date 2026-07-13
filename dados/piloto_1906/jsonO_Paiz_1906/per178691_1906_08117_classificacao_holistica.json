@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-12-24",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition includes a brief, factual mention of the Caixa de Conversão, but no arguments for or against it. The dominant theme of the edition revolves around political events and other unrelated news.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O London Bank deve apresentar hoje ao troca da caixa de conversão 120.000 libras.",
+            "reason_for_inclusion": "This is the only mention of \"Caixa de Conversão\" in the entire edition. It is a factual statement about a transaction, not an argument about the policy itself."
+        }
+    ]
+}

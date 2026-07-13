@@ -1,0 +1,400 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+Anno XXXI
+Rio de Janeiro — Sexta-feira 8 de Junho de 1906
+N. 159
+
+ASSIG. NATURAS PARA O RIO
+NUMERO AVULSO 100 RS.
+PAGAMENTO ADIANTADO
+
+GAZETA DE NOTICIAS
+
+ASSIG. NATURAS PARA OS ESTADOS
+NUMERO AVULSO 100 RS.
+PAGAMENTO ADIANTADO
+
+Stereotypada e impressa nas machinas rotativas de Marinoni, na typographia da
+Sociedade anonyma « Gazeta de Noticias»
+
+ESCRIPTÓRIO
+na Typographia
+Rua 1° de Março, 70
+
+Os artigos enviados á
+redacção não serão
+restituidos ainda que não
+sejam publicados.
+
+As assignaturas começam
+em qualquer dia
+e terminam em qualquer época
+
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+O 1° SORTEIO
+DA
+GAZETA DE NOTICIAS
+--- HEADLINE END ---
+--- ARTICLE START ---
+Realisa-se hoje, 8, ás 8 horas da noite, o 1° sorteio dos prêmios distribuidos pela Gazeta de Noticias, aos seus dignos leitores.
+
+O norteio effectuar-se-á no Theatro S. José, havendo em seguida uma magnifica funcção durante a qual tocarão duas bandas de Musica, e realisando-se duas sessões de Cinematographo, gentilmente cedido pelo Sr. Paschoal Segreto, com este programma :-
+--- ARTICLE END ---
+--- BLOCK:Program START ---
+1.—Drama doíb pequenoe
+2.—Glorificação do trabalhador
+3.—União oll_[ILLEGIBLE WORD] por S. Pedro
+4.—Combate dos bombeiros
+5.—Drama doíb pequenoe
+6.—Glorificação do trabalhador
+7.—Assassinato do Presidente
+8.—Sonho do Brasileiro
+9.—Restituição da criança
+10.—Salvação do marinheiro.
+--- BLOCK:Program END ---
+--- ARTICLE START ---
+O sorteio será feito por meio de capsulas, com os apparelhos cedidos pelo digno gerente da conhecida e acreditada Loteria Esperança.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Perfumarias finas. — Casa Postal, 111, Ouvidor.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+HOJE—10 PAGINAS
+--- HEADLINE END ---
+--- SECTION_HEADER START ---
+SUMMARIO
+--- SECTION_HEADER END ---
+--- BLOCK:Summary START ---
+As crianças.
+O Convênio de Taubaté.
+O sorteio da Gazeta.
+Theatro Municipal.
+Onze de Junho.
+Rabiscos.
+Como?...
+O atentado contra Affonso XIII.
+Furto de apólices.
+Barraca Buenos Aires.
+Entre greves.
+A apurar.
+O leito n° 9.
+Um enforcado.
+S. Christovão.
+Operariado.
+Gazeta das crianças.
+Gazeta dos sports.
+Tribunaes.
+Folhetim—A meretriz, Preciosa.
+--- BLOCK:Summary END ---
+--- SECTION_HEADER START ---
+INTERIOR
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+Tempo — Os dias de chuva vão se estendendo e os agricultores temem que seus lavrados achem muita humidade o que é signal certo de mofo para as próximas épocas a que se refere o relatório dentro do mês de junho. O céo permaneceu nublado e fresco, cerca de 19°,9; mas o thermometro aqui sobe demasiado para as primeiras horas da manhã nos Estados do Norte. S. Luiz, 23,-5; Parnahyba, 27,45; Recife, 27°; Aracajú, 25,15°; Goyaz, 21,50°; S. Paulo, 18,50; Cuyabá, 23°; Victoria, 21°.
+Bahia — A imprensa bahiana, como os seus admiradores da «terra dos orixás», congratula-se vivamente com a nomeação do Sr. Prudente da Republica para o cargo de Ministro da Justiça do próximo governo, cargo esse que muito bem se desempenhará sem duvida o nosso ilustre collega, visto terem já acontecido varias vezes as suas demonstrações como orador e como homem público que tão bem representou o seu Estado durante a tarefa que lhe foi confiada e que S.S. tão bem desempenhou hontem de modo que a nomeação ficou de accordo com os elementos para o seu julgamento, desde que lesse o seu relatório e o apresentasse. As mesas da Camara dos Deputados e do Senado estiveram hontem reunidas para o conhecimento dos projectos para construcção do palacio legislativo. Em seguida ao Projecto a adoptar, que deve ser de demorado exame, para o qual foram ouvidos alguns profissionais, e enquanto não se resolve sobre o local para o monumental edifício, alguns ponderam desistir do local entre as ruas Visconde do Rio Branco, Constituição e Regente Feijó, e adoptar o local da Ladeira do Convento da Ajuda desde que se aceite a idéa da substituição, escolhendo, portanto, a primitiva escolha.
+Café — No exterior baixaram ante-hontem 1,4 os mercados da Europa e chamando com cinco pontos de alta o de Nova York. O mercado no Centro abriu regularmente supprido, regulando a 6$400 a base offerecida pelos compradores, rejeitando alguns commissarios os lotes, não concordando com os preços correntes. Para exportação, a não ser as vendas no mercado da manhã, orçadas em 5.000 saccas, foram insignificantes os negócios do dia. exigindo os ensacadores ainda a cotação de 6$700 pelo typo n. 7. Com as noticias circulantes, referentes ao adiamento da solução final do convento, voltaram á actividade os operadores em futuro, cotando- se hontem as opções de meio mez a 6$700, junho a 6$700 e dezembro a 7$, accusando o volume das offertas maior numero de vendedores que compradores. O mercado, apezar da abertura dos mercados consumidores em alta, 1/2 na Europa e cinco pontos nos Estados Unidos, esteve desanimado, fechando apenas sustentado. Por Jundiahy passaram 11.100 saccas, entrando aqui 8.572 saccas por barra dentro e cabotagem.
+Santos, 7. —Base, 3$700; mercado calmo : foram vendidas hontem 10.773; registradora, 3.000: entraram hontem, 14.303; entradas desde 1 do corrente, 71.196; media, 10.171 ; entradas desde 1 de julho, 6.760.485 : existiam hontem, em primeiras e segundas mãos, 460.285; passagens hontem, 11.092 ; desde 1° do mez 73.902 ; desde 1° de julho 6.724; pauta semanal 480 réis : foram hontem baldeadas com destino a Santos, 7.434; em Juquiahy, 790; em Campo Limpo, 2.368; no Pary, 8.280; total, 11.092; foram embarcadas em 1°, 5.083; resto como está.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- SECTION_HEADER START ---
+EXTERIOR
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+O rei Affonso de Hespanha continua a figurar em grande parte do serviço telegraphico; a sympathia que desperta o joven monarcha, augmentada pelo ignóbil atentado anarchista de que felizmente escapou, é aproveitada para contar os accidentes todos que o precederam e acompanharam.
+Uma agencia de transportes de Barcelona reconheceu em um retrato de Moral o indivíduo que em 1905 comprara e pagara a factura de umas bombas de dynamite enviadas em uma caixa para Paris.
+Matteo Moral pretendia, diz o jornalista José Nakens, que o occullou na noite do crime, facilitando-lhe a fuga, atirar a bomba na igreja por occasião da cerimonia do casamento dos reis, intento esse que não levou avante, por não ter podido penetrar no templo.
+Matteo Moral tornou-se agora uma verdadeira celebridade! e como todas as celebridades que se pream — póst mortem.
+Já se lhe conhece toda a vida ; antes de escolher a carreira que o victimou, esteve em Palma, capital das ilhas Baleares, onde tomou parte em excursões scientificas na ilha Mayorca ; depois disso as suas façanhas são todas de anarchista.
+Preoccupa o governo e a politica portugueza a dissolução das camaras, em virtude de opposição systematica movida ao gabinete do Sr. João Franco.
+A vista disso, os ministros honorarios de Estado, do partido regenerador, já se reuniram para tratar das prováveis eleições, e apressadamente volta o conselheiro Hintze Ribeiro, da Suissa, afim de assumir o commando de suas hostes e preparar o plano da campanha eleitoral.
+Isto, segundo um despacho de hoje.
+Ha porém, um telegramma da Havas, que falla do fechamento e reabertura das cortes, dos projectos do governo a discutir, sem allusão sequer a dissolução.
+Foram hontem recebidos por Sua Santidade o Papa dous illustres prelados brasileiros : os bispos do Pará e de S. Paulo.
+Falleceu em Lisboa o núncio apostólico, monsenhor José Macchi, que será substituido pelo actual núncio em Bruxellas.
+Vai ser modificado o gabinete espanhol presidido pelo Sr. Moret.
+--- ARTICLE END ---
+--- NOTICE START ---
+Retiram-se os cartões n. 13014 e 13028. — Passeios por S. Christovão e Ipanema.— Leme—Ipanema—Gávea— Botafogo ; panoramas esplendidos ; logares aprazíveis para « pic-nics », etc. Bonds electricos de dia e de noite.
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+As assignaturas para os Estados começam e terminam em qualquer época
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+UM ALMANAK E UMA BELISSIMA LETREIRA
+grátis com a assignatura da Gazeta
+
+Além d'uma BELISSIMA LETREIRA e UM ALMANAK illustrado em cores, uma assignatura da Gazeta dá direito a concorrer ao sorteio de hoje, 8, no Theatro S. José e aos concursos trimestraes de prêmios que esta folha instituiu, em beneficio do publico.
+As pessoas que fizerem assignatura até ás 8 horas desta noite terão direito a um cartão para o sorteio de hoje.
+--- ADVERTISEMENT END ---
+--- BLOCK:Lottery START ---
+Este sorteio compoe-se de 33 prêmios, que são os seguintes:
+26$000
+50$000
+1$000$000
+--- BLOCK:Lottery END ---
+--- ARTICLE START ---
+As crianças podem e devem divertir-se; mas não acabam nisso as suas obrigações, Há jornaes especiaes por ellas, como jovens, como amorosas, como leitoras de livros, como tudo quanto pode atrair por ellas o olhar desapprovador do jornalismo para o algodão. E como todos podem e olhem desenvolver o espirito em todos, as crianças podem comparecer ás festas que lhes são dedicadas.
+Hoje, todas teem o seu dia, há crianças infelizes e há crianças pobres. A criança segue o norte do seu lar. Hoje, as que teem de mais, há outras que teem de menos. Para muitas, todos os gostos, todas as vontades e todos os caprichos satisfeitos; para outras, tres tigelas para seis pessoas.
+Dir-se-há que o sorte de uma criança não é o reverso do sorte de toda a gente, que a igualdade perfeita de todos os gostos e condições de sorte refere-se á criança desde que uma sociedade de homens se preocupa com uma classe e o que a justiça impõe é que essa preocupação se dilate e se atenda o mal genericamente que isto pode produzir.
+Applaudindo essa virgem iniciativa da Gazeta, tudo quanto tem feito em prol das crianças tem attestado a sympathia com que os seus bons costumes as teem attestado. Outras festas das festas do futuro. E essas festas, que não teem sido sem defeito, quanto ás suas bases, não teem sido sem o que ha de mais apreciável na correcção dos erros e das injustiças das condições de sorte. A dignidade e o respeito, demonstrados pela sua distinção e carinho, teem sido reconhecidos pelas crianças que nada esperam de triste e desconsolador.
+As crianças robustas, não é preciso dizel-o, são o resultado de um grande movimento em favor dellas, ou antes em favor de seu espirito, não devemos esquecer que ha crianças que não podem partilhar as doses de alegria que o jornalismo está proporcionando.
+Há as crianças pobres, aquellas que não teem roupa, nem sapatos, para comparecer ás festas, aquellas a quem talvez a falta de pão não permita concorrerem á distribuição de doces e de brinquedos.
+Há as crianças infelizes, mal alimentadas, mal vestidas ou completamente nuas, abandonadas pelas occupações dos pais e das mães e ás quaes a assistencia da felicidade das outras, se não produz a inveja, que não pôde nascer em si. Do mesmo modo não ha, para entristecer e encher o espirito de apprehenções, do que uma criança triste e doente.
+As crianças, como diria um fazedor de phrases, são o espelho das gerações, más impressões pelo seu simples aspecto. Mas as crianças são os germens das gerações. Não se perdoa ao horticultor, ao jardineiro que semeia a planta e a abandona depois.
+Não se pode permittir aos homens o abandono da criança.
+Além do aspecto domestico ou familiar este assumpto tem o aspecto social.
+Nem é preciso insistir neste ponto. É universal a preocupação das crianças.
+Mas entre nós, agora que está iniciado um grande movimento em favor dellas, ou antes em favor de seu espirito, não devemos esquecer que ha crianças que não podem partilhar as doses de alegria que o jornalismo está proporcionando.
+Há as crianças pobres, aquellas que não teem roupa, nem sapatos, para comparecer ás festas, aquellas a quem talvez a falta de pão não permita concorrerem á distribuição de doces e de brinquedos.
+Há as crianças infelizes, mal alimentadas, mal vestidas ou completamente nuas, abandonadas pelas occupações dos pais e das mães e ás quaes a assistencia da felicidade das outras, se não produz a inveja, que não pôde nascer em si. Do mesmo modo não ha, para entristecer e encher o espirito de apprehenções, do que uma criança triste e doente.
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- ARTICLE START ---
+Acaba de ser exonerado de commandante do vapor Antonio João, da flotilha de Matto Grosso, o capitão tenente Maximo Gonçalves Martins, que foi substituido pelo official de igual patente Othon de Noronha Torrezão.
+Na linha de Tiro Nacional fará exercício de tiro ao alvo hoje, ás 6 1/2 da manhã, uma companhia de guerra do 22° batalhão de infantaria.
+O major médico Dr. Manuel Pedro Alves de Barros foi dispensado do cargo de médico da commissão do reconhecimento do Alto Juruá.
+O encouraçado Buchuelo, navio capitânea da 2ª divisão e de commando do capitão de mar e guerra Andrade Leite, fez hontem experiencias de machinas, indo fora da barra. Essas experiencias deram magnifico resultado, desenvolvendo esse encouraçado uma excellente velocidade.
+O deputado Dr. Carlos Peixoto segue por estes dias para Minas onde se demorará pouco tempo.
+A annunciada viagem do leader a S. Paulo não está por emquanto decidida.
+Apresentou-se ás autoridades da marinha o capitão de fragata Ubalista Franco, sendo nomeado capitão do porto do Espirito Santo.
+O Sr. general Hermes da Fonseca, commandante do 4° district. militar, proseguiu hontem no alamoso trabalho de visitar os quartéis dos corpos na guarnição, tendo percorrido os dos 1° e 2° batalhões. S. Ex. examinou todas as dependências desses quartéis, sendo recebido pelos commandantes e officiaes, que tudo mostraram ao general Hermes. A impressão de S. Ex. foi a melhor possível, elogiando os commandantes por tudo quanto viu e observou. Hoje, o general Hermes pretende visitar o 7° batalhão que se acha aquartelado na antiga Escola Militar do Brasil, na praia da Saudade. Na próxima semana S. Ex. visitará o 5° regimento de artilharia, que se acha aquartelado no Campinho. Das visitas feitas, a melhor impressão recebida por S. Ex. foi a que lhe causou o estado dos 1° e 2° regimentos de cavallaria, cuja cavalhada está bonita e bem disposta. O general Hermes da Fonseca tem conseguido extraordinário melhoramento nos corpos da guarnição com essas visitas, determinando esta ou aquella providencia que S. Ex. reputa de utilidade e proveito para a disciplina, hygiene e conforto das praças e officiaes. S. Ex. já conseguiu tres remontas para os regimentos de cavallaria, cousa que não se fazia ha muito tempo. Só este mez, por conclusão de tempo, mortes e transferencias, houve para mais de 260 baixas de praças dos corpos desta guarnição, sendo mais de 130 por conclusão de tempo; apezar disso, porém, o general Hermes está preparando tudo para os próximos exercícios e manobras militares, que devem effectuar-se na segunda quinzena do mez de agosto vindouro. Terminadas as visitas aos quartéis, o general Hermes da Fonseca apresentará a consideração do Sr. ministro da guerra os melhoramentos e medidas a por em execução nesses estabelecimentos militares, julgados necessários por S. Ex. Em fins do próximo mez de julho o general Hermes irá examinar os campos de Santa Cruz e Sepitiba, afim de escolher o local em que deva acampar o exercito em operações militares.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Loteria de S. Paulo
+Gar. pelo Estado.
+Vende bilhetes em todas as casas e kiosques desta capital.
+Extracção segunda-feira, 11 do corrente
+20:000$ integraes por 1$000.
+Pagamento dos prêmios a rua do Rosario, 33.
+F. Guimarães & Irmão.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+É um esplendido brinde os cartuchos imitando prata oxidada, contendo uma duzia dos magnificos louços de cambraia para bosom da senhora, que ao preço de 4$ está a Casa Colombo offerecendo á sua clientella.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Publicámos hontem o telegramma em que o illustre Sr. Dr. Affonso Penna dirigiu a esta folha amáveis agradecimentos ás saudações que tivemos a honra de enviar a S. Ex. pelas linhas geraes da politica econômica que o futuro chefe de Estado tem exposto como necessária para assegurar o progresso do paiz.
+Embora essas linhas geraes correspondam a expressões decisivas sobre pontos em relação aos quaes nos temos pronunciado, acreditando, com a maior sinceridade, defender os interesses do trabalho, da producção e do commercio, vemos no telegramma do eminente Sr. Dr. Affonso Penna o alto valor de uma gentilisshma cortezia, sem pretender dar-lhe o caracter de um apoio completo aos nossos esforços.
+A este propósito é opportuno registrar nesta columna as expressivas declarações do Sr. Dr. Assis Brasil, na sua recente passagem por Santos, e por occasião da sua visita á Associação Commercial daquella cidade. O illustre ministro do Brasil em Buenos Aires não é somente um diplomata distinto; são conhecidas as suas preocupações sobre o desenvolvimento industrial e agrícola do Brasil, cabendo-lhe a honra de ter sido um dos fundadores da Sociedade de Propaganda Agricola, com sede em Paris, e que tão bons serviços nos tem prestado. E, ainda ha pouco, foi noticiado que o Sr. Dr. Affonso Penna recorrera ao Dr. Assis Brasil, pedindo-lhe os elementos de estudo sobre a situação econômica e financeira da Republica Argentina, chegando os nossos illustres collegas do Jornal do Commercio a publicar uma varia em que o nome do Dr. Assis Brasil era apontado como o provável ministro da fazenda do futuro governo.
+Respondendo a uma saudação que lhe foi feita, o Dr. Assis Brasil, segundo extensa communicação publicada pelo Estado de S. Paulo, alludiu ao progresso dessa terra, ao «papel saliente que ella tem representado na nossa politica», louvou-lhe o «espirito progressista e as corajosas iniciativas», e tratando tambem da questão da fixação do cambio, á qual S. Ex. mostrou-se francamente favorável, e confiante nos seus benéficos resultados, S. Ex. referiu-se á Republica Argentina, mostrando o assombroso desenvolvimento dessa nação visinha, depois da reforma monetária que alli se fez e que, na sua opinião, teve um exito completo.
+As declarações do nosso eminente patrício não podem ser mais francas nem mais concludentes.
+--- ARTICLE END ---
+
+--- COLUMN 4 ---
+--- ARTICLE START ---
+O SORTEIO DE HOJE
+--- ARTICLE END ---
+--- NOTICE START ---
+Por se ter extraviado das mãos do respectivo dono o cartão n. 13026 publica-se elle sem effeito, tendo já sido substituido.
+Egualmente se extraviaram os cartões pertencentes ás Sras. O. L. Caria da Gloria e Sá Freire e Emilia de Carvalho. Foram tambem considerados sem effeito e substituidos. A essas senhoras pedimos a fineza de virem buscar os cartões em substituição.
+--- NOTICE END ---
+--- NOTICE START ---
+Passeios por S. Christovão e Ipanema.— Leme—Ipanema—Gávea— Botafogo: panoramas esplendidos ; logares aprazíveis para « pic-nics », etc., etc. Bonds electricos de dia e de noite.
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+ENTRADA FRANCA
+NÃO HA COMITÊS ESPECIAES
+--- ADVERTISEMENT END ---
+--- BLOCK:Lottery START ---
+1°
+2°
+3°
+4°
+Prêmios
+26$000
+50$000
+1$000$000
+--- BLOCK:Lottery END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+NOVO SORTEIO
+--- HEADLINE END ---
+--- ARTICLE START ---
+O successo verdadeiramente espantoso do primeiro sorteio nos constitue na obrigação de correspondar ao favor do publico, annunciando desde já outro sorteio, para o qual entrarão os coupons de 10 DE JUNHO a 10 DE JULHO.
+
+Este sorteio, que será o TERCEIRO, nada tem de commum com o sorteio trimestral de Abril a Junho, que é o SEGUNDO na serie dos que foram iniciados pela GAZETA DE NOTICIAS, e que se realisará nos PRIMEIROS DIAS DE JULHO.
+
+O TERCEIRO SORTEIO, que agora annunciamos, terá os seguintes prêmios, —
+--- ARTICLE END ---
+--- BLOCK:Lottery START ---
+Em DINHEIRO:
+1° 26$000
+2° 50$000
+3° 1$000$000
+4° 40$000$000
+Dando um total de 2:500$000 em dinheiro.
+--- BLOCK:Lottery END ---
+--- SECTION_HEADER START ---
+Concurso para as familias
+--- SECTION_HEADER END ---
+--- ADVERTISEMENT START ---
+24 MACHINAS DE COSTURA
+
+Até agora todos os prêmios da «Gazeta de Noticias» têm sido «exclusivamente em dinheiro»; hoje annunciamos o 4° concurso destinado especialmente ás familias, e no qual serão sorteadas 24 machinas de costura, sendo 20 da marca «Singer» com os seguintes pertences: almofada, agulhas, chave de parafuso, embainhadeira, debruadeira, alcochoador, guiadeira, bobinas e livro de instrucção. Têm ellas tampas com fechadura para preservar da poeira.
+7 da marca «Davis» com tampa, mesa de extensão e gaveta para os respectivos pertences, acima descriptos. Estas machinas são da casa Arp & Ga., seus únicos agentes.
+Para este concurso a «Gazeta» publicará todos os dias, a partir de 15 do corrente, e até 20 de Julho, um coupon especial. A collecção desses coupons, em numero de 20, deverá ser entregue opportunamente em enveloppe fechada, com o nome e residência do concurrente.
+Para evitar equivocos repetimos que o Concurso para as machinas de costura é um especial, que nada tem a ver com os concursos trimestraes.
+As machinas estão em exposição desde hoje, na casa Arp & Ga.
+RUA DO OUVIDOR, 63
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+FOGÃO QUEIMADA
+--- HEADLINE END ---
+--- ARTICLE START ---
+Na rua João Caetano n. 51 mora João Ferreira com sua mulher Maria Moreira da Silva.
+Maria, hontem, ás 7 horas da noite, fazia fogo num fogão, servindo-se de kerosene.
+Quando derramava o inflammavel de uma garrafa para o fogão, a chama de um phosphoro se communicou ao fio de kerosene que escorria do gargalo da garrafa, dando-se uma explosão. O fogo se lhe apegou ás roupas e a pobre senhora sahiu a correr e a gritar, incrementando-se as chammas.
+Aos seus gritos accudiram vários visinhos que, a muito custo, conseguiram abafar o fogo.
+Horrivelmente queimada e em estado gravíssimo, a policia da 9ª fez recolher ao hospital da Misericórdia.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Ternos sob medida. Casimiras, diagonaes e cheviots. R. Luiz Camões 28. 60$
+--- ADVERTISEMENT END ---
+
+--- COLUMN 2 ---
+--- HEADLINE START ---
+ENTRE GREVISTAS
+--- HEADLINE END ---
+--- ARTICLE START ---
+As simples razões de uma greve.
+Um operário falla
+AO REPRESENTANTE DA GAZETA
+Porque foi despedido
+--- ARTICLE END ---
+--- ARTICLE START ---
+Antônio Rodrigues Gonçalves attribuiu o ser despedido do Hospício Nacional de Alienados á influencia exercida pelo empregado de lá, Zacharias. Foi encontrá-lo á sahida do Hospício, encontrando-lhe com uma testada, ferindo-o na testa e derramando-se-lhe o sangue pelo corpo abaixo. O pobre homem ficou com a perna e o flanco direitos queimados. Pereira foi removido para a Santa Casa, com guia n. 148.
+Fez hontem experiencias de machinas o navio-escola Primeiro de Março, do commando do capitão de corveta Mourão dos Santos. As machinas funcionaram perfeitamente, dando ao bello navio uma marcha media de 9 1/2 nós por hora. A's experiencias assistiu o Sr. almirante Carlos de Noronha, inspector do Arsenal de Marinha. O Primeiro de Março demandou barra fora, indo até a ilha Colunduba donde regressou, respondendo ás salvas dadas á sua passagem pelas fortalezas de Santa Cruz e Villegaignon, em cumprimento ao pavilhão do Sr. almirante inspector do arsenal de marinha. O capitão de corveta Mourão dos Santos apresentou-se ás autoridades da armada, ao regressar das experiencias.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Passeios por S. Christovão e Ipanema.— Leme—Ipanema—Gávea— Botafogo: panoramas esplendidos ; logares aprazíveis para « pic-nics », etc, etc. Bonds electricos de dia e de noite.
+--- ADVERTISEMENT END ---
+
+--- COLUMN 3 ---
+--- SECTION_HEADER START ---
+Hespanha
+--- SECTION_HEADER END ---
+--- HEADLINE START ---
+O atentado contra Affonso XIII
+--- HEADLINE END ---
+--- BLOCK:News START ---
+MADRID, 7
+O ministro do interior, conde de Romanones, declarou que, em quanto não terminarem os festejos do casamento do rei Affonso XIII, não haverá na Hespanha movimento politico algum.
+
+MADRID, 7
+Partiram, de regresso aos seus paizes, os principes estrangeiros que vieram assistir ao casamento do rei Affonso XIII.
+
+MADRID, 7
+O jornalista José Nakens, preso hoje, que se presumia ter occultado o anarchista Moral, confessou ter occultado o anarchista na noite do crime, fornecendo-lhe meios e disfarce para a fuga. Moral pretendia atirar a bomba na igreja, por occasião da cerimonia do casamento dos reis, e para isso procurou apoderar-se de um bilhete delle jornalista.
+
+MADRID, 7
+Alguns empregados de uma agencia de transportes, de Barcelona, que haviam, em 1905, enviado para Paris uma caixa de bombas, reconheceram nelle, ao ser-lhes apresentado o retrato do anarchista Moral, o individuo que fez a compra das bombas e pagou a respectiva factura.
+
+MADRID, 7
+Causaram sensação as declarações do jornalista Nakens, redactor do El Motin, em que se refere ao modo por que recebeu o anarchista Moral, dispensando-lhe sua protecção depois do atentado.
+
+MADRID, 7
+O commercio desta capital, que fizera enorme provisão para as festas das bodas reaes, teve considerável prejuizo com a retirada de muitos estrangeiros e provincianos, no dia seguinte ao do atentado contra os soberanos.
+
+MADRID, 7
+Em consequência de informações colhidas nas continuas diligencias da policia, foram ainda hoje effectuadas diversas prisões.
+
+ROMA, 7
+No templo da Trindade, em Florença, celebrou-se hoje missa solemne pelas victimas do atentado contra o rei D. Affonso XIII. A ceremonia religiosa assistiram os condes de Turim e todas as autoridades da cidade.
+--- BLOCK:News END ---
+
+--- COLUMN 4 ---
+--- BLOCK:News START ---
+HAVAS
+MADRID. 7
+A's 10 1/2 horas deixou esta cidade, com destino a Lisboa, o príncipe real D. Luiz Felippe, representante da familia real portugueza no casamento do rei D. Affonso.
+
+MADRID, 7
+Os jornaes publicam uma carta do escriptor revolucionário Nakens, na qual elle declara que apenas por commiseração não denunciara á policia o autor do atentado, Mateo Moral, quando este se lhe apresentou pedindo auxílios para a fuga. O tribunal a que está affecto o processo do atentado determinou que fossem recolhidos á prisão o escriptor Nakens e dous amigos seus, cúmplices na fuga de Mateo Moral. Sobre a vida deste anarchista as autoridades conhecem actualmente vários factos. Mateo Moral esteve algum tempo em Palma, capital das ilhas Baleares, sendo visto tomando parte em varias excursões scientificas na ilha Mayorca. Ahi era elle então objecto de comentarios, pelo ar taciturno que o caracterisava. Asseguram que Moral emprestou dinheiro ao anarchista Picoret quando foi levado a effeito o atentado da calle Rambla, em Barcelona, e do qual Picoret foi julgado cúmplice. Quando se deu o atentado da calle Fernando, tambem naquella cidade, Mateo Moral foi preso por suspeitas de cumplicidade.
+
+MADRID, 7
+Partiram para Granada os duques da Saxonia e para Barcelona o príncipe da Prússia.
+
+MADRID, 7
+Em suas investigações sobre o atentado, a policia apurou mais que Mateo Moral, após o crime, se dirigiu á redacção do jornal revolucionário O Motin, onde raspou o bigode. A noite de 31 para 1, elle a passou na casa do ex-sargento republicano Mata, situada nas Vendas do Espirito Santo e onde se apresentara com recommendação do escriptor Nakens. Pela madrugada Mateo Moral abandonou a residência do ex-sargento Mata, que o obrigou a vestir um traje de operário mecânico, pertencente ao seu filho.
+
+MADRID, 7
+Teve grande brilhantismo o banquete hontem realisado no palácio real em honra ás autoridades do reino.
+
+MADRID, 7
+A Gaveta Official publica hoje o decreto real que estabelece o indulto pleno para os indivíduos não alistados no sorteio militar e que se acham refugiados no estrangeiro.
+
+BIARRITZ, 7
+O Prefeito recebeu telegramma do rei D. Affonso e da rainha Eugenia, agradecendo as innumeras provas de sympathia que lhes foram dispensadas durante a sua permanência nesta cidade.
+--- BLOCK:News END ---
+
+--- PAGE 3 ---
+--- COLUMN 1 ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- BLOCK:Telegrams START ---
+FUNCHAL (MADEIRA)
+GAZETA
+Regresso do principe real
+Regressa hoje o principe real D. Luiz Felippe, que foi representar esta nação no casamento de D. Affonso XIII.
+
+Dissolução da Duma
+GAZETA
+S. PETERSBURGO, 7
+Foi apresentado ao governo o decreto para a dissolução da Duma Nacional.
+
+O protector de Algeciras
+GAZETA
+ALGER, 7
+É dado como certo para o governo a dissolução da Duma Nacional.
+Diz um telegramma de Fez ter chegado áquella capital o Sr. Regragui, ministro da Itália em Tanger, levando o protectorado da Conferencia de Algeciras sobre a questão marroquina.
+
+O Vesuvio
+GAZETA
+NAPOLES, 7
+Manifestam-se hoje tremores de terra acompanhados de chuvas de cinzas nas proximidades do Vesuvio; o astronomo Matteucci não crê que se repita a catastrophe.
+
+Pan-Americano
+GAZETA
+SANTIAGO, 7
+Chega a esta capital o Dr. Quesada, delegado peruano ao congresso pan-americano.
+
+Os veteranos da Guerra do Pacifico commemoraram com um banquete o anniversario da occupação de Lima.
+
+Roca
+GAZETA
+BUENOS AIRES, 7
+Cartas recebidas do general Roca dizem que este regressará em outubro, porém, indeciso sobre tomar parte na política; crê que o Sr. Figueiroa não está de accordo com os interesses das republicas autonomistas.
+--- BLOCK:Telegrams END ---
+
+
+--- COLUMN 2 ---
+--- BLOCK:Telegrams START ---
+PORTUGAL
+GAZETA
+PORTO, 7
+O automovel em que viajavam pelo norte a rainha mãi D. Maria Pia e o infante D. Affonso soffreu grande avaria. Ficaram feridos a marqueza de Bellas e o coronel Benjamin Pinto, que guiava o automovel.
+
+LISBOA, 7
+Serão estabelecidos quatro trens semanaes do «Sud Express» entre Lisboa e Biarritz.
+
+LISBOA, 7
+Afim de conferenciar com o Sr. presidente do conselho, chegou hoje a esta capital um dos membros da Camara dos Communs do Reino Unido. Vem estipular as bases para o estabelecimento de uma carreira periodica de vapores entre Lisboa e Bristol, com 60 horas de viagem, para o transporte de legumes e fructas de Portugal para a Inglaterra.
+
+LISBOA, 7
+Falleceu hoje o núncio apostólico José Maçcke. Será seu successor o actual núncio em Bruxellas, monsenhor Viés.
+
+LISBOA, 7
+Os ministros honorarios de Estado, reunidos hontem, deliberaram concorrer ás proximas eleições, pelo partido regenerador. Deliberaram, em accordo com o que foi combinado com o conselheiro Hintze Ribeiro, que regressará da Suissa e presidirá á campanha politica.
+
+LISBOA (HAVAS)
+Reunindo uma das ruas da villa do Oussacti, um automovel que conduzia rainha D. Maria Pia, que nada soffreu, ficando apenas levemente feridos os dignatarios que a acompanhavam.
+
+LISBOA, 7
+Che

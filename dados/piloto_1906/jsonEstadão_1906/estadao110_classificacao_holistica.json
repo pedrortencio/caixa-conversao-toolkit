@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article mentions the Caixa de Conversão in the context of a financial transaction, but doesn't express any clear opinion on the merits of the Caixa itself or the surrounding monetary debate. It simply reports on the transfer of funds related to João Mendes and the involvement of the Caixa in the exchange process.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Recife\\nConforme noticiou a imprensa carioca, deviam seguir para o Recife, afim de que o governo possa entrar em combinação com a Caixa de Conversão, para effectuar o cambio respectivo, essas letras de cambio, que já de multa, foram enviadas a João Mendes pelo navio Domeo, ao serviço do Lloyd Brasileiro.",
+            "reason_for_inclusion": "This is the only mention of the Caixa de Conversão in the entire text and it is purely factual."
+        }
+    ]
+}

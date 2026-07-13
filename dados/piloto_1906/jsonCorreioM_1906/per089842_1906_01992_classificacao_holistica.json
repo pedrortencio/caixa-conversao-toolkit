@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-12-25",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition contains a brief, factual report on the Caixa de Conversão's exchange activities.  No arguments for or against the Caixa are presented, nor is there any editorializing about its impact. The rest of the newspaper is dedicated to Christmas-related content, news unrelated to monetary policy, and advertisements.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "CAIXA DE CONVERSÃO\nEste estabelecimento de credito trocou hontem por notas conversíveis £ 10.730-10-0, no valor de 67:498$000; frs. 2,340, no de 8:232$418; moedas de ouro, brasileiras, no de 1$50$000, representando 3:420$000, papel moeda conversível.\nSegue-se, portanto, que a Caixa de Conversão já poz em circulação, incluídas as entradas feitas sabbado pelos Bancos do Brasil e Allemão, de £ 8.788.000-0-7, no valor de 28,860:090$000, e notas conversíveis na importância total de 81$834$108.",
+            "reason_for_inclusion": "This is the only mention of the Caixa de Conversão and related terms in the entire edition. It is a purely factual account of transactions."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioP",
+    "date_of_article": "1906-07-13",
+    "overall_classification": "Leaning Expansionist",
+    "stance_score": 1.0,
+    "overall_justification": "This edition of Correio Paulistano leans Expansionist, primarily due to the extensive and prominently featured article discussing the Caixa de Conversão. While acknowledging Orthodox concerns, the article predominantly frames the Caixa as a necessary tool to address the coffee crisis and stabilize the economy, aligning with core Expansionist arguments.  The emphasis on the Convênio de Taubaté and the use of international examples to support intervention further reinforce this classification.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "A situação penosa em que se encontrava ha annos a lavoura cafeeira, deixou de ser um problema obscuro...As disposições, que estabelece o Convênio, no que particularmente respeita á regularização do commercio do café e o desenvolvimento do seu consumo, não podem ser acoimadas de aventurosas tentativas...",
+            "reason_for_inclusion": "This quote, from the beginning of the main article, sets the stage by highlighting the coffee crisis and defending the Convênio de Taubaté, a key element of the Expansionist platform."
+        },
+        {
+            "quote": "Reduzir a producção do café e augmentar o seu consumo; reduzir a massa do papel em curso e augmentar o valor das exportações, eram os remédios indicados...Para o resgate progressivo do papel, a nação accumula fundos: para a operação commercial, que consiste na retirada dos excessos do stock do café. é necessario capital considerável...",
+            "reason_for_inclusion": "This section explicitly connects the coffee crisis to the monetary situation and advocates for intervention, aligning with Expansionist views on using the Caixa and related mechanisms to address both issues."
+        },
+        {
+            "quote": "Assim é licito acreditar-se que, instituido, entre nós, um apparelho comparavel á caixa de conversão argentina, produzirá elle os mesmos effeitos salutares sobre a especulação que tanto nos prejudica, com a vantagem de eliminar os sacrifícios que hoje nos impõe a lucta contra ella.",
+            "reason_for_inclusion": "This quote uses the example of Argentina, frequently cited by Expansionists, to support the implementation of a similar Caixa de Conversão in Brazil to address speculation and stabilize the economy."
+        }
+    ]
+}

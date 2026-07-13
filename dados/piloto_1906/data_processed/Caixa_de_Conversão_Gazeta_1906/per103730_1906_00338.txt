@@ -1,0 +1,290 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+N. 838
+GAZETA DE NOTICIAS
+Terça-feira, 4 de Dezembro de 1906
+HOJE - 8 PÁGINAS
+PAGAMENTO ADIANTADO
+NUMERO AVULSO 100 RS.
+assinaturas começam e terminam em qualquer mez
+RAUMIER & C.
+RUA URUGUAYANA Ns. 30, 32 E 24
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+Stereotypada e impressa nas machinas rotativas de Marinoni, na typographia da “Gazeta de Noticias”
+A Gazeta de Noticias
+RIO DE JANEIRO — Terça feira, 4 de Dezembro de 1906
+artigos enviados para a redacção não são devolvidos
+INTERIOR
+O máximo da temperatura foi de 29,5 e o mínimo de 23,2.
+O barometro marcou 764,3 pc ás 2 da tarde.
+O tempo esteve nublado pela manhã até ás 11 horas. limpo ás 1 hora da tarde e nublado depois.
+A temperatura nos Estados : S. Luiz, 25,5; Parnahyba, 29; Poitaleza, 29,75; Natal, 28; Parahyba, 28,50 ; Recife, 25,70- Aracaju, 26,50; Bahia, 28,25; Victoria, 25,25 -25,50 ; Curiiyba, 12,50; Fló- rianópolis, 19.
+Em Petrópolis tem chovido desde as 2 de hontem.
+O verão começou hontem a ser o menos quente que se podia desejar.
+Conservado em discreta preguiça ou em estado de meio santificado repouso, como se fosse domingo ou dia santo, é certo que a cidade pareceu até que vai morrer, se já não está de todo morta, com as transformações do Rio.
+E' um Rio insípido, sem vida, que não dá mais o luxo de um flâneur.
+Se o movimento é forte atualmente, certo é que a cidade ficou com as suas condições do outr’ora e não comporta o luxo de um flâneur santificado ou meio santificado ou de preguiça santificada ou não santificada ou não.
+Não faltou o bello sexo, que se fez representar decentemente na Avenida e no boulevard.
+Uma grande quadrlha de moças foi aproveitada para as danças de Copacabana, onde a concorrência foi tão grande que chegou a ficar terminada.
+Não se podia notar hontem os symptomas que entraram na morcundia carioca, não dá mais para se viver como se estivesse vivendo numa vida ou numa preguiça ou numa santificação ou num viver insípido ou na morte ou na carne ou na alma ou no espírito ou no corpo ou no viver ou na morte ou na morte.
+Na secção de hoje do nosso folhetim lerão os leitores uma divertida historinha de duas crianças, uma de 4 e outra de 2 annos.
+60”—Não se podia notar hontem os symptomas que entraram na morcundia carioca, não dá mais para se viver como se estivesse vivendo numa vida ou numa preguiça ou numa santificação ou num viver insípido ou na morte ou na morte.
+EXTERIOR
+OS ARMAMENTOS NAVAES—A nomeação do Sr. Estanisláu Zebalios para ministro das relações exteriores tinha posto em segundo plano os nossos armamentos navaes. Agora volta á baila essa debatida questão.—Diz a informação que é provável que, dentro de alguns dias, o novo ministro das relações exteriores trate com o presidente da Republica da conveniência de uma convenção militar entre o Brasil, o Chile e a Argentina sobre a equivalência dos armamentos navaes. Essa cousa já foi dita e repetida um sem numero de vezes; mas não é difficil prever que o governo argentino não a porá em pratica, convencido, como deve estar, de que o nosso governo nunca concordará com isso.
+Essa historia de equivalência de armamentos é uma conversa. Cada paiz deve estar completamente livre para armar-se como e quanto quizer, de accordo com suas necessidades e recursos, sem cingir-se a convenções de espécie alguma.
+O DESCANÇO HEBDOMADÁRIO.—A lei votada no parlamento francez sobre o descanso hebdomadário obrigatório não tem sido aplicada com igualdade, e essa falta de igualdade tem sido causa de alguns distúrbios, principalmente em Paris.
+Um exemplo frisante é o dos empregados na estrada de ferro Paris-Lyon-Mediterranée, que não gosam dos benefícios da lei.
+São 120.000 empregados na via férrea, esquecidos, que estão resolvidos a continuar a agitação começada por circulares, petições, reuniões e por outros meios, até que lhes seja dada inteira satisfação.
+O syndicato nacional das estradas de ferro, preparou um projecto de lei concedendo aos seus operários os benefícios do repouso hebdomadário, sendo o projecto apresentado á respectiva Câmara.
+--- ARTICLE END ---
+--- BLOCK:Weather START ---
+O verão começou hontem a ser o menos quente que se podia desejar. O dia de hontem foi quente, não apenas relativamente quente, como se fosse um daqueles que se tem na primeira semana de primavera, ou nos fins de novembro, mas o calor forte começou tão cedo e acabou de sorte que a manhã foi considerada mais agradável que a tarde, refrigerada por brisas constantes. O campo lindo. O sol raiou em toda a altitude do céu bahiano e o céo foi sempre de uma limpidez suprema.
+--- BLOCK:Weather END ---
+--- ARTICLE START ---
+A Quadrilha da Morte
+A CONTINUAÇÃO DO SUMMARIO
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+XI SORTEIO
+da Loteria da Capital Federal para o Natal, extracção em 22 de dezembro
+40
+MILHÕES E UM NUMERO
+prêmio de
+1.000:000$
+500:000$
+300:000$
+150:000$
+100:000$
+50:000$
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+4 PÁGINAS
+e 4 horas
+de noticias e interessantes artigos, é o que vos offerece hoje a GAZETA DE NOTICIAS de 4 de dezembro de 1906
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Segismundo Moret declarou no Senado que o ministério estava em crise por causa da demissão do Sr. Montero Rios.
+A sabida do general Lopez Dominguez um numeroso grupo de políticos e populares fez-lhe estrondosa manifestação de sympalhia.
+O ministério das relações exteriores da Itália desmente a noticia da doença do negus Menelik.
+O rei de Siam vai fazer uma visita a corte italiana. Sua magestade far-se-á acompanhar de todas as suas mulheres.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+PAGAMENTO ADIANTADO
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+PAGAMENTO ACIANTADO
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+A Quadrla da Morte
+A CONTINUAÇÃO DO SUMMARIO
+OS SEUS DEPOIMENTOS
+VAZIOS INCIDENTES
+Continuou, hontem, sem a solícéguidâo e o sal,e,n,d,a,n,n,u,üa,s, dos primeiros dias, o summario de culpa a que estão respondendo os sócios da “Quadrilha da Morte”.
+Felizmente o Dr. Domingos Brumado se desligou da influencia dos accusados e fez á justiça o seu depoimento.
+A testemunha
+Affonso Joaquim de Araujo, a primeira testemunha que depóz, hoje, no summario de culpa, diz á justiça o seguinte:
+Conhece Jeronymo Pegalo, porque vizinho delle, pois que também residiu á rua do Ouvidor n. 15, onde há muito mora Pegalo no n. 9.
+Acerca dos factos narrados na denuncia só delles teve conhecimento por ouvir dizer.
+No domingo, 14 de outubro, estando na rua em que reside, ás dez horas da manhã, chegou Jeronymo Pegalo e entrou em casa. Mais tarde, veio a saber que elles, no sabbado, tinham ido a um casamento.
+Por volta de meio-dia do mesmo domingo, ao chegar de passeio, viu Jeronymo Pegalo sahir do mesmo prédio em que reside.
+Jeronimo respondeu sózinho ás cinco horas da tarde, pouco mais ou menos. Interrogado pelo juiz, contou a testemunha que viu por varias vezes e em diversas épocas Jeronymo Pegalo e Rocca em violentos encontros á porta de uma venda de Alfredo Garcia, para matarem o bicho;
+Lembrou-se a testemunha, depois de um esforço de memória, que Jeronymo Pegalo, ao sahir do prédio no domingo do crime, achava-se em mangas de camisa e de calções, não se lembrando se, por acaso, levava chapéu na cabeça ou na mão.
+A pessoa interessada na defesa mais adiantou rogando.—No Rocha, um trem quebrou ferindo o solicitador Paulino de Lima, residente á rua D. Anna Nery n. 54. — Hontem, Josephina Grigóriga tentou suicidar-se, atirando-se do logar denominado Vallongo, no morro da Conceição, sendo recolhida em estado grave.
+O promotor perguntou-lhe: — Depois do domingo do crime o senhor não viu mais Jeronymo Pegalo?
+— A testemunha:
+— Não, senhor; só o vi hoje, aqui.
+O promotor sorriu. Os assistentes também sorriram.
+O juiz perguntou então se Rocca tem a fazer alguma cousa ao depoimento da testemunha.
+Rocca: — Não, senhor.
+Feita a mesma pergunta a Pegalo, levantou-se o Dr. Alberto de Carvalho que pediu para fazer algumas perguntas á testemunha, com a advocacia de Pegalo.
+Quer saber, a defesa, antes, na parte em que vai entrar o accusado Pegalo, estava a quem tinha e o que fez depois.
+Araujo declara que, devido a estar incommodado de um tombo que dera a bordo, onde trabalhava, achava-se sentado numa pedra que existia junto á porta de sua residência, onde esperou o jantar, que lhe chegava ás cinco horas, pouco mais ou menos; e que, depois desse repouso, retirou-se para casa, sem mais demorar-se, por querer, antes, fallar com Luiza, os quaes, porém, não o deixaram e Rocca foi embora, não querendo se demorar.
+Ainda a outras perguntas respondeu:
+— «... não me tomaram o bote onde se achavam Pegalo, a victima e Rocca...»
+Estas informações repeliram:
+— «Eu era, não, Justino Garcia, para esperar a testemunha já disse que eu tinha saído para a Avenida Central...»
+Reiterando o pedido, foi dada a palavra a Carello; este levantou-se, com o seu modo forte.
+— Eu venho a notar que não foi escripta uma declaração feita pela testemunha : esta disse que não me conhece.
+Juiz e accusado ouvem o que queria dizer a testemunha. Fica depois resolvido pintar aquillas declarações ao depoimento.
+Carello continua : — Também não foi dito pela testemunha que no dia, ao ser interrogado por uns, por mim, não sabia bem o que depunha estando, no dia, desorientado...
+Ao redigir-se o termo de resposta da testemunha, o juiz ditou : — «... achando-se a testemunha perturbada ...» E Carello : — Desorientado, Sr. doutor, é o termo que bem explica o estado da testemunha.
+Carello também é doutor, conhece perfeitamente o valor de palavras. E' dada depois nova vez ao Pegalo para fazer perguntas. Este não a quiz fazer, fazendo-se então uso do direito de interrogar o seu advogado, Dr. Alberto de Carvalho.
+Começaram, então, as contradições. Rocca declara : — Naturalmente tenho a contestar. Na parte que me cabe, rejeito o que diz a testemunha.
+Quanto ao que disse dos encontros, respondeu: O gerente da venda Luiz Alves, que já tinha ido a Europa, mandou dizer que eu me lembrasse do depoimento que a testemunha fez á policia. Rocca continua, para si, dizendo: — Isto, sim, elle o fez por interesse.
+Rocca, por sua vez, diz : — O que eu sei com certeza é o escrvão que estava a inventar... São uns innocentes !
+A testemunha termina por confirmar todo o seu depoimento que fez.
+A segunda testemunha
+Os conhecidos joalheiros da Praça Tiradentes ns. 13 e 15 e do largo de S. Francisco de Paula, n. 1, hontem tiveram grande movimento, devido ao approximar-se do Natal, pois o publico em geral procurou os estabelecimentos para admirar as jóias expostas, comprando algumas para offerecer ás suas familias.
+Os preços são vantajosos, tanto pelo valor real das peças, como pelos descontos que hontem foram feitos.
+Tal é o nome de uma senhora, que tal é o nome da amante de Rocca, a qual compareceu hontem, trajando uma saia de seda lavrada e uma blusa de seda clara.
+Estava tranquila, ainda que por vezes movesse nervosamente uma sombrinha que levava consigo.
+O seu depoimento foi o seguinte :
+Declarou que vivia maritalmente com Rocca ha doze annos. Exige o apparecimento das jóias no quintal da sua residência, á rua Graça, n. -, porque um indivíduo, que não conhece, appareceu-lhe em casa, por volta do dia 5 do mez passado, não estando bem certa para lhe dizer de quem era Rocca, que ella não se lembrava, disse da casa, pois que no quintal existiam umas jóias enterradas que serviriam para o futuro della e de seus filhos.
+Rocca, á parte: — Pois o delegado sabia isso, não fui eu. A informante, immediatamente, escreveu para uma criada, que pôz no correio, para Caetano de Almeida, a segunda testemunha, para ir á sua casa e pedir a esta que mandasse dizer ao delegado, Dr. Caplino Junior, para ir á sua casa e pedir a este que mandasse dizer ao delegado, para ir á sua casa e procurar as jóias e estas foram encontradas na casa de Rocca, e este protestou. — Doutor, não foi por casa, foi no quintal. Ha muita differença.
+Luiza informou ainda que o padeiro José, a quem Rocca dera o animal para alimentar, estava zangado por ter Rocca lhe tirado o mesmo sem lhe ter pago a comida.
+Disse ainda que Rocca, num domingo, não sabe se o de 14 de outubro ou outro, qualquer que seja por esta, esteve todo o dia em sua casa, ajudando-lhe a fazer varios trabalhos domesticos, o que quer dizer que o Dr. Maximino Moraes, no dia do domingo do crime, estivera a conversar com elle, Rocca.
+Sabe que Rocca vivia de contrabanhos, mais que elle já era conhecida espirita de ver e de ouvir e tinha sido vista a uma que não estava em terra com crenças que comprava a bordo dos navios estrangeiros que aqui aportavam. Rocca diz, á parte: — Isso, sim. Elle não estrangulou ninguém.
+O depoimento de Luiza não foi contestado pelos accusados.
+Eram 4 horas da tarde. Estavam encerrados os trabalhos, por hontem, do summario de culpa, quando o juiz do summario ao primeiro ímpeto rebateu a ameaça com violência indignada.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Os mais bellos chalés á Avenida Central 143.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+A terceira testemunha
+Caetano de Almeida, funcionário dos caminhos de ferro e que assistira hontem a todos os trabalhos do summario de culpa, sentado numa cadeira, por estar impossibilitado de ficar em pé devido a um cata,e,r,r,h,o agudo, foi então interrogado hontem.
+O depoimento de Caetano era esperado com impaciência pois previa-se que a testemunha faria importantes revelações.
+O seu depoimento foi o seguinte :
+As 2 horas, mais ou menos, do dia 14 do mez de outubro, o domingo do crime, estando no largo da Prainha, sentado numa pedra, viu approximar-se tres indivíduos, formando um grupo. Este grupo era composto por um indivíduo alto e grosso do corpo, um outro baixo, também de corpo reforçado e com chapéu de palha, e um outro de corpo regular, mas muito moço ainda.
+A testemunha declara que reconheceu, no indivíduo alto e grosso, o conhecido Rocca, por conhecê-lo de vista.
+Durante muito tempo dous dos indivíduos do grupo conversaram animadamente, emquanto que o outro, o baixo e de chapéu de palha, assistia á conversa arreigado dos dous.
+Foi então que a testemunha viu no mar approximando-se para a ponta da Prainha, um bote tripulado por um só indivíduo.
+O indivíduo alto fez um signal ao barqueiro e depois despediu-se do mesmo seguido logo após pela Avenida Central, enquanto que o mocinho e o indivíduo baixo e grosso se dirigiam para a ponta da Prainha, e olharam para o bote.
+Passa depois a expor os signaes de cada um dos indivíduos que viu. O mocinho estava vestido de roupa e chapéu preto, collarinho a Santos Dumont, gravata pequena, de laço; o indivíduo baixo e corpulento, barba aparada, estava de chapéu de palha, paletot azul e rabo de cabra; o primeiro indivíduo era alto, corpulento, barba feita, e trajava um terno de roupa preta, correspondendo, como já disse, este indivíduo ao conhecido Rocca.
+Seriam quatro horas da tarde quando viu passar um bote remado por um só tripulante, com rumo á ponta da Prainha.
+A testemunha foi depois interrogada pelo Dr. Viriato de Medeiros.
+Declarou depois de interrogada que, em vista das informações que já obteve na policia, com Jeronymo Pegalo, reconhece neste indivíduo o mesmo que tripulava o bote. Affirma ainda a testemunha que os dous outros indivíduos, que elle depois viu quando prestaram depoimento na delegacia, e que se sabe então chamarem-se João Maia e Juvenal Saldos, se lembram que elle tinha a certeza de que eram aquelles indivíduos que viu na Prainha e que lhe tinham dado passagem para attracar o seu bote.
+Por ver Rocca conversando com aquelles indivíduos, sabido, de um sabe, que este era contrabandista, annuncia que iriam começar, áquella hora, algum contrabanho no mar.
+Na delegacia, por offerta do escrivão policial, viu num retrato que lhe appareceu, o mocinho que vira no dia do crime, e que lhe tinham dito ser Rocca, que ella já tinha saído para a Avenida Central.
+Ainda a outras perguntas respondeu:
+— «... não me tomaram o bote onde se achavam Pegalo, a victima e Rocca...»
+Estas informações repetiram:
+— «Eu era, não, Justino Garcia, para esperar a testemunha já disse que eu tinha saído para a Avenida Central...»
+Quando foi encerrada a 3ª discussão do projecto que acolhe a reclamação da incompatibilidade entre as formulas feitas pelo Ouvidor e o despacho do Sr. Dr. Prefelto, hoje, ás 10 horas da manhã, visitará o theatro Municipal.
+S. Ex. examinará detidamente todas as obras daquele edifício, percorrendo minuciosamente as suas dependências.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grandes liquidações de chapéos; Avenida Passos, 127.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Incidentes
+A testemunha foi interrogada pelo Dr. Campos Tourinho. Nenhum dos accusados quiz contestar o seu depoimento. Fez apenas explicações que só chegaram a ser minuciosas quando se referiu ao estado da testemunha, achando-se esta perturbada nas declarações que fez á policia.
+Pegalo, por sua parte, diz : — O que eu sei com certeza é o escrivão que estava a inventar...
+Rocca, por sua vez, diz : — O que eu sei com certeza é o escrivão que estava a inventar... São uns innocentes !
+A testemunha termina por confirmando todo o seu depoimento que fez.
+Quando foi suspensa a sessão do summario, um rapaz, que assistira hontem a todos os trabalhos, sentado numa cadeira, por estar impossibilitado de ficar em pé devido a um cata,e,r,r,h,o agudo, foi então interrogado hontem.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grandes liquidações de chapéos; Avenida Central 143.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Os ultimos incidentes
+Quando os accusados se retiraram para as suas cellas, também se retirou Pegalo. Leopoldo, ainda fora, conversou com a sua mulher, a cunhada, a sogra e os filhos. Leopoldina também conversou, no mesmo tempo, com a sua irmã Maria da Gloria e com algumas senhoras, parentes dellas.
+O juiz permitiu as conversas. Já se fora Pegalo sobraçando um embrulho pelo qual iam uns maços de cigarros ; para Leopoldina, muito tranquila, arreigando o vestido do linho, numa faceirice do olhar pelo qual parecia estar sendo observada pelos homens...
+Os autos
+O Dr. Campos Tourinho, juiz da 3ª pretoria, fez enviar os autos ao Dr. Viriato de Medeiros, promotor politico, para que requeira as diligencias que julgar convenientes. Ao que sabemos, o Dr. Viriato de Medeiros vai pedir a inquirição das testemunhas referidas no correr do summario.
+O Dr. Campos Tourinho, juiz presidente, marcou hontem o dia em que começará o summario de culpa. Sabemos, porém, que será na próxima quarta-feira, o mais tarde sexta-feira da corrente semana, continuando os trabalhos do summario de culpa, talvez para a inquirição das testemunhas referidas.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Liquidação de roupas feitas e sob medida á Avenida Central 103.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Outras noticias
+O Dr. Prefelto, hoje, ás 10 horas da manhã, visitará o theatro Municipal.
+S. Ex. examinará detidamente todas as obras daquele edifício, percorrendo minuciosamente as suas dependências.
+Estiveram hontem no gabinete do sr. ministro da industria, conferenciando com S. Ex., o senador Ruy Barbosa, o banqueiro Franco, o director Teixeira Soares, o marechal Pires Ferreira e o deputado federal Francisco Glycerio.
+O Dr. Viriato de Medeiros, adjunto dos negociadores e o Sr. Luiz Pa,a, na visita que fizeram ao presidente da Republica, tiveram occasião de ouvir algumas palavras da parte de S. Ex. a respeito da questão das tarifas para os caminhos de ferro em geral, que faltam ser debatidas em ordem do dia e encerrada a discussão unica do parecer relativo á aceitação das emendas do Senado á proposição da Câmara dos Deputados fixando as forças de terra para 1907, ás quaes a Câmara não deu o seu assentimento. O Senado só poderá fixar por dois terços de votos. Só uma das emendas foi votada e não houve debate; entre outras não houve numero.
+A Câmara deverá nomear hoje, a requerimento do Sr. Alcindo Guanabara, a comissão especial de nove membros a que deverão ser aflectas, para estudo, umas tantas medidas contidas em projectos que se entendem com o proletariado.
+A escolha dos membros dessa comissão recahirá, provavelmente, nos Srs. João Luiz Alves, Alcindo Guanabara, Barbosa Lima, Medeiros e Albuquerque Teixeira Brandão, Campos Cartier, Arante, Leão Velloso e Cunha Machado.
+A Companhia do Jardim Botanico entrou em accôrdo com a Prefeitura quanto á não collocação de trilhos no largo da Carioca.
+A companhia vai procurar um outro local para sua estação de bagagens parecendo ser essa instalação feita em um dos prédios de S. José.
+Foi declarada sem effeito a nomeação do 1° tenente commissario Manuel Moraes Filho de Faria para servir na escola n. 3, nos Juizes marinheiros do Estado do Maranhão.
+O capitão de corveta cirurgião Dr. Flavio Mendes apresentou-se hontem ás autoridades superiores da armada por haver desistido da licença em cujo gozo se achava. O capitão de corveta Flavio Mendes parte brevemente para o Estado do Parahyba, onde acaba de ser eleito deputado estadoal.
+Sabemos que a primeira promoção a 2° secretario de legação recahirá no Dr. Annibal Velloso Rabello, 2° secretario em Washington, que prestou relevantes serviços na missão especial de Roma, em que o Dr. Joaquim Nabuco defendeu os direitos do Brasil na questão de limites com a Guyana Ingleza.
+Para o cargo de director da linha de Tiro Nacional foi nomeado o capitão Leovegildo Mendes de Moraes Filho, occupando o cargo de encarregado do pessoal da mesma linha, o capitão Leovegildo de Leite.
+O memorial apresentado pelo Sr. Arthur Caceavon, propondo a construcção de 3.000 casas para operários, por conta exclusiva e administração da Prefeitura, que para isso creará uma repartição annexa á directoria do patrimônio. Na proposta é lembrada a idéia de um empréstimo de 25:000:000$, dividido em 1.500 apólices de 200$, com o juro de 4 % e amortisavel em 15 annos. As casas são de tres typos differentes, de pequenos alugueis, devendo a sua localização ser feita nos terrenos marginaes da nova Avenida do Mangue, em S. Francisco Xavier, em São Christovão e no Jardim Botanico.
+O autor do projecto pensa que a Municipalidade, longe de ficar onerada com essa construcção, terá uma renda annual de cerca de 1.500 contos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Colombo vende por preços reduzidos que habitualmente faz a Casa Colombo no fim de todos os annos : a deste anno torna-se muito notável não só pelos grandes abatimentos como pelo seu colossal sortimento. Recebeu ainda o mais grande quantidade de finos e artísticos objectos para presentes, que vende por preços reduzidos.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+--- SECTION_HEADER START ---
+O orçamento
+--- SECTION_HEADER END ---
+Sobre o orçamento das despezas publicas, teve ontem o conferencia, demorada e atenta, com o sr. ministro da industria, o deputado Dr. Ignacio Telles.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grandes liquidações de bordados, á Avenida Central 143.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+--- SECTION_HEADER START ---
+A nomeação
+--- SECTION_HEADER END ---
+O Sr. ministro da industria apresentou hontem em palácio, ás 3 horas da tarde, ao Sr. presidente da Republica os directores, chefes e altos funccionários de todas as repartições subordinadas ao seu ministério.
+Entre outros vimos os Srs. Drs. Francisco Liccalho Vieira Souto, Adolpho Delveccbio, Manuel Maria de Carvalho, Machado de Assis, Arthur Azevedo, Miranda e Horta, Euclydes Barroso, Barbosa Rodrigues; Van Erven, Severiano Duarte; Vau Erven.
+Recebidos na sala dos despachos, o Sr. presidente da Republica dirigiu algumas palavras áquelles funccionários, declarando que esperava o concurso de todos e a boa vontade de cada um para o bom andamento dos serviços a cargo do ministério da industria.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Casa Colombo vende a preços reduzidos que habitualmente faz a Casa Colombo no fim de todos os annos.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+--- SECTION_HEADER START ---
+Agradecimentos
+--- SECTION_HEADER END ---
+O Sr. Dr. Prudente de Moraes Filho foi hontem agradecer ao Sr. presidente da Republica por ter-se S. Ex. feito representar na missa rezada por alma do Sr. Dr. Prudente de Moraes.
+Para agradecer ao Sr. Dr. Affonso Penna o seu comparecimento á festa do meio centenário do Lyceu de Artes e Officios, a directoria desse estabelecimento foi hontem, incorporada, ao palácio do Cattete.
+É esperado por estes dias, de Bello Horizonte, o Sr. Dr. Edmundo Veiga, que vem assumir o cargo de secretario do Sr. presidente da Republica.
+O Sr. H. C. Walker, empreiteiro das obras do porto do Rio de Janeiro, despediu-se hontem do Sr. presidente da Republica, por ter de partir para a Inglaterra. Fica substituindo-o durante a sua ausência, que não será longa, um seu amigo, que deve chegar hoje da Europa.
+Completam-se amanhã 16 annos que falleceu, num simples aposento de um hotel de Lisboa, o venerando Sr. D. Pedro de Alcântara, ex-imperador do Brasil.
+Os annos têm-se passado, mas ainda perdura no espírito dos brasileiros a lembrança desse illustre varão, que, reinando durante cerca de meio século, governando um paiz tão vasto e tão populoso, não deixou um desafeito, nunca teve uma só voz que se fizesse ouvir para o accusar.
+O dia de amanhã será um dia de tristeza para os admiradores do illustre ex-imperador e, principalmente, para as innumeras pessoas que cumulou de benefícios.
+A data será commemorada com piedosos actos fúnebres, mandados celebrar pela Associação Reverencia á Memória de D. Pedro II.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grandes liquidações de chapéos; Avenida Central 143.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Os Srs. Drs. David Henninger e Cecilio Barboza estiveram hontem conferenciando com o Sr. presidente da Republica, a respeito da construcção do porto de Pernambuco.
+--- ARTICLE END ---
+--- ARTICLE START ---
+--- SECTION_HEADER START ---
+No palácio
+--- SECTION_HEADER END ---
+O Sr. ministro da industria apresentou hontem em palácio, ás 3 horas da tarde, ao Sr. presidente da Republica os directores, chefes e altos funccionários de todas as repartições subordinadas ao seu ministério.
+Entre outros vimos os Srs. Drs. Francisco Liccalho Vieira Souto, Adolpho Delveccbio, Manuel Maria de Carvalho, Machado de Assis, Arthur Azevedo, Miranda e Horta, Euclydes Barroso, Barbosa Rodrigues; Vau Erven, Severiano Duarte.
+Recebidos na sala dos despachos, o Sr. presidente da Republica dirigiu algumas palavras aquelles funccionarios, declarando que esperava o concurso de todos e a boa vontade de cada um para o bom andamento dos serviços a cargo do ministério da industria.
+--- ARTICLE END ---
+--- ARTICLE START ---
+--- SECTION_HEADER START ---
+Agradecimentos
+--- SECTION_HEADER END ---
+O Sr. Dr. Prudente de Moraes Filho foi hontem agradecer ao Sr. presidente da Republica por ter-se S. Ex. feito representar na missa rezada por alma do Sr. Dr. Prudente de Moraes.
+Para agradecer ao Sr. Dr. Affonso Penna o seu comparecimento á festa do meio centenário do Lyceu de Artes e Officios, a directoria desse estabelecimento foi hontem, incorporada, ao palácio do Cattete.
+--- ARTICLE END ---
+--- NOTICE START ---
+O Sr. ministro do interior recebeu hontem, do Sr. general prefeito do Districto Federal, o seguinte officio:
+“Estatuindo o decreto n. 1.151, de 5 de janeiro de 1904, que os generos alimentícios, bebidas e outros, falsificados, sophisticados ou condemnados, sejam analysados no laboratório chimico, e tendo a municipalidade creado um laboratório de analyses para o auxilio da policia, tenho a honra de lembrar-vos a conveniência de serem remettidos ao mesmo laboratório os generos acima indicados, que foram aprehendidos por funccionarios da Directoria Geral de Saude Publica, concorrendo a Prefeitura por esse modo para a repressão das falsificações, que tanto prejudicam a saude publica, no que a municipalidade tem o maior interesse.”
+--- NOTICE END ---
+--- ADVERTISEMENT START ---
+VOLANTE JAPONES.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. João Caetano dos Santos, nosso correspondente e agente em Ouro Preto, communicou-nos hontem o seguinte:
+Não passou também despercebido o dia de ante-hontem, 2 de dezembro, outr’ora de gala e hoje também de luto para muitos brasileiros.
+Era a data do anniversario natalicio do Sr. D. Pedro II.
+O Sr. general Antonio Cerqueira de Souza Aguiar, commandante da força policial, foi hontem conferenciar longamente com o sr. ministro da guerra, a respeito da extrema necessidade da abertura de créditos indispensaveis para a conclusão dos quartéis regionaes e installação do serviço de avisos e communicações directas entre as circumscripções desta capital e o quartel da força policial.
+Por uma emenda, que vai ser offerecida ao projecto fixando o dia para a eleição do Conselho Municipal, o Senado votará autorisação ao Prefeito do Districto Federal para contrahir um empréstimo de dez milhões esterlinos.
+O producto do empréstimo será aplicado ao resgate de todos os anteriores e ás despesas com as obras de saneamento e embellezamento da cidade já iniciadas.
+Provavelmente essa operação será levada a effeito em maio de 1907, depois de preenchidas todas as condições legaes da autorisação.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Grandes liquidações de chapéos; Avenida Central 143.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. ministro do interior recebeu hontem, do Sr. general prefeito do Districto Federal, o seguinte officio:
+“Estatuindo o decreto n. 1151, de 5 de janeiro de 1904, que os generos alimentícios, bebidas e outros, falsificados, sophisticados ou condemnados, sejam analysados no laboratório chimico, e tendo a municipalidade creado um laboratório de analyses para o auxilio da policia, tenho a honra de lembrar-vos a conveniência de serem remettidos ao mesmo laboratório os generos acima indicados, que foram aprehendidos por funccionarios da Directoria Geral de Saude Publica, concorrendo a Prefeitura por esse modo para a repressão das falsificações, que tanto prejudicam a saude publica, no que a municipalidade tem o maior interesse.”
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. Dr. Prefelto levou para sua residência, para estudar, o memorial apresentado pelo Sr. Arthur Caceavon, propondo a construcção de 3.000 casas para operários, por conta exclusiva e administração da Prefeitura, que para isso creará uma repartição annexa á directoria do patrimônio. Na proposta é lembrada a idéia de um empréstimo de 25:000:000$, dividido em 1.500 apólices de 200$, com o juro de 4 % e amortisavel em 15 annos. As casas são de tres typos differentes, de pequenos alugueis, devendo a sua localização ser feita nos terrenos marginaes da nova Avenida do Mangue, em S. Francisco Xavier, em São Christovão e no Jardim Botanico.
+O autor do projecto pensa que a Municipalidade, longe de ficar onerada com essa construcção, terá uma renda annual de cerca de 1.500 contos.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+VOLANTE JAPONES. — Casa Colombo vende a preços reduzidos que habitualmente faz a Casa Colombo no fim de todos os annos : a deste anno torna-se muito notável não só pelos grandes abatimentos como pelo seu

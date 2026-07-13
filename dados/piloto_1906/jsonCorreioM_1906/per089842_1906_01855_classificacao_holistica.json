@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-08-10",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper includes a brief, factual advertisement for a book that covers the Caixa de Conversão among other topics related to Argentina.  This mention is too brief and lacking in argumentation to infer any specific stance on the debate itself.  The rest of the newspaper edition does not contain any discernible mentions of the \"Caixa de Conversão\" or related terms.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Buenos-Ayres\nAspectos da Cidade (1) O Congresso Pan-\nAmericano — A pujança econômica da\nRepublica Argentina - A Caixa de Conversão -\nConversou — O Luxo no Cambio.",
+            "reason_for_inclusion": "This is the only mention of \"Caixa de Conversão\" in the entire edition. It appears within a factual advertisement for a book."
+        }
+    ]
+}

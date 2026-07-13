@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-11-27",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article about the Caixa de Conversão focuses on reporting the Senate's approval of the project and the votes, without offering explicit arguments for or against it. It mentions the participation of key figures like Bulhões and Urbano Santos but doesn't delve into the content of their arguments, thus remaining primarily descriptive of the legislative process.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O Senado approvou hontem o projecto que institui a caixa de conversão, em discussão animada, depois de ouvir os Srs. Bulhões, Freire, Pires Ferreira e Urbano Santos, dos quaes o primeiro apresentou as suas emendas, que não vingaram, e o ultimo o parecer que contra ellas lavrou a secretaria da commissão de seus correligionarios subscrito.",
+            "reason_for_inclusion": "This quote summarizes the Senate's approval of the project and mentions key figures, but without taking a stance on the merits of the arguments presented."
+        },
+        {
+            "quote": "Votaram no projecto os Srs. Sá Peixoto, Silveira Nery, Bulhões de Brasil, Passos de Carvalho, Urbano Santos, Pires Ferreira, Alcides Muniz, Gama e Mello, Coelho Lisboa, Conselheiro Campos, Ruy Barbosa, Moniz Freire, Siqueira Lima, Oliveira Figueredo, Erico Coelho, Feliciano Penna, Bueno Brandão, Guimarães Guedes, Alfredo Ellis, Lessa Chaves, Bueno Abrantes, A. Azevedo, Mello Xavier e Silva, Brazilia da Luz, Januário da Gama e Feliciano Barcellos. Contra o projecto votaram os Srs. J. Penna e C, Penna, Rosa e Silva, João Bandeira e Julio Cotrim.",
+            "reason_for_inclusion": "This quote provides a factual account of the votes, reinforcing the neutral tone of the reporting."
+        }
+    ]
+}

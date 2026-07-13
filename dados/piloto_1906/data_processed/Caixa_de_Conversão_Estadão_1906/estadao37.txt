@@ -1,0 +1,44 @@
+```text
+--- PAGE estadao37.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+ANNO XXXI                                                              O ESTADO DE S. PAUL
+                                                                    S. PAULO—Domingo, 16 de setembro de 1906
+REDACÇÃO                                                                    Stereotypado e Impresso em machinas rotativas de Marinoni
+Praça Dr. Antonio Prado—Palacete                                       As assignaturas começam em qualquer dia e terminam em fim de junho ou dezembro
+Numero atrazado, 200 réis                                               Numero do dia, 100 réis
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+O CAFE'
+--- HEADLINE END ---
+[ILLEGIBLE SECTION: Top portion of column cut off]
+O CAMBIO
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Portion cut off above headline]
+--- ARTICLE END ---
+--- COLUMN 2 ---
+[ILLEGIBLE SECTION: Top portion of column cut off]
+--- COLUMN 3 ---
+[ILLEGIBLE SECTION: Top portion of column cut off]
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- BLOCK:NewspaperService START ---
+Serviço especial d'O ESTADO DE S. PAULO
+--- BLOCK:NewspaperService END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Text above headline, likely part of previous article continued from Column 2]
+--- ARTICLE END ---
+--- COLUMN 4 ---
+[ILLEGIBLE SECTION: Top portion of column cut off]
+--- COLUMN 5 ---
+[ILLEGIBLE SECTION: Top portion of column cut off]
+--- IMAGE START ---
+Image present (small logo/emblem)
+--- IMAGE END ---
+--- PAGE_METADATA START ---
+ACERVO                      O ESTADO DE S. PAULO                               Copyright © 1875-2012. Todos os direitos reservados
+                                                                                                                                1/1
+--- PAGE_METADATA END ---
+
+```

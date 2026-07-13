@@ -1,0 +1,29 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-08",
+        "original_snippet_context": "Article criticizing Campista's proposal for the Caixa de Conversão.",
+        "relevant_quote": "Conversão do que?—De calor humano ! E assim inicia S. Ex. a revelação da sua originalidade. Em technologia monetaria, o termo —conversão —significa \"substituição\" de uma moeda por outra, ou, estrictamente, substituição de papel moeda por ouro. Que substitue o Sr. Campista por meio da sua caixa de conversão? O nosso papel-moeda é representado por 670 mil contos de notas do Thesouro, emittidas pelo Estado como titulos de divida, representadas por esses valores em circulação. O dinheiro da caixa de conversão não é troca por ouro nem troca por outras notas já em circulação. Não ha conversão.",
+        "classification": "Clearly Orthodox",
+        "justification": "The author ridicules Campista's proposal, arguing that it doesn't involve actual conversion to gold and thus lacks the fundamental principle of a true Caixa de Conversão, aligning with orthodox criticisms.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-08",
+        "original_snippet_context": "Article criticizing Campista's proposal and comparing it unfavorably to Argentina's Caixa de Conversão.",
+        "relevant_quote": "A lei 3.871, de 20 de novembro de 1899, determina que a caixa de conversão argentina \"entregará a quem os pedir bilhetes ou notas em curso legal, em troca de ouro cunhado, na proporção de um peso papel, por 0.44 centavos de peso ouro, e entregará moedas do mesmo valor, recebidas em deposito, a quem pedir, em troca do peso papel, ao mesmo typo cambial.\" Por outras palavras: quem tem papel leva-o á caixa e recebe ouro, e quem tem ouro leva-o á caixa e recebe papel—tudo na proporção de um peso papel por 0.44 centavos de peso ouro. Ha, pois, uma \"conversão\" ou substituição de papel circulante por moeda metallica. Como agiu o Sr. Campista para imprimir na sua caixa a charisma exuberante em seu extase de modernismo economico ? Simplesmente assim: amputou, alegre, o que na caixa argentina constitue a \"conversão\", e condecorou seu invento com o nome que a outra possue, e a ello só por extravagancia poderia evocar.",
+        "classification": "Clearly Orthodox",
+        "justification": "By highlighting the Argentine model's actual gold convertibility and contrasting it with Campista's proposal, which the author claims lacks this key feature, the text strongly aligns with the orthodox view.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-08",
+        "original_snippet_context": "The author analyzes Campista's justification for a 15d exchange rate and its implications.",
+        "relevant_quote": "Para que essa fixação da taxa de 15 ? O Sr. Campista responde: para impedir a alta do cambio... exterior. Conseguintemente, o illustre financeiro deseja collocar o Brazil nesta situação invejavel : trabalhar para que o cambio suba a 27, em obediencia ás leis de 1894 e 1890, e trabalhar ao mesmo tempo para que o cambio não transponha a taxa de 15, em obediencia á lei da caixa de conversão.",
+        "classification": "Clearly Orthodox",
+        "justification": "The author points out the contradiction in Campista's proposal, suggesting it manipulates the exchange rate and disregards existing laws, which is a typical orthodox criticism of expansionist policies.",
+        "confidence": "High"
+    }
+]

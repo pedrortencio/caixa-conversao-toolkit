@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-12-07",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition primarily reports on government activities, including decrees related to appointments and financial matters. While it mentions the \"Caixa de Conversão\" in the context of legislative resolutions being sanctioned, it doesn't offer any explicit arguments for or against it.  The focus is on reporting the fact of its creation, not discussing its merits. Other articles about international relations and coffee valorization touch on themes relevant to the monetary debate but don't directly connect them to the Caixa. Therefore, the overall stance is neutral.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Foram sanecionadas as seguintes resoluções legislativas: Creando a Caixa de Conversão e dando outras providencias...",
+            "reason_for_inclusion": "This quote, from the government decrees section, confirms the creation of the Caixa but provides no further details or opinions about it."
+        }
+    ]
+}

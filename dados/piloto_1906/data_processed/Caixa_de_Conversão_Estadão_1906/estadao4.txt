@@ -1,0 +1,54 @@
+--- PAGE estadao4.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+ACERVO    O ESTADO DE S. PAULO   Copyright © 1875-2012. Todos os direitos reservados
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+O ESTADO DE S. PAULO
+--- HEADLINE END ---
+--- ARTICLE START ---
+S. PAULO - Quinta-feira 16 de março de 1905
+N. 8.435
+Tiragem diária: 20 mil
+Orgão do partido republicano paulista
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+[ILLEGIBLE SECTION]
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- BLOCK:Cambio START ---
+O CAMBIO
+--- BLOCK:Cambio END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- BLOCK:Cafe START ---
+O CAFE'
+--- BLOCK:Cafe END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- COLUMN 4 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---
+--- ARTICLE START ---
+Cartas do Sul
+[ILLEGIBLE SECTION]
+--- ARTICLE END ---

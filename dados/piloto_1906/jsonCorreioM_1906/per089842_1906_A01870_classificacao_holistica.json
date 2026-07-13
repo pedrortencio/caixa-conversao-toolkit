@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-08-25",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "The newspaper's dominant stance is clearly Orthodox, primarily due to the prominence and detailed arguments presented against the \"Caixa de Conversão\" in the article titled \"Contra a Caixa de Conversão.\"  This article features speeches by two deputies, Affonso Costa and Barbosa Lima, both opposing the Caixa. While Costa's speech is summarized as \"sensato,\" it's Barbosa Lima's arguments that are highlighted as \"fortalecido nos factos e corajoso dos severissimos estudos,\" suggesting the newspaper favors his more rigorously critical perspective.  The article emphasizes the potential negative impacts of the Caixa on consumers, aligning with core Orthodox concerns.  Other news items in the edition are unrelated to the monetary debate.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Pensa que o projecto em debate vem solapar os alicerces dessa politica e com isso mesmo programma systematica que não sou pouco oppõe e cuja refutação completa o estudioso, que de uma publicação na imprensa desta capital se trata de uma curta e simples fantasmagoria e de uma ficção illusoria.",
+            "reason_for_inclusion": "This quote reflects a strong Orthodox concern that the \"Caixa de Conversão\" undermines existing financial policies aimed at a return to the gold standard and is based on illusory projections."
+        },
+        {
+            "quote": "Responde áquelles que proclamam a utilidade do cambio fixo para os interesses das classes productoras, negando essa verdade com uma serie de notáveis argumentos do sr. Pereira Lima, illustre industrial e economista pernambucano e, quanto ás classes consumidoras não precisa mais do que lembrar que sobre uma importação de 480 mil contos qual a tivemos no exercicio de 1904, 280 mil contos representam artigos alimentícios e de vestuario, isto é, gêneros de primeira necessidade para o povo que, portanto, tem um unico interesse: ter o cambio mais alto para poder comprar mais quanto.",
+            "reason_for_inclusion": "This quote highlights the Orthodox focus on the negative impact of a potentially lower, fixed exchange rate on consumers, especially regarding essential goods, directly contradicting Expansionist arguments."
+        },
+        {
+            "quote": "Não deixa de fazer tambem o seu passeio pelos algarismos e os argumentos a este respeito tão estofados da Caixa de Conversão Argentina, lendo um trecho do economista francês Jacques Lyon, em que este se manifesta fundamentalmente adversario da operação decretada naquelle paiz, a Argentina, em 1890.",
+            "reason_for_inclusion": "This quote demonstrates the use of international examples (Argentina) and expert opinion (Jacques Lyon) to criticize the \"Caixa de Conversão\" proposal, a common Orthodox tactic."
+        }
+    ]
+}

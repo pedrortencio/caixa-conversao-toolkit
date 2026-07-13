@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-09-06",
+        "original_snippet_context": "Report on a meeting of the Club de Engenharia.",
+        "relevant_quote": "Em sessão extraordinaria, reuniu-se hontem o conselho director do Club de Engenharia, para ouvir a leitura do projecto da caixa de conversão.",
+        "classification": "Neutral/Factual",
+        "justification": "This is a purely informational mention, reporting on a meeting where the Caixa de Conversão project was discussed, without expressing any opinion on the project itself.",
+        "confidence": "High"
+    }
+]

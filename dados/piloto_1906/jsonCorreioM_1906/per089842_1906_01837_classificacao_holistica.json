@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-07-23",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article mentions the Caixa de Conversão in a neutral tone, as part of a series of articles documenting a trip to Buenos Aires. It doesn't express an opinion on the merits or drawbacks of the Caixa, but simply states that it was studied \"under all its aspects.\"  The rest of the newspaper edition does not mention the Caixa or related monetary policy debates.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Os nossos leitores não podem ter esquecido a interessante e bem documentada serie de artigos que, sob o titulo acima, o nosso companheiro de trabalho Mario Cattaruzza publicou nesta folha, descrevendo as suas impressões de viagem á capital argentina, retratando o estado d'alma daquelle paiz em relação ao Congresso Pan-Americano e estudando a Caixa de Conversão debaixo de todos os seus aspectos, mostrando os seus resultados, as suas difficuldades, os problemas que resolveu e",
+            "reason_for_inclusion": "This is the only mention of the Caixa de Conversão in the entire edition and it is purely descriptive of the series of articles previously published."
+        }
+    ]
+}

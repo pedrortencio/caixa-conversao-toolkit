@@ -1,0 +1,38 @@
+[
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906-09-20",
+        "original_snippet_context": "Article discussing the \"Caixa de Conversão\" and its proposed mechanisms.",
+        "relevant_quote": "A caixa innoconto de outr'ora, cuja ambição unlca era acolher em seu seio ouro espontaneo, vai agora dar abrigo ao fundo de garantia do papel-moeda. Verifica-se, desfarte, quo o ouro esperado era o do emprestimo para a valorização do café, com o qual se contava.",
+        "classification": "Clearly Expansionist",
+        "justification": "This passage links the Caixa to the \"valorização do café\" and implies the expected gold reserves were tied to a foreign loan (likely the £15 million mentioned in the Convênio de Taubaté), a key element of the expansionist plan.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906-09-20",
+        "original_snippet_context": "Analysis of how the proposed \"Caixa de Conversão\" relates to existing monetary laws.",
+        "relevant_quote": "Não se aventurara o Sr. Campista a pôr em contribuição os extraordinarios recursos do seu engenho para convencer o publico que esse fundo de garantia seria intangível e continuaria a figurar da reserva sagrada para a valorização crescente do papel-moeda do Estado; porque, em o n. IV do seu proprio additamento, o arguto parlamentar estabelece isto: \"Com os saldos do fundo de garantia poderá o governo, \"por intermedio da caixa de conversão ou da agencia desta\" — operar em cambio — comprando e vendendo letras para o exterior,\" — do modo a manter a taxa cambial fixa no art. 1o.",
+        "classification": "Leaning Orthodox",
+        "justification": "While seemingly technical, the concern about the \"fundo de garantia\" and its use for exchange operations suggests a worry about the stability of the currency and potential misuse of funds, aligning with orthodox anxieties.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906-09-20",
+        "original_snippet_context": "Discussion on the potential impact of the \"Caixa de Conversão\" on the value of paper money.",
+        "relevant_quote": "Ora, em 1899, anno da lei n. 581, vigorava, como vigora hoje, a lei 401, de 11 de setembro de 1840, que creou o padrão de 27 e autorizou o governo a fazer as operações de credito indispensáveis para elevar a esse padrão o valor do papel-moeda circulante e \"nello conserval-o\".",
+        "classification": "Clearly Orthodox",
+        "justification": "The explicit reference to the 1840 law establishing the 27d gold standard and the government's obligation to maintain it clearly frames the discussion from an orthodox perspective, concerned with preserving the \"probidade do paiz\" and a \"strong\" currency.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "Caixa de Conversão Paiz",
+        "date_of_article": "1906-09-20",
+        "original_snippet_context": "Concerns about the potential manipulation of exchange rates and the impact on existing monetary laws.",
+        "relevant_quote": "Positivamente o Sr. Campista passa uma rasteira nas leis vigentes, e collocou o poder executivo na posição ridicula de um mandatario, que tem de obedecer a injunções oppostas: a da lei de 1840, que ordena elevar o valor do papel-moeda a 27 d., e a da caixa de conversão, que ordena não seja elle elevado além de 15!",
+        "classification": "Clearly Orthodox",
+        "justification": "This expresses a strong criticism of the Caixa proposal, viewing it as contradictory to existing law (the 27d standard) and potentially manipulative, which aligns with core orthodox arguments.",
+        "confidence": "High"
+    }
+]

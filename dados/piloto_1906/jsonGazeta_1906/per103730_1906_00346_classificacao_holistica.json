@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-12-12",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The edition mentions the \"Caixa\" briefly in the \"Notas e Noticias\" section, providing exchange rates and mentioning banks operating with the \"Caixa.\" This mention is purely informational, offering no argument or editorial perspective on the merits or drawbacks of the Caixa de Conversão itself.  The rest of the newspaper focuses on unrelated news items, such as charitable events, local incidents, and international news.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "A CAIXA.—O mercado abriu e manteve, como ante-hontem, as tabellas de 15 3|8, 15 5|10 d., sendo esta no London. mas forneciam-se letras ã 15 3|16, 15 Í3|32 d., sem procura ; além do Brasil e Ítalo bancos passaram a concorrendo para o par preços 15 15|16 e 15 1|2 d., sempre sem animação. Nessa posição permaneceu o mercado estacionado, com o bancário á 15 3|32 d. e o particular a 15 15|32 d., na generalidade, fechando muito quieto.",
+            "reason_for_inclusion": "This is the primary mention of the \"Caixa,\" presenting factual market data without any editorial commentary."
+        }
+    ]
+}

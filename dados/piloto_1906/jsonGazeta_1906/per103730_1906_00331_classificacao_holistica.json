@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-11-27",
+    "overall_classification": "Clearly Expansionist",
+    "stance_score": 2.0,
+    "overall_justification": "This edition of the newspaper expresses strong support for the newly approved Caixa de Conversão, emphasizing its importance as a key part of the President's program and highlighting the Minister of Finance's role in its successful passage.  The overall tone and framing clearly suggest an alignment with the Expansionist perspective, viewing the Caixa as a positive step.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O Senado approvou hontem em discussão final o projecto creando a Caixa de Conversão. Tendo prestado o nosso fraco e decidido apoio a essa medida, temos o dever de apresentar ao Congresso Nacional as nossas felicitações, apresentando-as igualmente ao illustre Sr. ministro da fazenda, a cuja fulgurante defesa parlamentar se deve a brilhante defesa do projecto, que é, como se sabe, ponto capital do programma do Sr. presidente da Republica.",
+            "reason_for_inclusion": "This quote, from page 1, clearly and unequivocally states the newspaper's support for the Caixa de Conversão and links it to the President's agenda, indicating a pro-Caixa stance, aligning with Expansionist views."
+        },
+        {
+            "quote": "O extraordinario destaque que teve hontem com o Sr. ministro da circunstancia de caber a S. Ex. a gestão das finanças nacionaes.",
+            "reason_for_inclusion": "This quote, also from page 1, further emphasizes the importance of the Minister of Finance's role in the Caixa's approval, reinforcing the newspaper's positive framing of the event and suggesting an Expansionist perspective."
+        }
+    ]
+}

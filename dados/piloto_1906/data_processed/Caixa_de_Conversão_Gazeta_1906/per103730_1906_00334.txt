@@ -1,0 +1,289 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+GAZETA DE NOTICIAS
+RIO, SEXTA-FEIRA, 30 DE NOVEMBRO DE 1906
+NUMERO AVULSO 100 RS
+NÚMERO AVULSO 100 RS
+As assignaturas começam e terminam em qualquer mez
+PAGAMENTO
+As assignaturas começam e terminam em qualquer mez
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+A vinda de D. Carlos
+AGITAÇÃO REPUBLICANA
+--- HEADLINE END ---
+--- ARTICLE START ---
+A «Gazeta» ouve o ministro de Portugal
+Histórico — O Sr. Camelo Lampreia fala.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+DÉCIMO SORTEIO
+DE MÁQUINAS
+a 1 de pé nunca New ou Vibratória e 26
+com os cupons d'«A Gazeta de Notícias
+de 25 réis
+As Máquinas estão em exposição
+na casa Arp & C.
+DÉCIMO PRIMEIRO SORTEIO
+com os cupons de 25 réis
+de 1 de novembro
+a 30 do mesmo
+--- ADVERTISEMENT END ---
+--- IMAGE START ---
+Image present
+--- IMAGE END ---
+--- CAPTION START ---
+O SR. DR. AFFONSO PENNA
+Faz annos hoje o Sr. Dr. Affonso Penna, o illustre brasileiro ha pouco elevado
+pelos sufragios de seus concidadãos, ao
+fulgurante posto em que durante quatro
+annos terá que dirigir os grandes destinos da paz.
+
+Recebido geralmente com os enthusiasmos despertados pela tradição dos seus
+bons serviços e virtudes cívicas, S. Exa., em
+outro acto inicial da sua administração, já deu de si na capital mineira, foi o seu constante anceio durante a longa travessia e começa a confirmar as vivazes esperanças que todos põem na sua passagem pela desejada, deliciosa e captivadora, se é que se presenciava essa casa que, poucos dias de governo, por uma ou outra razão, longe, na terra mineira, foi o seu
+de hoje uma manifestação que, de certo,
+delicadamente ferirá a nota da sensibilidade
+affectiva do Sr. presidente da Republica.
+
+E assim será, porque a manifestação com
+que esses seus antigos companheiros de
+viagem vão commemorar o seu anniversario natalicio, evocará simultaneamente
+em sua alma os altos sentimentos do
+--- CAPTION END ---
+--- ADVERTISEMENT START ---
+A'S AMAS QUE LEEM «A GAZETA DE NOTICIAS»
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+ministros da guerra, da marinha, das relações exteriores, da justiça, da industria e da fazenda, general Souza Aguiar, Prefeito do Districto Federal; major Francisco de Assis Paula
+e Dr. Francisco Bicalho.
+
+Hoje, seu anniversario natalicio, o
+Sr. presidente da Republica receberá á
+hora da tarde as pessoas e corporações que o forem cumprimentar. A noite haverá em palácio recepção
+e concerto, sob a direcção do maestro
+Alberto Nepomuceno, director do Instituto de Musica, e em que tomarão
+parte Mmes. Alberto Nepomuceno e Figueiredo Rocha, e professores Carlos de Carvalho, Ricardo Tatti e outros distintos virtuosos.
+
+Chegou hontem ao porto de Las
+Palmas o navio-escola Benjamin Constant, de regresso de sua demorada
+viagem de instrucção pela Europa.
+
+O seu commandante capitão de fragata Pereira Lima telegraphou ás auctoridades superiores da armada, informando que o Benjamin Constant chegara
+sem novidade.
+
+O Sr. marechal Hermes da Fonseca, ministro da guerra, pouco depois de
+1 hora da tarde, deixou a sua secretaria, dirigindo-se para o palácio do
+Cattete, afim de despachar com o Sr.
+presidente da Republica.
+
+S. Exa. regressou ao quartel-general ás 4 horas, assignando o expediente da
+sua repartição.
+--- ARTICLE END ---
+--- BLOCK:LotteryResults START ---
+DÉCIMO SORTEIO
+com os cupons de 25 réis
+de novembro a 31 de dezembro
+1º premio
+1
+1
+1
+5
+15
+40
+DE
+1:000$000
+500$000
+300$000
+150$000
+100$000
+50$000
+20$000
+10$000
+CONSOLAÇÃO
+--- BLOCK:LotteryResults END ---
+--- ADVERTISEMENT START ---
+Assinem as mensaes «A Gazeta de Notícias
+de novembro de 1906
+DE 8 PAGINAS
+--- ADVERTISEMENT END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+e o governo francez que quer
+senão lhe enviar vivas a
+H.
+
+NOTICIAS DE COSME E DAMIANA
+20 de outubro a 30 de
+novembro
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+CAFÉ CAMÕES
+Superior café moido. O mais saboroso.
+R. Senador Enzelio 21 p 26.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+A GABARA.— O Sr. Serzedello Corrêa fundamentou, na hora do expediente, o projecto de lei, que adiante reproduzimos na integra, e passou-se logo á discussão das matérias em ordem do dia, porque não havia numero para votar. Entrou em debate o projecto declarando nullas as restricções de amnistias concedidas desde a fundação do regimen e o Sr. Pedro Moacyr discutiu durante toda a hora da primeira parte do ordem do dia.
+
+Houve uma interrupção do discurso
+e a mesa fez uma tentativa de votação, mas sem resultado: continuava a não haver numero. Proseguiu o orador que concluiu enviando á mesa algumas emendas ao projecto. Na segunda parte continuou a 2a discussão do projecto de despesa do ministerio da industria, sobre o qual falaram os Srs. José Euzébio e J. Carlos de Carvalho, ficando á hora esgotada e adiada a discussão.
+
+Muitas emendas foram apresentadas á
+mesa.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ONDE PASSOU E ONDE FEZ PONTO POR MUITAS HORAS
+--- ARTICLE END ---
+--- ARTICLE START ---
+perpetue a sua memoria.
+Não é para glorificar seu compatriota que o governo francez quer levantar-lhe uma estatua em seu topo. Um americano, millionario e philanthropico, o Sr. Carnegie; em vez de estatua, construirá uma universidade, o que é bem mais util ; e esse novo estabelecimento, dedicado a Curie, será custeado pelo Sr. Carnegie, que, além disso, instituirá um premio annual de 2,500 dollars para o alumno que mais se distinguir nos estudos de physica, especialidade do glorificado. Essa universidade exaltará o nome de Curie e lembrará o do philanthropico americano.
+--- ARTICLE END ---
+--- ARTICLE START ---
+EXPLOSAÕ.—Noticias vindas de Witten na provincia da Westphalia, Allemanha, referem as consequencias de um sinistro havido em uma fabrica de explosivos. Entre mortos e feridos contam-se nada menos de trezentas victimas; A explosão foi tão violenta que destruiu a pequena aldeia de Annen situada próximo ao local. Dos escombros já foram retirados tres cadáveres e oitenta pessoas gravemente feridas. Faltam noticias mais detalhadas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+ARTIGOS ESCANDALOSOS.— O Sr. Mouthon, jornalista francez, como noticiámos já, denuncia que deu da formidável chuva tão-só que foi a questão Humbert.
+A causa é por demais recente para que seja preciso recordal-a.
+O Sr. Mouthon começou agora a publicar uma série de artigos escandalosos
+sobre a morte mysteriosa do deputado Syveton.
+Afirmam-se as provocações feitas pela viuva d'aquelle deputado; as manobras
+do partido nacionalistas para encobrir os verdadeiros motivos do suicidio do Sr. Syveton.
+O articulista desnudará toda a verdade, sem consideração para com pessoas ou dignidades. Vai ser um grande escândalo.
+--- ARTICLE END ---
+--- ARTICLE START ---
+NOTAS DE CASME E DAMIANA
+10 de outubro a 30 de
+novembro
+--- ARTICLE END ---
+--- ARTICLE START ---
+INTERIOT
+O máximo da temperatura hontem foi de 21,8° e o minimo, pela manhã, 759,6. Tempo nublado pela manhã, eve limpo á tarde. Temperatura nos Estados: S. Luiz, 28°; Parahyba, 26°,5; Natal, 27°; Pará, 28°; Recife, 27°,15; Maceió, 28°; Bahia, 26°,2; Rio, 27°; Victoria, 24°,2; S. Paulo, máxima, 16°, minima 25; Florianópolis, 20°; Porto Alegre, 18°,75.
+Dá capital.—Teve hontem forte chuva seguida de raios de sol, de céu azul, de sol, de luz, de sol, de lampejos de tanta luz. Mas o sol não se enxergava, incidente dos dias de verão. Era sol só. sem chispas nem reverberações, luz opaca, sem espirito nem vibrações. Depois surgiram algumas nuvens escuras que logo se dissiparam e de lá para cá um céo claro, limpo e risonho. Na manhã, emfim, não se podia desejar melhor tempo.
+O movimento pela cidade foi constante pela manhã e pela tarde. E bem de ver que o verão já fez della a sua predilecta moradia. E' bem de ver que o animado movimento começou na cidade, movimento que só se verá em fins de verão. E' bem de ver que a cidade já começa a receber
+as constantes visitas do verão.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O CAFÉ.—Os mercados consumidores baixaram novamente ante-hontem, abrindo ainda assim o mercado aqui hontem relativamente sustentado.
+Nos commissarios houve menos actividade da parte dos ensaccadores, comprando as casas mixtas 8,000 saccas mais ou menos. Vigorou a base de 6$100, fluctuando o mercado sem orientação durante o dia. Apparacendo vendedores para março a 6$200, peioraram ligeiramente as condições do mercado, mesmo assim mantendo os ensaccadores o preço de 6$200 pelo typo n. 7. Os exportadores estiveram pouco activos, offereecndo em geral na base de 6$300.
+Para dezembro foram concluidos negocios a 6$100 e 6$450, fechando o mercado sustentado para o disponivel e para o mez proximo, porém fraco para futuros.
+Vendas conhecidas nos exportadores, 2,500 a 8,000 saccas; base de 6$300. No exterior baixou hontem na abertura, o mercado de Havre, abrindo inalterado o de Hamburgo e não funccionou o de Nova York por ser feriado nos Estados Unidos.
+Por Jundiahy passaram 57,700 saccas, entrando aqui 7,691 saccas por barratro e cabotagem. Santos.— base: 6$700; mercado apathico: foram vendidas hontem 16,500; registrado na animadora 10,000. Entraram hontem 71,800, desde 1 deste mez 1,620,939; media 55,607, desde 1 de julho 7,865,301. Existiam hontem em primeiras e segundas mãos 1,811,871. Passagens: hontem, 57,664; desde 1 do mez 1,640,939, desde 1 de julho 7,924,425; pauta sem variação, 500 réis. Foram hontem baldeadas com destino a Santos: em Jundiahy, 38,800; em S. Paulo e Sorocabana, 8,026; em Campo Limpo, 2,435; no Braz., 1,661; no Pary, 618; total 57,664. Foram embarcadas: no dia 1, 111,009; desde 1 do mez, 1,525,889; despachadas hontem, 40,048.
+--- ARTICLE END ---
+--- ARTICLE START ---
+POLICIA.—Na rua Caminha, Manuel Gomes da Costa precipitou-se por uma ribanceira abaixo e quebrou duas costelas.
+O facto foi casual.
+Na praça Quinze de Novembro, um caminhão atropellou e matou o menor Álvaro da Costa Barros, filho de Saturnino da Costa Barros, residente á travessa do Paço n. 2.
+Foi morto, por um trem, na estação do Riachuelo, o carrigador Agapito José de Oliveira, morador do Recreio dos Paraguayos.
+O Sr. Manuel Vieira, estabelecido á rua Machado Coelho n. 43, queixou-se á policia, de que um seu caixeiro de nome Alfredo Rodrigues Ferreira, lhe havia furtado a quantia de 3$700.
+Na 3a urbana prossegue o inquerito sobre as accusações feitas pelo operário foguista do «Lloyd», Luiz de Vasconcellos, contra seus companheiros de classe que se acham em greve.
+A policia da 4a urbana, que desde o mez passado abriu inquerito acerca do roubo de drogas e productos pharmaceuticos da drogaria Excelsior, á rua de S. Pedro n. 119, pertencente ao Sr. Emmanuel Ruffier, Já prendeu, para averiguações, os seguintes ladrões: Luiz Manuel dos Santos; vulgo Chorão ; Affonso de Mello, Domingos dos Santos e Accacio Augusto Pimentel, não conseguindo, por emquanto, apurar a responsabilidade de nenhum n'aquelle roubo que ascende á quantia de 1,000$000.
+Por ter furtado um chanéo da casa de negocio da rua Senador Euzebio n. 44, foi preso Antônio da Silva Simões. No morro da Favella, Antônio Luiz da Costa, por questão de ciúmes, aggrediu e feriu, sua amazia Juventilia Maria da Conceição. Ambos residem alli.
+Está a policia em actividade contra os ladrões, os gatunos e os vagabundos. Hontem, dezessete individuos dessa especie foram processados pela 4a urbana e mandados para a Casa de Detenção.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Na rua Acre.—Aleixo de Souza, ao passar com uma mulher, deu uma bofetada em Fortunato Panqueca, por haver este pilheriado, com seus ditos, com suas frases tresloucadas e com as suas epigrammas escandalosas. Fortunato foi ferido e mandado para o hospital da Santa Casa.
+--- ARTICLE END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+O visconde de Faro e Oliveira, da cuja morte nos tivemos hontem noticia por um telegramma, foi um dos mais distintos estadistas e mercadores da colônia portugueza no Rio de Janeiro.
+Vindo para o Brasil ainda moço, aqui dedicou-se á carreira commercial, occupando o cargo de guarda-livros, em diversas casas, até que, de sociedade com Luiz de Assumpção, estabeleceram-se na rua do Ouvidor, com uma livraria, então um dos mais importantes estabelecimentos nesse genero e onde prestou grandes serviços á literatura indígena.
+Dotado de espirito intelligente, o illustre titular ligou-se a muitas associações scientificas e privadas, em algumas das quaes occupou cargos salientes.
+Ha tempos, que o visconde de Faro e Oliveira, retirado do commercio, estabeleceu residencia em Lisboa, não se esquecendo, porém, desta terra, á qual veiu, não faz muito tempo.
+O titulo de visconde foi-lhe concedido pelo governo de Sua Magestade Fidelissima que tinha em alta conta os seus relevantes serviços á diversas associações e estabelecimentos politicos e especialmente ao Lavradio Portuguez, de que foi socio dedicado e assiduo.
+Ultimamente agarrado aos achaques de uma longa molestia, o illustre titular retirara-se para Cintra, onde hontem o colheu a morte.
+--- ARTICLE END ---
+--- ARTICLE START ---
+De ordem do Sr. ministro da industria foram expedidas hontem aos chefes das diversas repartições de seu ministerio circulares recommendando que os fornecimentos de objectos e materiaes devem ser feitos por concurrencia publica.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Vários deputados mineiros estiveram hontem a bordo do vapor San Nicolas, da Hamburg-Südamerikanische, surto no nosso porto. S. Exas. alli foram ver 44 cabeças de gado indiano, adquiridas pelo Sr. Dr. Alberto Santos nas provincias de Guzerati e Rajpeutana, governo de Bombaim.
+Todo esse gado se destina á cidade de Uberaba em Minas, aos Srs. coronéis Geraldino Rodrigues da Cunha e Theophilo Rodrigues da Cunha, adiantados criadores do triangulo mineiro, e vai ser desembarcado no porto de Santos. Havia a bordo 37 bellissimos reproductores e sete vaccas. A essa especie de gado juntar-se-á brevemente mais outra, também comprada nas Indias pelos Srs. Drs. Ângelo e Antônio Gonçalves e Costa, e destinada á mesma cidade de Uberaba, pertencendo aos dous criadores Antônio Gonçalves e Costa.
+Esta ultima manada consta de 50 reproductores bovinos, entre os quaes figuram alguns individuos premiados em varias exposições indianas, e já está em viagem para os nossos portos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Ouvimos que já foram iniciados na Casa da Moeda os trabalhos preparatórios para a impressão das novas cedulas conversiveis, que serão emittidas pela Caixa de Conversão. Essos trabalhos, que correm sob a inspecção do escrivão Barra e Proença Gomes, serão aproveitados, conforme annunciámos, os clichês actualmente em vigor. São cedulas de 1$, 2$, 5$, 10$, 20$, 50$, 100$, 200$ e 500$, havendo apenas modificações nos dizeres.
+E' intuito do Sr. ministro da fazenda installar o novo estabelecimento no antigo edificio em que se acha a Caixa de Amortisação, logo que seja possivel, fazendo-se, então, a mudança deste ultimo departamento para o novo edificio construído na Avenida Central; cujos trabalhos complementares estão sendo ultimados.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Supremo Tribunal Militar absolveu o cabo de esquadra Pedro das Neves e os soldados José Netto, Napoleão Peixoto e Rufino Manuel, ambos do 23° batalhão de infantaria do exercito.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Pessoa que teve occasião de ler nas mãos do próprio destinatario um dos telegrammas dirigidos pelo governador de Alagoas ao Sr. Dr. J. J. Seabra, depois de conhecida a decisão do Senado, asseverou-nos hontem que o documento visto é da mais clara eloquencia. Por esse telegramma, em que o candidato de Alagoas é insistentemente chamado áquelle Estado para combinar o plano de uma nova campanha, deixa-se ao menos entrever a afirmação de uma solidariedade heroica, parecendo, pelos seus termos, que, embora a candidatura não possa mais ser officialmente apresentada, haverá a prestigial-a um incansavel trabalho do governo.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Antes de partir para o norte, o illustre Sr. Dr. J. J. Seabra teve a gentileza de nos trazer as suas despedidas.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foram nomeados: presidente e membros do conselho de investigação a que vai responder o cabo de esquadra do 23° batalhão de infantaria Benedicto Marques de Oliveira, os seguintes officiaes: capitão do 22° batalhão, Carlos Larsen Junior; 1° tenente do 1° regimento de cavallaria, Arnaldo Brandão e 2° tenente do 24° batalhão, Pedro Augusto de Oliveira Jacuhy.
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+Um illustre Sr. deputado denunciou da tribuna da Câmara a falsificação de uma manteiga destinada a ser ingerida e saboreada como um producto legitimo oriundo do ubre da maravilhosa vacca. Os jornaes glosaram o motto do illustre representante da nação e, no esforço das suas diligencias, reconheceram a falsificação e no mesmo tempo a sua grande expansão commercial.
+
+O facto é grave. Uma falsificação tem sempre o intuito de illudir e o intuito de illudir tem sempre o intuito de prejudicar, como é o que resulta de vender por bom o que realmente não o é. Mas esse facto grave não é isolado. A manteiga é ainda um genero que se pode considerar de luxo.
+
+Há, porém, outros generos de primeira necessidade, que aguardam resignadamente uma voz do Congresso para proclamar e denunciar a sua falsificação.
+
+Quaes são os generos de consumo expostos á venda que não são falsificados ou deteriorados e quaes são os falsificados?
+
+Eis uma pergunta cuja resposta podia ser posta a premio e compensada com uma enorme, com uma fabulosa quantia.
+
+Nós temos uma ampla e vasta legislação fiscal. Temos nos portos de entrada uma grande vigilancia sobre os generos de importação destinados ao consumo. Pelo cadinho aduaneiro não passa nem uma manta de carne secca suspeita, nem um barril de vinho avariado. Mas depois de passar por esse cadinho, por esse atestado de purificação, a manta de carne secca deteriora-se e é dada ao consumo e o barril de vinho adultera-se e multiplica-se para gaudio dos bebedores e conhecedores da boa pinga.
+
+Isto quanto aos generos de importação.
+Quanto aos de producção nacional, o gelo tem o formidável poder e a agradavel missão de dar aos mais adulterados pelo tempo a mais sympathica e a mais attrahente feição. Chega a ser um regalo adquirir um peixe conservado no gelo, com todas as apparencias de sanidade, dando a illusão de ser um recém-finado, para ao primeiro exame se reconhecer, com o desalento de uma desillusão, que esse peixe teve a imprudencia de se deixar apodrecer antes de ser gelado e que em tal caso o gelo só serviu para gelar o comprador.
+Todos estes casos constituem uma das taras dos grandes centros populosos.
+
+E' nas grandes cidades que mais suspeitos se tornam todos os generos de consumo, porque é nas grandes cidades que vale a pena falsificar-os.
+
+Assim como ha as industrias e o commercio legitimos e austeros, ha igualmente nesses centros a industria das falsificações.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Eventualmente não há um remedio para levar por diante o bello proposito que se traçou o de cuja rigorosa execução só terão que ganhar esta terra e o seu povo. Por isso, hoje, que S. Exa. vai passar mais um anniversario natalicio entre os carinhos da familia e as demonstrações de estima e respeito de innumeros amigos e admiradores, a Gazeta, cumprindo a tradição dos seus bons serviços á patria, tambem faz votos para que esta data sempre se renove entre as maiores alegrias para S. Exa. e para que nessa occasião não lhe falte a vida e o conhecimento que ainda muito contribuirão para todos os patrios confortos de uma tão velha e boa tempera de homem publico.
+
+A vinda presidencial, através do Brasil, deixou gratas recordações nos que constituiram a sua comitiva, mormente entre os jornalistas mineiros, para os quaes o epilogo dos dias passados em Bello Horizonte é de uma captivadora e inesquecivel lembrança.:
+Como um echo desses sentimentos, um grupo desses jornalistas realisará na tarde
+de hoje, na capital dos Estados de S. Paulo e Rio, uma reunião onde serão lidos diversos telegrammas referentes ao ministerio da justiça.
+Em seguida, dirigiu-se para a Europa, em visita.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Quem vende as sortes grandes? E'
+Guilherme. Rua do Rosario 41.
+--- ADVERTISEMENT END ---
+
+--- PAGE 3 ---
+--- ARTICLE START ---
+REHABILITAÇÃO DE UM INOCENTE
+O Crime das Degoladas
+PETIÇÃO AO SUPREMO TRIBUNAL FEDERAL
+Exmo. Sr. —
+Aos Ministros do Supremo Tribunal Federal, baseado no art. 548, § 1°, do Cod. Fed., de 1890, e 71 da Lei 221 de 1894, por si e pela
+parte que representa, tem a honra de apresentar a V. Exas. o
+presente recurso de revisão, para que seja relevada a pena imposta a José Augusto Ferreira de Carvalho, condemnado pelo jury desta Capital a 21 annos de prisão cellular, pena convertida na de prisão com trabalho na Casa de Correcção, e que já cumpriu. Havendo passado em julgado a respectiva sentença, conforme se vê no documento junto (certidão do secretario do jury,) corro corrente põem seu maior empenho e roga a força dos Emeritos Julgadores a perdoarem as imperfeições e os atropellamentos deste seu trabalho; mas crê que a simples leitura calma e serena dos autos originaes firmará a convicção da tremenda injusliça que victimou o condemnado.
+
+E' deveras apavorante esse caso de condemnação sem provas de criminalidade, sem pressão de qualquer ordem, que, ao que se dirá, pudesse facilitar o erro judicial. Não houve com o chamado «processo das degolladas» e, em especial, por occasião de vir a jury, um desses movimentos da opinião publica ou de suggestão collectiva que determinam, por vezes, decisões tendenciosas nos juizes de facto. Não se deu, aqui, a interferencia nefanda da politica perseguidora, nem a angustia que a toda gente atormentava por causa da difficuldade de encontrar um culpado pelos barbaros assassinatos da rua Senhor dos Passos, poderá explicar a fragilidade da accusação e a iniquidade da condemnação.
+
+Partindo tão somente dos autos e da palavra auctorisada da Sciencia, sem auxiliares literarios e sem armar ao sentimento, faremos, como nos for possivel, um resumo dos factos e lealmente traçaremos o historico das prolongadas diligencias policiaes, que constituiram, no correr dos autos, a base unica da condemnação.
+
+O inquerito. — Na madrugada de 22 de abril de 1898, foi esta Capital sacudida de emoção com a noticia de terem sido assassinadas uma prostituta e outra mulher, criada de bordéis, á rua Senhor dos Passos, levantando parte da população para aquella rua, nos bonds da cidade de S. Christovão, diariamente frequentada por aquella infima turba. A victima principal (Clara Mery, residente á rua Senhor dos Passos, n. 20 e que a policia local entrou logo nos trabalhos de pesquisição, mal ajudada — como é natural — por varios individuos de moral duvidosa, prostitutas, outros vagabundos e rufiões, muito orgulhosos com suas façanhas de heroes de esquinas e de encostados.
+
+O processo arrastou por 6 longos mezes: foram presos, conforme indica a reportagem, para mais de 50 individuos, uns por suspeitados da autoria dos crimes, outros para dar informações á policia. O aviso-los, ora com ameaças, ora com promessas, determinou naturalmente producção de um sem numero de nactilhas, declarando umas serem prostitutas da casa, Maria José, e outra a lavadeira. Essas nactilhas, tendo sido lavradas, nos termos tecnicos e das afirmações donde nada resulta, podiam impressionar, como effetivamente impressionou o jury, o qual se despediu á porta, lendo nos jornaes de Paris o ministro de justiça declarar a vontade de Leopoldo conceder soberania ao Congo. Este depoimento, como veremos, não foi confirmado na audiencia.
+
+E' preciso notar que, iniciados os trabalhos policiaes na madrugada de 23 de abril, de 1898 a 22 de junho, se apresentaram na delegacia da 4a circumscripção urbana, onde dormia o inquerido, apenas duas testemunhas aproveitaveis, e ambas por terem estado com o accusado em epocas diversas, no decurso dos primeiros dous mezes após o crime.
+
+Cumpre, desde logo, notar que, iniciando o inquerito na madrugada de 23 de abril e só tendo a 22 de junho sido apresentada a denuncia, a maior parte dos depoimentos (que serviram de base á denuncia, á pronuncia e á injusta pena!) foram tomados na audiencia, a fls. 53. As declarações de Flora Gonçalves, que, dada sua gravidade, deveriam ter sido, a nosso ver, assignadas por um escrivão e tambem por testemunhas officiaes. Disse Flora: — que no dia dos assassinatos, Augusto Ferreira de Carvalho sahiu da porta de sua residencia e, ao levantar a janella, viu que Ferreira ia acompanhado de um moço de cara larga, conhecido por Babiano. Indo embora Babiano, logo ella notou que Ferreira tinha as calças manchadas de sangue na altura da coxa, a botina e meia tintas de sangue, o collete, os punhos e camisa salpicados de sangue; Ferreira, mudando de roupa em sua casa, pediu a ella, declarante, que lavasse a roupa que despira e as collote-as e meias em agua limpa, para lavar; ao vestir a paletot para sahir, ella declarante, segurou para que não sahisse, mas Ferreira lhe declarou que ia só elle quem tinha morto as duas mulheres da rua Senhor dos Passos, sendo seus companheiros Babiano e um moço que havia tirado na porta da casa para vigiar a patrulha; que Ferreira dissera a ella, declarante, que para entrar em casa de Mercedes fora preciso convidal-a a estar com elle e, conseguindo a entrada, dera ingresso a Babiano. Ferreira lhe dissera que tamara a bocca de Mercedes com um lenço e depois dera um golpe com a navalha no pescoço e em seguida fizera o mesmo á criada, tendo para isso voltado o joelho direito sobre o estomago desta, ficando nessa occasião com a calça tinta do sangue; Ferreira dissera que, quando entraram na casa de Mercedes, havia uma serenata no botequim junto á casa e ao sahirem esta já estava terminada; que Ferreira disse que depois de haver praticado os degolamentos aos quaes fora ajudado por Babiano, demorou-se um pouco com receio de ser visto pela policia, por estar com as calças sujas de sangue, só sahio quando passava um bonde, que tomou em companhia de Babiano, saltando no Campo de Sant'Anna, canto da rua General Camara; dirigindo-se á rua da Conceição, casa da declarante, onde separou-se do Babiano ; QUE, NAQUELA CONVERSA, FERREIRA DISSE A DECLARANTE QUE ELA ERA MANDADA POR ALGUEM AFIM DE SABER SE TINHA SIDO ELLE OU NÃO QUE TINHA MORTO AS MULHERES, ao que ella respondeu: «a mim ninguem mandou»; e, em seguida Ferreira disse que, se ella contasse a alguem o que elle, Ferreira, lhe havia dito, elle faria a ella o mesmo que tinha feito á Mercedes e á criada, ao que a declarante respondeu que não tinha medo; que, dito isto, Ferreira retirou-se da casa da declarante, não voltando até hoje, por ter sido preso no dia seguinte ao em que teve essa conversação com a declarante; declara mais que Ferreira na occasião em que mudava as roupas «tintas de sangue», não querendo calçar novas botinas que deixara em casa da declarante, pediu-lhe 1$200 afim de ir a declarante comprar outras botinas e, como a declarante negasse a dita importancia, resolveu-se Ferreira a calçar as botinas novas que estavam em casa da declarante, enrolando em um papel as meias e as botinas sujas de sangue com que entrara, na madrugada do crime, em casa da declarante; que Ferreira tambem lhe dissera que ao entrar em casa de Mercedes tinha sido avisado pelo moço que ficara sentinela á porta, que a patrulha da rua Senhor dos Passos estava na rua do Hospicio; que no dia 6 deste mez, passando por sua casa Antônio Soares, seu antigo amante, esta declarante o chamou e pediu que a tirasse dessa terra, relatando em seguida o que lhe contara Ferreira, esperando mesmo que Soares viesse relatar os factos á autoridade, pois ella, declarante, não o queria fazer com receio de ser victima de Ferreira.
+Convém observar que, o alludido Antônio Soares foi quem diretivamente abriu caminho a essas revelações escandalosas, tendo ido á policia, na mesma data, e dizendo que : «Flora lhe contara que, ás 3 horas da madrugada do dia dos assassinatos (sic), entrou-lhe em casa o amasio José Augusto Ferreira, com as calças, ceroulas e meias tintas de sangue e como lhe perguntasse de onde vinha aquella hora, elle voltou-se para um individuo, que o acompanhava, e disse que tratasse da vida, pois elle, Ferreira, estava perdido; em seguida Ferreira despiu a roupa que estava ensanguentada, e ordenou á Flora que a levasse de modo que ninguem visse, o que foi feito por Flora».
+E' facil perceber que os unicos dizeres do depoimento em juizo que bem se ajustam ás primitivas declarações policiaes resultaram de habil suggestão contida nas perguntas do Dr. promotor publico, recordando á testemunha circumstancias capitaes de que formalmente não cogitava no decorrer do mesmo depoimento...
+
+Mesmo assim, as contradicções são escandalosas e pelo lado das inverosimilhanças e das absurdidades não conhecemos coisa que se iguale ás contidas nas declarações e no depoimento judicial de Flora Gonçalves, a inimiga confessa de Ferreira, docil instrumento do sargento, beneficiaria dos famosos 50$000 e pretendente a uma mudança de terra em companhia do ex-amante Antônio Soares...
+So não, vejamos.
+
+A admittir-se a primeira «versão», a do inquerito, Ferreira, o assassino ladrão (que cometera o delicto horrendo para se «apossar dos custosos brilhantes de Mercedes») te-lo-ia confessado afim de receber de Flora os magros 50$000 deixados pelo mysterioso sargento, que a policia não quiz conhecer como fora facil, e era de rigorosa necessidade ! Confessando minuciosamente crime tão lucrativo, mostrava-se tão sem recursos que pedia 1$200 para um par de botinas! Havendo sido o proprio assassino e o roubador, diante do pedido de uma «prenda da matada», declarava á amante que ia ver «se podia arranjar»! Consummada a carniceria, Ferreira teria tido medo de sahir por causa da policia (já de nada valendo o espia); e, para evitar tão perigoso encontro, tendo as calças, os punhos, as botinas tintas de sangue, haveria esperado um bonde, occultando-se assim aos olhares indiscretos! Finalmente ao terminar a horripilante confissão, teria declarado já saber que Flora estava agindo por conta de terceiros, interessados em compromettel-o!...
+
+Quanto ao motivo — nem uma palavra ! Matara as duas mulheres porque Clara, a prostituta, não lhe ligava importancia... E isso vinha referir a quem ? A sua amante, á Flora Gonçalves!....
+
+Se compararmos as declarações que Flora, na policia, attribuiu a Ferreira com outros elementos de convicção existentes no processo, resultará, á primeira vista, a invenção perversa e audaciosa da meretriz, talvez por mal

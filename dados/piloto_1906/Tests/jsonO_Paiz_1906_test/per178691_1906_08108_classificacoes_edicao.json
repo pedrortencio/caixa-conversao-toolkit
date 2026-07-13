@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-12-15",
+        "original_snippet_context": "News about the newly signed regulation for the Caixa de Conversão.",
+        "relevant_quote": "O Sr. presidente da Republica assignou hontem o decreto que dá regulamento á caixa de conversão...",
+        "classification": "Neutral/Factual",
+        "justification": "This snippet simply reports the signing of the regulation, without expressing any opinion about the Caixa itself or its potential effects. It's a factual news item.",
+        "confidence": "High"
+    }
+]

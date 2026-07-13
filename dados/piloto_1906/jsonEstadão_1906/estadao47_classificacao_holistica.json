@@ -1,0 +1,18 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Leaning Orthodox",
+    "stance_score": -1.0,
+    "overall_justification": "While the article mentions the concept of converting paper money to gold and setting a conversion rate, the emphasis on fiscal responsibility and the potential negative impacts of increasing the money supply suggests a cautious, Orthodox-leaning perspective.  The article highlights concerns about the financial crisis and implies a preference for responsible financial management over expansionary measures.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Foi lido o parecer da commissão de finanças sobre o projecto concernente ao resgate do papel-moeda, permittindo que se faça a conversão em ouro, sob a garantia do Thesouro, e com uma proporção de 27$ por cada um cruzeiro; e outro que autorizava o presidente da Republica a augmentar os bilhetes da Caixa de Conversão, podendo o applicante resgatar os mesmos.",
+            "reason_for_inclusion": "This quote summarizes the core of the debate, mentioning both the conversion to gold and the potential increase in money supply via the Caixa de Conversão.  The focus on the 'guarantee of the Treasury' suggests a concern for fiscal soundness, aligning with the Orthodox view."
+        },
+        {
+            "quote": "O sr. Rubido Junior, presidente da Camara dos Deputados, declarou a assembleia em sessão permanente e manifestou que confiava em que ella se mantivesse unida e harmoniosa, em ordem a bem resolver a crise financeira, cujo resultado é de utilidade publica e não deve ser prejudicada por questões de ordem secundaria.",
+            "reason_for_inclusion": "This quote emphasizes the importance of resolving the financial crisis, suggesting a cautious approach to financial matters.  This aligns with the Orthodox preference for stability and fiscal responsibility."
+        }
+    ]
+}

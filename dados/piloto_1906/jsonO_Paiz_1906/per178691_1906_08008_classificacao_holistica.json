@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Paiz",
+    "date_of_article": "1906-09-06",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The only mention of the \"Caixa de Conversão\" is a factual statement that the Club de Engenharia's director council met to hear a reading of the project.  There is no discernible argument or editorial position presented for or against the Caixa in this edition.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Em sessão extraordinaria, reuniu-se hontem o conselho director do Club de Engenharia, para ouvir a leitura do projecto da caixa de conversão.",
+            "reason_for_inclusion": "This is the sole mention of the Caixa de Conversão in the entire edition and presents only a factual account of an event."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Leaning Expansionist",
+    "stance_score": 1.0,
+    "overall_justification": "While the edition includes varied perspectives on the economic situation, the most prominent articles, particularly \"Somos, e Balxistas\" and the second \"A' praça\" article, advocate for solutions that align with the expansionist view.  These include valorization of coffee in gold, managing coffee production to influence prices, and expressing concern for the impact of exchange rate fluctuations on producers. Although other articles mention the exchange rate and its effects, these two provide more concrete proposals that resonate with expansionist aims of supporting the productive sector (coffee) and mitigating the negative impacts of currency fluctuations.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Nestas condições, deante de uma safra de café que representa 55,56% da totalidade da producção mundial, nosso mercado de café está exposto aos azares da especulação, e deante deste facto, só resta aos productores de café uma medida para salvação da lavoura nacional, ou sejam a valorisa-ção do café em ouro.",
+            "reason_for_inclusion": "This quote, from the \"Somos, e Balxistas\" article, directly advocates for the valorization of coffee in gold, a key expansionist proposal to protect producers from exchange rate fluctuations."
+        },
+        {
+            "quote": "O que salva a lavoura é a prohibição de plantar mais café, a fim de que a producção diminua e o preço suba.",
+            "reason_for_inclusion": "From the second \"A' praça\" article, this suggests managing coffee production to influence prices, aligning with the expansionist focus on supporting the coffee sector."
+        },
+        {
+            "quote": "Os productores, que venderam os seus cafés em abril e maio, a preços baixos, estão arruinados.",
+            "reason_for_inclusion": "This quote, also from the second \"A' praça\" article, highlights the negative impact of low coffee prices (linked to exchange rates) on producers, a concern central to the expansionist perspective."
+        }
+    ]
+}

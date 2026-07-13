@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article mentions the Caixa de Conversão in the context of a potential appointment, but doesn't offer any arguments for or against its establishment or any related policies. It's purely a factual report about a possible personnel change.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "De accordo com a combinação feita pelo governador de Pernambuco com o sr. Pinheiro Machado, a candidatura do presidente da Associação Commercial, já está quasi concluida para a vaga que se abrirá na Caixa de Conversão, com a transferencia do sr. contre-almira nte Alexandrino de Alencar para o Ministerio da Marinha.",
+            "reason_for_inclusion": "This is the only mention of the Caixa de Conversão and is purely factual."
+        }
+    ]
+}

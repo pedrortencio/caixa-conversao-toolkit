@@ -1,0 +1,38 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-27",
+        "original_snippet_context": "Discussing the lack of progress in Congress and its focus on a few key issues.",
+        "relevant_quote": "Dos assumptos que interessam a vida nacional, só os assinalados no convento de Taubaté tiveram andamento e valorização: o café e a caixa de conversão.",
+        "classification": "Neutral/Factual",
+        "justification": "This simply states that the Caixa de Conversão, along with coffee, were the main issues addressed by Congress, stemming from the Convênio de Taubaté.  No clear opinion is expressed.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-27",
+        "original_snippet_context": "Criticizing Congress's inaction and focus on the Caixa de Conversão without proper preparation.",
+        "relevant_quote": "O Congresso, porém, alterou a nossa universal: Não teremos ouro? Pois aqui está a caixa de conversão, incumbida do inventar o ouro!",
+        "classification": "Leaning Orthodox",
+        "justification": "The sarcastic tone questioning the Caixa's ability to \"invent gold\" suggests skepticism about its feasibility and potential inflationary consequences if not backed by sufficient gold reserves, aligning with orthodox concerns.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-27",
+        "original_snippet_context": "Further criticism of Congress's handling of the Caixa de Conversão.",
+        "relevant_quote": "Creou, somente, a caixa de conversão, e com ella pretende brindar o futuro presidente, pondo-lhe nas mãos honestas, logo em princípios do governo, a brasa, que irá queimá-las, de uma reforma monetária, aventurosa e espumante, como os licores capitosos, que inebriam e obscurecem a razão...",
+        "classification": "Leaning Orthodox",
+        "justification": "Describing the Caixa as a \"burning coal\" and a \"reckless and frothy monetary reform\" clearly expresses disapproval and concern about its potential negative impact, consistent with an orthodox perspective.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-10-27",
+        "original_snippet_context": "More criticism, highlighting the lack of statistical data and planning for the Caixa.",
+        "relevant_quote": "Em compensação, ahi teremos a caixa de conversão – boneca trágica de Pandora – sem igual na historia das bonecas, e provavelmente destinada a martyrliar Epimetheu, unico responsável, perante a constituição mythologica, dos males que inundaram a terra...",
+        "classification": "Leaning Orthodox",
+        "justification": "Comparing the Caixa to Pandora's Box reinforces the negative view and the author's belief that it will bring problems, echoing orthodox fears of instability and unforeseen consequences.",
+        "confidence": "High"
+    }
+]

@@ -1,0 +1,284 @@
+```text
+--- PAGE 1 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+Anno XXXVI
+--- PAGE_METADATA END ---
+--- BLOCK:Subscriptions START ---
+-SSIBKATU8AS PARA. A CAPITAL
+K
+[ILLEGIBLE SECTION: Small section at top of page, likely newspaper name/logo and other details]
+Rio de Janeiro - Quarta-feira 37 de Junho de 1906
+--- BLOCK:Subscriptions END ---
+--- ADVERTISEMENT START ---
+100$000
+300$000
+pagamento adiantado
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+A MISSÃO FRANCEZA EM S. PAULO
+--- HEADLINE END ---
+--- ARTICLE START ---
+De um incidente de corredores oticia em outra colnmnà.
+A CAMASA - Foi hontem suave uma sessão da Camara. Compareceu e tomou assento o Sr . de Carlos de Carvalho, deputado eleito pelo edo Sul. que foi muito cumprimentado pelos antigos e novos companheiros.
+O PAUCIO LEGISLATIVO.-As mesas da Camara e do Senado estiveram hontem novamente reunidas, sendo objecto da reunião os projectos apresentados para a construcção do palácio legislativo, ficou assentado convidarem-se cinco profissionaes que dêem parecer sobre os projectos, sendo um o general Souza Aguiar, engenheiro militar de alta competência, e os outros quatro designados pelas congregações das escolas Polytechnica e Nacional de Bellas Artes um de cada um desses institutos. O voto dessa comissão auxiliar é apenas consultivo. Depois do laudo pela mesma proferido, as mesas das duas casas farão a escolha do projecto.
+--- ARTICLE END ---
+--- BLOCK:Lottery START ---
+EI PRÊMIOS
+1:000$000
+300$000
+150$000
+100$000
+50$000
+20$000
+10$000
+junho de 1906-
+--- BLOCK:Lottery END ---
+--- ARTICLE START ---
+O CORPO DE BOMBEIROS.
+nacional de mercados.
+O CAMFIO. — Tivemos o mercado destituído de maior interesse, sendo ainda bastante firme o seu estado que continuava a ser de alta moderada.
+Com effeito, os comparsas do jogo de alta e de baixa, conforme os interesses a que se prenderam, vão liquidando do melhor modo que podem, notando-se, porém, que em razão da alta, tem havido mais oferta do que procura. Em quanto for assim, correndo as próprias letras, bem vai ; quando, porém. estas tarem-se, terão de recorrer ao café, que será a vítima, ou aos recursos extraordinários no exterior, para sustentar a nota.
+O mercado iniciou-se firme as tabellas de 16 13/16 nos bancos inglezes,16 13/16 no allemão e 16 27/32 no da Republica, correndo para os saques os dous preços mais altos, e para as letras indirectas os de 16 7/8 e 16 29/32 d. Nessa posição permaneceu o mercado sem motivos para subir, e, pois, inalterado, fechando calmo, com poucas letras, mas também sem tomadores.
+Os soberanos regularam de 14$550 a 14$570, com os vales, ouro, de 1$624 a 1$641, tendo contudo, as cambiaes de letras bancarias a 16 13/16 e 16 27/32 d., contra particulares a 16 7/8 e 16 29/32 d.
+O CAFÉ — Persistindo favoráveis as noticias do exterior, melhoraram também bastante as condições do nosso mercado.
+No Centro vigoraram os preços extremos de 6$600 a 6$900, conforme a descripção do gênero, sendo 6$650 a 6$700 pelo café americano ou desmerecido e 6$850 a 6$900 pelas qualidades com destinadas aos portos da Europa. O mercado no Centro esteve em actividade continua, fallando-se em pequenos lotes de cafés de cor vendidos no encerramento do movimento da manhã ao extremo de 7$000.
+Nos exportadores a procura esteve ainda limitada ás qualidades européas, vendidas a preços estimativos, havendo contudo compradores a 6$800 para o café americano.
+Vendas 5.000 saccas. Base do Centro, 6$600 a 6$~00.
+O mercado especulativo, embora menos activo,esteve também sempre firme, apesar das noticias contrarias recebidas do exterior no correr do dia.
+Opções : junho. 6$700 ; setembro. 7$100 e 7$000.
+A bolsa de Nova York, tendo subido ante-hontem 5 a 10 pontos e 1/8, abriu hontem com a baixa parcial de 5 pontos, abrindo hontem os mercados europeus com pequenas alterações de baixa.
+Por Jundiahy passaram 17.800 saccas. entrando aqui 2.773 saccas por barradentro e cabotagem.
+Santos. 25.—Base, 3$800 ; mercado calmo.
+--- ARTICLE END ---
+--- BLOCK:Weather START ---
+INTERIOR
+Primeiras horas
+Manhã, 7C0
+Tarde.
+--- BLOCK:Weather END ---
+
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+assinaturas começam e terminam qualquer dia do mez.
+--- ADVERTISEMENT END ---
+--- BLOCK:Lottery START ---
+JULHO
+EIRO SORTEIO
+cupons de 10
+de 1 a 10 de julho
+2 BACHINAS DE COSTURA
+uma movida a motor, marca A SINGER e uma movida a pé, marca NEW HOME.
+As machinas estão em casa A' rua do Ouvidor, 68
+-8 PAGINAS
+--- BLOCK:Lottery END ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+100$000
+SORTEIO DE COSTURA
+nos dias 1 a 10 de julho
+10$000
+cupons de 10
+27 de junho
+de 1906
+goycunso
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Foi hontem suave uma sessão da Camara. Compareceu e tomou assento o Sr . de Carlos de Carvalho, deputado eleito pelo edo Sul. que foi muito cumprimentado pelos antigos e novos companheiros.
+MATTO GROSSO. — Matto Grosso foi hontem objecto das discussões do Senado. O Sr. Dr. Felix Gaspar, ministro da justiça, esteve hontem no gabinete do Sr. presidente da Republica, e lhe deu, entre outros assumptos, informações sobre os successos de Matto Grosso.
+O despacho de hontem do Sr. presidente da Republica foi assaz concorrido. S. Ex. recebeu hontem a visita dos Srs. Dr. J. J. Seabra, Dr. Francisco Pereira Passos Prefeito do Districto Federal e Dr. Thomaz Aceioly.
+Com o Sr. ministro da guerra conferenciou hontem o Dr. Buarque de Macedo, director do Lloyd Brasileiro. Essa conferência versou sobre o transporte de forças e viveres para Cuyabá, tendo ficado deliberado que esse serviço seria feito por embarcações do Lloyd.
+O vapor Tenngioi descarregou hontem, man- nifestamente, 182 caixas com 6.800 pares de calçado Waik-Over, para a Casa Colombo, seu unico recebedor; parece que esta grande remessa do calçado Waik-Over, foi feita em vista da liquidação que a preços excepcionalmente baratos, na próxima segunda-feira, faz este estabelecimento.
+Visitem a «Torre Eiffel» e comparem os seus preços ; Ouvidor 60 e 68.
+--- ARTICLE END ---
+--- HEADLINE START ---
+A MISSÃO FRANCEZA EM S. PAULO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Realizou-se hontem a ceremonia da fundação da primeira pedra do Theatro de Bello Horizonte.
+Foi reconhecido vice-consul de Portugal na capital de Minas o Sr. Victorino Antônio Dias.
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+EXTERIOR
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+COUSAS DA ROSSIA-O conde Sérgio de Witte, que foi presidente do primeiro gabinete ministerial da Russia constitucional, dirigiu de Vichy, onde se acha fazendo uso de águas, um telegramma ao czar Nicoláo II, accusando o governo dos morticinios que se praticaram na semana passada em Bielostock e outras cidades da Russia Meridional, e que causaram viva indignação e péssimo effeito no estrangeiro; esses factos vergonhosos dificultam sensivelmente a missão que lhe foi confiada de produzir uma completa mudança na opinião publica geral acerca da Russia e da sua situação interna.
+Além desses factos que se desenrolaram em Bielostock e que por varias vezes temos mencionado, ha outros acontecimentos que não se podem deixar de narrar
+A Russia envia para a sua possessão da Siberia, muito a miúdo, levas enormes de gente, que por um qualquer motivo incorreram no seu desagrado; e o que se passa nessa região o governo central ignora.
+Na provincia de Yakontski, que é a região mais fria dessa vasta Siberia, reside a tribu dos Tchoukicheis que ganhavam sua vida com a criação dos rennas; uma epidemia dizimou todos os rebanhos, que eram sua única fortuna: esperaram, pela primavera que lhes poderia trazer melhores dias ; emquanto esperavam, soffriam a fome e o frio ; a nova estação em nada mudara a sua sorte...
+Após uma discussão que durou um dia inteiro decidiu-se que cada chefe de familia matasse os seus e em seguida se suicidasse.
+A horrível decisão foi conscienciosamente posta em execução.
+No dia marcado, viam-se deitados uns ao lado dos outros dous mil Tchoukicheis horrivelmente mutilados...
+AS CARNES CONSERVADAS-—A origem da campanha vehemente que se faz actualmente contra as carnes conservas vem de uma mensagem do coronel Theodor Roosevelt, presidente dos Estados Unidos da America.
+Nessa mensagem, que communicava o relatório da comissão de inquérito sobre os processos da industria americana, concernentes ás conservas e extractos de carnes, e cuja leitura causa nojo, diz-se como se punha dentro das latas carnes putrefaetas e de animaes doentes. Subentende-se que os fabricantes as injectam com productos chimicos venenosos, para fazer desapparecer o cheiro da podridão. As manipulações se fazem no meio da mais repelente sujeira e no meio das cusparadas do pessoal freqüentemente tysico.
+Deixamos de transcrever outros detalhes ainda mais desagradáveis que os fabricantes sabem perfeitamente encobrir sob os rótulos novos e artísticos que parecem attestar a fiscalisação do governo.
+Um anonymo refere o facto de se ter encontrado, ao abrir uma lata de carne de conserva, um dedo humano envolto em trapos...
+Esses factos todos, como era de esperar, têm impressionado muita gente, principalmente nos Estados Unidos.e os bufetes culpados têm que se haver até com os próprios padres, que do alto dos seus púlpitos, invocam os raios justiceiros do céo, sobre as usinas de Chicago.
+OS ESTADOS DE WITTE-Os jornaes de Paris dão com detalhes a inauguração do monumento de Alfred Musset. E' a segunda. Na terra das estatuas. .Musset custou a ter a sua. Fizeram-o esperar cincoenta annos.Quando a inauguraram á porta do theatro francez. severos criticos criticaram l'ordonnance. Logo depois projectaram a de Neuilly. A obra ia ser inaugurada quando foi sequestrada.
+Sim, Alfredo de Musset foi sequestrado!
+Um dos fornecedores do estatuario reclamou uma somma imprevista que o excellente artista Granct assegurava não dever.
+E Musset ficou esperando que a justiça decidisse, preso e amarrado, até que afinal o soltaram para faze-lo de novo aturar uma serie de discursos glorificadores. -
+O NOVO PRESIDENTE DO CHILE- - Terminaram as luctas no Chile que precederam á eleição do novo presidente da Republica. Sahiu victorioso o Sr. Pedro Montt, candidato do partido liberal; dos 214 votos já conhecidos couberam a esse candidato 153; os 91 restantes foram attribuidos ao seu concurrente Lazcano; os 38 votos que ainda faltam não poderão alterar o resultado definitivo.
+--- ARTICLE END ---
+--- BLOCK:ShortNews START ---
+ULTIMAS NOTICIAS - O Novoie Vremya noticia o descontentamento dos officiaes russos. O governo até agora não poz em pratica nenhuma das medidas que apontara no seu programma.
+No circuito de Sarthe, nas corridas de automoveis iniciadas hontem sahiram vencedores em: 1° logar um carro Renault, em 2° um Clement e em 3° um Fiat, de fabrico italiano:
+O contracto dos tabacos continua a alimentar a opposição portugueza. Agora os lucianistas vão oppor dificuldades parlamentares á sua approvação.
+Os cossacos em Petersburgo dispersaram a sabre uma manifestação de carregadores.
+A camara italiana chegou a questão do estudante Caffi preso na Russia; Hontem, um deputado interpellou a respeito o governo.
+Os cossacos de Batum conseguiram dominar os batalhões que se tinham sublevado.
+Deram-se choques entre armenios e musulmanos, em Tiflis, de que resultou grande carnificina.
+--- BLOCK:ShortNews END ---
+
+--- COLUMN 3 ---
+--- ADVERTISEMENT START ---
+700$000
+200$000
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+O JUBILEU
+DO (-
+CORPO DE BOMBEIROS
+--- HEADLINE END ---
+--- BLOCK:Donations START ---
+(Programma detalhado na 4a pagina)
+Donativos feitos á Caixa Beneficente do Corpo de Bombeiros.
+Recebemos hontem mais os seguintes donativos em dinheiro :
+Rio de Janeiro Tramway Light and Power Co. Ltd. 2:000$000
+Companhia Nacional do Navegação Costeira 200$000
+Bouças, Mohriz & C. 100$000
+A Sul-America 100$000
+José Luis da Silva Ferreira Alves, presidente da commissão especial- mente constituída no Club Commercial, de 30 de abril a 1 de maio, para angariar fundos para os Bombeiros 100$000
+Quantia publicada 10:150$000
+Somma 12:950$000
+Discriminação :
+Quantias enviadas : A esta redacção. 12:950$000
+Ao commandante do corpo.. 1:700$000
+14:650$000
+Recebemos ainda hontem mais as seguintes prendas para a tombola da Caixa Beneficente do Corpo de Bombeiros:
+Mme. Julia da Silva Ferreira Dias, um lindo quadro, marinha, a óleo, de Carini, em madeira, com rica moldura em ouro.
+Charutaria Santa Rita, dos Srs. Victor Azambuja & C., á rua Marechal Floriano Peixoto n. 5, cem charutos especiaes marca «Lauro Muller» ; vinte e cinco charutos especiaes da marca «Luna» - espécie «Santa Rita».
+A. Judia, importante armazém especial de fazendas brancas dos srs. Bernardino Cerqueira & C., á rua dos Ourives, brindes numerados a sortear no dia 15 do corrente, com o premio de cem mil réis, devendo o contemplado retirar o premio de uma só vez ou parcelladamente.
+Coronel Souza Aguiar, um relógio para bolso, cravejado de brilhantes, com um lambor no centro do brazão de armas.
+Achille Bove, um estojo de prata para viagem e uma pasta de couro da Russia com guarnições de prata.
+Casa Lidgenwood Manufacturing & C., uma machina de cortar capim.
+Tunes & C., 1 columha de cantaria com frisos dourados.
+Coelho Kean & C, casa de commissões e consignações, a rua do Carmo n. 14, dez latas de farinha para mingau.
+Casa do Povo, a elegante alfaiataria do Sr. A. Pereira Pinto, á rua Luiz de Camoens 29, um completo de roupa.
+Charutaria Manoel Pinto, á rua do Marechal Floriano Peixoto n. 24, uma caixa com cem charutos da Bahia.
+--- BLOCK:Donations END ---
+--- BLOCK:Politics START ---
+INSUFICIENCIA DA NOSSA LEGISLAÇÃO
+Parece incrivel a insistência da nossa legislação não permittir ao governo systematisar as suas pretenções. Não ha nenhum Congresso, nenhum corpo legislativo, que, como o nosso, tenham de resolver nas suas sessões tantas pretenções de caracter pessoal. São pensões; são reintegrações, são promoções, são contagens de tempo de serviço, emfim, são reparações de toda a ordem, originadas por destemperos administrativos de toda a espécie.
+Segundo a nossa organisação politica e administrativa.parecia que o Congresso, em relação a pessoas, só se devia dellas occupar excepcionalmente. Esta era a theoria decorrente da organisação política e administrativa; Os factos e a realidade são absolutamente o contrario; O Congresso occupa-se mais de questões pessoaes, de interesses individuaes do que de interesses geraes da Nação.
+A culpa não é delle, desde que a elle recorrem ; a culpa é da falla de leis, que abranjam esses casos especiaes, que determinam o recurso ao Congresso. Na maior parte dos casos a intervenção e a deliberação do Congresso constituem uma formalidade.
+Por certo que ha casos, cuja alçada excede a alçada do governo e que têm de ser submettidos á deliberação do Congresso. Mas a nossa legislação é tão defeituosa e tão deficiente que facilita ao governo derivar para o Congresso a solução de pequenos casos administrativos, ao passo que lhe abre a grande porta do arbitrio para resolver outros mais graves e mais importantes.
+Com este processo o Congresso perde a melhor parte de seu tempo a occupar-se com as questões e as pretenções pessoaes. Não duvidamos e antes reconhecemos a justiça de muitas dessas pretenções. Essa justiça, porém, podia ser feita pelo governo, habilitado para isso por leis feitas por uma vez e de caracter genérico.
+Ficassem ao Congresso as excepções e muito menos elle teria que fazer. Esta questão nos parece tanto mais grave, quanto é evidente que este processo vicioso de legislar é o processo de augmentar aos poucos e por parcellas a despeza publica, sem a mais leve preocupação de crear recursos correspondentes a esse augmento. E' uma fonte perenne de despeza.
+--- BLOCK:Politics END ---
+--- BLOCK:News START ---
+No despacho de hontem do Sr. ministro da industria com o Sr. presidente da Republica, foram assignados alguns decretos, concedendo patentes de invenção.
+O Sr. major Cunha Pires, do Corpo de Bombeiros e auxiliar da construcção do pavilhão de S. Luiz, esteve hontem em palácio, conferenciando com o Sr. presidente da Republica.
+--- BLOCK:News END ---
+--- BLOCK:News START ---
+Começam os commentarios sobre a liquidação, que na próxima segunda-feira vão fazer os armazéns da Casa Colombo: parece que se trata de um exaggero de importação, pelo que são obrigados a forçar em a venda, sem visar outro beneficio que não seja o de alliviar os seus depositos.
+--- BLOCK:News END ---
+
+--- PAGE 2 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+GAZETA DE NOTICIAS - Quarta-feira 37 de Junho de 1906
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+AO REDOR DO VESUVIO
+--- HEADLINE END ---
+--- ARTICLE START ---
+(Conclusão da local da 1* pagina)
+A destruição das cidades e sua reconstrucção.—As populações fogem e tornam a voltar.—Victor Emmànuel III e Matteucci.
+
+A catastrophe do anno de 79, que destruiu Herculanum e Pompeia, manifestou-se com um impeto fulminador e sem preaviso. As populações da região assolada não imaginavam ter por visinho um vulcão. Tinham inteiramente perdido a lembrança das erupções que podiam ter-se produzido em épocas remotas. Unicamente os sábios naturalistas reparavam a semelhança que havia entre a cratera extincta do Vesuvio e a do Etná, em plena actividade, que bem conheciam e desconfiavam vagamente que tambem aquelle devia ser um vulcão em tempos que não era possivel determinar. Ninguém, porém, pensava que podesse ainda constituir um perigo. A Campanha tinha a fama de ser o paraiso da Itália, por cuja possessão os Samnitos, Latinos, Hellenos e Romanos se bateram vigorosamente durante séculos. Os Cesares, nobres Romanos alli tinham as suas villas e quintas de recreio. Os camponios lavravam os flancos da montanha até o limite das antigas lavas e cinzas, que eram estereis. Cidades, aldeias e quintas escalavam as fraldas sem medo algum. A vida subia até á borda da cratera, forte, tristonha, descuidada, sem sentir ameaça alguma. E subitamente explodiu o trovão, a água fervendo, a areia ardente e o fogo vivo punham-se a chover sobre toda aquella belleza e riqueza e do dia para a noite o risoriho jardim que se estendia a perder de vista estava transformado num horroroso deserto só comparavel a uma paizagem lunar.
+Comprehende-se bem que as populações que escaparam á morte ficassem aterradas. A memoria guardava a imagem horrivel da montanha em plena actividade, que de tempos a tempos vomitava as entranhas da terra, vomitava o fogo, a água fervendo e um torrente de areia ardente. Ninguém se atrevia a voltar. Ninguém ousava mais os pés na terra maldita que criam marcada para sempre pela cólera dos deuses. Preferiam emigrar, dispersar-se, procurar a salvação—quão melancolica !—-no exilio definitivo.
+Nestes dezoito séculos, a mentalidade dos habitantes da Campanha mudou muito.
+Esse povo conhece agora o Vesuvio, que não mais adormeceu depois de seu trágico despertar no começo da nossa éra. Sabe que a terrivel montanha mantém suspensas sobre suas cabeças a ruina e a morte.
+Mas acostumou-se a isso. Acceita com um fatalismo perfeito a terrível visinhança.
+O monstro ronca, não se lhe dá attenção. Respira a custo, com barulho, expellindo vapores d'agua e de enxofre e fumaças espessas, ninguém se incommoda, a não serem os estrangeiros a quem diverte o espectaculo. A intervallos, porém, cada vez menores elle zanga-se e cospe o fogo do inferno ; o povo, então, foge bem depressa,mas não pára muito longe e, uma vez passada a cólera da montanha, volta rapidamente ás suas casas para as reconstruir com tranquilidade se as encontrar demolidas.
+O Vesuvio torna a ser cultivado e habitado, quasi até o cume, e onde o arado não encontra terra própria para o cultivo e onde planta alguma pôde viver, encontram-se uma estação do funiculario, restaurantes, o Observatorio e outras construcções permanentes.
+Não é mais por ignorancia da traição do solo atormentado nem por confiança nas benignas disposições da montanha que o homem se atreve a occupa-la tão placidamente ; não ; elle bem conhece o monstro ; tornou-se, porém, temerário e despreocupado.
+Pôde o vulcão arvorar o seu penacho de fumo, o habitante despreza esse aviso. Vê a lava antiga, acompanha sua acção destruidora atravez dos campos abencoados e os jardins maravilhosos até á margem do golfo azul ; não lhe serve, porém, nem para o prevenir. E no caso de se produzir uma erupção, e mesmo que nessa hora funesta destrua sua casa e suas culturas; espera á distancia que a tormenta passe, varre as ruinas, reconstróe a casa,cava cada pollegada de terra poupada pela lava e não se deixa expulsar pelo furor da montanha desse solo que disputa aos elementos desenfreados. Vio que o sol e a chuva rapidamente desaggrega as escorias rubras e negras; vio que o lençol branco das cinzas vulcanicas se cobre em pouco tempo com um resplandescente tapete verde constellado de flores e vio que a vida exhuberante, indomável, dionisíaca, vence aqui todos os obstaculos. Viu que a terra prodigiosamente fertil, a sua eterna primavera, a seus horizontes incomparaveis em que os campos da cor da esmeralda se revesam com a grande cidade branca rumorejante e com o mar azul, e não mais pensa no abysmo que arde sob seus pés e do qual o separa uma crosta de rocha delgada e instavel.
+Os Vesuvianos têm a alma do homem prehistorico habitando cavernas que tambem serviam de refugio dos grandes animaes carnivoros e aírontando constantemente o risco de ser devorado por esses terríveis collocatarios; elles têm a alma do pescador do mar, cujo pai, avô e todos os mais ascendentes foram tragados pelo mar irado e que tira a subsistencia das ondas de que tambem será victima num dia de tempestade; têm a alma do mineiro que tranquilamente trabalha debaixo da terra, embora saiba que o grisou o pôde aniquilar de um momento para outro, mas sem pensar nisso.
+A morte espera-nos todos: paramos no nosso caminho, emquanto, moços e vigorosos, andamos atráz dos prazeres deste mundo ?
+Os Vesuvianos de hoje agem como de costume. Só se retiraram ao assalto do vulcão quando o ataque se tornou irresistível. Supportaram as chuvas de lava e de cinzas, firmemente esperaram pela lava e só se resolveram a partir no ultimo momento, quando já as ondas de fogo liquido cercavam as aldeias e as casas e traziam o fogo para dentro de seus muros.
+Se ha mortos, é unicamente devido a não quererem os habitantes mudar-se de todo. Permaneciam até que fosse tarde e não era mais possivel fazer de outro modo, mas não perdiam de vista suas casas e suas terras. Terminada apenas a erupção, seguiam novamente o caminho de seu lar por entre as cinzas ainda quentes e por sobre a lava mal resfriada. A aventura de Pompeia não mais se repetirá. Não se abandonam mais cidades e aldeias sepultadas. As gerações futuras não podem esperar que se descubram fatias da nossa vida presente milagrosamente conservadas pelo Vulcão.
+A que attribuir essa diferença de attitude das populações ? Serão por acaso mais ciosas de seus patrimonios que os longiquos antepassados do século primeiro. Não o creio. O campones, o proprietario urbano era no tempo de Tito o mesmo de hoje. Tinham certamente a mesma paixão pela terra e pelos milhões. São por acaso mais intrépidos?
+Nada permitte affirmal-o. Até intellectualmente, não estão muito mais adiantados. Conservaram todas as ignorancias e superstições antigas, que apenas mudaram de forma.
+Essa pobre gente encheu igrejas e capellas, quando a terra começou a estremecer e a montanha a rugir. Queimou velas aos altares e dirigiu clamores ás estatuas dos santos. Precurou fazer parar a lava com a imagem de Sant'Anna, procurou fazer cessar a chuva de cinzas com procissões e cantos e intimaram S. Januário a que praticasse immediatamente um milagre.
+Uma cousa uniu os Vesuvianos de hoje dos que os tinham visto sob a ametra lha e eram bons juizes em materia de coragem militar; nelles estava seu bisavô Carlos Alberto, que em vão procurava a morte nos campos de batalha de Navarra depois da derrota não merecida de seu pequeno e valente exercito. Descendem de uma longa linhagem de soldados, Victor Emmànuel III delles herdou a intrepidez e é bem bom que a não empregue em feitos guerreiros, mas sim em actos de caridade, de abnegação e de alto civismo.
+Um outro heróe, que nunca será ciumento louvar, é o professor Mattencci, o sábio que dirige o observatório sismico do Vesuvio. Quasi no cume do monte, muito próximo da cratera em plena actividade, continuou no seu laboratorio como o legendario legionario romano, em guarda á porta de Pompeia e cujo cadaver foi encontrado ante a guarita. O sol escondera-se havia cinco dias, a casa estava envolta em rios de fogo, bombardeada por pedras ardentes, coberta de montanhas de areia; qualquer segundo podia trazer a catastrophe final; mas o sabio, sans peur et sans reproche, não se incommodava ; deitado sobre seus instrumentos, tranquilamente tomava nota de suas indicações.
+O professor Mattencci compara-se com vantagem ao Empedocle. Iguala-o no desprezo pela morte horrivel nas chammas e infinitamente lhe é superior pelo lado moral, pois não é por vaidade que se expunha; era por dever. Um homem como Mattencci honra o seu paiz, honra a sciencia e a humanidade....
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- BLOCK:FinancialData START ---
+Contencioso 3:851$172
+Fazenda 18:241$069
+Hygiene 810$885
+Instrucção 5$000
+Obras 5:459$975
+Patrimônio 3:631$774
+Policia administrativa. 13$200
+--- BLOCK:FinancialData END ---
+--- ARTICLE START ---
+O Supremo Tribunal Federal vai resolver o caso da entrega do dinheiro apprehendido em poder do suisso Henry Wydler. Foi interposto aggravo do despacho do illustre juiz federal da 2ª vara, que, por duas vezes, se negou a ordenar a entrega de taes bens.
+As mesas da Camara e do Senado reuniram-se hontem e resolveram o seguinte sobre a escolha dos profissionaes para dizerem sobre o valor dos projectos e das plantas apresentadas no concurso para o edificio do futuro Congresso :
+1º.—Que serão cinco os profissionaes.
+2º.—Que se officie ás congregações das Escolas Polytechnica e de Bellas Artes para designarem , cada uma, dous professores que dêem parecer, orientando as mesas da Camara e do Senado ; nomeando para presidir estes trabalhos o general Souza Aguiar ;
+3º—Que estes profissionaes não terão voto na escolha, cabendo esta incumbencia ás mesas da Camara e do Senado.
+--- ARTICLE END ---
+--- BLOCK:News START ---
+Regressa hoje para Bello Horizonte o Sr. Dr. Affonso Penna Junior, deputado ao Congresso Mineiro.
+A renda arrecadada ante-hontem pela Prefeitura foi de 36:383$547, sendo :
+--- BLOCK:News END ---
+--- ADVERTISEMENT START ---
+Confeitária Castellões. Avenida Central 108.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Ao juiz de direito da 1ª vara de orphãos o Sr. ministro da justiça devolveu as cartas rogatórias expedidas ás justiças de Portugal, a requerimento de D. Seraphina Martins Torres, para avaliação dos bens pertencentes ao inventario a que se procede por haver fallecido José Antonio Lopes de Castro Torres, por terem sido devidamente cumpridos.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+C. Confiança. Seguros Marítimos e Terrestres, rua Gen. Camara 3.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+O Sr. ministro do interior e justiça auctorisou o commandante do corpo de bombeiros a incluir na ordem do dia um elogio aos officiaes e praças daquelle corpo, pelo valor e coragem com que se houveram por occasião do incêndio dos prédios 137 e 139 da rua da Quitanda, nesta capital, occorrido a 2 do corrente mez.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+50$000 por 1$160, loteria Esperança, em 30 do corrente.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Os moradores de Santa Thereza não são dos que menos admiram o talento da distinta actriz Tina di Lorenzo. E tanto assim é que ainda ante-hontem vieram á cidade em grande numero assistir á festa artística da eminente actriz italiana. Vieram e ficaram até o fim. Mas o espectaculo terminou á 1 1/2 horas da madrugada e o ultimo bonde da Ferro Carril Carioca parte da cidade á 1 e 1/4. Alguns espectadores, sabendo disso, sahiram nos primeiros, mas que não faziam questão da festa, mas que não faziam questão de perder o prazer de dar mais algumas palmas á gloriosa artista. Os outros, porém, não quizeram perder esse prazer e, quando chegaram á estação da Carioca, tiveram o desconsolo de saber que o ultimo bonde já tinha partido. Felizmente um dos nossos amigos, num bello cesto á Cyrano, mandou vir um bonde especial que lhe custou nada menos de 1$000.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Dentifricio Evans.—CASA POSTAL. —111, Ouvidor.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Amanhã haverá uma sessão importantíssima no Instituto da Ordem dos Advogados Brasileiros. Será discutida e submettida a approvação a proposta em que é apresentada para fazer parte como sócio do Instituto a Dra. Myrlhes Campos.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Pastilhas Isix.—Av. Werneck.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O ministerio da marinha declarou ao da justiça não haver presentemente logar na ilha das Cobras e na fortaleza de Villegaignon para receber presos os officiaes e praças da guarda nacional, conforme solicitou o commandante superior da mesma milícia.
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- BLOCK:News START ---
+Força Policial de S. Paulo.
+--- BLOCK:News END ---
+--- ARTICLE START ---
+INSUFICIENCIA DA NOSSA LEGISLAÇÃO
+A insuficiência da nossa legislação não permitte ao governo systematisar as suas pretenções. Não ha nenhum Congresso, nenhum corpo legislativo, que, como o nosso, tenham de resolver nas suas sessões tantas pretenções de caracter pessoal. São pensões; são reintegrações, são promoções, são contagens de tempo de serviço, emfim, são reparações de toda a ordem, originadas por destemperos administrativos de toda a espécie.
+Segundo a nossa organisação politica e administrativa.parecia que o Congresso, em relação a pessoas, só se devia dellas occupar excepcionalmente. Esta era a theoria decorrente da organisação política e administrativa; Os factos e a realidade são absolutamente o contrario; O Congresso occupa-se mais de questões pessoaes, de interesses individuaes do que de interesses geraes da Nação.
+A culpa não é delle, desde que a elle recorrem ; a culpa é da falla de leis, que abranjam esses casos especiaes, que determinam o recurso ao Congresso. Na maior parte dos casos a intervenção e a deliberação do Congresso constituem uma formalidade.
+Por certo que ha casos, cuja alçada excede a alçada do governo e que têm de ser submettidos á deliberação do Congresso. Mas a nossa legislação é tão defeituosa e tão deficiente que facilita ao governo derivar para o Congresso a solução

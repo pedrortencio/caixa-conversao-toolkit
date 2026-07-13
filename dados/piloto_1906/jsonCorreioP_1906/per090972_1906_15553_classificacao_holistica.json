@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioP",
+    "date_of_article": "1906-12-05",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article primarily offers a factual account of the organizational and logistical aspects of the Caixa de Conversão's implementation. It details the planned location, personnel structure, and denominations of the new convertible notes. While mentioning the Finance Minister's intention to \"verify the stability of exchange,\" it doesn't explicitly endorse either an Orthodox or Expansionist view on the conversion rate itself.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O sr. dr. David Campista, ministro da Fazenda, esta ultimando o regulamento da Caixa de Conversão, o qual s. exa. pretende submetter por estes dias á apreciação do sr. presidente da Republica.",
+            "reason_for_inclusion": "This sets the factual tone of the article, focusing on the procedural steps being taken by the Finance Minister."
+        },
+        {
+            "quote": "As novas conversiveis que vão ser emittidas, por en quanto serão de 10$000, 20$000, 50$000, 100$000, 200$000 e 500$000, os quaes terão o mesmo padrão em vigor, havendo apenas modificações nos dizeres.",
+            "reason_for_inclusion": "This details the practical aspects of the new currency, without expressing any opinion on the underlying monetary policy."
+        },
+        {
+            "quote": "Mais tarde, logo que esteja verificada a estabilidade do cambio, o sr. dr. David Campista pretende supprimir as notas de 10$000 e 20$000 [...] e serão emittidos, nessa epocha, somente as de 50$000, 100$000, 200$000, 500$000 e 1:000$000.",
+            "reason_for_inclusion": "This quote mentions the Finance Minister's concern for exchange rate stability, a shared concern by both Orthodox and Expansionist perspectives, thus remaining neutral in its presentation."
+        }
+    ]
+}

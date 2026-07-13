@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioP",
+    "date_of_article": "1906-12-31",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition includes a brief, factual report about the Treasury remitting convertible notes to the Caixa de Conversão.  It doesn't offer any explicit arguments or opinions about the merits or drawbacks of the Caixa itself, its conversion rate, or related policies. The rest of the newspaper focuses on unrelated social news, political events, and historical articles.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O Thesouro Federal remetteu ante-hontem ao Thesoureiro da Caixa de Conversão, assignadas e conferidas, 8.970 notas conversiveis de 100$000 e 47.878 de 500$000 na importância total de 24.838:000$000.",
+            "reason_for_inclusion": "This is the main mention of the Caixa de Conversão, and it's purely informational."
+        }
+    ]
+}

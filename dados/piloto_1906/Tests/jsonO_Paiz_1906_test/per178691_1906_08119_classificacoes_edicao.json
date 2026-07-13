@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-12-26",
+        "original_snippet_context": "Report on government finances and procedures.",
+        "relevant_quote": "O Sr. ministro da fazenda determinou que a Casa da Moeda remettesse á caixa do conversão uma relação minuciosa, designando a série e numeros das notas conversíveis que ali se reimprimissem e doutorem inutilizadas.",
+        "classification": "Neutral/Factual",
+        "justification": "This snippet describes a procedural step related to the Caixa de Conversão (the Mint sending a detailed list of convertible notes) without expressing any opinion about the monetary policy itself.",
+        "confidence": "High"
+    }
+]

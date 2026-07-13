@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Clearly Orthodox",
+    "stance_score": -2.0,
+    "overall_justification": "This edition of Correio da Manhã takes a strongly Orthodox stance against the proposed increase in the tax on \"xarque\" (dried meat).  The dominant narrative, presented through multiple articles and emphasized by placement and framing, centers on the negative impact on the poor and working class. The paper explicitly criticizes the Câmara (Chamber of Deputies) for prioritizing the interests of a small group of \"xarque\" producers from Rio Grande do Sul over the needs of the Brazilian people.  The arguments presented align perfectly with the Orthodox concern for the \"probidade do paiz\" (probity of the country) and the well-being of the general population, implicitly suggesting that the tax increase would be a harmful intervention in the market and detrimental to the nation's economic health.  While not directly mentioning the Caixa de Conversão, the focus on fiscal responsibility and the negative consequences of protectionist measures strongly suggest an Orthodox perspective on monetary policy as well.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Do tuti lado os inícios sos du um grupo de xarijiioadoros do Ilio Orando do Sul, prolcgtdo por uma bancada numerosa o por quem ropro- scnla napolilica doniinanlo a vontade mnis despotica. lb ouiro os inlerossos do povo brasileiro para o qual a caruo ci-a ropresuiila a principal liase da sua alimciilacAo.",
+            "reason_for_inclusion": "This quote clearly frames the debate as one between the special interests of Rio Grande do Sul producers and the needs of the Brazilian people, a core element of the Orthodox argument."
+        },
+        {
+            "quote": "De agora em deante o pnvo brasileiro -ahoipu: na Câmara dos Deputados so mi.-iuii ram, não os seus representantes mas os sinis eSfaimadores.",
+            "reason_for_inclusion": "This emotionally charged statement condemns the Chamber of Deputies for siding with the \"starvers\" (esfaimadores), reinforcing the paper's Orthodox stance by highlighting the perceived injustice of the tax increase on the poor."
+        },
+        {
+            "quote": "Náo podia haver duvidas para uma llaiii,ira compenetrada dos seus mais elenient.ifos deveres, pnra uma (\"ninara que so quizes-o revelar ropublicann, nos actos niai* do qu.; na rctliorica bom l','isiíc,i dos prograinuias eleitoraes.",
+            "reason_for_inclusion": "This quote emphasizes the paper's view that the Chamber's decision is a betrayal of its republican duties and its electoral promises, further solidifying the Orthodox critique of the tax increase as harmful to the nation."
+        }
+    ]
+}

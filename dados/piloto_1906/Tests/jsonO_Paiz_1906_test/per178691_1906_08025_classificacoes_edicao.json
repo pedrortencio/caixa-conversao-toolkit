@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1903-09-25",
+        "original_snippet_context": "General news and commentary on the week's events.",
+        "relevant_quote": "Correu toda a semana sem acontecimentos de sensação, servindo de assumpto ás noticias e palestras o recenseamento, a baixa do cambio, a caixa de conversão e festas, sempre festas, muitas festas...",
+        "classification": "Neutral/Factual",
+        "justification": "The Caixa de Conversão is mentioned as one of the topics discussed during the week, but no specific stance or argument is presented.",
+        "confidence": "High"
+    }
+]

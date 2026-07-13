@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-27",
+        "original_snippet_context": "Senate discussion and vote on the Caixa de Conversão project.",
+        "relevant_quote": "O Senado approvou hontem o projecto que institui a caixa de conversão, em discussão animada, depois de ouvir os Srs. Bulhões, Freire, Pires Ferreira e Urbano Santos, dos quaes o primeiro apresentou as suas emendas, que não vingaram, e o ultimo o parecer que contra ellas lavrou a secretaria da commissão de seus correligionarios subscrito.",
+        "classification": "Neutral/Factual",
+        "justification": "This segment reports the Senate's approval of the Caixa project and mentions amendments and discussions, but doesn't explicitly endorse either an orthodox or expansionist view.",
+        "confidence": "High"
+    }
+]

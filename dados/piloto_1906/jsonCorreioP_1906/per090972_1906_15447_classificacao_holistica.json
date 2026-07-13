@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioP",
+    "date_of_article": "1906-08-20",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition mentions the \"Caixa de Conversão\" only once in a factual, non-opinionated manner within a list of upcoming discussions in the Chamber of Deputies.  No arguments for or against the proposal are presented, nor is any editorial framing detectable.  The rest of the newspaper focuses on unrelated news items.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Figura na primeira parte da ordem do dia da sessão de amanhã na Câmara dos Deputados a discussão do projecto n.° 180, de 1906, creando uma caixa de conversão especialmente destinada a receber moedas de ouro e as que constam do art. 5.°, entregando em troca bilhetes ao portador, representativos de valor igual ao das moedas de ouro recebidas e fixado este valor em 15 dinheiros esterlinos por mil réis; e dá outras providencias, com votos em separado dos srs. Scyllado Corrêa, Paula Ramos e Cornelio da Fonseca.",
+            "reason_for_inclusion": "This is the sole mention of the \"Caixa de Conversão\" and is purely factual, outlining the topic of the upcoming discussion."
+        }
+    ]
+}

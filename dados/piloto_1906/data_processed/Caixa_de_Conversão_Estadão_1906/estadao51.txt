@@ -1,0 +1,61 @@
+```text
+--- PAGE estadao51.pdf-PAGE1 ---
+--- PAGE_METADATA START ---
+O ESTADO DE S. PAULO
+S. PAULO - Sexta-feira, 21 de outubro de 1904
+N.° 7128
+Anno XXIV
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- ARTICLE START ---
+Correio da Manhã
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 60 lines]
+--- ARTICLE END ---
+--- COLUMN 2 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 60 lines]
+--- ARTICLE END ---
+--- COLUMN 3 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- SECTION_HEADER START ---
+TELEGRAMMAS
+--- SECTION_HEADER END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 60 lines]
+--- ARTICLE END ---
+--- COLUMN 4 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 25 lines]
+O CAMBIO
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 30 lines]
+--- ARTICLE END ---
+--- COLUMN 5 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 60 lines]
+--- ARTICLE END ---
+--- COLUMN 6 ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 20 lines]
+--- ARTICLE END ---
+--- ARTICLE START ---
+[ILLEGIBLE SECTION: Approx. 60 lines]
+O CAFE
+--- ARTICLE END ---
+
+```

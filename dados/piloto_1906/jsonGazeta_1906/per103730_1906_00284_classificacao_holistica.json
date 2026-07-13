@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-10-11",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition mentions the Caixa de Conversão in the context of a project being sent to the Senate. However, it doesn't offer any explicit arguments for or against its implementation at a specific rate, nor does it engage with the broader economic debates surrounding it. The mention is purely factual and part of a report on legislative proceedings.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "A Camara dos Deputados enviou hontem ao Senado o projecto creando uma Caixa de Conversão.",
+            "reason_for_inclusion": "This is the primary mention of the Caixa de Conversão, presented as a factual report of legislative activity."
+        }
+    ]
+}

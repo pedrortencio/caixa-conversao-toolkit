@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussing the implications of the £3 million loan secured by São Paulo and its connection to the \"valorização do café\" plan and the Caixa de Conversão.",
+        "relevant_quote": "\"será applicado como lastro da caixa de conversão, quo for creada pelo Congresso Nacional\"",
+        "classification": "Neutral/Factual",
+        "justification": "This quote simply states a fact from Article 8 of the Convênio de Taubaté: that the loan is intended as backing for the Caixa de Conversão. It doesn't express an opinion on the conversion rate or other aspects of the Caixa's implementation.",
+        "confidence": "High"
+    }
+]

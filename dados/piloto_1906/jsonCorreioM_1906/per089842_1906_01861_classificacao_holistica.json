@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906 (data não encontrada no conteúdo)",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The article mentions the Caixa de Conversão in a factual manner, reporting on the progress of the related bill within the Chamber of Deputies. It doesn't offer explicit arguments for or against the Caixa itself or any specific conversion rates. The focus is on procedural updates, such as the presentation of different votes and the scheduling of the bill's reading.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "Sob a presidência do sr, Francisco Veiga e presentea oi mcnlhrus ars. Beríe dello Corrêa, Paula Ramos, Corncllo du Fonseca, Ddvld Cnmpista, José Ensebio, Galeão Carvalha!, Ignacio Tusta, Galvão Baptista e Alberto Maranhão, esteve hon tem reunida a commissão de finanças da Câmara dos Deputados, para assignar o pa- recer sobre o projecto qne crôa a caixa dc conversão.",
+            "reason_for_inclusion": "This sets the factual, reportorial tone by describing who was present at the meeting and its purpose."
+        },
+        {
+            "quote": "O sr. Serzedello Corrêa procedeu á lcitii- ra do sen voto em separado, contrario ao parecer do sr. David Cainpista, relator do.",
+            "reason_for_inclusion": "This highlights the presentation of differing opinions without endorsing either side."
+        },
+        {
+            "quote": "Os outros membros «la commissão, com excepção do sr, Victorino Monteiro, qne se acha ausente da Cnmnra, subscreveram o parecer do sr, Cnmpista, qno será lido no expediente da sessão de hoje e entrará na ordem do dia tln sessão dc amanhã,",
+            "reason_for_inclusion": "This focuses on the procedural steps of the bill, reinforcing the neutral, reportorial nature of the article."
+        }
+    ]
+}

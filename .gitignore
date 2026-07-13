@@ -1,0 +1,35 @@
+# Dados pesados — ficam locais (OneDrive faz o backup), nunca no histórico git
+dados/raw_pdf/
+
+# Bibliografia de terceiros (copyright) — catálogo versionado em fontes/referencias/index.md
+fontes/referencias/*.pdf
+fontes/referencias/*.epub
+fontes/referencias/*.djvu
+
+# Segredos
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# LaTeX intermediários
+artigo/*.aux
+artigo/*.log
+artigo/*.out
+artigo/*.toc
+artigo/*.bbl
+artigo/*.blg
+artigo/*.synctex.gz
+
+# SQLite temporários
+*.db-journal
+*.db-wal
+*.db-shm
+
+# SO
+Thumbs.db
+desktop.ini

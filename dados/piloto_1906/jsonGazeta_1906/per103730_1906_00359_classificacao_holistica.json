@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-12-25",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The newspaper edition contains a brief, factual mention of the Caixa de Conversão in the context of its daily operations, but no editorial or opinion pieces discussing the broader monetary debate surrounding its creation or proposed conversion rates. The article simply reports on the amount of gold deposited, indicating ongoing activity at the Caixa.  Other articles focus on unrelated news items such as Christmas festivities, political events, international news, and market reports (exchange rates, coffee).",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "CAIXA DE CONVERSÃO. —Vários pequenos possuidores de ouro amoedado procuraram a Caixa, tendo depositado 191$ em moedas do Brasil e 2$015, continuando os trabalhos de conferência dos depósitos anteriores.",
+            "reason_for_inclusion": "This is the only mention of \"Caixa de Conversão\" in the entire edition and is purely factual reporting."
+        }
+    ]
+}

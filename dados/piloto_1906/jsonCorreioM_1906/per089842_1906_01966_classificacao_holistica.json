@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão CorreioM",
+    "date_of_article": "1906-11-29",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "The only mention of the Caixa de Conversão is a factual statement that the Minister of Finance will present regulations for it to the President.  This provides no insight into the newspaper's stance on the debate between Orthodox and Expansionist views.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "O ministro da fazenda apresentará hoje ao presidente da Republica, afim de serem julgados por s. ex., os termos do regulamento para a Caixa de Conversação.",
+            "reason_for_inclusion": "This is the only mention of the Caixa de Conversão in the entire edition."
+        }
+    ]
+}

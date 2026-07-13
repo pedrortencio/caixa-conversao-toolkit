@@ -1,0 +1,14 @@
+{
+    "newspaper": "Caixa de Conversão Gazeta",
+    "date_of_article": "1906-11-28",
+    "overall_classification": "Neutral/Factual",
+    "stance_score": 0.0,
+    "overall_justification": "While the edition mentions the Caixa de Conversão, it does so in a factual, reportorial manner within the Senate proceedings.  No arguments for or against the Caixa are presented. The dominant theme of the edition revolves around other political matters, particularly the Seabra affair and speeches/events related to it.  The economic articles focus on coffee and exchange rates without connecting them to the Caixa debate.",
+    "confidence": "High",
+    "supporting_evidence": [
+        {
+            "quote": "SENADO.—Pequena e pouco importante a ordem do dia. Quatro projectos apenas, cuja discussão ficou encerrada sem debate e adiada a votação por falta de numero. Também por esse motivo deixou de ser votada a redacção, lida no expediente, das emendas que fez o Senado ao projecto da Câmara dos Deputados creando a Caixa de Conversão.",
+            "reason_for_inclusion": "This is the only mention of the Caixa and it's purely factual reporting of Senate procedure."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "newspaper": "Caixa de Conversão Estadão",
+    "date_of_article": "1906-11-26",
+    "overall_classification": "Leaning Orthodox",
+    "stance_score": -1.0,
+    "overall_justification": "While the article discusses the Argentine conversion system, it focuses on objections and potential downsides.  It highlights concerns about capital flight, the burden on the state, and potential damage to the nation's credit. The framing emphasizes the risks and complexities, suggesting a cautious, Orthodox-leaning perspective.",
+    "confidence": "Medium",
+    "supporting_evidence": [
+        {
+            "quote": "Contra a reforma monetaria, de fienresh favorvel congrosso argentino",
+            "reason_for_inclusion": "Headline highlighting objections to monetary reform, setting a skeptical tone."
+        },
+        {
+            "quote": "prejuizo que os capitaes extrangeiros, se gubat tinham direito.",
+            "reason_for_inclusion": "Expresses concern about negative impacts on foreign capital, a key Orthodox argument."
+        },
+        {
+            "quote": "prejuizo para a nação, pois, segundo poder publico de amparar as emissões então rios, obrigação do Estado cooperar para siçã emittida, readquira os bilhetes, sem valor da moneda fiduciaria.",
+            "reason_for_inclusion": "Highlights potential harm to the nation and the burden on the state, aligning with Orthodox concerns."
+        }
+    ]
+}

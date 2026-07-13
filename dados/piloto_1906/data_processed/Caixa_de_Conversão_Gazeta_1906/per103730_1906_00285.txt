@@ -1,0 +1,239 @@
+```text
+--- PAGE 430 ---
+--- COLUMN 1 ---
+--- PAGE_METADATA START ---
+12 de Outubro de 1906
+GAZETA DE NOTICIAS
+PAGAMENTO A DIANTAQO
+NUMERO AVULSO 100 RS.
+8 páginas
+As assignaturas começam e terminam em qualquer mez do anno.
+--- PAGE_METADATA END ---
+--- HEADLINE START ---
+HONRO SORTEIO
+--- HEADLINE END ---
+--- ARTICLE START ---
+Os coupons de 5 de
+a 20 de novembro.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Stereotypada e impressa nas machinas rotativas de Marinoni, na typographia da
+Sociedade anonyma “Gazeta de Noticias”
+RIO DE JANEIRO
+10 RUA 1* DE SETEMBRO 70
+Os artigos enviados á redacção não serão restituidos ainda que não sejam publicados.
+A TORRE EIFFEL
+(20 % DE ABATIMENTO)
+CONVITE
+A commissão Executiva dos festejos do Cardinalato da America Latina convida á população desta capital a assistir ao solemne Te-Deum que terá logar na Cathedral Metropolitana, hoje, sexta-feira, 12 de outubro, a 1 hora da tarde e em seguida, a entrega, que se fará solemnemente no Mosteiro de S. Bento ao Exm.o Revdm. Sr. Apostólico, D. Julio Tonti, dignissimo Núncio, da medalha commemorativa destinada ao Sanctissimo Padre Pio X.
+O cortejo se formará na Cathedral, logo depois de terminado o Te-Deum.
+Respondendo ás consultas que lhe têm sido dirigidas, a Commissão declara que as commissões das Veneráveis Ordens Terceiras, Irmandades, Confrarias e Devoções se deverão compor de tres membros, não havendo necessidade de virem revestidos de seus hábitos ou distincções.
+Rio de Janeiro, 11 de outubro de 1906.
+Monsenhor João Pires de Amorim, monsenhor Manoel Antonio de Velasco Molina, monsenhor Agostinho Francisco Benassi, conego Amador Bueno de Barros, conego Manuel Marques do Couto, general Hermes Rodrigues da Fonseca, Dr. André Cavalcanti, capitão de fragata Pedro Paulo do Oliveira Santos, conde Cândido Mendes de Almeida, José Pereira de Souza, Arthur Leite de Vasconcellos, Dr. André Gustavo Paulo de Fronlin, Dr. José Peixoto Fortuna.
+--- ADVERTISEMENT END ---
+--- HEADLINE START ---
+O 7* SORTEIO
+--- HEADLINE END ---
+--- BLOCK:LotteryResults START ---
+Um novo concurso pelo prêmo gordo, á Avenida Central, n.° 447, Sobrado, e conservamos hoje nas nossas cellecções magníficos prêmios em ouro no valor de 2500$000
+A extrahir-se no dia 10 do corrente mez, ás 2 horas, nas casas, e, além dessas grandes vantagens, o sorteio que se realisará dará mais 500$000
+em dinheiro, á vista das excellentes condições em que as divisões estão dispostas, e em virtude dos compromissos politicos que envolvem o nome de S. Ex.°, o general Hermes da Fonseca, e em virtude também do nome do illustre David Campista. Portanto, não haverá mystificação.
+--- BLOCK:LotteryResults END ---
+--- ADVERTISEMENT START ---
+O SERRÕES.— A ordem do dia do Senado não era de estalar.
+Dons projectos apenas, dos quaes um era só na fase de indicação do relator. Parere, em que se pronunciava pela immediata organisação das obras do Povo de Jaraguá.
+O Sr. Henrique Borges respondeu ao Sr. Paulino de Sousa sobre cousas da politica local de Vassouras.
+Parece que este assumpto está esgotado e acreditamos que a Câmara não se tem impressionado muito com este.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A ESQUADRA ARGENTINA.—O projecto de armamentos apresentado pelo almirante Bélbeder e fortemente sustentado pelo presidente Figuerôa Alcorta, apaixonou, como era de espera, todas as classes da sociedade argentina.
+Não houve quem não desse a sua opinião pró ou contra o tal projecto.
+Os militares, porém, não se podem manifestar, sem infringir a disciplina ; por esse motivo, foi preso ha tempos o almirante Garcia que manifestou sua opinião contraria às enconimeadas politicas; não chega a vez do general Roca, ex presidente da Republica. Consultado pelos seus correligionarios, que muito acatam sua opinião, o general achou que o dinheiro colossal a gastar-se com os formidáveis navios de guerra bem melhor seria empregada em outros empreendimentos de mais proveito para a sua palria.
+Isso vai valer-lhe agora uma pena disciplinar : o almirante Bélbeder regressou hontem de Bahia Blanca e conferenciou com o presidente da Republica sobre as providencias a tomar a respeito.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+A Republica Argentina pensou em crear a sua caixa de conversão; e hoje os titulos publicos da Republica Argentina estão muito melhor cotados que os nossos, apesar da ousadia com que ella levou a effeito uma medida de caracter interno sem o pincel londrino. E a proposito de titulos, de passagem seja dito uma vez que o grande panico que o Jornal art...
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+12 de outubro de 1906
+As machinas estão em exposição na casa Arp & C., R. dos Ourives, 91, nossos agentes.
+4 horas
+--- ADVERTISEMENT END ---
+--- SECTION_HEADER START ---
+INTERIOR
+--- SECTION_HEADER END ---
+--- BLOCK:Weather START ---
+TEMPO. — Foi de 22.° o maximo da temperatura do dia de hontem e 19.° o minimo.
+O barometro marcou 760.° pela manhã e 763.° a tarde.
+O céo esteve encoberto pela manhã e claro ao meio dia em diante.
+Média da temperatura nos Estados :
+Belém 26.40, S. Luiz 28.25, Parahyba 27.75, Natal 28.10, Parahyba 24.80, Recife 25.00, Aracajú 28.° Bahia 21.80. Victoria 22.30, São Paulo 18.° (15.°, Florianópolis), Piauhy 27.°, Curityba 18.50 e Porto Alegre 22.30.
+Na capital da Bahia choveu fortemente na noite de ante-hontem e manhã de hontem.
+--- BLOCK:Weather END ---
+--- ARTICLE START ---
+A PRAÇA.— Magnifico de luz, o sol de verão, mas refugiava-se a terra ao sol de verão, no amplio e clemente azúl do céo que dá vida e saúde.
+A temperatura continuou amena, com a manhã e a tarde subitamente frescas e a noite fria.
+O PASSEIO.— Foi uma scintillante constellação de toilettes leves, realçadas de plumas e dos chapéos dernier baleou, os bondes que, depois de meio dia, desciam para a cidade como em dias de festa, augmentavam a circulação das marcas preferidas pelo publico, ou que se impõem ás necessidades da rapida moda.
+Só a lardinha, á despedida do sol, é que começou o movimento de refluxo, em extensas procissões para a Guarda Velha, para o Rocio, para o largo de S. Francisco, para a Central, em demanda dos bondes dos arrabaldes e dos trens dos subúrbios.
+Pelas ruas osphaltadas do Cattete e Botafogo rolavam electres e brilhantes nos automoveis e as carruagens deslisavam majestosamente, á doce melancolia da tarde que morria, numa tarde soberba de matizes de uma infinita variedade.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A CAMARA DOS DEPUTADOS—A materia mais importante hontem em debate era o projecto de reorganisação do exercito, na 2a parte da ordem do dia. Coube a palavra ao Sr. Dutra Fortuna, que tratou criteriosamente do assumpto. Seguiu-se na tribuna o Sr. J. Neiva, mas a hora estava muito adiantada e de accordo com S. Ex. o adiamento da discussão para hoje foi acceito.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+CAMBIO.— Continuava hontem sustentado o nosso cambio, não obstante ter-se moderado o movimento do café.
+Ainda assim havia papeis indirectos á venda, ao passo que escasseava o dinheiro, tanto para essas letras como para os “bancarios”.
+Roca, ex presidente da Republica.
+Por isso e porque se havia, portanto, offertas e da procura, podiam variar as condições, mas de modo pouco sensivel.
+Deram os bancos estrangeiros as tabellas de 15 2/8 d., adoptando o do Brasil a anterior de 15 1/4 d., as quaes se mantiveram inalteradas. Saravam a principio a esses preços, respectivamente, contra letras a 90 e dinheiro a 90 d., sem actividade. Assim continuando, subiu o bancario, pouco depois a 15 1/4, 15 2/8 d., e 15 3/4 e 15 7/16 d. consecutivamente.
+Os compradores particulares a 15 7/8 vendiam-se a 18 13/16. No correr da tarde fraqueou um pouco, com o bancario a 15 13/16 e 15 23/32 d., contra letras a 15 23/32 e 15 13/16 d.
+Rede de letras bancarias de 90 a 90 d. contra particulares de 15 3/4 a 15 13/16 d.
+Os bancos estrangeiros n’ 15 3/8 e os vales, ouro, soberanos n’ 15 3/8 e os vales, ouro.
+Assim se mantendo os negocios, com os compradores retrahidos.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+O CAFÉ.—Os mercados consideravam a declaração de varias greves, que se espalham pelo territorio francez.
+Reclamaram ante-hontem em alta nos Estados Unidos, 5 a 10 pontos, e com baixa de 1/2 a 1 7/8 na Europa.
+Com estas noticias tivemos o mercado hontem ainda indeciso, sustentado pelos possuidores do genero, porem com os compradores indifferentes e inactivos.
+No centro, o mercado esteve abundante com os compradores retrahidos.
+As machinas estão em exposição na casa Arp & C., R. dos Ourives, 91, nossos agentes.
+Em dous desses estabelecimentos os patrões receberam os manifestantes a tiros de revolver, não se tendo dado nenhuma morte. Ha, porem, alguns feridos, entre os quaes um patrão que foi pisado, recebendo graves contusões.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Os compradores do genero particular a 15 7/8 vendiam-se a 18 13/16.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Os grevistas nem sempre sabem manter uma altitude pacifica e praticam excessos, que todos reprovam.
+Assim que em Toulouse os padeiros em greve atacaram a pedradas, durante a noite, varias padarias, damnificando seriamente doze edificios.
+--- ADVERTISEMENT END ---
+--- COLUMN 2 ---
+--- ADVERTISEMENT START ---
+12 de outubro de 1906
+OPÇÕES
+PRÊMIO DE 1:000$000
+200$000
+150$000
+100$000
+50$000
+15 = 420$000
+40 = 10$000
+PRÊMIOS DE CONSOLAÇÃO
+As assignaturas mensaes da
+GAZETA DE NOTICIAS
+aos primeiros que se assignaram
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O general Hermes da Fonseca, acompanhado dos demais generaes, compareceu ás 10 horas da manhã e ás 2 horas da tarde esteve fazendo exercícios no quartel de Santa Cruz.
+Tocaram por occasião dessa formalidade as bandas do 7°, 25° e 23° batalhões de infantaria das brigadas. apresentando-se á tarde ao Sr. presidente da Republica.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+A propósito da simples local em que noticiámos hontem que os Srs. Rothschild fizeram ao Lloyd o adiantamento de £ 300.000 por conta do emprestimo de £ 600.000, que será opportunamente lançado, o Jornal do Commercio voltou de novo os seus formidáveis canhões contra a Caixa de Conversão, dizendo que esses e outros negócios do Brasil estão adiados até o momento em que a city recupere a tranquilidade perdida, o que só se dará quando for rejeitado o projecto.
+Tudo é bem possível e não temos a menor dúvida de que o Jornal esteja excelentemente informado. Apenas recordaremos que os mesmos sustos, o mesmo alarma foram dados quando a Republica Argentina levou a effeito uma medida de caracter interno sem o pincel londrino. E a proposito de titulos, de passagem seja dito uma vez que o grande panico que o Jornal art...
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+12 de outubro de 1906
+Dizia-se hontem que na representação de certo Estado ao norte o enthusiasmo pela provável escolha do setimo ministro não foi acima de zero. Os Srs. general Hermes da Fonseca, almirante Alexandrino de Alencar e Dr. Miguel Calmon receberam hontem as cartas em que são convidados pelo Sr. conselheiro Affonso Penna para os cargos de ministros da guerra, da marinha e do industria, respectivamente.
+O convite ao Sr. barão do Rio Branco já fora feito formalmente ha alguns dias, e com grande antecedencia, como em tempos noticiámos, havia S. Ex. sido consultado se faria o sacrifício de permanecer na direcção da pasta das relações exteriores, na qual tem prestado tão extraordinários serviços.
+O Sr. David Campista tambem foi convidado com antecedencia para ministro da fazenda e pessoalmente pelo Sr. presidente eleito da Republica, de quem o illustrado deputado mineiro é amigo pessoal de intima confiança.
+Quanto ao Sr. Tavares de Lyra, já o dissemos hontem, foi feito tambem directamente o convite para a pasta da justiça e negócios do interior.
+Os convites hontem entregues foram de Bello Horizonte endereçados ao Sr. Carlos Peixoto, leader da Camara dos Deputados.
+Nada está definitivamente assentado quanto ao primeiro titular da nova pasta da agricultura. O nome do governador do Maranhão foi effectivamente lembrado; mas embora houvesse sido bem acolhido, o Sr. Affonso Penna considerou nada adiantar, por ora, tratando-se das funcções de um alto cargo que ainda não foi legalmente creado.
+A escolha de chefe de policia desta capital recahiu no Dr. Alfredo Pinto, ex-deputado, que exerceu igual cargo em Minas, na administração do Sr. Affonso Penna.
+Confirma-se, ainda neste caso, o consta que dera a Gazeta, que até annunciou ter em mãos aquelle distincto jurista um tra-
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+As assignaturas começam e terminam em qualquer mez do anno.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+balho de reorganisação desse importante serviço.
+Trata-se de um moço, filho de pais estrangeiros, mas nascido no Brasil e considerando-se genuinamente brasileiro, que recebeu em Mendes, onde reside, um chamado urgente para ir ao consulado do paiz de seus pais. O moço attendeu promptamente ao chamado, com cujos motivos não podia afinar. Chegando ao consulado, teve a surpresa de ser recebido com excepcional gravidade pelo consul, que lhe exhibíu um papel.
+— O senhor, disse-lhe severamente o consul, está alistado em tal batalhão de artilharia do sua pátria, e pode partir immediatamente.
+Houve o classico primeiro momento de estupefacção e depois os protestos do moço, que affirmava desesperadamente a sua qualidade de brasileiro.
+Uma volta á chave da porta e a sala do consulado ficava perfeitamente fechada.
+O que não puderam protestos, conseguiram-no rogos. O moço sahiu, sob promessa de voltar. Mas não voltou ou, pelo menos, não tinha voltado até á tarde.
+Foi assim o caso que nos contaram e cuja veracidade estamos longe de garantir.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+Rapidamente progressivamente o espirito publico e o acontecimento que a data de hoje recorda avulta de significação com o tempo.
+A política internacional, orientada para a maior approximação das nações americanas, em todas as suas relações de ordem politica e economica; tem feito na sua evolução grande progresso no caminho aberto á confraternisação, tanto quanto na affirmação perante o mundo da autonomia de cada povo novo e da independencia do continente.
+De anno para anno, pois, ganha em importancia e mais se aclara em sua significação o preito commemorativo da descoberta de Colombo.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Dizem os jornaes que a commissão parlamentar, encarregada de estudar as propostas apresentadas por diversas companhias para fazer aquelle serviço, as recusaria todas.
+Outra noticia, porém, informa que um Sr. “digno” Vucassovich se apresentou no ministerio competente e propoz construir para aquelle fim e mediante a subvenção votada pelo congresso cinco vapores de 10.668 toneladas, fazendo 19 milhas por hora.
+Por emquanto é o que ha.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+Rapidamente progressivamente o espirito publico e o acontecimento que a data de hoje recorda avulta de significação com o tempo.
+A política internacional, orientada para a maior approximação das nações americanas, em todas as suas relações de ordem politica e economica; tem feito na sua evolução grande progresso no caminho aberto á confraternisação, tanto quanto na affirmação perante o mundo da autonomia de cada povo novo e da independencia do continente.
+De anno para anno, pois, ganha em importancia e mais se aclara em sua significação o preito commemorativo da descoberta de Colombo.
+--- ADVERTISEMENT END ---
+--- COLUMN 3 ---
+--- ADVERTISEMENT START ---
+12 de outubro de 1906
+Uma companhia de navegação que estabelecesse um serviço de viagens rapidas entre Buenos Aires e a Europa.
+Dizia-se hontem que a commissão parlamentar, encarregada de estudar as propostas apresentadas por diversas companhias para fazer aquelle serviço, as recusaria todas.
+Outra noticia, porém, informa que um Sr. “digno” Vucassovich se apresentou no ministerio competente e propoz construir para aquelle fim e mediante a subvenção votada pelo congresso cinco vapores de 10.668 toneladas, fazendo 19 milhas por hora.
+Por emquanto é o que ha.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Affonso Penna, na escolha dos primeiros orgãos do seu governo, procurou exercer com perfeita integridade essa prerogativa constitucional do chefe da nação.
+Embora homem de partido e reconhecendo de certo ter sido eleito pela coligação de forças politicas que se constituiram numa forte aggremiação partidaria, S. Ex. reserva para si a responsabilidade dos compromissos politicos que acaso envolva a sua alta investidura, cabendo aos seus secretarios o papel de auxiliares immediatos do presidente da Republica, segundo a lei e a indole do regimen presidencial.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+CAFE CABEÇÕES
+Superior até moido. O mais saboroso.
+R. Senador Euzebio 21 e 20.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Affonso Penna não falla esse predicado. E S. Ex. já deu uma grande prova disso na manutenção do Sr. barão do Rio Branco na pasta das relações exteriores, na nomeação do Sr. David Campista para a pasta da fazenda. Todo o mundo sabe que homens como estes, na administração publica, são mais do que secretarios, qualquer que seja o regimen em que vivam. Outro traço extremamente sympathico da organisação é ter sido confiada a um deputado do norte a pasta da viação e industria. É certo que o Sr. Rodrigues Alves paulista, e o Sr. Lauro Muller, catarinhense, deixam resolvidas as questões dos portos da Bahia, do Recife e do Pará ; mas o nosso norte precisa de tanta cousa que não é de mais que tenha no governo um ministro, e ministro do valor do Sr. Miguel Calmon.
+Esta nota não é, porém, uma revista dos ministros. Se fosse, não podia ficar esquecida a figura proeminente do Sr. Hermes da Fonseca, que tão grande brilho tem dado á elevadissima commissão militar que lhe foi confiada, assim como não podia ficar esquecido o nome do valente marinheiro Sr. Alexandrino de Alencar, a quem o destino e os seus méritos reservaram uma carreira politica que começa pela senatoria e pela pasta de ministro. Quanto ao Sr. Tavares de Lyra, S. Ex. é muito moço para ter grandes tradições ; mas quem na sua idade foi deputado e é governador de um Estado, é porque deve ter muitas qualidades de politico e de administrador. Um atestido dessas qualidades é o facto de ter sido S. Ex. o ministro do interior que o Sr. Rodrigues Alves trazia nomeado in pectore, quando veio de S. Paulo, posto para o qual S. Ex. é effectivamente nomeado agora.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+NUMERO AVULSO 100 RS.
+As assignaturas começam e terminam em qualquer mez do anno.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+O FISCAL AMIGO
+Os congressistas de S. Paulo
+Vimos hontem os objectos que o povo do S. Paulo offerecerá, que se acham depositados no palacio da Conceição, e que vão ser expostos na casa Watson, Av. Rio Branco, canto da rua do Ouvidor.
+Os offerecidos a S. Santidade e que vão ser remettidos ao nosso ministro, no Vaticano, são os seguintes:
+Um album, composto de duas laminas de ouro, contendo em uma das laminas um mappa do Brasil com os nomes dos Estados e de suas respectivas capitaes. Sendo que, sobre o nome de cada uma dessas cidades ha uma pedra preciosa, salientando-se entre ellas um grande brilhante azul, collocado sobre o nome do Rio de Janeiro; na outra lamina vê-se o retrato do Santo Padre, rodeado de brilhantes e a dedicatoria em nome do povo brasileiro.
+Ha um outro album muito maior, com as cores pontifícias, encerrando as principaes vistas da Capital Federal e de S. Paulo, com uma mensagem de agradecimento ao Santo Padre, redigida por Prestes Guimarães, um dos membros da commissão.
+Ao Sr. Nuncio será offerecida uma medalha de ouro, denominada Santo Padre, toda cravejada de brilhantes.
+Ao nosso ministro junto ao Papa, será offerecido um relogio de ouro, com chaletaine do mesmo metal, contendo uma rica esmeralda.
+Ao Sr. barão do Rio Branco será offerecido um rico bronze, representando a Victoria e uma bengala com castão de ouro, cravejado de brilhantes.
+Todos esses presentes montam a mais de 70:000$, sendo o valor, só do album, superior a 40:000$000.
+--- ADVERTISEMENT END ---
+--- ADVERTISEMENT START ---
+1° Prêmio 50:000$
+As “sortes grandes” são sorteadas, e os “sortes pequenos” são sorteados.
+GRANDE LOTERIA ESPERANÇA
+HOJE AS 2 HORAS
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Commentava-se muito hontem, em rodas da rua do Ouvidor, o facto que seria inteiramente original, se já não houvesse o precedente de Fritz Steinhaus.
+Trata-se de um moço, filho de pais estrangeiros, mas nascido no Brasil e considerando-se genuinamente brasileiro, que recebeu em Mendes, onde reside, um chamado urgente para ir ao consulado do paiz de seus pais. O moço attendeu promptamente ao chamado, com cujos motivos não podia afinar. Chegando ao consulado, teve a surpresa de ser recebido com excepcional gravidade pelo consul, que lhe exhibíu um papel.
+— O senhor, disse-lhe severamente o consul, está alistado em tal batalhão de artilharia do sua pátria, e pode partir immediatamente.
+Houve o classico primeiro momento de estupefacção e depois os protestos do moço, que affirmava desesperadamente a sua qualidade de brasileiro.
+Uma volta á chave da porta e a sala do consulado ficava perfeitamente fechada.
+O que não puderam protestos, conseguiram-no rogos. O moço sahiu, sob promessa de voltar. Mas não voltou ou, pelo menos, não tinha voltado até á tarde.
+Foi assim o caso que nos contaram e cuja veracidade estamos longe de garantir.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+ATTENTA00 CONTRA O IMPERADOR GUILHERME
+BERLIM.—Por occasião das ultimas manobras militares na Silesia, foi preso um anarquista italiano de nome Macrini.
+Era accusado de ter tentado atirar uma bomba de dynamite sobre o automovel em que viajava o imperador Guilherme II.
+Hontem o anarquista foi posto em liberdade, não havendo provas para a instauração do processo.
+Diz-se que a policia é que tinha inventado a denuncia, talvez por precaução.
+ULTIMAS NOTICIAS.— O projecto de reforma da marinha mercante, que o governo portuguez vai brevemente apresentar ás camaras, institue varios premios tendentes a fomentar o desenvolvimento.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+O Sr. Dr. Affonso Penna não falla esse predicado. E S. Ex. já deu uma grande prova disso na manutenção do Sr. barão do Rio Branco na pasta das relações exteriores, na nomeação do Sr. David Campista para a pasta da fazenda. Todo o mundo sabe que homens como estes, na administração publica, são mais do que secretarios, qualquer que seja o regimen em que vivam. Outro traço extremamente sympathico da organisação é ter sido confiada a um deputado do norte a pasta da viação e industria. É certo que o Sr. Rodrigues Alves paulista, e o Sr. Lauro Muller, catarinhense, deixam resolvidas as questões dos portos da Bahia, do Recife e do Pará ; mas o nosso norte precisa de tanta cousa que não é de mais que tenha no governo um ministro, e ministro do valor do Sr. Miguel Calmon.
+--- ARTICLE END ---
+--- ADVERTISEMENT START ---
+12 de Outubro de 1906
+NUMERAÇÃO INCORRETA
+--- ADVERTISEMENT END ---
+

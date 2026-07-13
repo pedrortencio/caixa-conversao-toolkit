@@ -1,0 +1,11 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906 (data específica não extraída do conteúdo)",
+        "original_snippet_context": "Discussion of the \"Caixa de Conversão\" and related financial matters.",
+        "relevant_quote": "Menos a caixa de conversão, falou hontem, na Câmara, o illustre deputado Sorzedello Correia, um dos mais competentes dos nossos parlamentares, em assumptos financeiros.\\nS. Ex. justificou brilhantemente o seu voto em separado, sustentando a impossibilidade de se fixar o valor do ouro, como mercadoria que é, e a necessidade de manter a politica firme e patriótica do quatriennio Campos Salles, com o resgate do papel moeda, reforço dos fundos de garantia e de resgate, providencias que evitem o escoamento do ouro para o estrangeiro, etc.",
+        "classification": "Clearly Orthodox",
+        "justification": "Deputy Sorzedello Correia argues against fixing the value of gold and advocates for continuing the policies of Campos Salles, which involved redeeming paper money and strengthening reserves, aligning with the orthodox view of prioritizing currency stability and a \"strong\" mil-réis.",
+        "confidence": "High"
+    }
+]

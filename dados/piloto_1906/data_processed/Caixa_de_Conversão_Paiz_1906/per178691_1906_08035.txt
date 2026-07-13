@@ -1,0 +1,275 @@
+```text
+--- PAGE 1 ---
+--- PAGE_METADATA START ---
+ANNO XXIII
+PROPRIEDADE DE UMA SOCIEDADE ANONYMA
+REDACCAO
+AVENIDA CENTRAL
+(EDIFICIO TA VELHA SETE DE SETEMBRO)
+
+RIO DE JANEIRO, Quarta-feira 3 de Outubro de 1906
+
+O PAIZ é a folha de maior tiragem e de maior circulação na America do Sul
+
+ASSIGNATURA
+ANNO 80$000
+SEIS MEZES 40$000
+NUMERO AVULSO 100 RS
+ri.8035
+--- PAGE_METADATA END ---
+--- COLUMN 1 ---
+--- HEADLINE START ---
+EXPEDIENTE
+--- HEADLINE END ---
+--- ARTICLE START ---
+A.—Suspendemos o remessa de jornaes a todos os assignantes que não estavam em dia com a assignatura.
+—As reclamações só serão attendidas mediante a indicação dos numeros e datas dos recibos das assignaturas.
+--- ARTICLE END ---
+--- HEADLINE START ---
+SCIENTIFICAS
+--- HEADLINE END ---
+--- ARTICLE START ---
+COMMUM.—A sismometria — As poeiras explosivas — O futuro do sol — A electrotherapia — Uma descoberta paleontologica — O telegrapho sem fio — A limpeza dos vagões — Os conservadores.
+
+A sismometria, que é a sciencia dos tremores de terra, permitte, assegura o Dr. Moore no relatorio annual do Observatorio Meteorologico americano, graças aos recentes aperfeiçoamentos por elle introduzidos nos instrumentos sensiveis ás minimas vibrações terrestres, registrar, de ora em diante, todos os abalos geologicos. Realizou-se a experiencia concludente e definitiva, por occasião do grande tremor que houve, ao noroeste da India, a 1 de abril de 1905. Os resultados foram os mesmos verificados pelo Observatorio Sismologico do Osaka, no Japão, de onde se pôde seguir a corrente que, partindo da India, atravessou o oceano Pacifico, a America, o Europa, e voltou ao Japão, depois de ter executado o circuito do globo, em duas horas, tres minutos e trinta e cinco segundos.
+
+* * *
+
+Sabe-se — e a catastrophe do Courrieres forneceu uma nova prova a este respeito — quanto as explosões de poeiras nas minas são para temer. Um chimico inglez, Watson Smith, affirma que as poeiras de farinha, arroz, assucar, algodão, resina, fuligem, etc. não offerecem o menor perigo; accrescenta que ha mais segurança em manipular dynamite do que em aspirar sem precaução poeiras de cortiça, empregadas na fabricação do "linoleum". O azul da Prússia pulverizado inflamma-se facilmente, succedendo o mesmo com a farinha de mistura com o ar. Essas ventilações são de uma importancia pratica consideravel e os industriaes não deixarão de tirar proveito dellas : além disso os negociantes, que enchem os seus armazéns de mercadorias, conhecendo que as poeiras são susceptiveis de explosão em determinadas circumstancias, andarão bem avisados guardando-se contra accidentes desta natureza; prejudiciaes para elles e para os seus empregados e vizinhos.
+
+* * *
+
+Tem-se dito que o sol está no declinio, que vai escurecendo, resfriando, e está condemnado a extinguir-se. Mais de um principe da sciencia astronomica perfilha esta opinião. Lord Kelvin, Newcomb e Ball, autoridades na materia, dizem que a actividade solar terá limites relativamente pequenos e acham que o astro-rei já viveu mais da metade da sua vida.
+
+O professor See, do Observatorio Naval da California, pensa de modo diverso : dá como decorrido sómente a quarta parte da vida do sol e acha que o zenith da sua gloria pertence ao futuro.
+
+O professor See lançou-se em calculos mathematicos, elaborados com uma paciência verdadeiramente heroica. Demonstra que os milhões de annos, conferidos por G. H. Darwin ao systema solar, não são unicamente uma deducção intuitiva da radio-actividade que se manifesta em toda a natureza. A actividade solar não depende da radio-actividade e sim da gravitação. O sol, assim como a maior parte das estrellas fixas, conserva ainda mais da metade do calor accumulado em suas massas. A lei desta accumulação foi estudada e precisada por See, no momento actual. Esta lei existe indiscutivelmente e applica-se em geral á vida de todos os astros. Se a sua descoberta não se realizou mais cedo, é porque a sciencia dispensa pouco cuidado a pesquisas deste gênero, cingindo-se de ordinario ao fim de algum especial de investigação.
+
+Os calculos de See deixam-nos, por emquanto, tranquilos quanto á vida do sol e do nosso planeta... pelo menos por alguns milhões de annos!
+
+E já não é pouco...
+
+* * *
+
+A electrotherapia entrou praticamente em uso, como explica Renaut. Começa-se a empregal-a em muitos casos de accidentes do trabalho. É vantajosamente utilizada ao tratamento das atrophias musculares resultantes de contusões, luxações, fracturas, etc.
+
+Os dois processos mais usados são a galvanização e a "faradização". No primeiro applicam-se correntes directas de doze a quinze milliamperos, durante um quarto de hora. No segundo, os doentes são tratados por meio de correntes "alternadas".
+
+Renaut obteve, por intermedio do ultimo processo, a cura de uma estatua. Fez intervir tambem a electricidade nos depoimentos de simuladores, pelo facto de produzir uma reacção absolutamente independente da vontade do individuo que soffre a sua acção.
+
+Este methodo presta actualmente serviços preciosos e frequentes nos conselhos de revisão.
+
+* * *
+
+Uma descoberta paleontologica interessante acaba de ser feita em uma olaria nas proximidades de Peterborough, na Inglaterra.
+
+Revolvendo-se um terreno argiloso, a cerca de vinte metros de profundidade encontraram-se fragmentos fosseis de um dos mais notaveis crocodilos conhecidos até aqui. O esqueleto corresponde ao de um reptil que devia ter medido pelo menos cinco metros de comprimento. O corpo é semelhante em estructura ao de um crocodilo, mas de um metro de cauda, se não mais.
+
+O animal de que se trata não era dotado provavelmente de pés : possuia membros analogos aos dos pinnipedes, constituidos por centenas de pequenos ossos. A caixa infelizmente não appareceu, o que impede a classificação do reptil.
+
+Ha certeza, entretanto, de que se não está em presença de um crocodilo pre-historico : mas ha repugnancia em classifical-o entre os Ichthyosauros, dos quaes differe totalmente.
+
+* * *
+
+A possibilidade de se corresponder através do oceano Atlantico foi victoriosamente demonstrada por Marconi, quando enviou ao rei Eduardo VII a mensagem do presidente Roosevelt. Concluia-se, pois, que uma nova era se abria para as communicações entre os dois mundos e que o commercio transatlantico iria em breve colher fabulosas vantagens com esta nova era.
+
+Isto se passava em 1903, e a companhia Cabell-Stanford encarregou-se deste trabalho, a transmissão de despachos, por este systema — "Times", de Londres. No entanto a empreza foi de curta duração : houve necessidade de desistir della após alguns mezes, achando-se assim interrompida a communicação pelo telegrapho sem fio. É que ainda as experiencias não tinham sido realisadas, mas era preciso levar em conta as correntes atmosphericas e outras causas que affectando a telegraphia sem fio, produzem um movimento solido.
+
+Intentores e sociedades occupam-se do assumpto entre outros. De tempos a tempos divulgam-se noticias optimistas. O instituto technico de Viena acaba de declarar que as rapidas mudanças experimentadas pela transmissão têm origem, de uma parte, na acção da luz solar, e de outra, na presença, na atmosphera, de grandes massas de materias absorventes, que reduzem consideravelmente a intensidade da communicação. Essas massas variam de proporções, segundo a altitude. Isto é, conforme a menor ou maior approximação do nivel do oceano. Acham-se menos afastadas do mar sob os tropicos, onde, em virtude deste facto, as transmissões a longas distancias são mais difficeis que nas zonas temperadas. No primeiro caso só se utiliza ás vezes um por cento da communicação.
+
+Verificou-se igualmente que a transmissão é mais facil de leste para oeste do que de norte para sul.
+
+Deduz-se que a telegraphia sem fio está longe da sua ultima palavra. Pôde-se prever que se vencerão taes difficuldades, mas quando?
+
+* * *
+
+Os carros occupados pelos viajantes nas linhas de estrada de ferro apresentam-se mais ou menos sujos, principalmente quando o trem chega ao fim de uma jornada. Ás poeiras, sem levar em consideração outras causas, se deve a parte principal dessa immundicie. A hygiene reclama asseio, que deve ser feito com rapidez, pois que o comboio pouco se demora nas estações. Muitos meios foram experimentados; quasi todos, porém, foram pouco eficazes. A primitiva varredura é insufficiente, e os espanadores mecanicos, embora operem prompta e energicamente têm o inconveniente de deslocar as poeiras dos bancos para as outras partes do vagão.
+
+As companhias francezas submetteram recentemente a ensaios os aspiradores moveis com machinas pneumaticas, accionadas por motores electricos ou de essencia de petroleo, armados sobre rodas.
+
+Estas bombas, que foram descriptas no "Genie Civil", produzem o vacuo, a um meio ou dois terços de atmosphera, adaptando diante do filtro tubos leves e lanças com bicos aspiradores, que são levados a todas as paredes dos compartimentos. A orla do bico é geralmente guarnecida de materia pouco consistente, afim de formar juncção perfeita em contacto com as paredes dos vagões.
+
+Este processo, que parece de bons resultados, acaba de ser adoptado para as linhas suburbanas de Berlim.
+
+* * *
+
+Ás substancias que preservam os alimentos dá-se o nome de "conservadores", e o expediente é corrente. Todos os que compram ou vendem leite, por exemplo, sabem o que é um "conservador".
+
+Serão estas substancias toxicas de uma maneira geral?
+
+Já uma campanha foi movida neste sentido, por parte da imprensa medica, especialmente na America do Norte, onde os jornaes fizeram coro com as denuncias e alarmes, e a directoria de hygiene de Washington achou necessário estudar de perto este problema. Verificou-se principalmente que certos presuntos e "scotch whisky" deviam as suas "qualidades" ao creosoto, havendo, entretanto, conveniencia em frisar, de accordo com a mesma repartição, não ser necessário exaggerar os factos, nem clamar contra envenenamentos, desde que se descubra no alimento a presença de uma substancia addicional que, na realidade, pôde ter por effeito preserval-o da corrupção. Muito se tem gritado contra as baterias de cozinha, que no entanto só offerecem perigo sanitario se um banho de zinco incompleto, provindo desta negligencia na applicação do zinco, tiver deixado a peça em contacto com soluções contaminadas pelo deposito de zinco impuro. Têm-se levantado accusações contra os corantes dos queijos da Hollanda e dos sorvetes; e perguntas cruzadas não têm sido pregadas, na Inglaterra, contra os pós para bolos, que são do uso ordinario?
+
+O que é força de duvidar é que nas cidades modernas se falsifiquem os alimentos com diversos fins: ou para engannar no peso ou na qualidade, ou para illudir pela apparencia. As falsificações, quando são culposas, são descobertas pelos laboratorios municipaes, existindo, porém, productos chimicos que, inoffensivos sob o ponto de vista da saude dos consumidores, têm utilidade real na conservação do alimento durante varios dias. Estes são empregados por isso com vantagem nos logares em que os mantimentos não se renovam freqüentemente. Os "conservadores" entram, por conseguinte, nesta categoria.
+
+Entretanto, a hygiene de Washington é de opinião que se precisa obrigar o vendedor de productos alimentares a indicar o "conservador" que usou e a fazer conhecida a sua natureza.
+
+Um projecto de lei foi, nesse sentido, apresentado no Congresso dos Estados Unidos, e era bom que todas as nações procedessem de maneira analoga.
+--- ARTICLE END ---
+
+--- COLUMN 2 ---
+--- HEADLINE START ---
+Dr. B.
+--- HEADLINE END ---
+--- HEADLINE START ---
+PHILUER
+--- HEADLINE END ---
+--- ARTICLE START ---
+Não seria razoavel que nos mantivéssemos em duvida com relação ao programma financeiro do futuro presidente: S. Ex. quer a caixa do Sr. Campista, como quer as tarifas do Sr. João Luiz Alves — fataes apparelhos, que hão de trazer-nos, mesmo antes de funccionarem, os mais amargos soffrimentos. Na esphera administrativa, os effeitos das leis nocivas costumam ser antecipados : a previsão do mal é dolorosa, como simples previsão, e não é mister que o infortunio rebente para que a Nação estremeça.
+
+Ninguem poderá presumir que os dois esforçados representantes mineiros tomassem sobre os hombros, comquanto largos, a empreza de desvalorizar a moeda nacional e encarecer a vida do contribuinte, pugnando, no Congresso, pela passagem dos seus projectos sinistros, se a suprema aquiescência de quem tudo poderá em breve não lhes assegurasse a tranquilidade cubicada sempre nos valentes da politica por aquelles que nella não se fincaram ainda como monolithos inamoviveis.
+
+Se o Sr. David Campista prosegue, impávido, na defesa do seu invento, e o Sr. João Luiz Alves cuida de esmerar-se no augmento das taxas alfandegarias para que a industria prospere á custa do empobrecimento do povo, nenhuma myopia extrema deixará de enxergar no foco sagrado em que ambos ardem, o proposito de corresponder ás vistas do eminente re-estadista, que o suffragio universal escolheu para a culminancia dos postos electivos, em virtude da plataforma financeira de 12 de outubro, visada pelo collegação e conformada pelo estatuto do Sr. Murtinho.
+
+Entretanto, a surpresa popular deve ser desmarcada! O eminente Sr. Affonso Penna disse não ao documento registrado com as diversas das que seus amigos estão fazendo; e retirou o visto garantidor; e o Sr. Murtinho permanece immovel no redemoinho murmuroso em que a caixa de conversão e o proteccionismo desatinado ensaiam alegremente seus cantos do victoria, para manter no Sr. Murtinho, a velha tradição de coherencia, que outr'ora avultava entre os dotes mais buscados dos estadistas de aço?
+
+* * *
+
+Que circumstancias imprevistas, que exigencias inexoraveis compelirram o respeitavel collegação e o venerando Sr. Affonso Penna a rever silenciosamente o seu pacto de Outubro e a encarreirar o governo do paiz por vereda não assinalada nos programmas que a Nação conhece, e suppõe inalterados — é o que a mais penetrante indagação difficilmente conseguirá apprehender.
+
+O facto estranho é que os proprios aggregados ao bloco partidario, que surdiu naquelle dia memoravel, estão perplexos e commevidos, sem embargo da docilidade com que subscrevem as injunções descidas das alturas, em contraste com os compromissos assumidos perante o eleitorado nacional...
+
+Todos sabemos o que são as eleições:— a vontade popular tão escaçamente as define, que não é licito acariciar illusões sobre a legitimidade dos mandatos, aos quaes o finado Sr. Glycerio, no Senado, pretendeu applicar processos novos de "purificação" integral. Todavia, alguma tinta, comquanto embaçada, do que se costuma denominar o respeito humano — nunca deixa de ser merecida nos actos vitaes dos politicos e dos partidos, a menos que uma obsessão demolidora desentranhe de seus arcaicos o panegyrico das catastrophes.
+
+Fora absurdo cogitar de uma semelhante preocupação obsidente; mas o caso actual é de tal modo singular, que todo o raciocinio explicativo de possiveis influencias normaes descai, diante da incongruencia que se verifica entre os termos da promessa e a maneira de cumpril-a.
+
+Para galgar as culminadas a que o voto popular o elevou, o digno Sr. Affonso Penna declarou-se solidario com o programma financeiro de seus dois antecessores mais proximos; e porque a Nação, contente de estar contemplando a rehabilitação do seu credito e a valorização progressiva da sua moeda, bateu palmas ao candidato á presidencia e honrou o nome immaculado delle com os votos, que em todos os Estados, o suffragaram : ora de esperar seria que delle se notasse na traça brilhantemente composto pelo architecto preferido para a construcção, durante quatro annos, do edificio da grande e gloriosa Nação.
+
+Era de esperar tambem que o partido politico organizado para iniciar a sua existencia por uma consulta immediata ás urnas, exercesse sobre o candidato, seu, a amiga influencia que nas dedicações honestas põem em destaque quando um sopro de divergencia ameaça a commetter a sinceridade de um e a estructura moral do outro : e o corte que no animo publico não viesse jamais pungir a suspeita de que dois seres desagregados de systema dissonante, estão palpitando affeccionadamente dentro de um mesmo thorax atheleta.
+
+O effeito desta presumpção, desconsoladora para o publico, não pôde deixar de ser pessimo, porque a ideia da monstruosidade está espontanea e esgarnivizadora.
+
+Ora, no particular que o momento actual exibe, o Sr. Murtinho tem razões de sobra para queixar-se : S. Ex. foi arrastado a tomar parte numa encenação politica que não se ajustava aos seus moldes de rigidez scientifica, nem se accommodava nas linhas geraes da sua indole de partidario. Seu lema é "ou tudo ou nada". Quem transige em pontos cardiaes de governo do seu proprio paiz submette-se facilmente em pontos secundarios de defesa do seu proprio interesse; e um homem do valor mental do vice-presidente do Senado, quando contrae compromissos, delles se desempenha garbosaamente, afogando a sua consciencia, como que ajoelhando perante um tribunal. A Nação ouviu o estatuto de 12 de outubro, e assignou-o como testemunha de um contrato. Se a colligação deserta, se o Sr. Affonso Penna recua, a culpa não será do Sr. Murtinho.
+
+Igualmente devem queixar-se os governos dos Estados. Não é verdade que o estatuto referido serviu de bandeira de congraçamento? Como tolerar, que ao desfraldal-a agora se averigue a ausencia de um emblema? Quem o retirou, e por que o retirou? Estas coisas incomprehensiveis não se fazem ás ocultas; exigem a justificação e reclamam a coragem.
+
+Cabe, finalmente, á Nação o direito de queixar-se, alçada. O Congresso Nacional sae do trilho, que é o programma "ostensivo" da colligação. Se ha outro, lacrado, a Nação não o conhece, nem se pronunciou a respeito. Mas esta Nação, que está vivendo a bocados, sobresaltada e cheia de desalentos, precisa, em ultima analyse de uma luz que a liberte da treva em que moureja. Ella vale alguma coisa, e talvez ouse acreditar que vale mais do que o preço que lhe arbitram...
+
+* * *
+
+O "record" das entradas, sempre pertencente a Santos, ascendeu a essa somma enorme; mas, com este facto, coincidiu a baixa com que os mercados fecharam no dia 1 e abriram hontem: o do Havre fechou ante-hontem com 25 e 70 centimos de baixa e abriu hontem com 50 centimos mais baixo, e Nova York, Hamburgo e Londres, seguiram o exemplo do Havre...
+
+Pessoas que conhecem de longa data o mercado de café, dizem-nos que, quando em tres dias se vendia o café ante-hontem entrado em Santos, os preços subiam a $500 e 600, e entendem que uma offerta de 121.523 saccas pôde influir, de maneira poderosa, para a baixa.
+
+Registramos este facto, que é realmente digno de nota, e fazemos votos pelo desmentido immediato dos prognosticos, que ahi ficam, e que mereciam fé, pelo menos, nos tempos em que o café só obedecia á "absoluta lei da procura e da offerta"...
+--- ARTICLE END ---
+
+--- COLUMN 3 ---
+--- ARTICLE START ---
+Estiveram hontem no palacio do Cattete os Srs. ministro da Industria, deputado Cassiano do Nascimento, monsenhor Pires Amorim e a esculptora Exma. Sra. D. Nito Una Vaz de Assis.
+
+O parecer sobre as emendas da 3ª discussão da caixa de conversão, só será debatido na Camara depois de encerrado qualquer dos orçamentos da guerra e do exterior, que estão na ordem do dia.
+--- ARTICLE END ---
+--- HEADLINE START ---
+O CASO DE SERGIPE
+--- HEADLINE END ---
+--- ARTICLE START ---
+Foi hontem recebida pelo Sr. presidente da Republica uma commissão de sergipanos, composta dos Srs. João Pereira Barreto, Murilo Dantas, Olegario Dantas, Sylvio Moita e Ananias de Mello e Silva. A commissão foi levar ao chefe do Estado uma exposição escripta dos acontecimentos que ha pouco se desenrolaram em Sergipe. Esse historico divide-se em duas partes: 1ª, deposição; 2ª, reposição. A exposição de motivos, da qual foi relator o Sr. João Pereira Barreto, termina dizendo que do historico dos acontecimentos se infere : 1º, que o general Régis não teve os seus "innumeros pedidos" ao Dr. Augusto Cardoso; 2º, a acção exorbitante mandando ouvir um juiz e a força publica do palácio do Aracajú; 3º, que, em virtude de suas ordens, o general é responsavel pelos ferimentos feitos ao pharmaceutico João de Meirelles e ao Dr. Ernesto Cardoso, assistidos pelo mordomo da cidadã D. Maria dos Santos, factos que ocorreram "dentro do palacio"; 4º, que o general assumiu a responsabilidade do assassinato do Dr. Paschoal Cardoso, "fora do palacio", dando-lhe como causa o disparo casual de uma arma, quando a praça a levava ao hombro.
+
+A commissão dos sergipanos, após constatar esses factos, solicitou do presidente da Republica que, "mandando o documento ao procurador da Republica, influa no sentido de ser com elle ordenado — ex officio — um inquerito civil federal em Aracajú para apurarem-se as responsabilidades dos culpados da calamidade, da qual o Brazil inteiro deplora". O Dr. Rodrigues Alves prometeu á commissão attender ao pedido: enviará a exposição ao Sr. ministro do interior, para proceder de accordo com a lei. A commissão esteve com o Sr. presidente da Republica cerca de uma hora.
+--- ARTICLE END ---
+--- HEADLINE START ---
+Echos & Factos
+--- HEADLINE END ---
+--- ADVERTISEMENT START ---
+Coliseum.—Ao bojo das 8.—S. Pedro.— Concerto de Nico Horowitz.
+Lyrico.—Ás duas horas.
+Maxixe Modern.—Variedades.
+Recreio.—Prestidigitações.
+Palace Theatre.—Revista carnavalesca.
+--- ADVERTISEMENT END ---
+--- ARTICLE START ---
+Ante-hontem as entradas de café na praça de Santos subiram a 121.523 saccas. É um facto sem precedente no mercado universal do café. Jamais, em praça alguma, entrou tamanha quantidade de café, num dia. E, para se avaliar o que essa cifra significa, basta dizer que representa nove vezes o volume dos embarques do mesmo dia, no porto do Rio de Janeiro, quasi setenta vezes o dos embarques de Santos, e mais de quarenta vezes o total das vendas de Santos no mesmo dia!
+
+As vendas nos grandes mercados do mundo foram, nesse dia: Santos, 6.000 saccas; Rio, 4.000. Nova York, 15.000; Havre, 14.000; Londres, 16.000. Total, 55.000 saccas.
+
+Quer dizer que se em Santos entrou quasi o dobro de café que se vendeu ante-hontem, o assalto cafeeiro!
+--- ARTICLE END ---
+--- ARTICLE START ---
+Foi hontem no palacio do Cattete convidar o Sr. presidente da Republica para assistir á grande manifestação em saudação ao papa Pio X, no dia 12 do corrente, o monsenhor Pires Amorim, presidente da commissão provedora dessa solemnidade.
+
+O Sr. presidente da Republica prometeu comparecer.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Dr. Leopoldo de Bulhões, ministro da fazenda, compareceu hontem ao Thesouro Federal, despachando o respectivo expediente.
+
+S. Ex., durante o dia, foi conferenciar com seu collega das relações exteriores, dirigindo-se em seguida ao Banco do Brazil.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Com o Sr. presidente da Republica despachou hontem o Sr. ministro da Industria, sendo assignados os seguintes decretos legislativos: autorizando o presidente da Republica a abrir ao ministerio da Industria o credito extraordinario de 300:000$, para a conclusão das obras do palacio de Monroe, e abrindo, no mesmo ministerio o credito de 12:000$, supplementar á verba 9ª do orçamento vigente, para pagamento do pessoal de que trata o decreto n. 1.457, de 29 de dezembro de 1905.
+--- ARTICLE END ---
+--- ARTICLE START ---
+* * * Com um pouco mais de fervor religioso o illustre intendente Sr. Bettencourt da Silva installaria alguns vicarios entre o pessoal da instrucção publica do Districto. O seu projecto, permittindo o ensino de doutrinas religiosas nas escolas primarias, não inspirou outros temores, senão aquelles, aos que consideram as questões de principios superiores ás pessoaes e familiares.
+
+No seio das familias é que se ensina o amar a Deus sobre todas as coisas, e não a reconhecer poder algum superior á Razão Humana, a admirar a sabedoria de Mahoma e a respeitar as vantagens religiosas da circumscripção.
+
+Nas escolas que o Estado sustenta, as religiões são desconhecidas e impertinentes á funcção do magisterio leigo. Só o facto de conceder a permissão que o projecto solicita, importaria para o Conselho Municipal em se immiscuir na propagação das crenças religiosas dos habitantes da cidade, facilitando-lhes a aprendizagem dos mandamentos da lei de Deus e outros ensinamentos respeitaveis, mas estranhos á influencia do Estado.
+
+É verdade que a tal lei, assim feita, seria inconstitucional, profundamente, visceralmente inconstitucional, mas o attentado aos preceitos fundamentaes da nossa organização politica estaria consumado.
+
+Sob outro aspecto, o projecto incita o governo municipal a se constituir collaborador de todas as religiões, por delegação dos paes de familia. Esse procurador de causas alheias, assim imposto á mocidade na educação dos alumnos das escolas, para cooperar na hereditariedade das crenças religiosas, seria um monstro no seio da nossa sociedade regida por leis liberaes que garantem a absoluta liberdade de consciencia.
+
+Não ha encobrir o que ha de odioso na reforma solicitada no projecto. A religião quasi unanimemente professada pelo povo das cidades, é a catholica. O que resultaria do projecto seria a installação de missões da igreja romana, dentro das escolas, para alli instruir os alumnos nas praticas e crenças dessa igreja, obtendo sobrepticiamente desde já a salvação das almas desviadas e rebellando-se contra as ideias de Luther e de Calvin.
+
+Que será da liberdade espiritual diante dessa abjuração legal, que o projecto sinuosaamente delineia, com os ares ingenuos e seraphico de um mystico, traido nas suas intenções pelo insu[ILLEGIBLE WORD]vel odor de incenso que trescala, desmascarando a sacristia, que espia os passos ainda incertos do clero vegeta re-nascido, de garras mal occultas, que tenta insinuar-se entre as nossas leis, como um caruncho damninho?
+
+O autor do projecto, illustre e operoso cultor das letras juridicas, affirma que justamente o seu intento é respeitar a liberdade de consciencia. Curiosa defesa essa, que se applica contra os que não se podem defender da sua imposição! Curiosa liberdade essa que se garante, impondo um horizonte espiritual aos que não têm ainda a posse do si mesmos e de vontade, que só o raciocinio formula!
+
+O espirito democrata das nossas leis não permitte esse presente, que o illustre intendente carioca quer fazer ao clero catholico. Nas suas igrejas faça elle os seus proselytos. Façal-os nos seus collegios, já que ninguem lhe faz obstaculos ao monopolio do ensino secundario, que até hoje fruiu quasi sem competidores. Nas escolas, porém, que o Estado sustenta e superintende, a Constituição brasileira só permitte que se façam cidadãos.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Estamos informados de que o Sr. Graccho Cardoso, deputado pelo Ceará, apresentará ainda em 20 dias o seu projecto substitutivo ao de reorganização do exercito, actualmente em debate na Camara.
+
+Pensa o Sr. Graccho Cardoso, que nenhum plano de reorganização nos poderá convir, desde que não se apoie em bases novas, qual seja o de adequar o exercito á nossa forma republicana federativa. É sobre essa base que formulará o seu trabalho, começando pela lei do porteio, sem a qual julga inutil e antipathico todo e qualquer processo para preencher os quadros das baixas militares, etc. Eliminando algumas vacillações, o projecto do Sr. Graccho funda-se em duas modalidades basicas, uma para o municipio, outra para o Estado e uma terceira para o paiz, cada qual com autonomia e vida propria, mas ligadas umas ás outras, pelo vinculo federativo, existindo um nexo entre o municipio e o Estado e entre o Estado e a União.
+
+Institui o municipalismo e fecha as estruturas regimentaes, acabando ao mesmo tempo com a distincção de armas, que considera causa da desigualdade de carreira dos officiaes dotados das mesmas habilidades e da mesma antiguidade.
+
+Elimina o estado-maior das armas, com funcções technicas, o corpo de veterinarios, o de picadores, o de mestres de musica e sub-intendentes e companhias de transporte; estas ultimas, aliás, lembradas no projecto da commissão de profissionaes.
+
+Segundo o projecto, todo o exercito terá o mesmo uniforme.
+
+Institui a reserva do exercito activa, que será commandada por officiaes tirados da primeira linha, passando a guarda nacional, sob a denominação de "reserva do 3º linha", á incumbencia propriamente da defesa da patria, quando atacada em seus redutos. Supprime o curso de infanteria e cavalleria, deixando apenas o das tres armas, para assim dar accesso a todos os officiaes, até o posto de coronel, só podendo atingir os postos de general aquelles que tiverem os cursos de estado maior e engenharia.
+
+Remodela, finalmente, o lei de promoções e de graduação, e estabelece sendo outras medidas que não comportam esta simples noticia.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O COMMERCIO E A ALFÂNDEGA
+No edificio da Associação Commercial reuniram-se, hontem, os representantes das companhias de navegação estrangeiras, afim de tratarem da representação feita ao Sr. ministro da fazenda e da conseguinte informação do inspector da Alfandega.
+
+Estavam os representantes das companhias reunidos, quando chegou o Dr. Leopoldo de Bulhões, que ia agradecer á associação as gentilezas de que fora alvo por occasião do seu anniversario.
+
+Os representantes das companhias resolveram enviar á Associação Commercial uma nova representação, com as refutações ás informações prestadas pelo inspector da Alfandega e outra copia de mais algumas reclamações.
+
+A Associação Commercial, recebendo essa representação, enviál-a-hei, por seu turno, ao Sr. ministro da fazenda.
+
+A reunião terminou ás 3 1/2 horas da tarde.
+
+Fizeram-se representar as seguintes firmas: Norton Megaw & C., Theodoro Wille & C., Ernst Hausmann & C., L. Carrique, O. Coatalen, Horin, Stoltz & C., Rombauer & C., Davidson Pullen & C., Wilson Sons & C., L. Campos, De Vincenzi & Barra, D. Florita St. Os Juan Capplonchi y Puerto.
+--- ARTICLE END ---
+--- ARTICLE START ---
+A Torre Eiffel, que é uma das casas mais "chics" do Rio e que vende por preços muito modicos os artigos do seu genero de negocio, commemorou hontem o primeiro anniversario da sua nova installação no sumptuoso palacio em que funcciona á rua do Ouvidor.
+
+Desde pela manhã, o vasto e elegante edificio, onde se nota em tudo uma preocupação "raffinee" de arte e de bom gosto, foi pequeno para conter o numero dos visitantes. Cavalheiros e senhoras da mais fina sociedade carioca, entravam, sahiam, fazendo compras, aproveitando a occasião que se lhes offerecia, porque justamente, para commemorar o seu anniversario, a Torre Eiffel intentava uma grande venda annual com 20 % de abatimento.
+
+A casa toda, simples e deslumbrantemente decorada com festões de lyrios e grandes palmas verdes tinha um aspecto alegre e prospero, desafiando a curiosidade do publico que entrava para ver e aproveitava o ensejo para comprar. E no vai-vem continuo os empregados não tinham mãos a medir, descendo caixas, desdobrando sobre o artistico balcão as finas mercadorias.
+
+Á noite, apesar do mau tempo, a animação continuou.
+
+A Torre Eiffel, feericamente illuminada á luz electrica e copinhos de cores variegadas, dava a impressão apotheotica de um conto das mil e uma noites, e de novo o publico encheu a casa.
+
+E assim foi até a hora em que se fecharam as portas, um verdadeiro triumpho e festa commemorativa da Torre Eiffel. Entretanto, como a chuva impediu que grande numero de familias pudessem visitar o elegante estabelecimento, os seus proprietarios, Srs. F. Portella & C., resolveram renovar hoje á noite a illuminação que tanto successo teve hontem.
+--- ARTICLE END ---
+--- ARTICLE START ---
+O Sr. nuncio apostolico, monsenhor D. Julio Tonti, tomará posse do cargo de socio honorario do Instituto Historico e Geographico Brasileiro, em sessão extraordinaria, que se realizará na séde social, ás 3 horas da tarde do dia 8 do corrente.
+
+S. Ex. será recebido, no impedimento do orador official, desembargador Souza Pitanga, pelo visconde de Ouro Preto, 3º vice-presidente.
+
+A sessão será publica.
+--- ARTICLE END ---
+--- ARTICLE START ---
+Despacha hoje com o Sr. presidente da Republica o marechal Argollo, ministro da guerra.
+
+Nesse despacho serão assignados, além dos decretos por nós já publicados, o que exoneira, a seu pedido, o general Dantas Barreto, do logar de commandante do 7º districto militar.
+
+O marechal Argollo combinou com o Sr. presidente da Republica o regresso da força federal que seguiu desta capital para Matto Grosso, sob o commando do referido general.
+
+Voltando á sua secretaria, o marechal Argollo conferenciou com o chefe do estado-maior, sendo-lhe pedidas as necessarias providencias para o regresso da força, que é constituida pelo 3º e 15º de infantaria, pertencentes ás guarnições de Uberaba, e bateria de 4 bocca de

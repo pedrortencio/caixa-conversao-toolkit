@@ -1,0 +1,47 @@
+[
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-10",
+        "original_snippet_context": "Analysis of the \"Caixa de Conversão\" project and its transformations.",
+        "relevant_quote": "Antes de ser li, o projeclò da caixa de conversão, já estava transfor- mado em manta de retalhos; e na bôca de ser li, os retalhos perdendo o allr.íliavo, o pelos bordas doseoan- ras, os que enxergarão ys lacunas do tecldo.",
+        "classification": "Leaning Orthodox",
+        "justification": "The description of the project as a \"manta de retalhos\" (patchwork quilt) suggests criticism of its numerous amendments and lack of coherence, which aligns with orthodox concerns about a poorly designed Caixa.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-10",
+        "original_snippet_context": "Description of the initial concept of the \"Caixa de Conversão.\"",
+        "relevant_quote": "Era uma caixa modesta, destinada a dar abrigo seguro ao ouro que, espontaneamente, a procurasse em o fim do se libertar dos calores do estio e do frio do inverno;— um cofre, mais do que outra coisa, o cofre no qual o ouro entraria livremente, ostentando um angulo legal, legitimando o fd por conto...",
+        "classification": "Leaning Orthodox",
+        "justification": "This passage emphasizes the Caixa's role as a passive repository for gold, focusing on its function of safeguarding existing reserves rather than actively managing the currency or promoting expansion, which leans towards an orthodox view.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-10",
+        "original_snippet_context": "Discussion of the \"Caixa\"'s proposed emission of convertible notes and its impact on exchange rates.",
+        "relevant_quote": "As emissões da caixa, evitarlam ilusões com o papel-moeda circulante, que poderia continuar a circular como fosse possível, gui- ndose nos fundos de resgato e do garantia, creados pela lei antiga e ro- borados pela nova lei; de modo que teríamos duas moedas em circulação, uma conversível—o bilhete da caixa, e uma do curso forcado — o papel moeda do Thesouro...",
+        "classification": "Neutral/Factual",
+        "justification": "This section objectively describes the proposed dual currency system with convertible Caixa notes and existing paper money, without expressing a clear judgment on its merits or drawbacks.",
+        "confidence": "High"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-10",
+        "original_snippet_context": "The author's interpretation of the Chamber of Deputies' approval of the project.",
+        "relevant_quote": "A esplendida votação, que o applaudio, significou a manifestação do um colossal enthuslasmo, ou traduzio a existência de uma inexplicável submissão. O certo é que, no mundo exterior, raros eram os enthusiastas e numerosos os deputados dissidentes.",
+        "classification": "Mixed/Ambiguous",
+        "justification": "While acknowledging the positive vote, the author questions its sincerity, suggesting either \"colossal enthusiasm\" or \"inexplicable submission\" and highlighting external dissent, making it difficult to ascertain a clear stance.",
+        "confidence": "Medium"
+    },
+    {
+        "newspaper": "O Paiz",
+        "date_of_article": "1906-11-10",
+        "original_snippet_context": "Description of the project's amendments and the Senate's handling of the proposal.",
+        "relevant_quote": "Na terceira discussão, o projecto soffreu emendas, Quem as apresentou, foi o próprio autor do plano primitivo. A caixa revestio, então, outro aspecto: guardaria os fundos do resgate e do garantia, teria uma secção de câmbios para jogar na alta ou na baixa, possuiria uma agencia em Londres...",
+        "classification": "Neutral/Factual",
+        "justification": "This passage details the changes made to the project, including new functions like exchange rate management and a London agency, providing factual information without expressing a particular viewpoint.",
+        "confidence": "High"
+    }
+]
