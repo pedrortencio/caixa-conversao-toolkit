@@ -52,7 +52,13 @@ Detalhes de cada fase: `docs/plano-pipeline.md`. Scripts do piloto em `legado/` 
 - Deep-link `&pesq="caixa de conversão"` **dispara a busca sozinho até em headless**: O Paiz 1900-09 (`178691_03`) → **"Matchs 1/701"** (701 ocorrências na década; 1906 é subconjunto).
 - Metadados do hit atual: `span#PastaTxt` com `title="Ano 1902\Edição 06388"`; página dentro da edição em campo "N/M"; contador em `#ocorrenciaatualdiv`.
 - **Limitação headless:** a imagem principal e o painel "Match thumbs" (menu `#ThumbsBtn` → dock `#ThumbsRadDock`) NÃO renderizam em headless (spinner eterno, dock vazio). Próximo passo: testar headed.
-- **Estratégias de enumeração de hits, em ordem de preferência:**
-  1. *Match thumbs* em modo headed (lista em lotes, ~postbacks por página de thumbs);
-  2. *Navegação ocorrência a ocorrência* (botão » + ler `PastaTxt`): ~2 s/hit → ~25 min por 700 hits, viável de madrugada — fallback GARANTIDO, funciona mesmo sem imagem renderizada;
-  3. Cliques via `driver.execute_script` quando elementos estiverem "not interactable" (padrão nesse viewer).
+- **RECEITA VALIDADA de enumeração de hits (testada de ponta a ponta em 13/07, headed):**
+  1. Carregar `DocReader.aspx?bib={pasta}&pesq="caixa de conversão"` (busca dispara sozinha; contador em `#ocorrenciaatualdiv`).
+  2. Fechar modais Telerik (`div.TelerikModalOverlay` visível → clicar `a.rwCloseButton`/`span[title=Close]` via JS; helper `fecha_modais` em `explora_thumbs.py`).
+  3. **CAPTCHA: human-in-the-loop VALIDADO** — detectar (src/id/class com "captcha"), pausar, Pedro resolve na janela, script segue (`espera_humano_resolver_captcha`). Apareceu 1x na sessão de teste, resolvido, fluxo continuou sem erro.
+  4. Clicar `#ThumbsBtn` (nativo) → item de menu com texto "Match thumbs" (procurar no DOM inteiro por XPath; RadMenu renderiza fora do `#ThumbsMenu`).
+  5. **Cada thumb do dock entrega tudo:** `img#ThumbsRadDock_C_ThumbsImg{i}` com `title="Folder:Ano 1906\Edição 07819"` (ano+edição) e checkbox `#ThumbsRadDock_C_ThumbsChk{i}` com `onclick="ThumbsChk('10966')"` (página absoluta). 8 thumbs por vista; paginar com as setas do carrossel (~88 vistas para 701 hits ≈ minutos por pasta).
+  6. **Os números de edição batem com os nomes de arquivo do piloto** (per178691_1906_07819 = Edição 07819) → regressão de 1906 compara direto.
+  7. Thumbs/imagens só renderizam em modo HEADED (headless: busca e contador funcionam, imagens não). Rodar lotes headed; janela pode ficar em segundo plano.
+  8. Imagem da página servida de `Reader/cache/{sessão}/I{página:07d}-...JPG`; download em lote provável via checkboxes + exportação (`SaveAsFile.ashx`) — mapear na F1.
+  9. Fallback (se thumbs quebrarem): navegação ocorrência a ocorrência (» + `#PastaTxt`), ~2 s/hit, funciona até sem imagem.

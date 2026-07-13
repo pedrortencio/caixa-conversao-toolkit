@@ -7,6 +7,7 @@ hit vem com Ano/Edição/página legíveis.
 Uso: uv run python pipeline/scraper/explora_thumbs.py
 """
 
+import sys
 import time
 import pathlib
 import urllib.parse
@@ -24,6 +25,67 @@ URL = (
 OUT_DIR = pathlib.Path("dados/scraping/diag")
 
 
+def captcha_presente(driver):
+    """Detecta CAPTCHA (recaptcha/hcaptcha/imagem 'captcha') na página."""
+    try:
+        els = driver.find_elements(
+            By.XPATH,
+            "//*[contains(@src,'captcha') or contains(@id,'captcha') or contains(@class,'captcha')"
+            " or contains(@src,'recaptcha') or contains(@title,'reCAPTCHA')]")
+        return any(e.is_displayed() for e in els)
+    except Exception:
+        return False
+
+
+def espera_humano_resolver_captcha(driver, timeout_min=5):
+    """Se houver CAPTCHA, pausa e espera o humano resolver na janela."""
+    if not captcha_presente(driver):
+        return True
+    print("\n  >>> CAPTCHA DETECTADO — resolve na janela do Chrome, eu espero"
+          f" (até {timeout_min} min)...")
+    for _ in range(timeout_min * 12):
+        time.sleep(5)
+        if not captcha_presente(driver):
+            print("  >>> CAPTCHA resolvido, seguindo!\n")
+            return True
+    print("  >>> tempo esgotado com CAPTCHA na tela")
+    return False
+
+
+def fecha_modais(driver, timeout_captcha_min=5):
+    """Fecha RadWindows modais (pesquisa de opinião etc.); se for CAPTCHA,
+    espera o humano resolver. Retorna quando não há mais overlay."""
+    for _ in range(10):
+        overlays = [o for o in driver.find_elements(By.CSS_SELECTOR, "div.TelerikModalOverlay")
+                    if o.is_displayed()]
+        if not overlays:
+            return True
+        if captcha_presente(driver):
+            if not espera_humano_resolver_captcha(driver, timeout_captcha_min):
+                return False
+            continue
+        # fecha a RadWindow visível de cima (botão Close / rwCloseButton)
+        fechado = False
+        for sel in ("a.rwCloseButton", "span[title='Close']", "a[title='Close']",
+                    "span[title='Fechar']", "a[title='Fechar']"):
+            for b in driver.find_elements(By.CSS_SELECTOR, sel):
+                try:
+                    if b.is_displayed():
+                        driver.execute_script("arguments[0].click();", b)
+                        fechado = True
+                        break
+                except Exception:
+                    continue
+            if fechado:
+                break
+        if not fechado:  # último recurso: ESC
+            from selenium.webdriver.common.keys import Keys
+            driver.find_element(By.TAG_NAME, "body").send_keys(Keys.ESCAPE)
+        time.sleep(2)
+        print("  (modal fechado)")
+    return False
+
+
 def espera(driver, cond, timeout=40, passo=1.0):
     for _ in range(int(timeout / passo)):
         try:
@@ -38,37 +100,62 @@ def espera(driver, cond, timeout=40, passo=1.0):
 
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    headed = "--headed" in sys.argv
     opts = Options()
-    opts.add_argument("--headless=new")
+    if not headed:
+        opts.add_argument("--headless=new")
     opts.add_argument("--window-size=1600,1000")
+    print(f"Modo: {'HEADED (janela visível)' if headed else 'headless'}")
     driver = webdriver.Chrome(options=opts)
     try:
         driver.set_page_load_timeout(60)
         driver.get(URL)
+        espera_humano_resolver_captcha(driver)
 
         # 1. Espera a busca do deep-link concluir (contador "Matchs N/M")
         ok = espera(driver, lambda d: "/" in d.find_element(By.ID, "ocorrenciaatualdiv").text)
         print(f"Busca concluída: {driver.find_element(By.ID, 'ocorrenciaatualdiv').text.strip()!r}")
         print(f"Hit atual (PastaTxt): {driver.find_element(By.ID, 'PastaTxt').get_attribute('title')!r}")
 
-        # (o spinner da imagem principal não some em headless; seguimos sem ele)
+        # 1b. Em headed a página renderiza de verdade: espera o spinner sumir
+        if headed:
+            pronto = espera(driver, lambda d: "Wait..." not in d.find_element(By.TAG_NAME, "body").text,
+                            timeout=60, passo=2.0)
+            print(f"Viewer inicializado (spinner sumiu): {bool(pronto)}")
 
-        # 2. Abre o menu de thumbs e clica em "Match thumbs" — via JS, que
-        # ignora visibilidade/interactabilidade (necessário em headless)
-        driver.execute_script("document.getElementById('ThumbsBtn').click();")
+        # 2. Fecha modais pendentes e abre o menu de thumbs
+        fecha_modais(driver)
+        btn = driver.find_element(By.ID, "ThumbsBtn")
+        try:
+            if headed:
+                btn.click()
+            else:
+                driver.execute_script("arguments[0].click();", btn)
+        except Exception:
+            fecha_modais(driver)
+            driver.execute_script("arguments[0].click();", btn)
         time.sleep(3)
+
+        # 3. Procura "Match thumbs" no documento INTEIRO (RadMenu pode
+        # renderizar os itens fora do #ThumbsMenu)
         item = espera(driver, lambda d: next(
-            (a for a in d.find_elements(By.CSS_SELECTOR, "#ThumbsMenu a, #ThumbsMenu span")
-             if "match" in (a.text or a.get_attribute('textContent') or "").lower()), None), timeout=15)
+            (e for e in d.find_elements(
+                By.XPATH,
+                "//*[contains(translate(text(),'MATCH','match'),'match') and contains(translate(text(),'THUMBS','thumbs'),'thumbs')]")
+             if e.is_displayed() or True), None), timeout=15)
         if not item:
-            print("! item 'Match thumbs' não encontrado; itens do menu:")
-            for a in driver.find_elements(By.CSS_SELECTOR, "#ThumbsMenu a, #ThumbsMenu span"):
-                t = a.get_attribute("textContent") or ""
-                if t.strip():
-                    print("   -", repr(t.strip()[:40]))
+            print("! item 'Match thumbs' não encontrado em lugar nenhum do DOM")
+            driver.save_screenshot(str(OUT_DIR / "tela_thumbs.png"))
             return
-        print(f"Clicando (JS) no item de menu: {(item.get_attribute('textContent') or '').strip()!r}")
-        driver.execute_script("arguments[0].click();", item)
+        print(f"Item achado: <{item.tag_name}> {(item.get_attribute('textContent') or '').strip()!r} "
+              f"(visível={item.is_displayed()})")
+        try:
+            item.click()
+            print("clique nativo OK")
+        except Exception:
+            driver.execute_script("arguments[0].click();", item)
+            print("clique via JS (fallback)")
+        espera_humano_resolver_captcha(driver)
 
         # 3. Espera o dock de thumbs povoar (imagens aparecerem) e despeja
         espera(driver, lambda d: len(d.find_elements(
@@ -79,20 +166,31 @@ def main():
         (OUT_DIR / "thumbs_dock.html").write_text(html, encoding="utf-8")
         driver.save_screenshot(str(OUT_DIR / "tela_thumbs.png"))
 
-        # 4. Inventário: imagens/links dentro do dock com seus title/alt/onclick
-        thumbs = dock.find_elements(By.CSS_SELECTOR, "img, a, div[title], span[title]")
-        print(f"\nElementos no dock: {len(thumbs)}; com metadados:")
+        # 4. Inventário GLOBAL: todas as imgs de thumb da página, onde quer
+        # que morem, com todos os atributos úteis (o dock visível pode ser
+        # outro elemento que não #ThumbsRadDock)
+        (OUT_DIR / "pagina_completa.html").write_text(driver.page_source, encoding="utf-8")
+        imgs = driver.find_elements(By.TAG_NAME, "img")
+        print(f"\nTotal de <img> na página: {len(imgs)}; candidatas a thumb:")
         n = 0
-        for t in thumbs:
-            title = t.get_attribute("title") or t.get_attribute("alt") or ""
-            onclick = (t.get_attribute("onclick") or "")[:60]
-            if title.strip():
+        for im in imgs:
+            src = im.get_attribute("src") or ""
+            if any(k in src.lower() for k in ("thumb", "minia", ".jpg", "imagem")) and "skin" not in src.lower():
                 n += 1
-                print(f"  [{t.tag_name}] title={title!r} onclick={onclick!r}")
-            if n >= 25:
+                pai = im.find_element(By.XPATH, "..")
+                print(f"  img src=...{src[-70:]}")
+                print(f"      title={im.get_attribute('title')!r} alt={im.get_attribute('alt')!r}")
+                print(f"      onclick={(im.get_attribute('onclick') or pai.get_attribute('onclick') or '')[:110]!r}")
+            if n >= 12:
                 print("  ... (truncado)")
                 break
-        print(f"\nDump completo em {OUT_DIR}/thumbs_dock.html + tela_thumbs.png")
+        # checkboxes de seleção (exportação em lote?)
+        cbs = driver.find_elements(By.CSS_SELECTOR, "input[type=checkbox]")
+        vis = [c for c in cbs if c.is_displayed()]
+        if vis:
+            print(f"\nCheckboxes visíveis: {len(vis)}; primeiro: id={vis[0].get_attribute('id')!r} "
+                  f"name={vis[0].get_attribute('name')!r} onclick={(vis[0].get_attribute('onclick') or '')[:90]!r}")
+        print(f"\nDumps em {OUT_DIR}/ (pagina_completa.html, thumbs_dock.html, tela_thumbs.png)")
     finally:
         driver.quit()
 
