@@ -1,6 +1,9 @@
 # Dados pesados — ficam locais (OneDrive faz o backup), nunca no histórico git
 dados/raw_pdf/
 
+# Artefatos transitórios de diagnóstico do scraper (DOM dumps, screenshots)
+dados/scraping/diag/
+
 # Bibliografia de terceiros (copyright) — catálogo versionado em fontes/referencias/index.md
 fontes/referencias/*.pdf
 fontes/referencias/*.epub

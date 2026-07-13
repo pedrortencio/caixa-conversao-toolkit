@@ -45,3 +45,14 @@ Detalhes de cada fase: `docs/plano-pipeline.md`. Scripts do piloto em `legado/` 
 - Sem API limpa (WebForms/Telerik, VIEWSTATE); handler de download `SaveAsFile.ashx?id=...` com id de sessão (sondar para download em lote dentro da sessão Selenium).
 - Servidor respondeu rápido e estável no diagnóstico (~200 KB/página, 18 requisições, nenhum bloqueio com 1 req/s).
 - Ferramenta de referência: pyHDB (Eric Brasil) — Selenium, citável na metodologia.
+
+### Teste real do Selenium (13/07/2026, scripts em `pipeline/scraper/explora_*.py`)
+
+- **Selenium PURO funciona** (sem undetected-chromedriver, que aliás quebra com `--headless=new` no Chrome 150; UC só como fallback em modo headed se a BN algum dia bloquear).
+- Deep-link `&pesq="caixa de conversão"` **dispara a busca sozinho até em headless**: O Paiz 1900-09 (`178691_03`) → **"Matchs 1/701"** (701 ocorrências na década; 1906 é subconjunto).
+- Metadados do hit atual: `span#PastaTxt` com `title="Ano 1902\Edição 06388"`; página dentro da edição em campo "N/M"; contador em `#ocorrenciaatualdiv`.
+- **Limitação headless:** a imagem principal e o painel "Match thumbs" (menu `#ThumbsBtn` → dock `#ThumbsRadDock`) NÃO renderizam em headless (spinner eterno, dock vazio). Próximo passo: testar headed.
+- **Estratégias de enumeração de hits, em ordem de preferência:**
+  1. *Match thumbs* em modo headed (lista em lotes, ~postbacks por página de thumbs);
+  2. *Navegação ocorrência a ocorrência* (botão » + ler `PastaTxt`): ~2 s/hit → ~25 min por 700 hits, viável de madrugada — fallback GARANTIDO, funciona mesmo sem imagem renderizada;
+  3. Cliques via `driver.execute_script` quando elementos estiverem "not interactable" (padrão nesse viewer).
