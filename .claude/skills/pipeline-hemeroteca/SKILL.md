@@ -27,7 +27,7 @@ Detalhes de cada fase: `docs/plano-pipeline.md`. Scripts do piloto em `legado/` 
 5. **Nomenclatura imutável:** `per{bib}_{ano}_{página:05d}` (compatível com o piloto). Downloads em `dados/raw_pdf/{jornal}/` (gitignored), transcrições em `dados/transcricoes/{jornal}/`, classificações em `dados/classificacoes/{jornal}/`.
 6. **Prompts são instrumento de medição:** vivem em `pipeline/prompts/`, qualquer mudança exige entrada em `docs/decisoes.md` e reavaliação de validação.
 7. **Modelos:** transcrição `gemini-2.5-flash` (escalar página a página para `-pro` apenas em saída truncada/ilegível); classificação `gemini-2.5-pro` com temperatura baixa e `response_mime_type=application/json`. Registrar versão exata do modelo em cada output.
-8. `GOOGLE_API_KEY` em `.env` na raiz (nunca commitado).
+8. Chaves em `.env` na raiz (nunca commitado): `GOOGLE_API_KEY` (Gemini) e `ANTHROPIC_API_KEY` (Claude, robustez multi-modelo). Executar sempre via `uv run python ...`. Código novo usa o SDK `google-genai` (`from google import genai`), NÃO o `google-generativeai` do legado (descontinuado).
 
 ## Fatos técnicos da Hemeroteca (verificados 13/07/2026)
 

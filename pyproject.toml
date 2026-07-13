@@ -1,0 +1,27 @@
+[project]
+name = "caixa-conversao-toolkit"
+version = "0.1.0"
+description = "Pipeline e análise: posicionamento da imprensa sobre a Caixa de Conversão (1906-1914)"
+requires-python = ">=3.11"
+dependencies = [
+    # LLM APIs
+    "google-genai>=1.0",      # SDK novo do Gemini (o google-generativeai do piloto foi descontinuado)
+    "anthropic>=0.40",        # Claude (robustez multi-modelo / uso eventual)
+    "python-dotenv>=1.0",
+    # Dados
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+    "pyarrow>=15.0",
+    # Scraper (F1-F2)
+    "requests>=2.31",
+    "selenium>=4.20",
+    "undetected-chromedriver>=3.5",
+    "setuptools>=69",         # undetected-chromedriver importa distutils (removido no Py3.12); setuptools o restaura
+    # Análise (F6)
+    "scipy>=1.12",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+]
+
+[tool.uv]
+package = false

@@ -25,6 +25,10 @@ Acervos divididos em pastas por década (ex.: `178691_02` = 1890-99). Estadão f
 
 `pipeline/scraper/` → `pipeline/transcricao/` → `pipeline/classificacao/` → `pipeline/consolidacao/` → `analise/`. Scripts do piloto (referência, não rodar): `legado/`. Prompts versionados (instrumento de medição, mudanças só com registro em `docs/decisoes.md`): `pipeline/prompts/`.
 
+## Ambiente Python
+
+Gerenciado com **uv** (`pyproject.toml` + `uv.lock`; Python pinado em 3.12 via `.python-version`). Rodar qualquer script com `uv run python caminho/script.py` (nunca pip/venv manuais). Dependência nova: editar `pyproject.toml` e `uv sync`. SDK do Gemini: **`google-genai`** (`from google import genai`) — o `google-generativeai` do legado está descontinuado, não usar em código novo. Claude: SDK `anthropic`. Chaves em `.env` (`GOOGLE_API_KEY`, `ANTHROPIC_API_KEY`); modelo em `.env.example`.
+
 ## Guardrails (não negociáveis)
 
 - **Nunca rodar lote completo de API sem antes passar a regressão de 1906** (contagens do gabarito acima) e medir o custo real da rodada.
