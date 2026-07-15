@@ -21,7 +21,11 @@ Acervos divididos em pastas por década (ex.: `178691_02` = 1890-99). Estadão f
 
 1906 criação (Taubaté, 12d vs 27d) · 1907-09 operação/lastro · 1910-13 taxa 16d/expansão · 1914 crise/colapso. Definições operacionais: `docs/codebook-fases.md`. O prompt de classificação recebe o bloco da fase da edição.
 
-## Pipeline (estado: Fase 0 concluída; F1-F6 a implementar)
+## Pipeline (estado em 2026-07-14)
+
+- **F1 em andamento:** enumeração via Selenium validada; download resolvido SEM DocReader, via host estático `hemeroteca-pdf.bn.gov.br/{bib}/per{bib}_{ano}_{edição:05d}.pdf` (`pipeline/scraper/download.py` testado). Falta: enumeração completa 1907-14 + download noturno.
+- **F3-F4 com design aprovado:** Batch Mode da API Gemini (50% de desconto; orçamento ~R$830 → ~R$415) + camada `pipeline/anotadores/` (`gemini_api` primário + `claude_cli` segundo anotador via assinatura). Spec: `docs/plano-batch-anotadores.md` (com apêndice técnico pronto para o plano de implementação, que ainda não foi escrito).
+- **Codebook:** fases 2-4 são esqueleto; Pedro redige antes de F4.
 
 `pipeline/scraper/` → `pipeline/transcricao/` → `pipeline/classificacao/` → `pipeline/consolidacao/` → `analise/`. Scripts do piloto (referência, não rodar): `legado/`. Prompts versionados (instrumento de medição, mudanças só com registro em `docs/decisoes.md`): `pipeline/prompts/`.
 

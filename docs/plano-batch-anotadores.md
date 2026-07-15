@@ -99,6 +99,27 @@ de 1906 antes de qualquer lote completo, como sempre.
 - OpenRouter/mantis-research (extensão futura a considerar, pela mesma interface).
 - Estadão; qualquer mudança em prompts ou codebook.
 
+## Apêndice: notas técnicas para o plano de implementação (apuradas em 14/07/2026)
+
+Levantamento feito na sessão de design para o plano detalhado (ainda não escrito) não partir do zero.
+
+**Batch API no SDK `google-genai` (verificado na doc oficial):**
+- Criar job: `client.batches.create(model=..., src=<lista inline | nome de arquivo JSONL enviado via client.files.upload>, config={'display_name': ...})`.
+- Requisição inline aceita `config` por item (`response_mime_type`, `response_schema`, `system_instruction`); linha de JSONL tem formato `{"key": "id", "request": {<GenerateContentRequest>}}`.
+- Poll: `client.batches.get(name=job.name)`; estados terminais `JOB_STATE_SUCCEEDED/FAILED/CANCELLED/EXPIRED`. Resultados inline em `job.dest.inlined_responses` (NA ORDEM das requisições, sem key: o script precisa gravar um manifesto ordem→edição por job); resultados de arquivo via `client.files.download(file=job.dest.file_name)`.
+- Limites: inline 20MB por job; JSONL até 2GB; job expira em 48h se pendente; resultados ficam 6 semanas.
+- **Transcrição:** PDFs entram por referência (upload via Files API → part `file_data` com `file_uri`), nunca inline (edições têm ~8MB). Upload imediatamente antes de criar o job (TTL do Files API ~48h).
+- **Classificação:** texto puro; requisições inline com chunking por bytes (~15MB por job, margem sob os 20MB); manter paridade com o piloto: `temperature=0.2` + `response_mime_type='application/json'`.
+
+**`claude -p` como anotador (claude_cli):**
+- Prompt via stdin (transcrições longas estouram linha de comando no Windows); `--output-format json` devolve envelope com o texto em `.result` (tirar cercas de código antes do `json.loads`); `--model claude-sonnet-5`.
+- Rodar com cwd NEUTRO (fora do repo) para não injetar CLAUDE.md/skills no contexto do anotador; em modo `-p` pedidos de ferramenta são negados por padrão.
+- Sem controle de temperatura pela CLI (aceito: ruído de wrapper só derruba o κ). Limite de uso da assinatura: detectar na saída de erro e pausar/retomar (sleep ~30min).
+
+**Roteamento de fase:** decidível pelo ano do nome do arquivo (`per{bib}_{ano}_{ed:05d}`): 1906→bloco do piloto (já no prompt base), 1907-09/1910-13/1914→blocos do `docs/codebook-fases.md` (hoje ESQUELETO; enquanto Pedro não redigir, classificar só 1906).
+
+**Esqueleto de tarefas do plano:** T1 `pipeline/anotadores/base.py` (render de prompt, parse/validação do JSON, carimbo backend+modelo) + pytest como dev dep (`uv add --dev pytest`; repo ainda não tem testes); T2 `transcricao/transcreve.py` (batch com file refs, manifesto, `--sync`, `--dry-run`, resume por .txt existente); T3 `classificacao/classifica.py` (batch texto, chunking, saída em `dados/classificacoes/gemini/`); T4 `anotadores/claude_cli.py` (saída em `dados/classificacoes/claude/`); T5 `analise/concordancia.py` (κ par a par por fase via sklearn, matriz de confusão, CSV de divergências); T6 verificação gated (regressão 1906 em batch pequeno + custo real). Convenção nova de pastas: `dados/classificacoes/{backend}/per..._.json`.
+
 ## Referências de preço (verificadas em 14/07/2026)
 
 - Batch Mode 50%: https://ai.google.dev/gemini-api/docs/pricing
