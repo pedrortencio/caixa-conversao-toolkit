@@ -50,3 +50,13 @@ Verificado em 14/07/2026:
 - **F1b Download** (HTTP puro, sem Selenium): para cada hit, `GET https://hemeroteca-pdf.bn.gov.br/{bib}/per{bib}_{ano}_{edição:05d}.pdf`. Rate-limit educado, retry/backoff, resume, 404→log de auditoria. Baixa a **edição inteira** (não página ±1).
 
 **Consequências:** decisão #5 (página do hit ±1) fica OBSOLETA — baixamos a edição-dia inteira, que é a unidade de análise (decisão #2) e é o que o piloto já usava. A saga Cloudflare/`explora_export*.py` vira só registro histórico de por que NÃO usar o DocReader para download; a rota de imagem 517px também é abandonada. Selenium fica restrito à enumeração (F1a).
+
+---
+
+## 2026-07-14 — Batch Mode e segundo anotador (sessão de design com Claude)
+
+Design completo em `docs/plano-batch-anotadores.md`. Decisões:
+
+1. **Transcrição (F3) e classificação (F4) migram para o Batch Mode da API Gemini**: 50% de desconto por token, mesmos modelos pinados e prompts versionados, latência de até 24h (compatível com os lotes noturnos já planejados). Orçamento estimado cai de ~R$830 para ~R$415. Alternativas rejeitadas: chamadas síncronas como via principal (2× o custo sem ganho; mantidas atrás da flag `--sync` para depuração) e rodar classificação via Gemini CLI sob a assinatura AI Pro (CLI é agente, não chamada pinável: comprometeria o instrumento de medição; além disso o tier gratuito perdeu os modelos Pro em 03/2026).
+2. **Segundo anotador: Claude via `claude -p`** (headless, sem ferramentas, modelo pinado e registrado no output), rodando na assinatura existente do Pedro a custo marginal zero, como backend `claude_cli` numa camada `pipeline/anotadores/` de interface única. Papel SUBORDINADO: robustez (κ inter-anotadores por fase, matriz de confusão, lista de divergências para auditoria adicional); o instrumento primário segue sendo a API Gemini, e a amostra de validação humana segue aleatória. Isto retoma parcialmente a extensão "anotador de modelo aberto" adiada em 13/07 (item 11), viabilizada pelo custo zero. Justificativa metodológica para aceitar um wrapper de agente aqui: ruído de wrapper só DERRUBA o κ, nunca o infla, então concordância alta apesar do wrapper é evidência conservadora.
+3. **Rejeitados nesta rodada:** integrador genérico de CLIs (Claude+Gemini+Codex) como camada de medição; terceiro anotador via ChatGPT Plus/Codex (exigiria assinatura nova de ~R$100/mês; se houver demanda futura, um backend `openrouter_api` pré-pago entra pela mesma interface, e a chave OpenRouter de quebra habilitaria o mantis-research para pesquisa do Cap. 2).
