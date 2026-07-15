@@ -5,6 +5,21 @@
 >
 > Regra de redação: manter o MESMO eixo (-2 ortodoxo ↔ +2 expansionista) em todas as fases; o que muda é o objeto concreto do desacordo. Escrever em inglês (consistência com o prompt validado).
 
+## Checagem prévia à redação dos blocos: perenidade do eixo (definida em 14/07/2026)
+
+Antes de redigir as fases 2-4, bater na bibliografia se o eixo ortodoxo↔expansionista
+(encarnação, no debate da Caixa, da clivagem metalismo×papelismo que estrutura o Cap. 2) se
+sustenta até 1914. Risco específico: com a suspensão UNIVERSAL do padrão ouro em ago/1914,
+"defender a suspensão" pode ser consenso pragmático, não posição; o bloco da fase 4 precisa de
+marcadores mais finos (tamanho/natureza da emissão de socorro; veredito retrospectivo sobre a
+Caixa; regime desejado depois: volta ao ouro vs papel fiduciário). Se nem isso discriminar,
+decidir com Ivan: subdividir a fase 4 (jan-jul vs ago-dez) ou aceitar variância comprimida e
+registrar no método. Obras prioritárias: Neuhaus (1975); Peláez & Suzigan (1976); Oliveira &
+Silva (2001); Fritsch ("Apogeu e crise", em Abreu); Franco & Lago (2011); Villela & Suzigan
+(1973). Avaliar adicionar Fritsch (1988), External Constraints on Economic Policy in Brazil.
+Produto: nota de perenidade do eixo (1-2 pág., marcadores por fase com citações), que alimenta
+os blocos e a defesa no capítulo de método.
+
 ## Fase 1 — Criação (1906)
 
 *(Pronta — usar o bloco do prompt do piloto: Taubaté, artigo 8º, 12d/15d vs par de 27d, valorização do café, exemplo argentino.)*
