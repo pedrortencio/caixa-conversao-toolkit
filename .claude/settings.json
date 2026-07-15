@@ -2,12 +2,26 @@
   "permissions": {
     "allow": [
       "Bash(python:*)",
-      "Bash(pip install:*)",
+      "Bash(uv run:*)",
+      "Bash(uv add:*)",
+      "Bash(uv sync:*)",
       "Bash(git status:*)",
       "Bash(git log:*)",
       "Bash(git diff:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)"
     ]
+  },
+  "enabledPlugins": {
+    "session-workflow@craft-collection": true,
+    "engineering-discipline@craft-collection": true
+  },
+  "extraKnownMarketplaces": {
+    "craft-collection": {
+      "source": {
+        "source": "github",
+        "repo": "grimaldost/craft-collection"
+      }
+    }
   }
 }
