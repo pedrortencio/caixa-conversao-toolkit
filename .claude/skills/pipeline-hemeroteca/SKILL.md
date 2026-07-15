@@ -9,7 +9,8 @@ description: Use ao rodar, implementar ou modificar qualquer etapa do pipeline d
 
 | Etapa | Pasta | Estado |
 |---|---|---|
-| F1 Scraper (busca + download) | `pipeline/scraper/` | a implementar (Selenium, base pyHDB) |
+| F1a Scraper — ENUMERAÇÃO de hits | `pipeline/scraper/` | receita validada (Selenium); falta produtizar em script + testar ao vivo |
+| F1b Scraper — DOWNLOAD legível | `pipeline/scraper/download.py` | FEITO e testado: HTTP puro, byte-idêntico ao piloto (ver abaixo) |
 | F2 Inventário + auditoria recall | `pipeline/scraper/` | a implementar |
 | F3 Transcrição | `pipeline/transcricao/` | a implementar (evolução de `legado/rnc1.0.py`) |
 | F4 Classificação | `pipeline/classificacao/` | a implementar (evolução de `legado/text_analysis2.0.py`) |
@@ -64,3 +65,20 @@ Detalhes de cada fase: `docs/plano-pipeline.md`. Scripts do piloto em `legado/` 
   9. **Deep-link de página descoberto:** `DocReader.aspx?bib={pasta}&pesq={termo}&pagfis={página_absoluta}` navega direto à página do hit — o downloader não precisa clicar em nada.
   10. **Rotas para resolução de trabalho (testar na F1):** (a) zoom programático no viewer → ele gera cache maior → fetch; (b) exportação oficial em PDF (`SaveAsFile.ashx`, mesma rota do download manual do piloto), com CAPTCHA human-in-the-loop já validado.
   11. Fallback (se thumbs quebrarem): navegação ocorrência a ocorrência (» + `#PastaTxt`), ~2 s/hit, funciona até sem imagem.
+
+### DOWNLOAD legível: RESOLVIDO — host de PDF estático, HTTP puro (verificado 14/07/2026)
+
+**O download NÃO usa o DocReader.** Existe um host de arquivos estáticos, aberto, com a edição inteira em PDF:
+
+```
+https://hemeroteca-pdf.bn.gov.br/{bib}/per{bib}_{ano}_{edição:05d}.pdf
+# ex.: https://hemeroteca-pdf.bn.gov.br/178691/per178691_1906_07890.pdf
+```
+
+- **Sem Cloudflare, sem navegador.** `curl`/`requests.get` devolve HTTP 200 `application/pdf` direto (testado da máquina do Pedro E de IP externo). O bloqueio Cloudflare é exclusivo do app `memoria.bn.gov.br/DocReader`.
+- **Resolução validada:** o PDF do host estático é **byte-idêntico** ao que o piloto baixou à mão (8 pág, 2016×2985 px). Mesma legibilidade do κ=0.712.
+- **Numeração casa com a busca:** o `{edição:05d}` do nome = o número "Edição NNNNN" que o Match thumbs retorna. Global contínua desde 1884 (1884→00001, 1906→~07890). O `{ano}` também vem do thumb ("Ano 1906\Edição 07890").
+- **Baixa a edição-dia inteira** (não "página ±1"): é a unidade de análise e o que o piloto usava. Decisão #5 (página ±1) fica obsoleta.
+- **F1b = HTTP puro:** loop sobre a lista de hits da F1a, `GET` de cada URL, rate-limit educado (2-3 s), retry/backoff, resume (pula PDF já baixado), 404 → log de auditoria de recall. Nada de Selenium aqui.
+
+**Beco sem saída (NÃO refazer):** exportação PDF do DocReader (`PDFExportAbre`→Create→`SaveAsFile.ashx`) barra no Cloudflare mesmo com stealth (`navigator.webdriver=undefined` não basta; é fingerprint TLS/IP). Export de década inteira ("All current folder matchs", 701 hits) não completa. Rota de imagem do viewer só dá 517px. Registro completo em `docs/decisoes.md` (14/07). Scripts `explora_export*.py`, `explora_fullres.py`, `explora_pdfpane.py` são histórico do diagnóstico, não a rota de produção.
