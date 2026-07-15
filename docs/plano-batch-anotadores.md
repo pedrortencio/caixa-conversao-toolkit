@@ -47,7 +47,8 @@ versão exata.
   cota da assinatura; a versão exata devolvida pela CLI é gravada no output de cada edição).
   Quando a janela de uso da assinatura esgota, pausa e retoma sozinho.
 - `openrouter_api.py`: NÃO implementado nesta rodada; a interface garante que um terceiro
-  anotador (modelo aberto ou GPT via OpenRouter pré-pago) entre depois sem retrabalho.
+  anotador entre depois sem retrabalho. Preferência do Pedro para esse futuro: modelo
+  ABERTO (DeepSeek, Qwen etc.) via OpenRouter pré-pago; modelos GPT/OpenAI descartados.
 
 ### 3. Consolidação (F5)
 
@@ -93,9 +94,9 @@ de 1906 antes de qualquer lote completo, como sempre.
 
 ## Fora de escopo
 
-- `codex_cli` como terceiro anotador (exigiria assinatura ChatGPT Plus; decisão do Pedro em
-  14/07: fora desta rodada).
-- OpenRouter/mantis-research (extensão futura pela mesma interface).
+- Modelos OpenAI/GPT como anotadores, nesta rodada ou no futuro (decisão do Pedro em 14/07;
+  o slot de terceiro anotador, se vier, será um modelo aberto via OpenRouter).
+- OpenRouter/mantis-research (extensão futura a considerar, pela mesma interface).
 - Estadão; qualquer mudança em prompts ou codebook.
 
 ## Referências de preço (verificadas em 14/07/2026)
