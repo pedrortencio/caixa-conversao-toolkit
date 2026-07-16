@@ -31,7 +31,7 @@ A economia é um gate de risco, não uma proibição de duplicação.
 
 1. Claude grava seu parecer primeiro; o arquivo é congelado e seu hash registrado em `colaboracao/registros/`.
 2. Monta-se um **pacote isolado**: diretório temporário neutro contendo apenas manifesto, evidências comuns e instruções neutras. Sem caminho do repositório, sem parecer do Claude, sem arquivos de síntese.
-3. O Codex roda com `codex exec -C <pacote-isolado> --skip-git-repo-check --sandbox read-only`.
+3. O Codex roda com `codex exec --skip-git-repo-check --sandbox read-only`, com o pacote isolado como diretório de trabalho do processo (o wrapper usa `WorkingDirectory`, não passa o caminho na linha de comando do cmd.exe).
 4. Só depois dos dois pareceres congelados (com hashes registrados) começa a síntese.
 5. Revisões críticas exigem snapshot commitado do repo; se houver mudanças não commitadas, o manifesto registra explicitamente que a análise usa estado sujo, com hash do diff.
 
@@ -48,17 +48,17 @@ Arquivo de contexto que o Codex lê ao abrir o repo (equivalente ao CLAUDE.md do
 ```
 colaboracao/
   manifestos/    # <task_id>.md
-  pareceres/     # <task_id>[-claude|-codex].md
+  pareceres/     # <task_id>[-claude|-codex]--<run_id>.md (parecer do wrapper carrega o run_id)
   registros/     # <task_id>--<run_id>.json (metadados compactos, versionados)
-  logs/raw/      # <task_id>--<run_id>.jsonl (JSONL bruto, GITIGNORED)
+  logs/raw/      # <task_id>--<run_id>.{jsonl,err.txt,parecer-falha.md} (bruto, GITIGNORED)
   templates/
     manifesto.md
     parecer.md
 ```
 
-- `task_id`: identidade da pergunta, formato `YYYY-MM-DD-<slug>`. O sufixo `-claude`/`-codex` nos pareceres só aparece no nível crítico.
-- `run_id`: identidade da execução, formato `YYYYMMDDTHHMMSSfff-<hash-curto>` (milissegundos), com campo `attempt`; uma colisão residual recebe ainda o sufixo `-<attempt>`. Uma tarefa repetida (falha, effort diferente, manifesto revisado) gera novo registro, nunca sobrescreve.
-- **Registro** (versionado) contém: task_id, run_id, attempt, modelo solicitado e modelo efetivamente reportado, versão da CLI, hash do manifesto, commit do repo, `git status --porcelain`, hash do diff se o working tree estiver sujo, hora inicial e final, exit code, comando sanitizado, token usage quando disponível, hashes do parecer e do JSONL bruto.
+- `task_id`: identidade da pergunta, formato `YYYY-MM-DD-<slug>`. O sufixo `-claude`/`-codex` nos pareceres só aparece no nível crítico. O parecer produzido pelo wrapper inclui ainda `--<run_id>` no nome e tem seu caminho gravado no campo `parecer` do registro, de modo que cada execução preserva o seu, nunca sobrescreve.
+- `run_id`: identidade da execução, formato `YYYYMMDDTHHMMSSfff-<hash-curto>` (milissegundos). O campo `attempt` conta as tentativas da tarefa (número de registros anteriores mais um); uma colisão residual de milissegundo recebe um sufixo próprio `-<n>` no run_id, separado do `attempt`. O slot do run_id é reservado de forma atômica (criação exclusiva do arquivo de registro), fechando a janela de corrida entre duas invocações simultâneas. Uma tarefa repetida (falha, effort diferente, manifesto revisado) gera novo registro, nunca sobrescreve.
+- **Registro** (versionado) contém: task_id, run_id, attempt, modelo solicitado e modelo reportado (o codex-cli 0.144.4 não ecoa o modelo no `--json`, então o campo fica nulo enquanto a CLI não o expuser), effort, versão da CLI, `sessao_codex` (thread_id da execução), hash do manifesto, commit do repo, `git status --porcelain` (excluindo `colaboracao/`, que só guarda a papelada deste fluxo), hash do diff se o working tree estiver sujo, `workdir_isolado` verificado contra a raiz do repo, caminho do parecer, hora inicial e final, exit code, comando sanitizado, token usage quando disponível, hashes do parecer e do JSONL bruto.
 - **Log bruto** (gitignored) pode conter prompts, trechos de fontes, caminhos locais e saídas de ferramentas; só é versionado mediante aprovação explícita de Pedro, após sanitização.
 
 **Template de manifesto** (campos obrigatórios): `task_id`, solicitante, papel solicitado, nível (ordinário ou crítico), objetivo, arquivos de contexto, critérios de aceite, orçamento/limites, **"evidência potencialmente relevante não fornecida"** (seção obrigatória, preenchida pelo redator do manifesto, para tornar omissões visíveis), formato esperado da saída.
