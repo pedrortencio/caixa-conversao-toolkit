@@ -57,7 +57,7 @@ colaboracao/
 ```
 
 - `task_id`: identidade da pergunta, formato `YYYY-MM-DD-<slug>`. O sufixo `-claude`/`-codex` nos pareceres só aparece no nível crítico.
-- `run_id`: identidade da execução, formato `YYYYMMDDTHHMMSS-<hash-curto>`, com campo `attempt`. Uma tarefa repetida (falha, effort diferente, manifesto revisado) gera novo registro, nunca sobrescreve.
+- `run_id`: identidade da execução, formato `YYYYMMDDTHHMMSSfff-<hash-curto>` (milissegundos), com campo `attempt`; uma colisão residual recebe ainda o sufixo `-<attempt>`. Uma tarefa repetida (falha, effort diferente, manifesto revisado) gera novo registro, nunca sobrescreve.
 - **Registro** (versionado) contém: task_id, run_id, attempt, modelo solicitado e modelo efetivamente reportado, versão da CLI, hash do manifesto, commit do repo, `git status --porcelain`, hash do diff se o working tree estiver sujo, hora inicial e final, exit code, comando sanitizado, token usage quando disponível, hashes do parecer e do JSONL bruto.
 - **Log bruto** (gitignored) pode conter prompts, trechos de fontes, caminhos locais e saídas de ferramentas; só é versionado mediante aprovação explícita de Pedro, após sanitização.
 
