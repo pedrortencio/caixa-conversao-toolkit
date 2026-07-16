@@ -36,3 +36,8 @@ artigo/*.synctex.gz
 # SO
 Thumbs.db
 desktop.ini
+
+# colaboracao: logs brutos e arquivos parciais nunca entram no git
+colaboracao/logs/raw/*
+!colaboracao/logs/raw/.gitkeep
+colaboracao/**/*.part
