@@ -1,0 +1,1 @@
+ação, coração, período histórico, órgão, Conversão
