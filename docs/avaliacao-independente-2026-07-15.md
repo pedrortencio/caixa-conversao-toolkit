@@ -1,7 +1,9 @@
 # Avaliação independente do projeto
 
-**Data:** 15 de julho de 2026  
-**Natureza:** auditoria externa realizada pelo Codex, após desenvolvimento inicial conduzido com Claude  
+**Data:** 15 de julho de 2026
+
+**Natureza:** auditoria externa realizada pelo Codex, após desenvolvimento inicial conduzido com Claude
+
 **Escopo:** desenho de pesquisa, evidência do piloto de 1906, pipeline computacional, reprodutibilidade e configuração especializada para Claude Code
 
 ## Síntese do julgamento

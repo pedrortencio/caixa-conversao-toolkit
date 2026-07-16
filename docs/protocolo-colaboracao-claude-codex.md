@@ -1,7 +1,9 @@
 # Protocolo de colaboração entre Pedro, Claude e Codex
 
-**Versão:** 1.0  
-**Data de criação:** 15 de julho de 2026  
+**Versão:** 1.0
+
+**Data de criação:** 15 de julho de 2026
+
 **Status:** proposta operacional aprovada por Pedro
 
 ## Objetivo
