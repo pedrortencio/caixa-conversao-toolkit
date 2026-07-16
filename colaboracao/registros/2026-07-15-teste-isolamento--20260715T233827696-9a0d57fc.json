@@ -1,0 +1,27 @@
+{
+    "task_id":  "2026-07-15-teste-isolamento",
+    "run_id":  "20260715T233827696-9a0d57fc",
+    "attempt":  1,
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.144.4",
+    "hash_manifesto":  "9a0d57fc1e9327092094b6ed3c0a45b8ee79d7ffdbb9a860b78eedf5190e1c4f",
+    "commit_repo":  "0ab93cf4d4309ac18eb7f0a1ddc33fb1f4c3c976",
+    "git_status_porcelain":  "?? colaboracao/manifestos/2026-07-15-teste-wrapper.md\n?? colaboracao/pareceres/2026-07-15-teste-wrapper.md\n?? colaboracao/registros/2026-07-15-teste-wrapper--20260715T233654407-54d1828b.json",
+    "hash_diff":  "2545ddfc2b16daa18821e9e63621ea7fd248ff0535ce0e7f4b69517e72770434",
+    "workdir_isolado":  true,
+    "inicio":  "2026-07-15T23:38:27.6961144-03:00",
+    "fim":  "2026-07-15T23:38:48.9319103-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"-C\" \"~\\AppData\\Local\\Temp\\pacote-teste-isolamento-codex\" \"--output-last-message\" \"\u003crepo\u003e\\colaboracao\\pareceres\\2026-07-15-teste-isolamento.md.20260715T233827696-9a0d57fc.part\" \"--skip-git-repo-check\"",
+    "token_usage":  {
+                        "input_tokens":  48448,
+                        "cached_input_tokens":  39936,
+                        "output_tokens":  301,
+                        "reasoning_output_tokens":  0
+                    },
+    "hash_parecer":  "dc6d9e92f248c2a286b9a69be36ee00f7a751191b645c95b3a7476822a6fe547",
+    "hash_log":  "55f0e2f5bfd15b3423d0a2b2eeda61e41aa66782ae070f086e1f57bdbbae2be4"
+}

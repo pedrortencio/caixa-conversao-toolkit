@@ -35,7 +35,7 @@ A economia é um gate de risco, não uma proibição de duplicação.
 4. Só depois dos dois pareceres congelados (com hashes registrados) começa a síntese.
 5. Revisões críticas exigem snapshot commitado do repo; se houver mudanças não commitadas, o manifesto registra explicitamente que a análise usa estado sujo, com hash do diff.
 
-Ressalva registrada: é preciso validar empiricamente se o sandbox read-only bloqueia leitura por caminho absoluto fora do workdir. Se não bloquear, o pacote isolado ainda elimina a descoberta acidental (buscas ficam confinadas ao workdir e o manifesto não revela caminhos), mas não é barreira absoluta; o teste entra na validação da implementação.
+Ressalva validada em 15/07/2026 (registro `2026-07-15-teste-isolamento--20260715T233827696-9a0d57fc`): em uma sondagem segura com dados sintéticos, o sandbox read-only permitiu ler um arquivo-canário e listar seu diretório por caminhos absolutos fora do workdir. A tentativa inicial com caminhos privados foi bloqueada antes da execução pela camada de segurança. Consequência: o pacote isolado reduz descoberta acidental, mas não é barreira absoluta; o manifesto nunca deve revelar caminhos do repo nem de dados privados.
 
 ## Componentes
 
