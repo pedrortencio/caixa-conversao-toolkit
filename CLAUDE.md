@@ -1,6 +1,6 @@
 # caixa-conversao-toolkit
 
-Pesquisa de mestrado de Pedro Ortencio (FFLCH-USP, História Econômica, orientador Ivan Salomão): posicionamento editorial da grande imprensa sobre a **Caixa de Conversão (1906-1914)**. Este repo contém pipeline de dados, toolkit, artigo e fontes. Plano completo: `docs/plano-pipeline.md`. Registro de decisões: `docs/decisoes.md`.
+Pesquisa de mestrado de Pedro Ortencio (FFLCH-USP, História Econômica, orientador Ivan Salomão): posicionamento editorial da grande imprensa sobre a **Caixa de Conversão (1906-1914)**. Este repo contém pipeline de dados, toolkit, artigo e fontes. Plano completo: `docs/plano-pipeline.md`. Registro de decisões: `docs/decisoes.md`. Comunidades e fontes de estudo contínuo: `docs/fontes-de-estudo.md`.
 
 ## Pergunta e estimando
 
