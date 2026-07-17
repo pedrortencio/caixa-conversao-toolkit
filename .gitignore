@@ -37,3 +37,4 @@ dados/base/*.db
 # SO
 Thumbs.db
 desktop.ini
+dados/censo/log_*.txt

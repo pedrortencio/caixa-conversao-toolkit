@@ -433,6 +433,25 @@ def executa_censo(
         garante_calendario(conn, newspaper_ids, timestamp=now())
 
         sucessos = 0
+
+        def processa(resultado: censo.Resultado, *, bib: str) -> bool:
+            """Persiste um resultado; devolve True quando é hora de parar."""
+            nonlocal sucessos
+            if _persiste_resultado(
+                conn, resultado,
+                manifesto=caminho_manifesto(bib, resultado.ano),
+                newspaper_id=newspaper_ids[bib],
+                protocolos=protocolos,
+            ):
+                sucessos += 1
+            if limite and sucessos >= limite:
+                print(f"Limite de {limite} sucessos atingido.", flush=True)
+                return True
+            if prazo is not None and datetime.now() >= prazo:
+                print(f"Prazo {ate_horario} atingido; parando.", flush=True)
+                return True
+            return False
+
         for bib in bibs:
             destino_dir = raw_root / bib
             for ano in anos:
@@ -453,26 +472,22 @@ def executa_censo(
                         destino_dir=destino_dir,
                         parada=PARADA_404,
                     )
+                    parar = False
                     for resultado in resultados:
-                        if _persiste_resultado(
-                            conn, resultado, manifesto=manifesto,
-                            newspaper_id=newspaper_ids[bib],
-                            protocolos=protocolos,
-                        ):
-                            sucessos += 1
+                        if processa(resultado, bib=bib):
+                            parar = True
                     sidecar.parent.mkdir(parents=True, exist_ok=True)
                     sidecar.write_text(str(inicio), encoding="utf-8")
+                    if parar:
+                        return
                 else:
                     regime, resultados = censo.detecta_regime(
                         transporte, bib, ano, destino_dir
                     )
+                    parar = False
                     for resultado in resultados:
-                        if _persiste_resultado(
-                            conn, resultado, manifesto=manifesto,
-                            newspaper_id=newspaper_ids[bib],
-                            protocolos=protocolos,
-                        ):
-                            sucessos += 1
+                        if processa(resultado, bib=bib):
+                            parar = True
                     if regime == "anual":
                         inicio = 1
                     else:
@@ -487,6 +502,8 @@ def executa_censo(
                         inicio = fim_anterior + 1
                     sidecar.parent.mkdir(parents=True, exist_ok=True)
                     sidecar.write_text(str(inicio), encoding="utf-8")
+                    if parar:
+                        return
 
                 ja_sondados = numeros_sondados(manifesto)
                 for resultado in censo.varre_ano(
@@ -500,17 +517,7 @@ def executa_censo(
                     parada=PARADA_404,
                     sem_sucesso=SEM_SUCESSO,
                 ):
-                    if _persiste_resultado(
-                        conn, resultado, manifesto=manifesto,
-                        newspaper_id=newspaper_ids[bib],
-                        protocolos=protocolos,
-                    ):
-                        sucessos += 1
-                    if limite and sucessos >= limite:
-                        print(f"Limite de {limite} sucessos atingido.", flush=True)
-                        return
-                    if prazo is not None and datetime.now() >= prazo:
-                        print(f"Prazo {ate_horario} atingido; parando.", flush=True)
+                    if processa(resultado, bib=bib):
                         return
                 marcador.parent.mkdir(parents=True, exist_ok=True)
                 marcador.write_text(now(), encoding="utf-8")
