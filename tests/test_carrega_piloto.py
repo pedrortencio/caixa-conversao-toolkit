@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import tempfile
 import unittest
 from collections import Counter
@@ -237,8 +238,9 @@ class PilotLoadTests(unittest.TestCase):
             self.assertEqual(67, first.editions)
             self.assertEqual(450, first.physical_pages)
             self.assertEqual(102, first.transcriptions)
-            self.assertEqual(45, first.observed_dates)
-            self.assertEqual(22, first.unresolved_dates)
+            self.assertEqual(67, first.observed_dates)
+            self.assertEqual(0, first.imputed_dates)
+            self.assertEqual(0, first.unresolved_dates)
             self.assertEqual(474, first.unmatched_transcriptions)
 
             conn = base_db.connect(database)
@@ -262,10 +264,88 @@ class PilotLoadTests(unittest.TestCase):
                     "object_fetches": 67,
                     "physical_pages": 450,
                     "transcriptions": 102,
-                    "date_records": 45,
+                    "date_records": 72,
                 },
                 counts,
             )
+            self.assertEqual(
+                67,
+                conn.execute(
+                    "SELECT count(*) FROM current_edition_dates"
+                ).fetchone()[0],
+            )
+            self.assertEqual(
+                67,
+                conn.execute(
+                    """
+                    SELECT count(DISTINCT d.normalized_date)
+                    FROM current_edition_dates c
+                    JOIN date_records d ON d.id=c.date_record_id
+                    """
+                ).fetchone()[0],
+            )
+            self.assertEqual(
+                67,
+                conn.execute(
+                    "SELECT count(*) FROM edition_days WHERE identity_status='confirmed'"
+                ).fetchone()[0],
+            )
+            self.assertEqual(
+                27,
+                conn.execute(
+                    """
+                    SELECT count(*) FROM date_records d
+                    JOIN protocols p ON p.id=d.protocol_id
+                    WHERE p.name='masthead_visual_manifest'
+                      AND d.evidence_transcription_id IS NULL
+                    """
+                ).fetchone()[0],
+            )
+            self.assertEqual(
+                67,
+                conn.execute(
+                    "SELECT count(*) FROM population_memberships"
+                ).fetchone()[0],
+            )
+            protocol = conn.execute(
+                """
+                SELECT parameters_json FROM protocols
+                WHERE stage='date_parsing'
+                  AND name='masthead_visual_manifest'
+                  AND version='1.0.0'
+                """
+            ).fetchone()
+            self.assertIsNotNone(protocol)
+            parameters = json.loads(protocol["parameters_json"])
+            self.assertEqual(64, len(parameters["manifest_sha256"]))
+            self.assertFalse(parameters["independent_human_review"])
+            self.assertEqual(
+                "ai_assisted_visual_review",
+                parameters["reviewer_type"],
+            )
+            corrections = {
+                "per178691_1906_07943": ("1906-07-03", "1906-07-05"),
+                "per178691_1906_07959": ("1906-07-19", "1906-07-10"),
+                "per178691_1906_08020": ("1906-09-18", "1906-09-08"),
+                "per178691_1906_08028": ("1906-09-26", "1906-09-20"),
+                "per178691_1906_08107": ("1906-12-14", "1906-12-08"),
+            }
+            for logical_key, (current_date, historical_date) in corrections.items():
+                rows = conn.execute(
+                    """
+                    SELECT d.normalized_date,
+                           CASE WHEN c.date_record_id=d.id THEN 1 ELSE 0 END AS current
+                    FROM edition_days e
+                    JOIN date_records d ON d.edition_day_id=e.id
+                    LEFT JOIN current_edition_dates c ON c.edition_day_id=e.id
+                    WHERE e.logical_key=?
+                    ORDER BY d.normalized_date
+                    """,
+                    (logical_key,),
+                ).fetchall()
+                observed = {row["normalized_date"]: row["current"] for row in rows}
+                self.assertEqual(1, observed[current_date])
+                self.assertEqual(0, observed[historical_date])
             self.assertEqual(
                 450,
                 conn.execute(

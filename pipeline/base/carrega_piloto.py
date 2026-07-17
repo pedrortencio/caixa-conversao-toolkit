@@ -903,16 +903,18 @@ def ensure_date_record(
     protocol_id: int,
     observed: ObservedDate,
     page_id: int,
-    transcription_id: int,
-    txt_path: str,
+    transcription_id: int | None,
+    evidence: dict[str, object],
+    parser_name: str,
+    parser_version: str,
+    notes: str,
     timestamp: str,
 ) -> int:
     row = conn.execute(
         """
         SELECT id FROM date_records
-        WHERE edition_day_id = ? AND protocol_id = ?
-          AND normalized_date = ? AND date_literal = ?
-          AND status = 'observed'
+        WHERE edition_day_id=? AND protocol_id=?
+          AND normalized_date=? AND date_literal=? AND status='observed'
         ORDER BY id DESC LIMIT 1
         """,
         (
@@ -922,55 +924,57 @@ def ensure_date_record(
             observed.literal,
         ),
     ).fetchone()
-    evidence = json.dumps(
-        {
-            "source_txt": txt_path,
-            "marker": "PAGE_METADATA",
-            "page_number": observed.page_number,
-        },
+    if row is not None:
+        return int(row["id"])
+    evidence_json = json.dumps(
+        evidence,
         ensure_ascii=False,
         sort_keys=True,
     )
-    if row is None:
-        cursor = conn.execute(
-            """
-            INSERT INTO date_records(
-                edition_day_id, protocol_id, evidence_page_id,
-                evidence_transcription_id, evidence_region_json,
-                date_literal, parser_name, parser_version,
-                normalized_date, status, confidence, notes, created_at
-            ) VALUES (
-                ?, ?, ?, ?, ?, ?, 'masthead_pt_regex', '1.0.0',
-                ?, 'observed', 1.0, ?, ?
-            )
-            """,
-            (
-                edition_id,
-                protocol_id,
-                page_id,
-                transcription_id,
-                evidence,
-                observed.literal,
-                observed.normalized,
-                "Data extraída literalmente de PAGE_METADATA.",
-                timestamp,
-            ),
-        )
-        record_id = int(cursor.lastrowid)
-    else:
-        record_id = int(row["id"])
+    cursor = conn.execute(
+        """
+        INSERT INTO date_records(
+            edition_day_id, protocol_id, evidence_page_id,
+            evidence_transcription_id, evidence_region_json,
+            date_literal, parser_name, parser_version,
+            normalized_date, status, confidence, notes, created_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 'observed', 1.0, ?, ?)
+        """,
+        (
+            edition_id,
+            protocol_id,
+            page_id,
+            transcription_id,
+            evidence_json,
+            observed.literal,
+            parser_name,
+            parser_version,
+            observed.normalized,
+            notes,
+            timestamp,
+        ),
+    )
+    return int(cursor.lastrowid)
+
+
+def select_current_date(
+    conn: sqlite3.Connection,
+    *,
+    edition_id: int,
+    record_id: int,
+    timestamp: str,
+) -> None:
     conn.execute(
         """
         INSERT INTO current_edition_dates(
             edition_day_id, date_record_id, selected_at
         ) VALUES (?, ?, ?)
         ON CONFLICT(edition_day_id) DO UPDATE SET
-            date_record_id = excluded.date_record_id,
-            selected_at = excluded.selected_at
+            date_record_id=excluded.date_record_id,
+            selected_at=excluded.selected_at
         """,
         (edition_id, record_id, timestamp),
     )
-    return record_id
 
 
 ENUMS = {
@@ -1251,6 +1255,12 @@ def load(
     artifacts = discover_artifacts(root)
     if not artifacts:
         raise RuntimeError("nenhum PDF canônico encontrado para o piloto")
+    audit_path = date_audit.manifest_path(root)
+    audit_manifest = date_audit.load_manifest(
+        audit_path,
+        [artifact_evidence(artifact) for artifact in artifacts],
+    )
+    artifacts = attach_date_audit(artifacts, audit_manifest)
     unmatched = find_unmatched_sources(root, artifacts)
     unmatched_transcriptions = sum(path.suffix == ".txt" for path in unmatched)
     _, _, analysis_root = source_paths(root)
@@ -1345,6 +1355,26 @@ def load(
                     "source_marker": "PAGE_METADATA",
                     "accepted_year": 1906,
                     "months": MONTHS,
+                },
+                created_at=timestamp,
+            )
+            visual_date_protocol = base_db.upsert_protocol(
+                conn,
+                stage="date_parsing",
+                name="masthead_visual_manifest",
+                version="1.0.0",
+                executor_type="external_service",
+                code_commit=commit,
+                parameters={
+                    "manifest_path": audit_manifest.relative_path,
+                    "manifest_sha256": audit_manifest.file_sha256,
+                    "schema_version": audit_manifest.schema_version,
+                    "verification_method": audit_manifest.verification_method,
+                    "reviewer_type": audit_manifest.reviewer_type,
+                    "reviewer_label": audit_manifest.reviewer_label,
+                    "independent_human_review": (
+                        audit_manifest.independent_human_review
+                    ),
                 },
                 created_at=timestamp,
             )
@@ -1546,27 +1576,75 @@ def load(
                             timestamp=timestamp,
                         )
 
-                observed = artifact.observed_date
+                ocr_record_id: int | None = None
+                ocr = artifact.ocr_observed_date
                 if (
-                    observed is not None
+                    ocr is not None
                     and artifact.txt_path is not None
-                    and observed.page_number in page_ids
-                    and observed.page_number in transcription_ids
+                    and ocr.page_number in page_ids
+                    and ocr.page_number in transcription_ids
                 ):
-                    ensure_date_record(
+                    ocr_record_id = ensure_date_record(
                         conn,
                         edition_id=edition_id,
                         protocol_id=date_protocol,
-                        observed=observed,
-                        page_id=page_ids[observed.page_number],
-                        transcription_id=transcription_ids[observed.page_number],
-                        txt_path=relative(artifact.txt_path, root),
+                        observed=ocr,
+                        page_id=page_ids[ocr.page_number],
+                        transcription_id=transcription_ids[ocr.page_number],
+                        evidence={
+                            "source_txt": relative(artifact.txt_path, root),
+                            "marker": "PAGE_METADATA",
+                            "page_number": ocr.page_number,
+                        },
+                        parser_name="masthead_pt_regex",
+                        parser_version="1.0.0",
+                        notes="Data extraída literalmente de PAGE_METADATA.",
+                        timestamp=timestamp,
+                    )
+
+                selected_record_id = ocr_record_id
+                selected_date = ocr
+                audit = artifact.audit_record
+                if audit is not None:
+                    visual = artifact.observed_date
+                    assert visual is not None
+                    visual_record_id = ensure_date_record(
+                        conn,
+                        edition_id=edition_id,
+                        protocol_id=visual_date_protocol,
+                        observed=visual,
+                        page_id=page_ids[visual.page_number],
+                        transcription_id=None,
+                        evidence={
+                            "source_pdf": audit.pdf_path,
+                            "pdf_sha256": audit.pdf_sha256,
+                            "page_number": audit.page_number,
+                            "region": audit.evidence_region,
+                            "manifest_path": audit_manifest.relative_path,
+                            "manifest_sha256": audit_manifest.file_sha256,
+                        },
+                        parser_name="masthead_visual_manifest",
+                        parser_version="1.0.0",
+                        notes=(
+                            f"{audit.notes} Revisão ai_assisted_visual_review; "
+                            "sem revisão humana independente."
+                        ),
+                        timestamp=timestamp,
+                    )
+                    selected_record_id = visual_record_id
+                    selected_date = visual
+
+                if selected_record_id is not None and selected_date is not None:
+                    select_current_date(
+                        conn,
+                        edition_id=edition_id,
+                        record_id=selected_record_id,
                         timestamp=timestamp,
                     )
                     calendar_day_id = base_db.upsert_calendar_day(
                         conn,
                         newspaper_id=newspaper_id,
-                        civil_date=observed.normalized,
+                        civil_date=selected_date.normalized,
                         created_at=timestamp,
                     )
                     base_db.upsert_population_membership(
