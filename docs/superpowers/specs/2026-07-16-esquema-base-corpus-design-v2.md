@@ -1655,3 +1655,13 @@ Este design está pronto para virar plano de implementação quando Pedro decidi
 3. Edição-dia estrita ou múltiplas manifestações como unidade principal.
 
 A enumeração do censo e o download dos PDFs inteiros não precisam aguardar essas três decisões. A transcrição substantiva e a classificação em lote precisam.
+
+### Decidido em 2026-07-17
+
+As três decisões foram fechadas por Pedro, com análise independente do Claude. Registro em `docs/decisoes.md`, entrada de 2026-07-17:
+
+1. Gate de recall: limite inferior unilateral de 95% maior ou igual a 0,90, por jornal e fase.
+2. Censo textual: subcorpus recuperado, com triagem barata em toda página e transcrição de qualidade só nas candidatas; camada bruta completa.
+3. Unidade principal: edição-dia estrita, com manifestações modeladas na camada bruta.
+
+O critério de conclusão do design está satisfeito. A Fase B fica desbloqueada no que depende de decisão de Pedro.
