@@ -10,7 +10,7 @@ import sqlite3
 import subprocess
 import sys
 import unicodedata
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
@@ -18,6 +18,7 @@ from typing import Any
 if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
+from pipeline.base import date_audit
 from pipeline.base import db as base_db
 
 
@@ -118,7 +119,18 @@ class Artifact:
     page_count: int
     txt_path: Path | None
     pages_text: dict[int, PageText]
-    observed_date: ObservedDate | None
+    ocr_observed_date: ObservedDate | None
+    audit_record: date_audit.DateAuditRecord | None = None
+
+    @property
+    def observed_date(self) -> ObservedDate | None:
+        if self.audit_record is not None:
+            return ObservedDate(
+                literal=self.audit_record.date_literal,
+                normalized=self.audit_record.normalized_date,
+                page_number=self.audit_record.page_number,
+            )
+        return self.ocr_observed_date
 
 
 @dataclass(frozen=True, slots=True)
@@ -354,10 +366,48 @@ def discover_artifacts(repo_root: Path) -> list[Artifact]:
                 page_count=page_count,
                 txt_path=txt_path,
                 pages_text=pages,
-                observed_date=observed_date_from_pages(pages),
+                ocr_observed_date=observed_date_from_pages(pages),
             )
         )
     return artifacts
+
+
+def artifact_evidence(artifact: Artifact) -> date_audit.ArtifactEvidence:
+    return date_audit.ArtifactEvidence(
+        source_identifier=artifact.stem,
+        pdf_path=artifact.relative_pdf_path,
+        pdf_sha256=artifact.pdf_sha256,
+        page_count=artifact.page_count,
+        source_year=artifact.year,
+    )
+
+
+def attach_date_audit(
+    artifacts: list[Artifact],
+    manifest: date_audit.DateAuditManifest,
+) -> list[Artifact]:
+    result: list[Artifact] = []
+    for artifact in artifacts:
+        record = manifest.records_by_identifier.get(artifact.stem)
+        if record is not None:
+            ocr_date = (
+                artifact.ocr_observed_date.normalized
+                if artifact.ocr_observed_date is not None
+                else None
+            )
+            if record.decision == "fill_missing_ocr" and ocr_date is not None:
+                raise ValueError(
+                    f"{artifact.stem}: fill_missing_ocr encontrou candidato OCR"
+                )
+            if (
+                record.decision == "correct_ocr"
+                and ocr_date != record.previous_ocr_date
+            ):
+                raise ValueError(
+                    f"{artifact.stem}: previous_ocr_date diverge do candidato OCR"
+                )
+        result.append(replace(artifact, audit_record=record))
+    return result
 
 
 def find_unmatched_sources(

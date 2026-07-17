@@ -4,11 +4,13 @@ import tempfile
 import unittest
 from collections import Counter
 from contextlib import ExitStack
+from dataclasses import replace
 from pathlib import Path
 import subprocess
 import sys
 
 from pipeline.base import carrega_piloto as loader
+from pipeline.base import date_audit
 from pipeline.base import db as base_db
 
 
@@ -161,6 +163,64 @@ class PilotDiscoveryTests(unittest.TestCase):
         self.assertTrue(
             any("Estadão" in str(path.parent) for path in txt_unmatched)
         )
+
+    def test_auditoria_visual_resolve_27_casos_sem_apagar_o_ocr(self) -> None:
+        artifacts = loader.discover_artifacts(REPO_ROOT)
+        self.assertEqual(
+            45,
+            sum(artifact.ocr_observed_date is not None for artifact in artifacts),
+        )
+        manifest = date_audit.load_manifest(
+            date_audit.manifest_path(REPO_ROOT),
+            [loader.artifact_evidence(artifact) for artifact in artifacts],
+        )
+        audited = loader.attach_date_audit(artifacts, manifest)
+        self.assertEqual(67, sum(a.observed_date is not None for a in audited))
+        self.assertEqual(27, sum(a.audit_record is not None for a in audited))
+
+    def test_auditoria_prevalece_e_preserva_candidato_ocr(self) -> None:
+        artifacts = loader.discover_artifacts(REPO_ROOT)
+        manifest = date_audit.load_manifest(
+            date_audit.manifest_path(REPO_ROOT),
+            [loader.artifact_evidence(artifact) for artifact in artifacts],
+        )
+        audited = {
+            artifact.stem: artifact
+            for artifact in loader.attach_date_audit(artifacts, manifest)
+        }
+        issue = audited["per178691_1906_07959"]
+        self.assertEqual("1906-07-10", issue.ocr_observed_date.normalized)
+        self.assertEqual("1906-07-19", issue.observed_date.normalized)
+
+    def test_sem_manifesto_nao_imputa_data_pela_sequencia(self) -> None:
+        artifacts = {
+            artifact.stem: artifact
+            for artifact in loader.discover_artifacts(REPO_ROOT)
+        }
+        issue = artifacts["per178691_1906_08002"]
+        self.assertIsNone(issue.ocr_observed_date)
+        self.assertIsNone(issue.observed_date)
+
+    def test_rejeita_previous_ocr_date_divergente_do_candidato(self) -> None:
+        artifacts = loader.discover_artifacts(REPO_ROOT)
+        manifest = date_audit.load_manifest(
+            date_audit.manifest_path(REPO_ROOT),
+            [loader.artifact_evidence(artifact) for artifact in artifacts],
+        )
+        identifier = "per178691_1906_07959"
+        bad_record = replace(
+            manifest.records_by_identifier[identifier],
+            previous_ocr_date="1906-07-11",
+        )
+        bad_manifest = replace(
+            manifest,
+            records_by_identifier={
+                **manifest.records_by_identifier,
+                identifier: bad_record,
+            },
+        )
+        with self.assertRaisesRegex(ValueError, "previous_ocr_date"):
+            loader.attach_date_audit(artifacts, bad_manifest)
 
 
 class PilotLoadTests(unittest.TestCase):
