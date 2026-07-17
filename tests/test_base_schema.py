@@ -4,12 +4,12 @@ import sqlite3
 import unittest
 from pathlib import Path
 
+from pipeline.base import db
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_PATH = REPO_ROOT / "pipeline" / "base" / "schema.sql"
-MIGRATION_PATH = (
-    REPO_ROOT / "pipeline" / "base" / "migrations" / "001_init.sql"
-)
+MIGRATIONS_DIR = REPO_ROOT / "pipeline" / "base" / "migrations"
 
 EXPECTED_TABLES = {
     "audit_cases",
@@ -130,15 +130,141 @@ class SchemaTests(unittest.TestCase):
                 """
             )
 
+    def seed_object_and_edition(self, conn: sqlite3.Connection) -> tuple[int, int, int]:
+        conn.execute(
+            """
+            INSERT INTO newspapers(id, slug, title, bn_bib, city, created_at)
+            VALUES (1, 'o_paiz', 'O Paiz', '178691', 'Rio de Janeiro',
+                    '2026-07-17T00:00:00Z')
+            """
+        )
+        conn.execute(
+            """
+            INSERT INTO protocols(
+                id, stage, name, version, executor_type, code_commit,
+                parameters_json, created_at
+            ) VALUES (1, 'inventory', 'teste', '1', 'deterministic', 'abc',
+                      '{}', '2026-07-17T00:00:00Z')
+            """
+        )
+        conn.execute(
+            """
+            INSERT INTO digital_objects(
+                id, newspaper_id, source_identifier, source_url,
+                source_year, bn_file_key, bn_file_number_literal,
+                discovered_by_protocol_id, discovered_at
+            ) VALUES (1, 1, 'per178691_1906_00001',
+                      'https://example.test/per178691_1906_00001.pdf', 1906,
+                      '178691/per178691_1906_00001.pdf', '00001', 1,
+                      '2026-07-17T00:00:00Z')
+            """
+        )
+        conn.execute(
+            """
+            INSERT INTO edition_days(
+                id, newspaper_id, logical_key, edition_kind,
+                identity_status, created_at
+            ) VALUES (1, 1, 'per178691_1906_00001', 'regular',
+                      'provisional', '2026-07-17T00:00:00Z')
+            """
+        )
+        return 1, 1, 1
+
+    def test_checks_rejeitam_fetch_mode_invalido(self) -> None:
+        conn = apply_sql(SCHEMA_PATH)
+        self.addCleanup(conn.close)
+        self.seed_object_and_edition(conn)
+
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO object_fetches(
+                    object_id, fetch_mode, attempted_at, result
+                ) VALUES (1, 'ftp', '2026-07-17T00:00:00Z', 'network_error')
+                """
+            )
+
+    def test_checks_rejeitam_response_sha256_em_importacao_local(self) -> None:
+        conn = apply_sql(SCHEMA_PATH)
+        self.addCleanup(conn.close)
+        self.seed_object_and_edition(conn)
+
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO object_fetches(
+                    object_id, fetch_mode, attempted_at, result,
+                    response_sha256
+                ) VALUES (
+                    1, 'local_import', '2026-07-17T00:00:00Z',
+                    'network_error', ?
+                )
+                """,
+                ("a" * 64,),
+            )
+
+    def test_checks_aceitam_status_unresolved_sem_data(self) -> None:
+        conn = apply_sql(SCHEMA_PATH)
+        self.addCleanup(conn.close)
+        _, protocol_id, _ = self.seed_object_and_edition(conn)
+        conn.execute(
+            """
+            INSERT INTO physical_pages(
+                object_id, page_number, created_at
+            ) VALUES (1, 1, '2026-07-17T00:00:00Z')
+            """
+        )
+        page_id = conn.execute(
+            "SELECT id FROM physical_pages WHERE object_id = 1"
+        ).fetchone()[0]
+
+        conn.execute(
+            """
+            INSERT INTO date_records(
+                edition_day_id, protocol_id, evidence_page_id,
+                parser_name, parser_version, status, notes, created_at
+            ) VALUES (
+                1, ?, ?, 'masthead_visual_manifest', '1.0.0', 'unresolved',
+                'masthead ilegível', '2026-07-17T00:00:00Z'
+            )
+            """,
+            (protocol_id, page_id),
+        )
+        row = conn.execute(
+            "SELECT normalized_date, status FROM date_records"
+        ).fetchone()
+        self.assertIsNone(row[0])
+        self.assertEqual("unresolved", row[1])
+
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO date_records(
+                    edition_day_id, protocol_id, evidence_page_id,
+                    normalized_date, parser_name, parser_version, status,
+                    created_at
+                ) VALUES (
+                    1, ?, ?, '1906-01-13', 'masthead_visual_manifest',
+                    '1.0.0', 'unresolved', '2026-07-17T00:00:00Z'
+                )
+                """,
+                (protocol_id, page_id),
+            )
+
     def test_migracao_e_autocontida_e_equivale_ao_schema(self) -> None:
         schema_conn = apply_sql(SCHEMA_PATH)
-        migration_conn = apply_sql(MIGRATION_PATH)
+        migration_conn = sqlite3.connect(":memory:")
+        migration_conn.execute("PRAGMA foreign_keys = ON")
         self.addCleanup(schema_conn.close)
         self.addCleanup(migration_conn.close)
 
+        latest_version = db.apply_migrations(migration_conn, MIGRATIONS_DIR)
+
         self.assertEqual(0, schema_conn.execute("PRAGMA user_version").fetchone()[0])
+        self.assertGreaterEqual(latest_version, 1)
         self.assertEqual(
-            1, migration_conn.execute("PRAGMA user_version").fetchone()[0]
+            latest_version,
+            migration_conn.execute("PRAGMA user_version").fetchone()[0],
         )
         self.assertEqual(
             database_objects(schema_conn), database_objects(migration_conn)

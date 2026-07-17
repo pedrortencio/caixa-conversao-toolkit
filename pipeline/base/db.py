@@ -22,6 +22,7 @@ FetchResult = Literal[
     "invalid_pdf",
     "storage_error",
 ]
+FetchMode = Literal["http", "local_import"]
 CirculationResult = Literal[
     "circulated",
     "did_not_circulate",
@@ -126,12 +127,28 @@ def apply_migrations(
             f"PRAGMA user_version = {version};\n"
             "COMMIT;\n"
         )
+        # PRAGMA foreign_keys é no-op dentro de transação: desligar aqui
+        # (fora do BEGIN/COMMIT do script) é o único jeito de permitir a
+        # reconstrução de tabela (RENAME/CREATE/DROP) que uma migração
+        # pode precisar. O try/finally garante religar mesmo se o script
+        # falhar no meio, quando sua própria linha final nunca roda.
+        conn.execute("PRAGMA foreign_keys = OFF")
         try:
-            conn.executescript(transaction_script)
-        except Exception:
-            if conn.in_transaction:
-                conn.rollback()
-            raise
+            try:
+                conn.executescript(transaction_script)
+            except Exception:
+                if conn.in_transaction:
+                    conn.rollback()
+                raise
+        finally:
+            conn.execute("PRAGMA foreign_keys = ON")
+
+        violations = conn.execute("PRAGMA foreign_key_check").fetchall()
+        if violations:
+            raise RuntimeError(
+                f"Migração {version} deixou violações de chave "
+                f"estrangeira: {violations}"
+            )
 
         applied = int(conn.execute("PRAGMA user_version").fetchone()[0])
         if applied != version:
@@ -180,12 +197,7 @@ def upsert_newspaper(
         INSERT INTO newspapers(
             slug, title, bn_bib, city, active_from, active_to, created_at
         ) VALUES (?, ?, ?, ?, ?, ?, ?)
-        ON CONFLICT(slug) DO UPDATE SET
-            title = excluded.title,
-            bn_bib = excluded.bn_bib,
-            city = excluded.city,
-            active_from = excluded.active_from,
-            active_to = excluded.active_to
+        ON CONFLICT(slug) DO NOTHING
         """,
         (
             slug,
@@ -198,9 +210,26 @@ def upsert_newspaper(
         ),
     )
     row = conn.execute(
-        "SELECT id FROM newspapers WHERE slug = ?", (slug,)
+        """
+        SELECT id, title, bn_bib, city, active_from, active_to
+        FROM newspapers WHERE slug = ?
+        """,
+        (slug,),
     ).fetchone()
     assert row is not None
+    expected = {
+        "title": title,
+        "bn_bib": bn_bib,
+        "city": city,
+        "active_from": active_from,
+        "active_to": active_to,
+    }
+    actual = {key: row[key] for key in expected}
+    if actual != expected:
+        raise ValueError(
+            f"conflito de jornal em slug={slug!r}: "
+            "a chave existente possui outra identidade"
+        )
     return int(row["id"])
 
 
@@ -300,12 +329,7 @@ def upsert_digital_object(
             bn_file_key, bn_file_number_literal,
             discovered_by_protocol_id, discovered_at
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ON CONFLICT(source_identifier) DO UPDATE SET
-            newspaper_id = excluded.newspaper_id,
-            source_url = excluded.source_url,
-            source_year = excluded.source_year,
-            bn_file_key = excluded.bn_file_key,
-            bn_file_number_literal = excluded.bn_file_number_literal
+        ON CONFLICT(source_identifier) DO NOTHING
         """,
         (
             newspaper_id,
@@ -319,10 +343,28 @@ def upsert_digital_object(
         ),
     )
     row = conn.execute(
-        "SELECT id FROM digital_objects WHERE source_identifier = ?",
+        """
+        SELECT id, newspaper_id, source_url, source_year,
+               bn_file_key, bn_file_number_literal
+        FROM digital_objects WHERE source_identifier = ?
+        """,
         (source_identifier,),
     ).fetchone()
     assert row is not None
+    expected = {
+        "newspaper_id": newspaper_id,
+        "source_url": source_url,
+        "source_year": source_year,
+        "bn_file_key": bn_file_key,
+        "bn_file_number_literal": bn_file_number_literal,
+    }
+    actual = {key: row[key] for key in expected}
+    if actual != expected:
+        raise ValueError(
+            "conflito de objeto digital em "
+            f"source_identifier={source_identifier!r}: "
+            "a chave existente possui outra identidade"
+        )
     return int(row["id"])
 
 
@@ -365,6 +407,7 @@ def mark_download_status(
     object_id: int,
     result: FetchResult,
     attempted_at: str,
+    fetch_mode: FetchMode = "http",
     completed_at: str | None = None,
     http_status: int | None = None,
     storage_path: str | None = None,
@@ -379,13 +422,14 @@ def mark_download_status(
     cursor = conn.execute(
         """
         INSERT INTO object_fetches(
-            object_id, attempted_at, completed_at, result, http_status,
-            storage_path, pdf_sha256, response_sha256, byte_count,
-            page_count, error_class, error_message
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            object_id, fetch_mode, attempted_at, completed_at, result,
+            http_status, storage_path, pdf_sha256, response_sha256,
+            byte_count, page_count, error_class, error_message
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """,
         (
             object_id,
+            fetch_mode,
             attempted_at,
             completed_at,
             result,

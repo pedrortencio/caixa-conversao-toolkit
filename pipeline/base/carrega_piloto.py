@@ -431,6 +431,17 @@ def now() -> str:
 
 
 def git_commit(repo_root: Path) -> str:
+    """Devolve o commit vigente; sufixa '-dirty' se a árvore tiver mudança
+    não commitada, em vez de abortar (achado E.4: o censo escreve
+    manifestos versionados continuamente por horas, então a árvore fica
+    legitimamente suja durante toda a operação normal)."""
+    status = subprocess.run(
+        ["git", "status", "--porcelain"],
+        cwd=repo_root,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
     result = subprocess.run(
         ["git", "rev-parse", "HEAD"],
         cwd=repo_root,
@@ -441,6 +452,8 @@ def git_commit(repo_root: Path) -> str:
     commit = result.stdout.strip()
     if not re.fullmatch(r"[0-9a-f]{40}", commit):
         raise RuntimeError(f"commit Git inválido: {commit!r}")
+    if status.stdout.strip():
+        return f"{commit}-dirty"
     return commit
 
 
@@ -1047,8 +1060,8 @@ def contract_checks(conn: sqlite3.Connection) -> None:
     )
     if table_count != 44:
         raise AssertionError(f"schema: esperadas 44 tabelas, obtidas {table_count}")
-    if int(conn.execute("PRAGMA user_version").fetchone()[0]) != 1:
-        raise AssertionError("schema não migrado para user_version 1")
+    if int(conn.execute("PRAGMA user_version").fetchone()[0]) != 2:
+        raise AssertionError("schema não migrado para user_version 2")
     if int(conn.execute("PRAGMA foreign_keys").fetchone()[0]) != 1:
         raise AssertionError("PRAGMA foreign_keys está desativado")
 
@@ -1461,11 +1474,12 @@ def load(
                         object_id=object_id,
                         result="ok",
                         attempted_at=timestamp,
+                        fetch_mode="local_import",
                         completed_at=timestamp,
                         http_status=None,
                         storage_path=artifact.relative_pdf_path,
                         pdf_sha256=artifact.pdf_sha256,
-                        response_sha256=artifact.pdf_sha256,
+                        response_sha256=None,
                         byte_count=artifact.byte_count,
                         page_count=artifact.page_count,
                         make_current=False,

@@ -91,6 +91,7 @@ CREATE TABLE edition_days (
 CREATE TABLE object_fetches (
     id INTEGER PRIMARY KEY,
     object_id INTEGER NOT NULL REFERENCES digital_objects(id),
+    fetch_mode TEXT NOT NULL DEFAULT 'http',
     attempted_at TEXT NOT NULL,
     completed_at TEXT,
     result TEXT NOT NULL,
@@ -103,16 +104,23 @@ CREATE TABLE object_fetches (
     error_class TEXT,
     error_message TEXT,
     UNIQUE (object_id, id),
+    CHECK (fetch_mode IN ('http', 'local_import')),
     CHECK (result IN (
         'ok', 'http_error', 'network_error', 'invalid_pdf', 'storage_error'
     )),
     CHECK (http_status IS NULL OR http_status BETWEEN 100 AND 599),
     CHECK (pdf_sha256 IS NULL OR length(pdf_sha256) = 64),
     CHECK (response_sha256 IS NULL OR length(response_sha256) = 64),
+    -- Só resposta HTTP real produz hash de resposta; importação local não
+    -- fabrica um response_sha256 (achado E.1 do parecer de 2026-07-17).
+    CHECK (fetch_mode = 'http' OR response_sha256 IS NULL),
     CHECK (
         result <> 'ok'
         OR (
-            (http_status IS NULL OR http_status BETWEEN 200 AND 299)
+            (
+                (fetch_mode = 'http' AND http_status BETWEEN 200 AND 299)
+                OR (fetch_mode = 'local_import' AND http_status IS NULL)
+            )
             AND storage_path IS NOT NULL
             AND pdf_sha256 IS NOT NULL
             AND byte_count IS NOT NULL
@@ -482,15 +490,15 @@ CREATE TABLE date_records (
     date_literal TEXT,
     parser_name TEXT NOT NULL,
     parser_version TEXT NOT NULL,
-    normalized_date TEXT NOT NULL,
+    normalized_date TEXT,
     status TEXT NOT NULL,
     imputation_method TEXT,
     confidence REAL,
     notes TEXT,
     created_at TEXT NOT NULL,
     UNIQUE (edition_day_id, id),
-    CHECK (length(normalized_date) = 10),
-    CHECK (status IN ('observed', 'imputed')),
+    CHECK (normalized_date IS NULL OR length(normalized_date) = 10),
+    CHECK (status IN ('observed', 'imputed', 'unresolved')),
     CHECK (confidence IS NULL OR confidence BETWEEN 0.0 AND 1.0),
     CHECK (
         status <> 'observed'
@@ -498,10 +506,19 @@ CREATE TABLE date_records (
             evidence_page_id IS NOT NULL
             AND evidence_region_json IS NOT NULL
             AND date_literal IS NOT NULL
+            AND normalized_date IS NOT NULL
         )
     ),
     CHECK (
-        status <> 'imputed' OR imputation_method IS NOT NULL
+        status <> 'imputed'
+        OR (imputation_method IS NOT NULL AND normalized_date IS NOT NULL)
+    ),
+    -- Falha de parse é registro positivo, não ausência de ponteiro
+    -- (achado B do parecer de 2026-07-17): a página examinada fica
+    -- registrada mesmo quando nenhuma data pôde ser normalizada.
+    CHECK (
+        status <> 'unresolved'
+        OR (normalized_date IS NULL AND evidence_page_id IS NOT NULL)
     )
 );
 

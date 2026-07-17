@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import tempfile
 import unittest
 from collections import Counter
@@ -139,6 +140,52 @@ class PilotParserTests(unittest.TestCase):
             invalid.write_bytes(b"nao e pdf")
             with self.assertRaises(ValueError):
                 loader.count_pdf_pages(invalid)
+
+
+class GitCommitTests(unittest.TestCase):
+    def _init_repo(self, root: Path) -> None:
+        env = {
+            **os.environ,
+            "GIT_AUTHOR_NAME": "t",
+            "GIT_AUTHOR_EMAIL": "t@t.com",
+            "GIT_COMMITTER_NAME": "t",
+            "GIT_COMMITTER_EMAIL": "t@t.com",
+        }
+        subprocess.run(["git", "init"], cwd=root, check=True, capture_output=True)
+        (root / "arquivo.txt").write_text("conteudo", encoding="utf-8")
+        subprocess.run(
+            ["git", "add", "arquivo.txt"], cwd=root, check=True, capture_output=True
+        )
+        subprocess.run(
+            ["git", "commit", "-m", "inicial"],
+            cwd=root,
+            check=True,
+            capture_output=True,
+            env=env,
+        )
+
+    def test_git_commit_aceita_arvore_limpa(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self._init_repo(root)
+            commit = loader.git_commit(root)
+            self.assertRegex(commit, r"^[0-9a-f]{40}$")
+
+    def test_git_commit_marca_sujeira_em_modificacao(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self._init_repo(root)
+            (root / "arquivo.txt").write_text("mudou", encoding="utf-8")
+            commit = loader.git_commit(root)
+            self.assertRegex(commit, r"^[0-9a-f]{40}-dirty$")
+
+    def test_git_commit_marca_sujeira_em_arquivo_nao_rastreado(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            self._init_repo(root)
+            (root / "novo.txt").write_text("novo", encoding="utf-8")
+            commit = loader.git_commit(root)
+            self.assertRegex(commit, r"^[0-9a-f]{40}-dirty$")
 
 
 class PilotDiscoveryTests(unittest.TestCase):
