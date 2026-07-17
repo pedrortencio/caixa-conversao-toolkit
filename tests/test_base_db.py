@@ -141,6 +141,36 @@ class DatabaseAccessTests(unittest.TestCase):
                 created_at=NOW,
             )
 
+    def test_protocolo_reutilizado_ignora_code_commit_na_identidade(self) -> None:
+        self.migrate()
+        first = db.upsert_protocol(
+            self.conn,
+            stage="inventory",
+            name="inventario",
+            version="1",
+            executor_type="deterministic",
+            code_commit="commit-original",
+            parameters={"a": 1},
+            created_at=NOW,
+        )
+        second = db.upsert_protocol(
+            self.conn,
+            stage="inventory",
+            name="inventario",
+            version="1",
+            executor_type="deterministic",
+            code_commit="commit-posterior",
+            parameters={"a": 1},
+            created_at=NOW,
+        )
+        self.assertEqual(first, second)
+        self.assertEqual(
+            "commit-original",
+            self.conn.execute(
+                "SELECT code_commit FROM protocols WHERE id = ?", (first,)
+            ).fetchone()[0],
+        )
+
     def test_downloads_sao_historicos_e_ponteiro_aponta_para_o_ultimo(self) -> None:
         _, _, object_id = self.seed_inventory()
         first = db.mark_download_status(

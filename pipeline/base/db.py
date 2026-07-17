@@ -251,7 +251,7 @@ def upsert_protocol(
     )
     row = conn.execute(
         """
-        SELECT id, executor_type, code_commit, model_provider, model_name,
+        SELECT id, executor_type, model_provider, model_name,
                model_version, prompt_version, prompt_sha256, prompt_path,
                parameters_json
         FROM protocols
@@ -260,9 +260,10 @@ def upsert_protocol(
         (stage, name, version),
     ).fetchone()
     assert row is not None
+    # code_commit fica fora da identidade: registra a primeira
+    # materialização e não muda em reexecuções sob commits novos.
     expected = {
         "executor_type": executor_type,
-        "code_commit": code_commit,
         "model_provider": model_provider,
         "model_name": model_name,
         "model_version": model_version,
