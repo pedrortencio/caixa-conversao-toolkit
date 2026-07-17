@@ -29,6 +29,7 @@ artigo/*.blg
 artigo/*.synctex.gz
 
 # SQLite temporários
+dados/base/*.db
 *.db-journal
 *.db-wal
 *.db-shm
