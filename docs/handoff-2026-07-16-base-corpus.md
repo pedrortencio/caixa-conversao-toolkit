@@ -1,5 +1,18 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 17/07/2026
+
+O manifesto visual resolveu as 22 lacunas e corrigiu cinco candidatos do OCR.
+A carga limpa agora produz 72 registros históricos, 67 datas vigentes observadas,
+67 dias civis distintos, zero datas imputadas e zero datas não resolvidas.
+A próxima revisão recomendada é humana e independente, por amostra ou pelos 27 casos.
+
+A revisão independente da implementação (Claude, 17/07) está em
+`docs/revisao-independente-claude-2026-07-17.md`: aprovada com ressalvas. O achado
+principal foi corrigido no mesmo dia (`code_commit` fora da identidade do protocolo,
+permitindo reexecutar a carga sob commits novos). Os achados B, D e E do parecer
+ficam para uma migração 002 e ajustes de spec antes da Fase B.
+
 ## Atualização após a carga, 16/07/2026
 
 A etapa de implementação foi concluída no repositório principal. Foram criados `pipeline/base/schema.sql`, `pipeline/base/migrations/001_init.sql`, `pipeline/base/db.py`, `pipeline/base/carrega_piloto.py` e a suíte em `tests/`.

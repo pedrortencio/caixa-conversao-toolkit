@@ -1,6 +1,7 @@
 # Relatório da carga piloto de 1906
 
 Data da execução: 16/07/2026
+Atualização de 17/07/2026: incorporada a auditoria visual das datas via manifesto auditável; revisão independente da implementação em `docs/revisao-independente-claude-2026-07-17.md`.
 
 ## Resultado
 
@@ -23,10 +24,11 @@ O banco passou:
 | Páginas físicas | 450 |
 | Páginas com avaliação inicial `not_assessed` | 450 |
 | Páginas transcritas | 102 |
-| Datas observadas | 45 |
-| Datas imputadas | 0 |
-| Datas não resolvidas | 22 |
-| Dias civis distintos entre as datas observadas | 43 |
+| Datas observadas vigentes | 67 |
+| Datas imputadas vigentes | 0 |
+| Datas não resolvidas | 0 |
+| Dias civis distintos | 67 |
+| Registros históricos de data | 72 |
 | TXT sem PDF canônico no recorte autorizado | 474 |
 
 Todos os 67 PDFs são de O Paiz, BIB `178691`. Portanto, esta execução valida o contrato sobre um subconjunto de O Paiz. Ela não constitui ainda o piloto completo dos quatro jornais.
@@ -50,9 +52,13 @@ Quatorze páginas transcritas não possuem artigo demarcado e não receberam ava
 1. O manifesto estimava oito a doze páginas por PDF. A distribuição real é: três PDFs com quatro páginas, 41 com seis, 20 com oito, dois com dez e um com doze.
 2. Os marcadores de página usam três formatos: `PAGE 1`, `arquivo.pdf-PAGE1` e número da edição no lugar do número de página, como `PAGE 7819`. O último formato foi tratado como página 1, preservando o literal original.
 3. `per178691_1906_08099.txt` contém duas marcações da página 1. Os blocos foram fundidos, preservando texto e ordem dos artigos.
-4. Há 45 datas observadas, mas somente 43 datas civis distintas. Dois pares exigem auditoria manual antes de serem interpretados como múltiplas edições:
-   - `1906-07-10`: `per178691_1906_07950` e `per178691_1906_07959`;
-   - `1906-09-20`: `per178691_1906_08022` e `per178691_1906_08028`.
+4. O OCR aceitou 45 datas, mas a auditoria visual dos mastheads mostrou que cinco estavam erradas e que os 22 casos sem data tinham masthead legível. Os dois pares aparentemente duplicados eram erro de OCR, não múltiplas edições. As cinco correções, vigentes via manifesto (`pipeline/base/manifests/datas_masthead_1906.json`):
+   - `07943`: `1906-07-05` -> `1906-07-03`;
+   - `07959`: `1906-07-10` -> `1906-07-19`;
+   - `08020`: `1906-09-08` -> `1906-09-18`;
+   - `08028`: `1906-09-20` -> `1906-09-26`;
+   - `08107`: `1906-12-08` -> `1906-12-14`.
+   Os candidatos errados do OCR permanecem em `date_records` como histórico não vigente. A auditoria foi uma leitura visual assistida pelo Codex (`ai_assisted_visual_review`), sem revisão humana independente, vinculada ao manifesto e aos hashes SHA-256 dos PDFs. Verificação de consistência adicional: ordenando as 67 edições pelo número de arquivo da BN, a diferença de números é igual à diferença de dias em todos os 66 pares consecutivos; a sequência permanece controle de qualidade, nunca fonte de data.
 5. O piloto não preserva o raster exato entregue ao produtor legado. `physical_pages.visual_sha256` e `transcriptions.input_visual_sha256` usam o hash do PDF contêiner, enquanto `page_id` e `#page=N` identificam a página. Essa granularidade deve ser substituída por hash do raster em novas execuções.
 6. Os 474 TXT sem PDF canônico incluem edições de O Paiz fora do subconjunto de 67 e as transcrições dos demais jornais. Eles não foram materializados como páginas porque a carga exige objeto físico verificável.
 7. A importação local não preserva a resposta HTTP original. As obtenções bem-sucedidas têm `http_status = NULL`; caminho, hashes, tamanho e número de páginas permanecem obrigatórios.
@@ -63,10 +69,8 @@ Quatorze páginas transcritas não possuem artigo demarcado e não receberam ava
 
 - 67 objetos digitais estão ligados a 67 edições lógicas.
 - Todos os vínculos usam o papel `principal`.
-- 45 edições estão `confirmed` por data observada.
-- 22 edições permanecem `provisional`.
+- 67 edições estão `confirmed` por data observada, 40 por OCR e 27 pela auditoria visual.
 - Não foi possível identificar suplementos, extraordinárias, duplicatas de digitalização ou PDFs com mais de uma unidade lógica apenas com estas fontes.
-- Os dois dias com duas datas normalizadas não podem ser classificados como múltiplas edições sem conferência visual.
 
 ## Tabelas sem dado real no piloto
 
@@ -99,8 +103,8 @@ Quatorze páginas transcritas não possuem artigo demarcado e não receberam ava
 
 Antes de expandir a coleta ou gastar com transcrição:
 
-1. Revisar independentemente o schema, o módulo de acesso e o carregador.
-2. Conferir visualmente os dois pares de datas duplicadas e uma amostra dos 45 mastheads resolvidos.
+1. Revisão independente do schema, do módulo de acesso e do carregador: realizada em 17/07/2026 (`docs/revisao-independente-claude-2026-07-17.md`), aprovada com ressalvas pontuais.
+2. Revisão humana independente das datas, por amostra ou pelos 27 casos do manifesto (a auditoria atual foi assistida por IA).
 3. Completar os PDFs canônicos de O Paiz e incorporar PDFs dos outros três jornais.
 4. Reexecutar a carga para medir cardinalidades de objeto, edição, suplemento e extraordinária no piloto completo.
 5. Só então usar o piloto completo para decidir edição-dia estrita ou múltiplas manifestações editoriais.
