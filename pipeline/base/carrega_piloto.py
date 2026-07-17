@@ -143,6 +143,7 @@ class CoverageReport:
     observed_dates: int
     imputed_dates: int
     unresolved_dates: int
+    editions_without_date_pointer: int
     unmatched_transcriptions: int
     assessment_results: tuple[tuple[str, str, int], ...]
 
@@ -990,6 +991,51 @@ def select_current_date(
     )
 
 
+def register_unresolved_date(
+    conn: sqlite3.Connection,
+    *,
+    edition_id: int,
+    protocol_id: int,
+    page_id: int,
+    parser_name: str,
+    parser_version: str,
+    evidence: dict[str, object],
+    notes: str,
+    timestamp: str,
+    transcription_id: int | None = None,
+) -> int:
+    """Registra positivamente uma falha de parse de data (achado B).
+
+    Uma tentativa de leitura do masthead que não normaliza nenhuma data
+    vira um `date_record` com `status='unresolved'` (data nula, página de
+    evidência obrigatória), nunca ausência de ponteiro em
+    `current_edition_dates`. O consenso da validação, negativo é registro
+    positivo, vale para datas tanto quanto para páginas."""
+    evidence_json = json.dumps(evidence, ensure_ascii=False, sort_keys=True)
+    cursor = conn.execute(
+        """
+        INSERT INTO date_records(
+            edition_day_id, protocol_id, evidence_page_id,
+            evidence_transcription_id, evidence_region_json,
+            date_literal, parser_name, parser_version,
+            normalized_date, status, confidence, notes, created_at
+        ) VALUES (?, ?, ?, ?, ?, NULL, ?, ?, NULL, 'unresolved', NULL, ?, ?)
+        """,
+        (
+            edition_id,
+            protocol_id,
+            page_id,
+            transcription_id,
+            evidence_json,
+            parser_name,
+            parser_version,
+            notes,
+            timestamp,
+        ),
+    )
+    return int(cursor.lastrowid)
+
+
 ENUMS = {
     ("protocols", "stage"): {
         "inventory",
@@ -1045,7 +1091,7 @@ ENUMS = {
         "recall_reference",
     },
     ("transcriptions", "result_status"): {"ok", "empty", "error"},
-    ("date_records", "status"): {"observed", "imputed"},
+    ("date_records", "status"): {"observed", "imputed", "unresolved"},
 }
 
 
@@ -1215,6 +1261,15 @@ def coverage_report(
             """
         ).fetchone()[0]
     )
+    unresolved_dates = int(
+        conn.execute(
+            """
+            SELECT count(*) FROM current_edition_dates AS current
+            JOIN date_records AS record ON record.id = current.date_record_id
+            WHERE record.status='unresolved'
+            """
+        ).fetchone()[0]
+    )
     assessment_results = tuple(
         (row["assessment_level"], row["result"], int(row["total"]))
         for row in conn.execute(
@@ -1236,7 +1291,10 @@ def coverage_report(
         transcriptions=transcriptions,
         observed_dates=observed_dates,
         imputed_dates=imputed_dates,
-        unresolved_dates=editions - observed_dates - imputed_dates,
+        unresolved_dates=unresolved_dates,
+        editions_without_date_pointer=(
+            editions - observed_dates - imputed_dates - unresolved_dates
+        ),
         unmatched_transcriptions=unmatched_transcriptions,
         assessment_results=assessment_results,
     )
@@ -1252,6 +1310,10 @@ def print_report(report: CoverageReport) -> None:
     print(f"  Datas observadas: {report.observed_dates}")
     print(f"  Datas imputadas: {report.imputed_dates}")
     print(f"  Datas não resolvidas: {report.unresolved_dates}")
+    print(
+        "  Edições sem ponteiro de data: "
+        f"{report.editions_without_date_pointer}"
+    )
     print(f"  TXT sem PDF canônico: {report.unmatched_transcriptions}")
     print("  Avaliações vigentes:")
     for level, result, total in report.assessment_results:
@@ -1670,6 +1732,34 @@ def load(
                         reason="PDF canônico disponível e data observada.",
                         assigned_at=timestamp,
                     )
+                else:
+                    masthead_page_id = page_ids.get(1)
+                    if masthead_page_id is not None:
+                        unresolved_record_id = register_unresolved_date(
+                            conn,
+                            edition_id=edition_id,
+                            protocol_id=date_protocol,
+                            page_id=masthead_page_id,
+                            parser_name="masthead_pt_regex",
+                            parser_version="1.0.0",
+                            evidence={
+                                "source": "masthead",
+                                "page_number": 1,
+                                "reason": "nenhuma data normalizavel no masthead",
+                            },
+                            notes=(
+                                "Masthead sem data normalizavel; registro "
+                                "positivo de falha de parse (achado B)."
+                            ),
+                            timestamp=timestamp,
+                            transcription_id=transcription_ids.get(1),
+                        )
+                        select_current_date(
+                            conn,
+                            edition_id=edition_id,
+                            record_id=unresolved_record_id,
+                            timestamp=timestamp,
+                        )
 
         contract_checks(conn)
         report = coverage_report(

@@ -17,6 +17,8 @@ from pipeline.base import db as base_db
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+NOW = "2026-07-17T12:00:00+00:00"
+HASH_A = "a" * 64
 
 
 class PilotParserTests(unittest.TestCase):
@@ -443,6 +445,147 @@ class ContractCheckTests(unittest.TestCase):
             ):
                 loader.contract_checks(conn)
             conn.close()
+
+
+class UnresolvedDateTests(unittest.TestCase):
+    """Achado B: uma falha de parse de data é registro positivo
+    (status 'unresolved'), nunca ausência de ponteiro."""
+
+    def _seed_edition_and_page(
+        self, conn: object
+    ) -> tuple[int, int, int]:
+        newspaper_id = base_db.upsert_newspaper(
+            conn, slug="o_paiz", title="O Paiz", bn_bib="178691",
+            city="Rio de Janeiro", created_at=NOW,
+        )
+        inventory_protocol = base_db.upsert_protocol(
+            conn, stage="inventory", name="inv", version="1.0.0",
+            executor_type="deterministic", code_commit="abc",
+            parameters={}, created_at=NOW,
+        )
+        date_protocol = base_db.upsert_protocol(
+            conn, stage="date_parsing", name="masthead_pt_regex",
+            version="1.0.0", executor_type="deterministic",
+            code_commit="abc", parameters={}, created_at=NOW,
+        )
+        object_id = base_db.upsert_digital_object(
+            conn, newspaper_id=newspaper_id,
+            source_identifier="per178691_1906_08002",
+            source_url="https://example.test/per178691_1906_08002.pdf",
+            source_year=1906,
+            bn_file_key="178691/per178691_1906_08002.pdf",
+            bn_file_number_literal="08002",
+            discovered_by_protocol_id=inventory_protocol, discovered_at=NOW,
+        )
+        edition_id = loader.upsert_edition(
+            conn, newspaper_id=newspaper_id,
+            logical_key="per178691_1906_08002", confirmed=False,
+            timestamp=NOW,
+        )
+        page_id = loader.upsert_page(
+            conn, object_id=object_id, page_number=1,
+            pdf_path="dados/raw_pdf/per178691_1906_08002.pdf",
+            pdf_sha256=HASH_A, timestamp=NOW,
+        )
+        return date_protocol, edition_id, page_id
+
+    def test_register_unresolved_date_grava_registro_positivo(self) -> None:
+        with ExitStack() as stack:
+            temporary = stack.enter_context(tempfile.TemporaryDirectory())
+            conn = base_db.connect(Path(temporary) / "base" / "test.db")
+            stack.callback(conn.close)
+            date_protocol, edition_id, page_id = self._seed_edition_and_page(
+                conn
+            )
+
+            record_id = loader.register_unresolved_date(
+                conn,
+                edition_id=edition_id,
+                protocol_id=date_protocol,
+                page_id=page_id,
+                parser_name="masthead_pt_regex",
+                parser_version="1.0.0",
+                evidence={
+                    "source": "masthead",
+                    "page_number": 1,
+                    "reason": "sem data normalizavel",
+                },
+                notes="Masthead sem data normalizavel.",
+                timestamp=NOW,
+            )
+
+            row = conn.execute(
+                "SELECT status, normalized_date, evidence_page_id, date_literal "
+                "FROM date_records WHERE id=?",
+                (record_id,),
+            ).fetchone()
+            self.assertEqual("unresolved", row["status"])
+            self.assertIsNone(row["normalized_date"])
+            self.assertEqual(page_id, row["evidence_page_id"])
+            self.assertIsNone(row["date_literal"])
+
+    def test_contract_checks_aceita_data_unresolved(self) -> None:
+        with ExitStack() as stack:
+            temporary = stack.enter_context(tempfile.TemporaryDirectory())
+            database = Path(temporary) / "piloto.db"
+            loader.load(database, repo_root=REPO_ROOT)
+            conn = base_db.connect(database)
+            stack.callback(conn.close)
+
+            target = conn.execute(
+                """
+                SELECT e.id AS edition_id, p.id AS page_id
+                FROM edition_days e
+                JOIN edition_object_links l ON l.edition_day_id = e.id
+                JOIN physical_pages p ON p.object_id = l.object_id
+                WHERE p.page_number = 1
+                LIMIT 1
+                """
+            ).fetchone()
+            date_protocol = conn.execute(
+                "SELECT id FROM protocols "
+                "WHERE stage='date_parsing' AND name='masthead_pt_regex'"
+            ).fetchone()["id"]
+
+            with base_db.transaction(conn):
+                loader.register_unresolved_date(
+                    conn,
+                    edition_id=target["edition_id"],
+                    protocol_id=date_protocol,
+                    page_id=target["page_id"],
+                    parser_name="masthead_pt_regex",
+                    parser_version="1.0.0",
+                    evidence={"reason": "teste"},
+                    notes="teste",
+                    timestamp=loader.now(),
+                )
+
+            loader.contract_checks(conn)
+
+    def test_coverage_report_conta_unresolved_positivamente(self) -> None:
+        with ExitStack() as stack:
+            temporary = stack.enter_context(tempfile.TemporaryDirectory())
+            database = Path(temporary) / "piloto.db"
+            loader.load(database, repo_root=REPO_ROOT)
+            conn = base_db.connect(database)
+            stack.callback(conn.close)
+            artifacts = loader.discover_artifacts(REPO_ROOT)
+
+            edition_id = conn.execute(
+                "SELECT edition_day_id FROM current_edition_dates LIMIT 1"
+            ).fetchone()[0]
+            with base_db.transaction(conn):
+                conn.execute(
+                    "DELETE FROM current_edition_dates WHERE edition_day_id=?",
+                    (edition_id,),
+                )
+
+            report = loader.coverage_report(
+                conn, artifacts=artifacts, unmatched_transcriptions=0
+            )
+            self.assertEqual(66, report.observed_dates)
+            self.assertEqual(0, report.unresolved_dates)
+            self.assertEqual(1, report.editions_without_date_pointer)
 
 
 if __name__ == "__main__":

@@ -51,8 +51,8 @@ pipeline/base/
 ├── db.py
 ├── schema.sql
 └── migrations/
-    ├── 001_initial_v2.sql
-    ├── 002_views_v2.sql
+    ├── 001_init.sql   (schema completo v2, com as views)
+    ├── 002_fetch_mode_and_unresolved_dates.sql
     └── ...
 ```
 
@@ -298,6 +298,7 @@ CREATE TABLE object_fetches (
     attempted_at        TEXT NOT NULL,
     completed_at        TEXT,
     result              TEXT NOT NULL,
+    fetch_mode          TEXT NOT NULL DEFAULT 'http',
     http_status         INTEGER,
     storage_path        TEXT,
     pdf_sha256          TEXT,
@@ -326,10 +327,18 @@ CREATE TABLE object_fetches (
         response_sha256 IS NULL
         OR length(response_sha256) = 64
     ),
+    CHECK (fetch_mode IN ('http', 'local_import')),
+    -- Só resposta HTTP real produz hash de resposta (achado E.1).
+    CHECK (fetch_mode = 'http' OR response_sha256 IS NULL),
+    -- Achado D: a importação local do piloto tem http_status nulo; um
+    -- download HTTP real com http_status nulo continua reprovado.
     CHECK (
         result <> 'ok'
         OR (
-            http_status BETWEEN 200 AND 299
+            (
+                (fetch_mode = 'http' AND http_status BETWEEN 200 AND 299)
+                OR (fetch_mode = 'local_import' AND http_status IS NULL)
+            )
             AND storage_path IS NOT NULL
             AND pdf_sha256 IS NOT NULL
             AND byte_count > 0
@@ -885,17 +894,18 @@ CREATE TABLE date_records (
     date_literal        TEXT,
     parser_name         TEXT NOT NULL,
     parser_version      TEXT NOT NULL,
-    normalized_date     TEXT NOT NULL,
+    normalized_date     TEXT,
     status              TEXT NOT NULL,
     imputation_method   TEXT,
     confidence          REAL,
     notes               TEXT,
     created_at          TEXT NOT NULL,
     UNIQUE (edition_day_id, id),
-    CHECK (length(normalized_date) = 10),
+    CHECK (normalized_date IS NULL OR length(normalized_date) = 10),
     CHECK (status IN (
         'observed',
-        'imputed'
+        'imputed',
+        'unresolved'
     )),
     CHECK (
         confidence IS NULL
@@ -907,11 +917,18 @@ CREATE TABLE date_records (
             evidence_page_id IS NOT NULL
             AND evidence_region_json IS NOT NULL
             AND date_literal IS NOT NULL
+            AND normalized_date IS NOT NULL
         )
     ),
     CHECK (
         status <> 'imputed'
-        OR imputation_method IS NOT NULL
+        OR (imputation_method IS NOT NULL AND normalized_date IS NOT NULL)
+    ),
+    -- Achado B: falha de parse de data é registro positivo, não ausência
+    -- de ponteiro. A página examinada fica registrada mesmo sem data.
+    CHECK (
+        status <> 'unresolved'
+        OR (normalized_date IS NULL AND evidence_page_id IS NOT NULL)
     )
 );
 
