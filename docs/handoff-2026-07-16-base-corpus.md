@@ -1,5 +1,34 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 18/07/2026: Fase A em execução
+
+A Fase A (censo 1906-1914) foi implementada e a varredura completa está RODANDO em
+processo destacado. Plano: `docs/superpowers/plans/2026-07-18-fase-a-censo-download.md`.
+Fatos de desenho descobertos por sondagem real: os 4 bibs servem PDF no host estático;
+o par (ano, número) é validado pelo servidor; O Paiz, Correio da Manhã e Correio
+Paulistano têm numeração contínua entre anos; a Gazeta tem numeração anual COM buracos
+reais no meio do ano (1907: números 100 e 200 ausentes, 320 existe). Por isso o censo é
+varredura número a número com registro positivo de ausência, nunca busca binária pura.
+
+Operação:
+
+- Raiz local dos PDFs: `C:\dados-caixa\raw_pdf` (fora do OneDrive). Backup decidido por
+  Pedro: local + Google Drive (`robocopy C:\dados-caixa\raw_pdf "G:\My Drive\caixa-conversao\raw_pdf" /E /XO`).
+- Pausa automática: 4,0 s de dia, 2,5 s de madrugada (23h-7h). Decisão de Pedro em 18/07:
+  rodar de dia também, prevalecendo sobre o "lotes grandes de madrugada" do CLAUDE.md.
+- Volume estimado: ~13 mil edições, ~90 GB (PDFs de ~5-7 MB), ~30 h de rede no total.
+- Estado por (bib, ano) em `dados/censo/`: `varredura_{bib}_{ano}.csv` (manifesto
+  versionado, positivo para presença E ausência), `inicio_{bib}_{ano}.txt` (sidecar de
+  retomada), `concluido_{bib}_{ano}.txt` (marcador de varredura terminada por regra).
+- Log: `dados/censo/log_varredura.txt` (gitignored). Interromper é seguro: o resume lê
+  manifesto e cache de PDFs válidos sem tocar a rede.
+- Para retomar após interrupção: `uv run python pipeline/base/carrega_censo.py --raw-root C:\dados-caixa\raw_pdf`.
+- Status rápido: contar linhas ok/ausente dos CSVs de `dados/censo/` + tail do log.
+
+Ao concluir os 36 (bib, ano): relatório de cobertura do censo (contagens por bib/ano,
+buracos, estados de ausência), verificação do gabarito 1906 (79/94/146/110 hits do
+piloto devem ser subconjunto do censo), commit dos manifestos, e só então Fase B.
+
 ## Atualização, 17/07/2026
 
 O manifesto visual resolveu as 22 lacunas e corrigiu cinco candidatos do OCR.
