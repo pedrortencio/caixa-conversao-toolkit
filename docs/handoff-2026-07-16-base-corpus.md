@@ -1,5 +1,44 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 18/07/2026 (madrugada): varredura ENCERRADA, relatório de cobertura e regressão 1906
+
+A varredura completou sozinha às ~04h05 de 18/07 (processo destacado encerrou limpo).
+Resultado: 8.889 edições ok (84,4 GB, 84.771 páginas materializadas) + 1 `pdf_invalido`
+(`per178691_1913_10408.pdf`, HTTP 200, 21 MB, ilegível pelo pypdf; candidato a
+re-download manual). Relatório completo: `docs/relatorio-cobertura-censo.md`, gerado por
+`pipeline/base/relatorio_censo.py` (novo, com testes; lê só manifestos, nunca o banco).
+
+Portão da Fase A verificado nesta sessão:
+
+- Banco == manifesto == disco nas 27 células (bib, ano) com sucesso; zero divergências.
+- `PRAGMA integrity_check` ok; migração 002 APLICADA ao banco real (user_version 2),
+  na primeira conexão após a varredura soltar o arquivo, como previsto.
+- `physical_pages` == `page_count` do fetch vigente em todos os objetos.
+- Regressão do gabarito 1906: O Paiz APROVADO 79/79. Correio da Manhã 106/108
+  (faltam 1869 e 1870), Correio Paulistano 92/93 (falta 15276), Gazeta 145/146
+  (falta 78). Os 4 faltantes foram sondados ao vivo e são 404 REAIS no host
+  estático: são edições que o piloto baixou à mão pelo DocReader (três delas são as
+  edições duplas com prefixo A/B). Não é bug do scraper, é limite de cobertura do host.
+
+Lacunas de acervo DO HOST descobertas (decisão metodológica pendente de Pedro):
+
+- Correio da Manhã: host para no número 2099 (~jul/1907). 1908 varrido 2100-2299 sem
+  sucesso; 1909-1914 sem varredura efetiva (sem âncora). Sondagens extra (extrapolações
+  ~3010/3740/4470 para 1910/12/14 e sondas anuais n=1..6 de cada ano) todas 404.
+- Gazeta: host para no número 278 de 1912 (~out/1912); 1913 concluída com zero
+  sucessos, 1914 pulada. Buracos grandes internos em 1910-1912 (75/60/68 edições).
+- O Paiz tem o mesmo fenômeno em miniatura: ~122 números ausentes no fim de 1907
+  (8368-8489); a janela de 200 atravessou e 1908 retomou em 8490.
+- Sem listagem de diretório no host (403). Próximo passo proposto: verificar NO
+  DOCREADER (navegador; Cloudflare bloqueia requests) se CM 1907-14 e Gazeta 1912-14
+  existem digitalizados. Se sim, desenhar rota de recuperação (export SaveAsFile com
+  captcha human-in-the-loop, receita validada em 13/07); se não, registrar como
+  ausência de acervo no denominador (cascata do censo).
+
+Pendências operacionais: backup robocopy para `G:\My Drive\caixa-conversao\raw_pdf`
+decidido e AINDA NÃO executado; Gazeta 1914 e CM 1909-14 sem manifesto de varredura
+efetiva (registrados no relatório como anos sem varredura/sem sucesso).
+
 ## Atualização, 18/07/2026: Fase A em execução
 
 A Fase A (censo 1906-1914) foi implementada e a varredura completa está RODANDO em
