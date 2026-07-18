@@ -26,15 +26,17 @@ from pipeline.base.carrega_censo import (
     RAW_ROOT_PADRAO,
 )
 from pipeline.base.carrega_piloto import now
+from pipeline.base import recupera_indice
 from pipeline.scraper import censo
 from pipeline.scraper import hemeroteca as H
+from pipeline.scraper.indice_bndigital import le_manifesto_csv
 
 RAIZ_REPO = Path(__file__).resolve().parents[2]
 DIR_PILOTO = RAIZ_REPO / "dados" / "piloto_1906"
 GABARITO_ESPERADO = {"178691": 79, "090972": 94, "089842": 110, "103730": 146}
 MAX_NUMEROS_LISTADOS = 20
 _PADRAO_PILOTO = re.compile(r"^per(\d+)_1906_[A-Za-z]?(\d+)")
-_PADRAO_MANIFESTO = re.compile(r"^varredura_(\d+)_(\d{4})\.csv$")
+_PADRAO_MANIFESTO = re.compile(r"^(?:varredura|recuperacao)_(\d+)_(\d{4})\.csv$")
 
 
 @dataclass(frozen=True, slots=True)
@@ -107,10 +109,22 @@ def _estado_final_por_numero(caminho: Path) -> dict[int, dict[str, str]]:
         }
 
 
-def _numeros_ok(dir_censo: Path, bib: str, ano: int) -> frozenset[int]:
+def _estados_unificados(
+    dir_censo: Path, bib: str, ano: int
+) -> dict[int, dict[str, str]]:
+    """Estado final por número: a recuperação é observação posterior à
+    varredura, então prevalece quando as duas sondaram o mesmo número."""
     estados = _estado_final_por_numero(
         dir_censo / f"varredura_{bib}_{ano}.csv"
     )
+    estados.update(
+        _estado_final_por_numero(dir_censo / f"recuperacao_{bib}_{ano}.csv")
+    )
+    return estados
+
+
+def _numeros_ok(dir_censo: Path, bib: str, ano: int) -> frozenset[int]:
+    estados = _estados_unificados(dir_censo, bib, ano)
     return frozenset(
         numero for numero, linha in estados.items() if linha["status"] == "ok"
     )
@@ -123,9 +137,7 @@ def resume_ano(
     dir_censo: Path = DIR_CENSO,
     raw_root: Path | None,
 ) -> ResumoAno:
-    estados = _estado_final_por_numero(
-        dir_censo / f"varredura_{bib}_{ano}.csv"
-    )
+    estados = _estados_unificados(dir_censo, bib, ano)
     contagens: dict[str, int] = {}
     for linha in estados.values():
         contagens[linha["status"]] = contagens.get(linha["status"], 0) + 1
@@ -196,11 +208,12 @@ def regressao_1906(
 
 
 def _anos_varridos(dir_censo: Path, bib: str) -> list[int]:
-    anos = []
-    for caminho in dir_censo.glob(f"varredura_{bib}_*.csv"):
+    """Anos com manifesto de varredura OU de recuperação."""
+    anos = set()
+    for caminho in dir_censo.glob(f"*_{bib}_*.csv"):
         encontrado = _PADRAO_MANIFESTO.match(caminho.name)
         if encontrado is not None:
-            anos.append(int(encontrado.group(2)))
+            anos.add(int(encontrado.group(2)))
     return sorted(anos)
 
 
@@ -259,7 +272,8 @@ def gera_relatorio(
                 f"| {'sim' if resumo.concluido else 'NÃO'} "
                 f"| {len(resumo.pdfs_sumidos)} |"
             )
-            if not resumo.concluido:
+            varreu = (dir_censo / f"varredura_{bib}_{ano}.csv").exists()
+            if not resumo.concluido and varreu:
                 alertas.append(
                     f"{bib} {ano}: varredura sem marcador de conclusão."
                 )
@@ -277,6 +291,50 @@ def gera_relatorio(
     if nao_varridos:
         partes += ["", "## Anos sem varredura", ""]
         partes += [f"- {item}" for item in nao_varridos]
+
+    secao_indice: list[str] = []
+    for bib in BIBS_CENSO:
+        caminho_indice = dir_censo / f"indice_bndigital_{bib}.csv"
+        if not caminho_indice.exists():
+            continue
+        indice = le_manifesto_csv(caminho_indice)
+        for ano in sorted({ano for ano, _ in indice}):
+            numeros_indice = {n for a, n in indice if a == ano}
+            manifestos = (
+                recupera_indice.caminho_varredura(bib, ano, dir_censo),
+                recupera_indice.caminho_recuperacao(bib, ano, dir_censo),
+            )
+            oks = recupera_indice.numeros_ok(*manifestos) & numeros_indice
+            ausencias = recupera_indice.conta_ausencias(*manifestos)
+            terminais = {
+                n
+                for n in numeros_indice - oks
+                if ausencias.get(n, 0) >= recupera_indice.TERMINAL_404
+            }
+            pendentes = numeros_indice - oks - terminais
+            secao_indice.append(
+                f"| {H.slug_por_bib(bib)} | {bib} | {ano} "
+                f"| {len(numeros_indice)} | {len(oks)} | {len(terminais)} "
+                f"| {len(pendentes)} |"
+            )
+            if pendentes:
+                alertas.append(
+                    f"{bib} {ano}: {len(pendentes)} pendentes do índice "
+                    f"bndigital: {_lista_curta(tuple(sorted(pendentes)))}."
+                )
+    if secao_indice:
+        partes += [
+            "",
+            "## Cobertura contra o índice bndigital",
+            "",
+            "Critério: todo item do índice oficial deve estar materializado "
+            "(ok) ou com ausência terminal (duas observações de 404); o resto "
+            "são pendentes do índice.",
+            "",
+            "| Jornal | bib | Ano | índice | ok | 404 terminal | pendentes |",
+            "|---|---|---|---|---|---|---|",
+        ]
+        partes += secao_indice
 
     partes += [
         "",

@@ -123,6 +123,108 @@ class ResumeAnoTests(unittest.TestCase):
         self.assertEqual(resumo.pdfs_sumidos, (103,))
 
 
+class RecuperacaoNoResumoTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.temporary = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temporary.cleanup)
+        self.censo = Path(self.temporary.name)
+
+    def test_resume_ano_unifica_varredura_e_recuperacao(self) -> None:
+        escreve_manifesto(
+            self.censo / "varredura_178691_1907.csv",
+            [
+                linha(5254, "ausente", http_status=404),
+                linha(8125, "ok", http_status=200, byte_count=1000, page_count=8),
+            ],
+        )
+        escreve_manifesto(
+            self.censo / "recuperacao_178691_1907.csv",
+            [linha(5254, "ok", http_status=200, byte_count=500, page_count=4)],
+        )
+
+        resumo = relatorio_censo.resume_ano(
+            "178691", 1907, dir_censo=self.censo, raw_root=None
+        )
+
+        # Estado final por número: a recuperação prevalece sobre a varredura.
+        self.assertEqual(resumo.contagens, {"ok": 2})
+        self.assertEqual(resumo.paginas, 12)
+        self.assertEqual(resumo.bytes_ok, 1500)
+
+    def test_regressao_1906_conta_ok_da_recuperacao(self) -> None:
+        escreve_manifesto(
+            self.censo / "varredura_178691_1906.csv",
+            [linha(7819, "ausente", http_status=404)],
+        )
+        escreve_manifesto(
+            self.censo / "recuperacao_178691_1906.csv",
+            [linha(7819, "ok", http_status=200, byte_count=1, page_count=1)],
+        )
+        gabarito = {
+            "178691": relatorio_censo.Gabarito(
+                arquivos=1, numeros=frozenset({7819})
+            )
+        }
+
+        regressao = relatorio_censo.regressao_1906(gabarito, self.censo)
+
+        self.assertTrue(regressao["178691"].aprovada)
+
+
+class CoberturaIndiceTests(unittest.TestCase):
+    def setUp(self) -> None:
+        self.temporary = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temporary.cleanup)
+        raiz = Path(self.temporary.name)
+        self.censo = raiz / "censo"
+        self.piloto = raiz / "piloto"
+        self.piloto.mkdir(parents=True)
+        self.censo.mkdir(parents=True)
+        with open(
+            self.censo / "indice_bndigital_178691.csv",
+            "w", encoding="utf-8", newline="",
+        ) as saida:
+            saida.write("ano,numero\n1907,5254\n1907,7777\n1907,8125\n1907,9999\n")
+        escreve_manifesto(
+            self.censo / "varredura_178691_1907.csv",
+            [
+                linha(7777, "ausente", http_status=404),
+                linha(8125, "ok", http_status=200, byte_count=1000, page_count=8),
+            ],
+        )
+        escreve_manifesto(
+            self.censo / "recuperacao_178691_1907.csv",
+            [
+                linha(5254, "ok", http_status=200, byte_count=500, page_count=4),
+                linha(7777, "ausente", http_status=404),
+            ],
+        )
+
+    def test_secao_do_indice_conta_ok_terminal_e_pendentes(self) -> None:
+        texto = relatorio_censo.gera_relatorio(
+            dir_censo=self.censo, dir_piloto=self.piloto, raw_root=None
+        )
+
+        self.assertIn("Cobertura contra o índice bndigital", texto)
+        # 1907: índice 4, ok 2 (8125 varredura + 5254 recuperação),
+        # terminal 1 (7777 com duas observações), pendente 1 (9999).
+        self.assertIn("| 1907 | 4 | 2 | 1 | 1 |", texto)
+        self.assertIn("pendentes do índice", texto)
+
+    def test_ano_so_com_recuperacao_entra_na_cobertura(self) -> None:
+        escreve_manifesto(
+            self.censo / "recuperacao_178691_1914.csv",
+            [linha(11000, "ok", http_status=200, byte_count=700, page_count=6)],
+        )
+
+        texto = relatorio_censo.gera_relatorio(
+            dir_censo=self.censo, dir_piloto=self.piloto, raw_root=None
+        )
+
+        self.assertIn("| 1914 ", texto)
+        self.assertNotIn("o_paiz (178691) 1914", texto)
+
+
 class RegressaoTests(unittest.TestCase):
     def setUp(self) -> None:
         self.temporary = tempfile.TemporaryDirectory()
