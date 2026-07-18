@@ -1,5 +1,48 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 18/07/2026 (manhã): índice bndigital descoberto, pareceres duplos, retomada da próxima sessão
+
+Depois do fechamento da varredura (seção abaixo), a sessão descobriu que as páginas públicas
+`bndigital.bn.gov.br/acervo-digital/{correio|correio-paulistano|gazeta-de-noticias|paiz}/{bib}`
+trazem a ENUMERAÇÃO OFICIAL ano a ano do acervo, com links diretos ao host estático. Fatos
+validados e manifestos em `dados/censo/indice_bndigital_*.csv` + LEIAME (commit 47c2045):
+censo da varredura é subconjunto do índice nas 36 células; diff de 3.092 edições recuperáveis
+(CM 2.781 em 1907-14; GN 306, incluindo 1914 inteiro); host ⊆ índice; GN 1913 inexistente nas
+duas fontes; sobreposições de rótulo de ano no CM (masthead decide). Cloudflare barra requests:
+extração só via navegador (claude-in-chrome + captcha resolvido pelo Pedro no DocReader).
+
+Pareceres duplos de nível crítico executados conforme o protocolo (worktree, commit 90bb449):
+parecer do Claude congelado com hash ANTES do despacho; Codex invocado pelo wrapper com pacote
+isolado (PRIMEIRA execução real, smoke test aprovado; registro run 20260718T093603843-5b165538).
+Codex favorável à incorporação sob condições; síntese apresentada ao Pedro na sessão. Pontos que
+o Codex acrescenta e que valem adotar: quadro K/E/D/S/R/C por jornal-mês; segunda passagem de
+extração do índice com snapshot e hash; 404 terminal só com duas observações; regra de agregação
+de manifestações (dedupe exato; dia = 1 unidade analítica; opostas = Mixed/Ambiguous; OR/max);
+flag cega varredura/somente_indice com margem de 5 p.p. pré-registrada; descrever o corpus como
+censo do acervo digital em fotografia datada.
+
+Backup robocopy DISPARADO em 18/07 09h49 (destacado, log em C:\dados-caixa\backup_robocopy.log,
+destino G:\My Drive\caixa-conversao\raw_pdf); conferir conclusão e código de saída na retomada.
+
+### Retomada (próxima sessão, em ordem)
+
+1. Conferir backup (log do robocopy; exit code < 8) e estado do banco/manifests (`git status`).
+2. SEGUNDA passagem de extração do índice via navegador (recomendação 2 do parecer do Codex):
+   repetir a extração das 4 páginas, comparar com `indice_bndigital_*.csv`, registrar
+   divergências; guardar snapshot com hash conforme a recomendação 1.
+3. Implementar via TDD o modo lista de alvos da recuperação (novo `pipeline/base/recupera_indice.py`
+   ou extensão do `carrega_censo`): fonte `inventory/indice_bndigital/1.0.0`, alvos = diff
+   índice menos censo, registro positivo por item, 403/429/5xx = transitório, 404 terminal
+   exige 2 observações; re-tentativa do Paiz 1913_10408 na mesma rodada.
+3. Disparar a rodada destacada (~3.092 alvos, ~25-30 GB, ~4h com pausa 4s) e, ao concluir,
+   re-rodar `relatorio_censo.py` + checagens de banco e atualizar este handoff.
+4. Pré-registros em docs/decisoes.md ANTES da Fase B (base: recomendações 5-9 do parecer do
+   Codex + parecer do Claude): agregação de manifestações; cascata K/E/D/S/R/C; novo portão
+   1906 (nenhum item do piloto inexplicado; lista de exceções aprovada por Pedro); flag cega
+   varredura/somente_indice com margem 5 p.p.
+5. Pendentes de decisão do Pedro: resgate manual das 4 edições do piloto no DocReader;
+   merge da branch feature/integracao-codex (wrapper aprovado no uso real).
+
 ## Atualização, 18/07/2026 (madrugada): varredura ENCERRADA, relatório de cobertura e regressão 1906
 
 A varredura completou sozinha às ~04h05 de 18/07 (processo destacado encerrou limpo).
