@@ -1,0 +1,29 @@
+{
+    "task_id":  "2026-07-18-lacunas-enumeracao-censo",
+    "run_id":  "20260718T093603843-5b165538",
+    "attempt":  2,
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.144.5",
+    "sessao_codex":  "019f753a-0e11-7d52-8f9f-e96631968e4a",
+    "hash_manifesto":  "5b165538ee22ffc0097ab803abcb6c95d71d5b08e97a794012778dfb7ddfbe7d",
+    "commit_repo":  "2a00600f02806971ac8aef0e591c458ba7ee06ce",
+    "git_status_porcelain":  "",
+    "hash_diff":  null,
+    "workdir_isolado":  true,
+    "parecer":  "colaboracao/pareceres/2026-07-18-lacunas-enumeracao-censo-codex--20260718T093603843-5b165538.md",
+    "inicio":  "2026-07-18T09:36:03.8432346-03:00",
+    "fim":  "2026-07-18T09:43:56.9457133-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"--output-last-message\" \"\u003csaida\u003e\" \"--skip-git-repo-check\"",
+    "token_usage":  {
+                        "input_tokens":  86118,
+                        "cached_input_tokens":  59392,
+                        "output_tokens":  13188,
+                        "reasoning_output_tokens":  9570
+                    },
+    "hash_parecer":  "33988697d89c4cb328aa94bf958ca94e196fa270be5bb79f0afcd4989eaa0c80",
+    "hash_log":  "950a3881c32e2645856ac06a1f55e1deafd57e3c37e155e4246ac2e1e132b99a"
+}
