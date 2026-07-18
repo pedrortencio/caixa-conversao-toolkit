@@ -1,0 +1,16 @@
+{
+  "task_id": "2026-07-15-consulta-estrutura-colaboracao",
+  "run_id": "retroativo",
+  "attempt": 1,
+  "status": "sucesso",
+  "modelo_solicitado": null,
+  "modelo_reportado": "gpt-5.6-sol",
+  "effort_solicitado": null,
+  "effort_reportado": "none",
+  "versao_cli": "codex-cli 0.144.4",
+  "sessao_codex": "019f6864-3a76-7b80-ab5f-e4ef9b1c2266",
+  "hash_manifesto": "baf6fd4da69c10794cda513ee65e4d199bd35d02fbd5578e630118e87ca403e8",
+  "hash_parecer": "961e85c0d750ef51b633018096f135b97e65d81884fc772e1736f30469c94986",
+  "hash_log": null,
+  "observacao": "execucao anterior ao wrapper; sem JSONL; prompt enviado com acentos corrompidos pelo pipe do PowerShell 5.1; sandbox read-only na raiz do repo; registrada retroativamente conforme spec; parecer migrado preserva o texto original e acrescenta somente newline final"
+}

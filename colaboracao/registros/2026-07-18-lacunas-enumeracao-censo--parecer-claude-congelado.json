@@ -1,0 +1,9 @@
+﻿{
+    "gate_pedro":  "pendente",
+    "tipo":  "congelamento_parecer_claude",
+    "task_id":  "2026-07-18-lacunas-enumeracao-censo",
+    "arquivo":  "colaboracao/pareceres/2026-07-18-lacunas-enumeracao-censo-claude.md",
+    "sha256":  "c31d3c532e92065b267304dd1a118de3c7aa80508710d9b028d84f8d888cfb56",
+    "observacao":  "parecer do Claude congelado antes do despacho ao Codex (nivel critico, isolamento estrutural)",
+    "congelado_em":  "2026-07-18T09:29:50-03:00"
+}

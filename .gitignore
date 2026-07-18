@@ -38,3 +38,8 @@ dados/base/*.db
 Thumbs.db
 desktop.ini
 dados/censo/log_*.txt
+
+# colaboracao: logs brutos e arquivos parciais nunca entram no git
+colaboracao/logs/raw/*
+!colaboracao/logs/raw/.gitkeep
+colaboracao/**/*.part

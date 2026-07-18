@@ -1,0 +1,29 @@
+{
+    "task_id":  "2026-07-16-redesenho-esquema-base-v2",
+    "run_id":  "20260716T201513216-26049755",
+    "attempt":  1,
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.144.4",
+    "sessao_codex":  "019f6d36-76f3-7931-b1bb-6703af942b69",
+    "hash_manifesto":  "26049755388a056ab0cea3b64e8b2e30d59e556b01c0a0f2846ed743a7683760",
+    "commit_repo":  "2a00600f02806971ac8aef0e591c458ba7ee06ce",
+    "git_status_porcelain":  "",
+    "hash_diff":  null,
+    "workdir_isolado":  false,
+    "parecer":  "colaboracao/pareceres/2026-07-16-redesenho-esquema-base-v2--20260716T201513216-26049755.md",
+    "inicio":  "2026-07-16T20:15:13.2166850-03:00",
+    "fim":  "2026-07-16T20:24:49.7673855-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"--output-last-message\" \"\u003csaida\u003e\"",
+    "token_usage":  {
+                        "input_tokens":  188709,
+                        "cached_input_tokens":  154880,
+                        "output_tokens":  28312,
+                        "reasoning_output_tokens":  15116
+                    },
+    "hash_parecer":  "c00ff70237ed32e763ef598825afe58a1b9f02524b124c8648cf7fda6fd4cd33",
+    "hash_log":  "1827c6697e15ae7f93bc427573759cc35112a6416b2b326b46e86f56053b6e3e"
+}

@@ -50,6 +50,16 @@ Ponte 1906 (modelo novo × gemini-1.5-pro do piloto × códigos humanos; piloto:
 
 Todo texto acadêmico segue a skill `escrita-academica`. Regra mais importante: **nunca usar travessões** (em-dashes) em texto para o Pedro; substituir por vírgulas.
 
+## Colaboração Claude-Codex (despacho)
+
+Pedro opera só este chat; o Codex é invocado daqui. Spec: `docs/superpowers/specs/2026-07-15-integracao-codex-design.md`. Skill: `parecer-codex`.
+
+- Raias (tabela completa no `docs/protocolo-colaboracao-claude-codex.md`): Claude lidera código e arquitetura; Codex lidera auditoria metodológica e acadêmica e pode ser implementador designado (análise estatística, simulações, rascunhos). Quem implementa um artefato não o audita.
+- Despacho: Claude propõe, Pedro aprova ANTES de gastar cota. Nível ordinário (consulta de raia única): ok rápido sobre objetivo e custo. Nível crítico (estimando, corpus, codebook, instrumento, conclusão histórica): Pedro revisa o manifesto completo e autoriza pareceres duplos com isolamento estrutural (pacote isolado, parecer do Claude congelado e hasheado antes do despacho).
+- Invocação SEMPRE via `scripts/invoca-codex.ps1` (nunca `codex exec` manual): encoding, effort high, `--ephemeral`, `--ignore-user-config`, JSONL e registro em `colaboracao/registros/` são automáticos.
+- Proibições: Claude não edita pareceres do Codex; a síntese cita cada divergência com referência ao parecer original e não o substitui; parecer bruto vai a Pedro antes ou junto da síntese; sem fallback silencioso de modelo quando a cota acabar.
+- Codex NUNCA anota produção (instrumento primário: API Gemini; segundo anotador: `claude -p`).
+
 ## Git
 
 Commits como Pedro Ortencio <pedrortencio@gmail.com> (já configurado no repo). Repo privado `pedrortencio/caixa-conversao-toolkit`.

@@ -1,0 +1,27 @@
+{
+    "task_id":  "2026-07-15-teste-wrapper",
+    "run_id":  "20260715T233654407-54d1828b",
+    "attempt":  1,
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.144.4",
+    "hash_manifesto":  "54d1828b876444c3469b3dbb691a9db536dc1f217cd92c41b548405b5480e226",
+    "commit_repo":  "0ab93cf4d4309ac18eb7f0a1ddc33fb1f4c3c976",
+    "git_status_porcelain":  "?? colaboracao/manifestos/2026-07-15-teste-wrapper.md",
+    "hash_diff":  "5cc5d3592861df213c4fcb464cf45e6d40651912292053b7edd47c7593f0d3c5",
+    "workdir_isolado":  false,
+    "inicio":  "2026-07-15T23:36:54.4075300-03:00",
+    "fim":  "2026-07-15T23:36:58.2826253-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"-C\" \"\u003crepo\u003e\" \"--output-last-message\" \"\u003crepo\u003e\\colaboracao\\pareceres\\2026-07-15-teste-wrapper.md.20260715T233654407-54d1828b.part\"",
+    "token_usage":  {
+                        "input_tokens":  12262,
+                        "cached_input_tokens":  5888,
+                        "output_tokens":  15,
+                        "reasoning_output_tokens":  0
+                    },
+    "hash_parecer":  "d2c58f8561cbf9969c1c85ae633613d1abdfcf45eaa3e95541b4de5014c539cd",
+    "hash_log":  "212d4699ddc7e38b0b0053eaac71ec01ad3ab78bea131eeae0b17460b10fe2ec"
+}

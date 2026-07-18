@@ -185,6 +185,10 @@ Claude e Codex produzem pareceres independentes. Pedro escolhe após examinar ev
 
 Gemini permanece como instrumento primário planejado. Claude atua como segundo anotador controlado. Codex não fornece rótulo de produção, mas audita desenho, métricas, divergências e reporte.
 
+### Nota operacional (15/07/2026)
+
+A implementação distingue formalmente dois níveis: a **consulta de raia única** (um único modelo, dono da raia, sem duplicação; não constitui parecer independente bilateral) e a **revisão independente** (Modo C, com pareceres separados, isolamento estrutural via pacote neutro e autorização explícita de Pedro). Detalhes em `docs/superpowers/specs/2026-07-15-integracao-codex-design.md`.
+
 ## Gates obrigatórios
 
 Nenhum lote completo de 1907-1914 é autorizado antes de:

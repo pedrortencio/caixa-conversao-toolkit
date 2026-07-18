@@ -1,0 +1,29 @@
+{
+    "task_id":  "2026-07-16-impl-fase-a-e-carga-piloto",
+    "run_id":  "20260716T214829591-87dbd522",
+    "attempt":  1,
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.144.5",
+    "sessao_codex":  "019f6d8b-dae8-76f1-b119-c471402efa19",
+    "hash_manifesto":  "87dbd5222d760677bbdde0683a27ae485106c83aa9dd97a0ed1293bb4f437373",
+    "commit_repo":  "2a00600f02806971ac8aef0e591c458ba7ee06ce",
+    "git_status_porcelain":  "",
+    "hash_diff":  null,
+    "workdir_isolado":  false,
+    "parecer":  "colaboracao/pareceres/2026-07-16-impl-fase-a-e-carga-piloto--20260716T214829591-87dbd522.md",
+    "inicio":  "2026-07-16T21:48:29.5918244-03:00",
+    "fim":  "2026-07-16T22:02:43.8775242-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"--output-last-message\" \"\u003csaida\u003e\"",
+    "token_usage":  {
+                        "input_tokens":  2008186,
+                        "cached_input_tokens":  1905152,
+                        "output_tokens":  38604,
+                        "reasoning_output_tokens":  11462
+                    },
+    "hash_parecer":  "145a45c8d80de3955486fea2d4d937159b2d4a42df674b6794ba481644651dbb",
+    "hash_log":  "2e30a3b3f75188550ef10a79c66d72e6fa2f3386da50db5e955fef20bc33d4fc"
+}
