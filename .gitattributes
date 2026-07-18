@@ -1,0 +1,4 @@
+# Snapshots de proveniência: bytes exatos, nunca converter fim de linha
+# (o SHA-256 registrado em dados/censo/indice_bndigital_LEIAME.md é dos
+# bytes originais capturados no navegador)
+dados/censo/snapshots_bndigital/** -text
