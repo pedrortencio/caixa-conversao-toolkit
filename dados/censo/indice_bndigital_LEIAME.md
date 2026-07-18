@@ -33,6 +33,31 @@ navegador ou Selenium headed.
   ausentes do host; recuperação deve sondar e registrar ausência positiva).
 - Gazeta 1913 NÃO existe no índice (lacuna real de digitalização).
 
+## Segunda passagem de extração (18/07/2026, ~14h)
+
+Repetição independente da extração (recomendação 2 do parecer do Codex de
+18/07), na sessão de Chrome do Pedro, com snapshot do DOM guardado em
+`snapshots_bndigital/` e hash SHA-256 conferido entre o navegador e o disco:
+
+| bib | arquivo | bytes | sha256 |
+|---|---|---|---|
+| 089842 | snapshot_bndigital_089842_20260718_passagem2.html | 1.445.078 | 7b4687fd5164bd38757d6f278f11bd8683ffbe2853b0a37a4221171843ba1879 |
+| 090972 | snapshot_bndigital_090972_20260718_passagem2.html | 1.522.933 | d4b396bba7a05a987531a3ee317b3a927ba8d9976c61d4238edf4a9c1792d593 |
+| 103730 | snapshot_bndigital_103730_20260718_passagem2.html | 1.491.530 | fc7a2971a18a0a7b8fc2bfa7e795ea652304757bdf3404e1eca2a0629be35d8a |
+| 178691 | snapshot_bndigital_178691_20260718_passagem2.html | 1.018.251 | fdde83f82e79f463d9b02927735aeb49ffbe8cd6356eb561a4129e7a817efa98 |
+
+Verificação reproduzível: `uv run python pipeline/scraper/indice_bndigital.py
+--snapshots dados/censo/snapshots_bndigital --censo dados/censo` (com testes
+em `tests/test_indice_bndigital.py`). Resultado: **IDÊNTICOS nas 4 páginas**,
+zero divergências item a item no recorte 1906-1914 (089842: 3.240; 090972:
+3.128; 103730: 2.526; 178691: 3.087; total 11.981 edições). As anomalias da
+seção abaixo reapareceram todas na segunda passagem.
+
+Nota de método: o HTML serializado do DOM varia ~1-2 KB entre carregamentos
+(conteúdo dinâmico da página), então o hash identifica a fotografia exata
+salva, não um invariante da página; o invariante verificado é o CONJUNTO de
+links, idêntico entre as passagens.
+
 ## Anomalias conhecidas do índice
 
 - Sobreposição de números entre rótulos de ano no CM (ex.: 3000-3089
