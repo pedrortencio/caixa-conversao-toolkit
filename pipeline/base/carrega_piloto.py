@@ -1104,10 +1104,10 @@ def contract_checks(conn: sqlite3.Connection) -> None:
             """
         ).fetchone()[0]
     )
-    if table_count != 44:
-        raise AssertionError(f"schema: esperadas 44 tabelas, obtidas {table_count}")
-    if int(conn.execute("PRAGMA user_version").fetchone()[0]) != 2:
-        raise AssertionError("schema não migrado para user_version 2")
+    if table_count != 47:
+        raise AssertionError(f"schema: esperadas 47 tabelas, obtidas {table_count}")
+    if int(conn.execute("PRAGMA user_version").fetchone()[0]) != 3:
+        raise AssertionError("schema não migrado para user_version 3")
     if int(conn.execute("PRAGMA foreign_keys").fetchone()[0]) != 1:
         raise AssertionError("PRAGMA foreign_keys está desativado")
 

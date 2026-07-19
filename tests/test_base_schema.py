@@ -24,6 +24,7 @@ EXPECTED_TABLES = {
     "current_edition_dates",
     "current_object_fetches",
     "current_page_assessments",
+    "current_page_text_extractions",
     "current_phase_schemes",
     "current_search_hit_resolutions",
     "current_search_runs",
@@ -39,6 +40,7 @@ EXPECTED_TABLES = {
     "newspapers",
     "object_fetches",
     "page_assessments",
+    "page_text_extractions",
     "phase_definitions",
     "phase_schemes",
     "physical_pages",
@@ -54,6 +56,7 @@ EXPECTED_TABLES = {
     "search_hit_resolutions",
     "search_hits",
     "search_runs",
+    "text_extraction_runs",
     "transcription_runs",
     "transcriptions",
 }
@@ -62,6 +65,7 @@ EXPECTED_VIEWS = {
     "v_current_edition_dates",
     "v_current_edition_phases",
     "v_current_page_assessments",
+    "v_current_page_texts",
     "v_digital_object_inventory",
 }
 
@@ -250,6 +254,122 @@ class SchemaTests(unittest.TestCase):
                 """,
                 (protocol_id, page_id),
             )
+
+    def seed_pagina_e_run_de_extracao(
+        self, conn: sqlite3.Connection
+    ) -> tuple[int, int]:
+        self.seed_object_and_edition(conn)
+        conn.execute(
+            """
+            INSERT INTO physical_pages(
+                object_id, page_number, created_at
+            ) VALUES (1, 1, '2026-07-18T00:00:00Z')
+            """
+        )
+        page_id = int(
+            conn.execute("SELECT id FROM physical_pages").fetchone()[0]
+        )
+        conn.execute(
+            """
+            INSERT INTO protocols(
+                id, stage, name, version, executor_type, code_commit,
+                parameters_json, created_at
+            ) VALUES (2, 'text_extraction', 'texto-embutido-pypdf', '1.0.0',
+                      'deterministic', 'abc', '{}', '2026-07-18T00:00:00Z')
+            """
+        )
+        conn.execute(
+            """
+            INSERT INTO text_extraction_runs(
+                id, protocol_id, started_at, completed_at, run_status,
+                scope_manifest_sha256, pages_submitted, pages_completed
+            ) VALUES (1, 2, '2026-07-18T00:00:00Z', '2026-07-18T00:00:01Z',
+                      'ok', ?, 1, 1)
+            """,
+            ("b" * 64,),
+        )
+        return page_id, 1
+
+    def test_protocols_aceita_estagio_text_extraction(self) -> None:
+        conn = apply_sql(SCHEMA_PATH)
+        self.addCleanup(conn.close)
+
+        conn.execute(
+            """
+            INSERT INTO protocols(
+                stage, name, version, executor_type, code_commit,
+                parameters_json, created_at
+            ) VALUES ('text_extraction', 'texto-embutido-pypdf', '1.0.0',
+                      'deterministic', 'abc', '{}', '2026-07-18T00:00:00Z')
+            """
+        )
+        total = conn.execute(
+            "SELECT COUNT(*) FROM protocols WHERE stage = 'text_extraction'"
+        ).fetchone()[0]
+        self.assertEqual(1, total)
+
+    def test_checks_de_page_text_extractions(self) -> None:
+        conn = apply_sql(SCHEMA_PATH)
+        self.addCleanup(conn.close)
+        page_id, run_id = self.seed_pagina_e_run_de_extracao(conn)
+
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO page_text_extractions(
+                    page_id, extraction_run_id, source_pdf_sha256,
+                    result_status, created_at
+                ) VALUES (?, ?, ?, 'ok', '2026-07-18T00:00:00Z')
+                """,
+                (page_id, run_id, "c" * 64),
+            )
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO page_text_extractions(
+                    page_id, extraction_run_id, source_pdf_sha256,
+                    result_status, text_path, text_sha256, char_count,
+                    created_at
+                ) VALUES (?, ?, ?, 'empty', 'x.txt', ?, 0,
+                          '2026-07-18T00:00:00Z')
+                """,
+                (page_id, run_id, "c" * 64, "d" * 64),
+            )
+        with self.assertRaises(sqlite3.IntegrityError):
+            conn.execute(
+                """
+                INSERT INTO page_text_extractions(
+                    page_id, extraction_run_id, source_pdf_sha256,
+                    result_status, created_at
+                ) VALUES (?, ?, ?, 'error', '2026-07-18T00:00:00Z')
+                """,
+                (page_id, run_id, "c" * 64),
+            )
+
+        cursor = conn.execute(
+            """
+            INSERT INTO page_text_extractions(
+                page_id, extraction_run_id, source_pdf_sha256,
+                result_status, text_path, text_sha256, char_count,
+                created_at
+            ) VALUES (?, ?, ?, 'ok', 'p001.txt', ?, 42,
+                      '2026-07-18T00:00:00Z')
+            """,
+            (page_id, run_id, "c" * 64, "d" * 64),
+        )
+        extraction_id = int(cursor.lastrowid)
+        conn.execute(
+            """
+            INSERT INTO current_page_text_extractions(
+                page_id, extraction_id, selected_at
+            ) VALUES (?, ?, '2026-07-18T00:00:00Z')
+            """,
+            (page_id, extraction_id),
+        )
+        row = conn.execute(
+            "SELECT result_status, char_count FROM v_current_page_texts"
+        ).fetchone()
+        self.assertEqual(("ok", 42), (row[0], row[1]))
 
     def test_migracao_e_autocontida_e_equivale_ao_schema(self) -> None:
         schema_conn = apply_sql(SCHEMA_PATH)

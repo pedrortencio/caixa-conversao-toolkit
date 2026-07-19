@@ -22,7 +22,7 @@ class DatabaseAccessTests(unittest.TestCase):
         self.addCleanup(self.conn.close)
 
     def migrate(self) -> None:
-        self.assertEqual(2, db.migrate(self.conn))
+        self.assertEqual(3, db.migrate(self.conn))
 
     def seed_inventory(self) -> tuple[int, int, int]:
         self.migrate()
@@ -68,15 +68,15 @@ class DatabaseAccessTests(unittest.TestCase):
         )
 
     def test_migrate_aplica_migracoes_pendentes_uma_unica_vez(self) -> None:
-        self.assertEqual(2, db.migrate(self.conn))
+        self.assertEqual(3, db.migrate(self.conn))
         self.assertEqual(
-            2, self.conn.execute("PRAGMA user_version").fetchone()[0]
+            3, self.conn.execute("PRAGMA user_version").fetchone()[0]
         )
         before = self.conn.execute(
             "SELECT count(*) FROM sqlite_master WHERE type='table'"
         ).fetchone()[0]
 
-        self.assertEqual(2, db.migrate(self.conn))
+        self.assertEqual(3, db.migrate(self.conn))
         after = self.conn.execute(
             "SELECT count(*) FROM sqlite_master WHERE type='table'"
         ).fetchone()[0]

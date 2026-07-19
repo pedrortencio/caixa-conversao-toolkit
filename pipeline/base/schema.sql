@@ -29,8 +29,8 @@ CREATE TABLE protocols (
     UNIQUE (stage, name, version),
     CHECK (stage IN (
         'inventory', 'circulation', 'search', 'identification',
-        'transcription', 'date_parsing', 'recall_reference',
-        'classification'
+        'transcription', 'text_extraction', 'date_parsing',
+        'recall_reference', 'classification'
     )),
     CHECK (executor_type IN (
         'deterministic', 'manual', 'model', 'external_service'
@@ -480,6 +480,71 @@ CREATE TABLE current_transcriptions (
     ))
 );
 
+CREATE TABLE text_extraction_runs (
+    id INTEGER PRIMARY KEY,
+    protocol_id INTEGER NOT NULL REFERENCES protocols(id),
+    started_at TEXT NOT NULL,
+    completed_at TEXT NOT NULL,
+    run_status TEXT NOT NULL,
+    scope_manifest_sha256 TEXT NOT NULL,
+    pages_submitted INTEGER NOT NULL,
+    pages_completed INTEGER NOT NULL,
+    elapsed_seconds REAL,
+    CHECK (run_status IN ('ok', 'partial', 'error')),
+    CHECK (length(scope_manifest_sha256) = 64),
+    CHECK (pages_submitted >= 0),
+    CHECK (pages_completed >= 0),
+    CHECK (pages_completed <= pages_submitted)
+);
+
+CREATE TABLE page_text_extractions (
+    id INTEGER PRIMARY KEY,
+    page_id INTEGER NOT NULL REFERENCES physical_pages(id),
+    extraction_run_id INTEGER NOT NULL REFERENCES text_extraction_runs(id),
+    source_pdf_sha256 TEXT NOT NULL,
+    result_status TEXT NOT NULL,
+    text_path TEXT,
+    text_sha256 TEXT,
+    char_count INTEGER,
+    error_class TEXT,
+    error_message TEXT,
+    created_at TEXT NOT NULL,
+    UNIQUE (page_id, id),
+    CHECK (length(source_pdf_sha256) = 64),
+    CHECK (result_status IN ('ok', 'empty', 'error')),
+    CHECK (text_sha256 IS NULL OR length(text_sha256) = 64),
+    CHECK (char_count IS NULL OR char_count >= 0),
+    CHECK (
+        result_status <> 'ok'
+        OR (
+            text_path IS NOT NULL
+            AND text_sha256 IS NOT NULL
+            AND char_count IS NOT NULL
+            AND char_count > 0
+        )
+    ),
+    -- Página sem camada de texto é registro positivo com char_count = 0,
+    -- nunca um arquivo vazio nem hash fabricado (contrato do design de
+    -- 2026-07-18, camada de texto embutido).
+    CHECK (
+        result_status <> 'empty'
+        OR (
+            char_count = 0
+            AND text_path IS NULL
+            AND text_sha256 IS NULL
+        )
+    ),
+    CHECK (result_status <> 'error' OR error_class IS NOT NULL)
+);
+
+CREATE TABLE current_page_text_extractions (
+    page_id INTEGER PRIMARY KEY REFERENCES physical_pages(id),
+    extraction_id INTEGER NOT NULL,
+    selected_at TEXT NOT NULL,
+    FOREIGN KEY (page_id, extraction_id)
+        REFERENCES page_text_extractions(page_id, id)
+);
+
 CREATE TABLE date_records (
     id INTEGER PRIMARY KEY,
     edition_day_id INTEGER NOT NULL REFERENCES edition_days(id),
@@ -854,6 +919,12 @@ CREATE INDEX ix_transcriptions_page_purpose
     ON transcriptions(page_id, purpose);
 CREATE INDEX ix_transcriptions_run
     ON transcriptions(transcription_run_id);
+CREATE INDEX ix_text_extraction_runs_protocol
+    ON text_extraction_runs(protocol_id);
+CREATE INDEX ix_page_text_extractions_page
+    ON page_text_extractions(page_id);
+CREATE INDEX ix_page_text_extractions_run
+    ON page_text_extractions(extraction_run_id);
 CREATE INDEX ix_date_records_edition
     ON date_records(edition_day_id);
 CREATE INDEX ix_date_records_protocol
@@ -952,6 +1023,21 @@ SELECT
 FROM edition_days AS e
 JOIN current_edition_dates AS c ON c.edition_day_id = e.id
 JOIN date_records AS d ON d.id = c.date_record_id;
+
+CREATE VIEW v_current_page_texts AS
+SELECT
+    p.id AS page_id,
+    p.object_id,
+    p.page_number,
+    x.result_status,
+    x.char_count,
+    x.text_path,
+    x.text_sha256,
+    x.source_pdf_sha256,
+    x.extraction_run_id
+FROM physical_pages AS p
+JOIN current_page_text_extractions AS c ON c.page_id = p.id
+JOIN page_text_extractions AS x ON x.id = c.extraction_id;
 
 CREATE VIEW v_current_edition_phases AS
 SELECT
