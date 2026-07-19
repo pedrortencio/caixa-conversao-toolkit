@@ -30,19 +30,26 @@ Sessão pós-Fase A. Backup da recuperação CONFERIDO (11.960 PDFs no destino =
 
 ### Retomada (próxima sessão, em ordem)
 
-1. Conferir a corrida: `dados/texto_embutido/log_extracao.txt` (36 células; erro grave
-   apareceria em `log_extracao_err.txt`) e `SELECT COUNT(*) FROM v_current_page_texts`
-   == 117.705 menos as páginas do Paiz 10408 (invalid_pdf, fora da população).
-   Se interrompida: re-rodar `uv run python pipeline/base/extrai_texto.py` (resume).
-2. Commitar os manifestos `dados/texto_embutido/extracao_*.csv` gerados pela corrida
-   + `--verificar` numa célula de cada bib (amostra) antes do commit.
-3. Estender o backup robocopy para `C:\dados-caixa\texto_embutido` (novo job ou raiz
-   `C:\dados-caixa` inteira).
-4. Rodada metodológica: Pedro preenche o memorando; pendentes de ratificação o
-   time-box (2-3 semanas) e o reposicionamento do P0 (diagnóstico como insumo da
-   rodada; reparo de codebook absorvido pelo protocolo humano do desenho vencedor).
-   Em paralelo (Claude+Codex, pareceres independentes): matriz de literatura enxuta.
-5. Push da main pendente desta sessão (f2baf2d/ebf022c + handoff).
+CORRIDA COMPLETA na madrugada de 19/07 (feito na própria sessão): 117.705/117.705
+páginas com registro vigente (117.703 ok + 2 empty), ZERO error no corpus inteiro;
+35 células reais (grid de 36 menos Gazeta 1913, sem acervo em fonte alguma);
+`--verificar` amostral em 1 célula por jornal (8.692 páginas): 0 divergências;
+manifesto da célula piloto regenerado byte-idêntico (determinismo confirmado em
+dados reais). Manifestos commitados. Backup robocopy de texto_embutido para
+`G:\My Drive\caixa-conversao\texto_embutido` disparado offline (Google Drive
+sincroniza quando a internet voltar; conferir log
+`C:\dados-caixa\backup_texto_embutido.log`, exit < 8).
+
+1. **Push da main** (f2baf2d..HEAD): a internet da máquina caiu ~00h30 de 19/07 e
+   não voltou até o fim da sessão (perfil de rede só LocalNetwork; vigias de
+   30min/2h/4h expiraram). Conferir depois se o vigia final conseguiu ou fazer
+   `git push origin main` à mão.
+2. Conferir a sincronização do Google Drive (backup de texto_embutido + manifestos).
+3. Rodada metodológica: Pedro preenche `docs/memorando-quantidades-historicas.md`;
+   pendentes de ratificação o time-box (2-3 semanas) e o reposicionamento do P0
+   (diagnóstico como insumo da rodada; reparo de codebook absorvido pelo protocolo
+   humano do desenho vencedor). Em paralelo (Claude+Codex, pareceres independentes):
+   matriz de literatura enxuta.
 
 ## Atualização, 18/07/2026 (tarde/noite): Fase A COMPLETA, pré-registros, merge do Codex
 
