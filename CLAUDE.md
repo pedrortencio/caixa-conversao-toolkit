@@ -6,6 +6,10 @@ Pesquisa de mestrado de Pedro Ortencio (FFLCH-USP, História Econômica, orienta
 
 Qual grupo/tipo de pensamento (ortodoxo vs expansionista) prevaleceu no debate sobre a Caixa entre os principais jornais. Estimando: distribuição de posições editoriais por **edição-dia** (escala -2 ortodoxo ↔ +2 expansionista) entre os principais diários de RJ/SP (censo intencional, não amostra). Resultado principal: shares por categoria; média como resumo; saliência mensal como série complementar.
 
+### Decisão metodológica pendente antes da Fase B
+
+A formulação acima descreve o desenho herdado do piloto, não uma escolha definitiva. Antes de implementar triagem substantiva, schema classificatório ou classificação em lote, ler `docs/contexto-debate-metodologico-mensuracao.md`. A escala `-2/+2`, o enquadramento como *stance detection*, o uso de LLM, o DSL e as regras de agregação permanecem candidatos sujeitos a revisão comparativa e aprovação de Pedro. Processamento que selecione, descarte ou estruture informação segundo o construto não deve ser tratado como neutro.
+
 ## Corpus (Hemeroteca Digital da BN — memoria.bn.gov.br)
 
 | Jornal | bib | Regressão 1906 (gabarito do piloto) |

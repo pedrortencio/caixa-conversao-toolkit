@@ -22,6 +22,7 @@ Regras invariantes:
 
 ## Documentos canônicos
 
+- `docs/contexto-debate-metodologico-mensuracao.md` (decisão crítica anterior à Fase B; leitura obrigatória para tarefas sobre processamento textual, codebook, instrumento, classificação ou agregação)
 - `docs/protocolo-colaboracao-claude-codex.md` (papéis e modos de colaboração)
 - `docs/avaliacao-independente-2026-07-15.md` (auditoria independente do projeto)
 - `docs/plano-pipeline.md` (plano geral), `docs/decisoes.md` (decisões registradas)
