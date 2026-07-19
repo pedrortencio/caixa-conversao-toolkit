@@ -1,5 +1,59 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 18/07/2026 (tarde/noite): Fase A COMPLETA, pré-registros, merge do Codex
+
+Sessão que executou os passos 2 a 5 da retomada da manhã e fechou a Fase A.
+
+Feito e commitado (main até 519ce89, com push; branch feature/integracao-codex mergeada em 18ecbda):
+
+1. **Segunda passagem do índice** (recomendação 2 do Codex): reextração das 4 páginas bndigital
+   pelo Chrome do Pedro (Cloudflare barra requests), snapshots do DOM em
+   `dados/censo/snapshots_bndigital/` com SHA-256 conferido navegador vs disco. Verificador novo
+   `pipeline/scraper/indice_bndigital.py` (TDD): conjuntos de links IDÊNTICOS à primeira passagem
+   nas 4 páginas, 0 divergências em 11.981 edições. `.gitattributes -text` protege os snapshots.
+2. **Recuperação por lista de alvos** (`pipeline/base/recupera_indice.py`, TDD): baixou o diff
+   índice-menos-censo. Rodada CONCLUÍDA: 3.070 ok, 0 erro, 22 ausências terminais (404 em 2
+   observações), 1 pdf_invalido (Paiz 1913_10408, corrompido no host). 404 só terminal com 2
+   observações; 403/429/5xx/rede = transitório.
+3. **Fase A COMPLETA.** Banco: 11.960 objetos, 11.959 fetch ok, 1 invalid_pdf; integrity_check ok;
+   user_version 2. O **CM de 1907-14, perdido pela varredura no salto 2099->2255, está inteiro**
+   (362/365/362/362/363/363/363/340, batendo com o índice). Cobertura contra o índice: zero
+   pendentes em quase toda célula; sobram só ausências de acervo reais (GN 1910 com 20, GN 1914
+   com 1) e o Paiz 10408. Relatório regenerado em `docs/relatorio-cobertura-censo.md`.
+4. **Pré-registros antes da Fase B** (`docs/decisoes.md`, ratificados por Pedro): agregação de
+   manifestações; cascata K/E/D/S/R/C por jornal-mês; novo portão 1906 por 3 classes sem item
+   inexplicado; flag cega varredura/somente_indice margem 5pp.
+5. **Merge do Codex**: wrapper `invoca-codex.ps1` + protocolo + skill parecer-codex agora na main
+   (aprovado no smoke test real de 18/07). Instrumento intacto.
+6. **Backup**: robocopy incremental dos 3.070 PDFs novos para `G:\My Drive\caixa-conversao\raw_pdf`
+   disparado no fim da sessão (log `C:\dados-caixa\backup_robocopy_recuperacao.log`; conferir exit
+   code < 8 na retomada; local tinha 11.960 PDFs, backup partia de 8.890).
+
+Sobre a **recuperação manual das 5 órfãs** (CM 1869/1870, CP 15276, GN 78 do piloto + Paiz 10408
+corrompido): confirmado que NENHUM PDF do piloto existe no disco (0 em `dados/piloto_1906`, só
+JSON+xlsx; as 4 órfãs não aparecem em lugar nenhum do C:). O export PDF do DocReader não completa
+sob automação (POSTs com pagfis vazio; mesmo beco do 14/07) e, segundo Pedro, o máximo do DocReader
+talvez seja captura de tela em baixa resolução. Pedro classificou as 5 como "detalhe do detalhe".
+RECOMENDAÇÃO em aberto: documentar as 5 como exceção terminal do novo portão 1906 (decisão expressa
+de Pedro) em vez de gastar tempo no DocReader.
+
+### Retomada (próxima sessão, em ordem) — cronograma ~2 meses
+
+Caminho crítico: NÃO é o censo (fechado) nem as 5 órfãs. São dois blocos.
+
+1. **P0 do piloto de 1906** (gate antes de qualquer token pago). A auditoria do Codex
+   (`docs/avaliacao-independente-2026-07-15.md`) achou: 280 "sem menção relevante" de 537 (porque o
+   piloto buscava só os hits da BN; o novo desenho corrige com triagem barata de TODA página), 169
+   sem data, κ=0,712 não reproduzível, decompor por item. Auditar/reparar o piloto e fechar o
+   codebook das fases 2-4 (Pedro redige). Custo de token baixo.
+2. **Plano de implementação da Fase B.** A spec existe (`docs/plano-batch-anotadores.md`, com
+   apêndice técnico), o plano executável NÃO. Fase B = camada `pipeline/anotadores/` (backend
+   `gemini_api` primário via Batch Mode + `claude_cli` segundo anotador), triagem, transcrição
+   (gemini-2.5-flash), classificação (gemini-2.5-pro). Orçamento ~R$415, só roda após passar a
+   regressão 1906 e medir o custo de um lote pequeno (guardrail).
+3. **Decisão pendente de Pedro**: documentar as 5 órfãs como exceção terminal (fecha o portão 1906
+   sem pendência) e escolher por qual dos dois blocos acima começar.
+
 ## Atualização, 18/07/2026 (manhã): índice bndigital descoberto, pareceres duplos, retomada da próxima sessão
 
 Depois do fechamento da varredura (seção abaixo), a sessão descobriu que as páginas públicas
