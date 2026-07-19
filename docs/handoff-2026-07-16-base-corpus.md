@@ -1,5 +1,49 @@
 # Handoff, sessao 2026-07-16: esquema da base do corpus
 
+## Atualização, 18/07/2026 (noite): PR do debate de mensuração mergeado, camada de texto embutido
+
+Sessão pós-Fase A. Backup da recuperação CONFERIDO (11.960 PDFs no destino == 11.960 locais).
+
+1. **PR #1 mergeado** (`docs/contexto-debate-metodologico-mensuracao.md` agora canônico,
+   ponteiros em CLAUDE.md/AGENTS.md; main até cc18860 com push). A rodada
+   científico-metodológica ANTECEDE a Fase B substantiva; escala -2/+2, stance, LLM e
+   Gemini viram hipóteses de trabalho a comparar.
+2. **DESCOBERTA: os PDFs da BN têm camada de texto embutida** (OCR da Hemeroteca), em
+   todos os objetos amostrados, 28-44k chars/página. Texto integral do corpus a custo
+   ZERO de token.
+3. **Camada de texto embutido implementada** (TDD, migração 003 aditiva, suíte 95 verde;
+   commits f2baf2d/ebf022c): extração determinística pypdf pinada em protocolo
+   `text_extraction/texto-embutido-pypdf 1.0.0`; statuses positivos ok/empty/error;
+   texto em `C:\dados-caixa\texto_embutido\`; manifestos `dados/texto_embutido/`;
+   modo `--verificar` de replay. Spec:
+   `docs/superpowers/specs/2026-07-18-camada-texto-embutido-design.md`. Migração 003
+   aplicada ao banco real SEM alterar contagens (user_version 3, integrity ok).
+4. **Piloto O Paiz 1906 APROVADO**: 2.472 páginas, 100% ok, 0 empty, 0 error,
+   5,85 pág/s; replay determinístico com 0 divergências; checagem cruzada com as
+   transcrições LLM do piloto confirma páginas certas (~50% de tokens exatos em comum,
+   OCR sujo esperado).
+5. **Corrida completa DISPARADA destacada** (~115k páginas restantes, ~5,5h; PID 14932;
+   log `dados/texto_embutido/log_extracao.txt` + `_err.txt`, gitignored). Resume por
+   banco: re-rodar o mesmo comando continua de onde parou.
+6. **Esqueleto do memorando de quantidades históricas** (artefato 1 da rodada) em
+   `docs/memorando-quantidades-historicas.md`, aguardando preenchimento de Pedro.
+
+### Retomada (próxima sessão, em ordem)
+
+1. Conferir a corrida: `dados/texto_embutido/log_extracao.txt` (36 células; erro grave
+   apareceria em `log_extracao_err.txt`) e `SELECT COUNT(*) FROM v_current_page_texts`
+   == 117.705 menos as páginas do Paiz 10408 (invalid_pdf, fora da população).
+   Se interrompida: re-rodar `uv run python pipeline/base/extrai_texto.py` (resume).
+2. Commitar os manifestos `dados/texto_embutido/extracao_*.csv` gerados pela corrida
+   + `--verificar` numa célula de cada bib (amostra) antes do commit.
+3. Estender o backup robocopy para `C:\dados-caixa\texto_embutido` (novo job ou raiz
+   `C:\dados-caixa` inteira).
+4. Rodada metodológica: Pedro preenche o memorando; pendentes de ratificação o
+   time-box (2-3 semanas) e o reposicionamento do P0 (diagnóstico como insumo da
+   rodada; reparo de codebook absorvido pelo protocolo humano do desenho vencedor).
+   Em paralelo (Claude+Codex, pareceres independentes): matriz de literatura enxuta.
+5. Push da main pendente desta sessão (f2baf2d/ebf022c + handoff).
+
 ## Atualização, 18/07/2026 (tarde/noite): Fase A COMPLETA, pré-registros, merge do Codex
 
 Sessão que executou os passos 2 a 5 da retomada da manhã e fechou a Fase A.
