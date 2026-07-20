@@ -63,7 +63,7 @@ Contra o protocolo de `docs/contexto-debate-metodologico-mensuracao.md` (seção
 
 1. Memorando de quantidades históricas: **feito** (ratificado 2026-07-19).
 2. Revisão estruturada de pesquisas comparáveis (matriz de literatura): **próximo candidato**. Codex pode ser implementador designado (não audita o que implementa).
-3. Conjunto de desenhos concorrentes (ao menos duas alternativas além da escala atual): pendente, alimentado por D1.
+3. Conjunto de desenhos concorrentes: **rascunho feito** (2026-07-19) em `docs/desenhos-concorrentes.md`: D-Escala (incumbente), D-Extração (desafiante primário ratificado), D-Atributos (intermediário) e um baseline de dicionário, com contrato comum de avaliação. Falta o padrão-ouro (artefatos 4 e 5) para rodar o benchmark.
 4. Amostra metodológica estratificada (jornais, fases, gêneros, qualidade, casos claros, negativos, mistos, contraditórios): pendente.
 5. Protocolo humano (codebook, dupla codificação, adjudicação, teste protegido): pendente, alimenta D2, D4, D6.
 6. Benchmark dos desenhos pelos 12 critérios pré-definidos: pendente.
