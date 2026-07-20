@@ -49,7 +49,7 @@ Cada item é uma pergunta que a competição entre instrumentos (artefatos 3 e 6
 
 **D2. Perenidade de ortodoxia e expansionismo.** As categorias organizam o debate de modo estável entre fases, jornais, gêneros textuais e objetos de política, ou precisam ser substituídas ou complementadas por atributos multidimensionais? Teste explícito antes de adotar a escala como medida principal (decisoes 2026-07-19, item 3). Prioritário e cedo: a factibilidade da dissertação depende de haver ao menos evidência mínima de posicionamento ortodoxo ou expansionista datável (memorando, seção 8).
 
-**D3. Unidade de codificação versus unidade de agregação (tensão a reconciliar).** O memorando (seção 5) diz que a unidade de análise principal são as peças que mencionam a Caixa; a decisão de 2026-07-17 (item 3) travou a edição-dia estrita como unidade principal, com manifestações na camada documental. Leitura provável, a confirmar por Pedro: a peça é a unidade de observação e codificação, a edição-dia estrita é a unidade de agregação e denominador (coerente com a regra de agregação de 2026-07-18). Precisa de decisão explícita, porque muda o estimando e o denominador.
+**D3. Unidade de codificação versus unidade de agregação (ponto de atenção, discutir na próxima sessão).** O memorando (seção 5) diz que a unidade de análise principal são as peças que mencionam a Caixa; a decisão de 2026-07-17 (item 3) travou a edição-dia estrita como unidade principal, com manifestações na camada documental. Leitura provisória de Pedro (2026-07-19): as duas parecem compatíveis, a peça sendo a unidade de observação e codificação e a edição-dia estrita a unidade de agregação e denominador (coerente com a regra de agregação de 2026-07-18). Sem decisão fechada ainda: Pedro marcou para discutir e formalizar na próxima sessão, porque a distinção muda o estimando e o denominador. Nada registrado em `docs/decisoes.md` até essa discussão.
 
 **D4. Gate de voz editorial.** Como testar, barato, na amostra estratificada padrão-ouro, se a distinção entre voz editorial própria e discurso reproduzido é confiável o bastante para virar variável estruturante? Se não for factível em escala, a medida principal passa a ser a tendência do conteúdo publicado, com a avaliação de vozes de terceiros tratada como camada amostral ou qualitativa (decisoes 2026-07-19, itens 4 e 5). O achado central de Pedro (interesses de grupo) depende diretamente do êxito mínimo desse gate.
 
@@ -80,7 +80,7 @@ Contra o protocolo de `docs/contexto-debate-metodologico-mensuracao.md` (seção
 
 Ordenada por retorno por token e por dependência, sem gastar API paga até o benchmark:
 
-1. Reconciliar D3 (decisão curta de Pedro): unidade de observação versus agregação.
+1. Discutir e formalizar D3 na próxima sessão (unidade de observação versus agregação). Leitura provisória de compatibilidade já registrada; não bloqueia os passos seguintes.
 2. Artefato 2 (revisão de pesquisas comparáveis) e artefato 3 (desenhos concorrentes), que juntos instruem D1 e D2.
 3. Desenhar a amostra estratificada (artefato 4) reusando o subcorpus e a camada de texto embutido, o que também habilita os pilotos de D4 e D5 a custo baixo.
 4. Protocolo humano (artefato 5) e benchmark (artefato 6).
