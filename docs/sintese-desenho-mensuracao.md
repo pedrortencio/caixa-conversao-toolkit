@@ -101,3 +101,5 @@ Sob essa hipótese, as recomendações de trabalho do Claude por decisão, a tes
 - **D6 (justificativas econômicas).** Não fixar a lista de cima para baixo; deixar emergir como campo codificado na camada de extração sobre a amostra estratificada, agrupar, e Pedro fecha o vocabulário (conjunto enxuto de 6 a 10 códigos). Decisão de codebook, de Pedro.
 
 Todos os testes acima usam o piloto e a camada de texto embutido sem API paga, exceto o de D5, que exige rodar o prompt de classificação em amostra pequena (custo baixo, estimar antes e passar pelo guardrail de estimativa de custo).
+
+Execução: o teste D1 foi feito em papel em 2026-07-19 sobre dois casos reais de O Paiz e PASSOU (a camada reconstrói a escala herdada e expõe o problema de voz reproduzida do memorando, seção 4); o teste D5 foi protocolado com estimativa de custo. Resultados e protocolo em `docs/testes-desenho-mensuracao.md`.
