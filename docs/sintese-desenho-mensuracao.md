@@ -87,3 +87,17 @@ Ordenada por retorno por token e por dependência, sem gastar API paga até o be
 5. Decisão registrada (artefato 7), que libera a Fase B.
 
 O P0 do piloto de 1906 entra como diagnóstico dentro de 4 e 5, não como etapa isolada (reposicionamento proposto em 2026-07-18, a ratificar).
+
+## 8. Hipótese primária ratificada e recomendações de trabalho
+
+**Hipótese de trabalho ratificada por Pedro (2026-07-19):** usar extração estruturada de afirmações por peça como camada primária de representação observável. A escala ortodoxia/expansionismo, os atributos de política e as justificativas econômicas serão vistas derivadas dessa camada. A adoção em escala dependerá de teste barato em amostra do piloto, avaliando confiabilidade, custo, capacidade de reconstruir a escala herdada e utilidade para distinguir voz editorial de discurso reproduzido. Registrada também em `docs/decisoes.md` (2026-07-19). Não é a escolha final do instrumento, reservada ao benchmark e à aprovação de Pedro pelo gate; é o que orienta os artefatos 3 a 6.
+
+Sob essa hipótese, as recomendações de trabalho do Claude por decisão, a testar, não decididas:
+
+- **D1 (instrumento).** Camada de extração de afirmações (ator ou voz, alvo, objeto de política, direção, justificativa, evidência textual) como primária; escala e atributos como vistas. Teste barato, custo zero de token: codificar à mão 10 a 15 peças do piloto nessa estrutura e verificar se a escala se reconstrói e se os atributos variam de forma independente.
+- **D2 (perenidade ortodoxia e expansionismo).** Hipótese: perenidade parcial, o eixo segura como ordenação grosseira, mas o conteúdo de política que posiciona muda por fase. Teste barato: casos-âncora, 2 a 3 claros por fase, codificados na escala e nos atributos, verificando se um único eixo os separa de modo consistente entre fases ou se o eixo gira.
+- **D4 (voz editorial).** Dividir o gate: (a) editorial versus não-editorial por gênero e seção, como variável estruturante barata; (b) atribuição fina de posição de terceiros como camada amostral ou qualitativa. Teste barato: na amostra dourada, medir a confiabilidade humana da tag de voz e quanto o gênero e a seção sozinhos já recuperam a distinção.
+- **D5 (OCR-BN versus transcrição LLM).** Hipótese: OCR-BN grátis basta para a triagem de toda página; a dúvida orçamentária é se a classificação também roda em OCR limpo. Teste barato e de maior alavancagem financeira: nas páginas do piloto com transcrição LLM, rodar o prompt de classificação sobre OCR-BN e sobre a transcrição LLM e comparar os rótulos.
+- **D6 (justificativas econômicas).** Não fixar a lista de cima para baixo; deixar emergir como campo codificado na camada de extração sobre a amostra estratificada, agrupar, e Pedro fecha o vocabulário (conjunto enxuto de 6 a 10 códigos). Decisão de codebook, de Pedro.
+
+Todos os testes acima usam o piloto e a camada de texto embutido sem API paga, exceto o de D5, que exige rodar o prompt de classificação em amostra pequena (custo baixo, estimar antes e passar pelo guardrail de estimativa de custo).
