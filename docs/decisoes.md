@@ -130,3 +130,23 @@ Base: discussão das decisões de desenho abertas em `docs/sintese-desenho-mensu
 **Hipótese de trabalho (ratificada por Pedro):** usar extração estruturada de afirmações por peça como camada primária de representação observável. A escala ortodoxia/expansionismo, os atributos de política e as justificativas econômicas serão vistas derivadas dessa camada. A adoção em escala dependerá de teste barato em amostra do piloto, avaliando confiabilidade, custo, capacidade de reconstruir a escala herdada e utilidade para distinguir voz editorial de discurso reproduzido.
 
 Consequências para as decisões abertas: D1 fica orientado por essa camada (escala -2/+2 e atributos multidimensionais viram vistas, não schema primário); D2 (perenidade das categorias) e D6 (justificativas econômicas) tornam-se campos derivados testados na amostra; D4 (voz editorial) ganha a tag de voz como campo da afirmação, com teste de factibilidade por gênero e seção. O artefato 3 da rodada passa a comparar dois desenhos: extração-primeiro em camadas contra escala-primeiro em score único. D3 (unidade peça versus edição-dia) segue como ponto de atenção a formalizar na próxima sessão e é coerente com a peça como unidade de observação desta camada. As recomendações de trabalho por decisão, com o teste mais barato de cada uma, ficam na seção 8 da síntese.
+
+---
+
+## 2026-07-19 — D3 resolvido: separar posição de saliência (corner case de Pedro; decisão de Pedro)
+
+Contexto: D3 estava como ponto de atenção (unidade peça versus edição-dia). Pedro levantou um corner case decisivo: se a edição-dia for o único denominador de saliência, ela achata a diferença entre um jornal que menciona a Caixa corriqueiramente todo dia (uma nota curta) e um jornal que, em menos dias, concentra várias peças substantivas (editorial, discurso, análise). A edição-dia sozinha capta presença ou ausência diária, não intensidade nem composição.
+
+Decisão:
+
+1. **Níveis distintos.** Unidade de codificação primária = peça relevante (texto que menciona a Caixa). Subunidade de extração = afirmação substantiva (camada de extração da hipótese primária de 2026-07-19). Unidade principal de agregação para posição = edição-dia estrita.
+
+2. **Posição** permanece na edição-dia estrita, para comparabilidade temporal entre jornais e para não superponderar jornais com muitas peças no mesmo dia. A posição da edição-dia deriva das afirmações extraídas das suas peças relevantes; posições substantivas opostas sem dominância clara viram Mixed/Ambiguous.
+
+3. **Saliência decomposta em três quantidades**, porque uma métrica única não segura o corner case:
+   - saliência extensiva = `dias_relevantes / dias_triados` (presença diária). É o R sobre S já pré-registrado na cascata de 2026-07-18.
+   - intensidade interna = `n_pecas_relevantes` por edição relevante (volume dentro do dia). Usa o campo `n_itens_relevantes` já pré-registrado, agora com papel analítico próprio.
+   - proeminência = destaque das peças relevantes na edição (página, seção), por máximo ou média. Usa o campo `proeminencia` (máximo) já pré-registrado.
+   - `houve_editorial` (OR das peças) fica como indicador qualitativo de envolvimento editorial.
+
+Justificativa: a edição-dia é adequada para posição e comparabilidade temporal, mas insuficiente como única medida de atenção. Decompor frequência, volume e destaque evita igualar artificialmente jornais que mencionam a Caixa uma vez por dia e jornais que concentram várias peças substantivas em dias específicos. Não contradiz a cascata K, E, D, S, R, C de 2026-07-18: R sobre S continua sendo a saliência extensiva, e a decisão acrescenta intensidade e proeminência como séries complementares. Resolve o ponto de atenção D3 de `docs/sintese-desenho-mensuracao.md` (seção 4) e é coerente com a peça como unidade de observação da camada de extração. A implementação das três métricas é da camada de agregação da Fase B, informada por esta decisão.
