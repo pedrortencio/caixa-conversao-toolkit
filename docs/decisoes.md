@@ -150,3 +150,19 @@ Decisão:
    - `houve_editorial` (OR das peças) fica como indicador qualitativo de envolvimento editorial.
 
 Justificativa: a edição-dia é adequada para posição e comparabilidade temporal, mas insuficiente como única medida de atenção. Decompor frequência, volume e destaque evita igualar artificialmente jornais que mencionam a Caixa uma vez por dia e jornais que concentram várias peças substantivas em dias específicos. Não contradiz a cascata K, E, D, S, R, C de 2026-07-18: R sobre S continua sendo a saliência extensiva, e a decisão acrescenta intensidade e proeminência como séries complementares. Resolve o ponto de atenção D3 de `docs/sintese-desenho-mensuracao.md` (seção 4) e é coerente com a peça como unidade de observação da camada de extração. A implementação das três métricas é da camada de agregação da Fase B, informada por esta decisão.
+
+---
+
+## 2026-07-19 — Detecção de stance por LLM vira possibilidade contingente; desenho sem LLM promovido a competidor de primeira classe (parecer Claude; direção de Pedro)
+
+Contexto: Pedro observou que, no estado atual, o núcleo da pesquisa (saliência e exposição do debate em escala) é respondível sem nenhuma LLM, e que, se os testes de processamento forem exitosos, uma metodologia sem LLM para detecção de stance pode ser mais robusta e informativa. Escopo explícito: o que está em questão é a LLM para detecção de stance. O toolkit (Claude Code, o aparato de colaboração, e o uso de LLM em tarefas que não são stance, como recuperação, transcrição de páginas ilegíveis e extração de atores) segue em uso e é considerado sobremedida útil.
+
+Decisão:
+
+1. A necessidade da LLM para detecção de stance deixa de ser pressuposto e passa a ser pergunta empírica, condicionada ao tamanho do subcorpus relevante e ao resultado do benchmark. O ônus da prova é da LLM: ela só entra como instrumento de stance se superar o desenho sem LLM no benchmark, e apenas onde a codificação humana não alcança.
+
+2. Medida pivô, primeira e barata: o tamanho do subcorpus relevante, obtido pela triagem sobre o OCR embutido, sem stance, custo zero. Se o subcorpus couber nas horas de codificação de Pedro, a posição é codificada à mão no subcorpus inteiro ou em amostra estratificada forte, e a LLM para stance vira opcional. Se não couber, a LLM ou um classificador supervisionado reganha lugar para cobertura, validado contra o padrão humano.
+
+3. O artefato 3 (`docs/desenhos-concorrentes.md`) passa a incluir D-Humano (codificação humana, sem LLM para stance) como competidor de primeira classe, não mais como baseline diagnóstico. Saliência por censo, sem LLM, em todos os desenhos; dicionário como triangulação de validade, não como instrumento principal.
+
+Justificativa: o objetivo central declarado por Pedro é usar um ferramental robusto de processamento e exposição de dados textuais em escala para concluir como cada jornal noticiou a Caixa. A saliência e a exposição já entregam o coração disso sem LLM, com transparência e reprodutibilidade, sem risco de modelo descontinuado e sem o problema da ponte kappa. A posição por codificação humana em amostra é padrão-ouro e em geral mais honesta que um censo automático com erro de modelo não medido. Não se descarta a LLM a priori; troca-se o pressuposto por um teste.
