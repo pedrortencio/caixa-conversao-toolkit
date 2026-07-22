@@ -1,0 +1,2429 @@
+bib,source_identifier,page_number,hit,n_matches,primeiro_span_texto,primeiro_span_offset,regra_versao,extraction_run_id,result_status
+103730,per103730_1907_00002,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00002,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00002,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00002,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00002,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00002,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,3,1,1,caixa de conver,7021,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,4,1,1,caixa de conver,27094,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00003,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00004,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,2,1,2,caixa de conver,42215,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00005,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,1,1,1,caixa de conver,13544,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,5,1,1,caixa de conver,12692,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00006,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,5,1,1,caixa dn conver,20204,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00007,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,3,1,2,caixa de conver,14329,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00008,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,2,1,1,caixadi conver,6669,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,3,1,1,caixa do conver,55226,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00009,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00010,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,2,1,1,caixa dc conver,6480,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00011,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,1,1,1,caixa de conver,39264,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00012,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,6,1,3,caixa do conver,39698,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00013,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00014,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,3,1,1,caixa de conver,43479,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00015,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,1,1,1,caixa de conver,25439,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,3,1,1,caixa de conver,15356,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00016,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,2,1,1,caixa deconver,38163,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,3,1,1,caixa de conver,55966,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00017,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,1,1,1,caixa do conver,21606,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,3,1,2,caixa de conver,18106,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00018,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,1,1,2,caixa de conver,33231,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,3,1,1,caixa de conver,61385,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00019,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,7,1,1,caixa de conver,29836,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00020,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,5,1,1,caixa do conver,19394,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00021,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,3,1,2,caixa do conver,16284,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00022,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,3,1,4,caixa de conver,5384,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00023,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,1,1,1,caixa dc conver,26140,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,2,1,1,caixa dcconver,29956,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,3,1,1,caixa de conver,6397,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00024,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,3,1,1,caixa de conver,59607,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00025,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,3,1,1,caixa de conver,42390,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00026,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,8,1,1,caixado conver,37911,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00027,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00028,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,1,1,1,caixa de conver,36124,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00029,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,2,1,1,caixa do conver,12688,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00030,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00031,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00032,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,1,1,1,caixa de conver,39258,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00033,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,5,1,1,caixa do conver,41992,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00034,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,4,1,1,caixa deconver,25212,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00035,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00036,1,1,2,caixa dc conver,28767,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00036,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00036,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00036,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,1,1,1,caixa de conver,42956,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00037,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,1,1,2,caixa de conver,16485,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00038,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,1,1,1,caixa de conver,21153,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00039,6,1,1,caixa de conver,18897,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,1,1,2,caixa de conver,17738,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00040,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,5,1,1,caixa do conver,4757,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,6,1,1,caixa de conver,1320,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,7,1,4,caixa do conver,26247,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00041,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,3,1,1,caixa de conver,34326,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,5,1,1,caixa de conver,29004,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00042,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,1,1,1,caixa do conver,11527,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,2,1,1,caixa de conver,33501,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,3,1,2,caixa de conver,47271,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00043,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00044,1,1,2,caixa dc conver,24855,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00044,2,1,1,caixa dc conver,37081,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00044,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00044,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,1,1,3,caixa do conver,34608,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00045,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,2,1,1,caixa de conver,41708,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00046,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,1,1,1,caixa dcconver,16883,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00047,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00048,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,4,1,2,caixa do conver,5446,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00049,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00050,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,1,1,1,caixa dc conver,30552,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,2,1,1,caixa dc conver,12294,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00051,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00052,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,1,1,3,caixa do conver,20099,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,2,1,1,caixa de conver,4145,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00053,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,1,1,1,caixa dc conver,35061,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,2,1,1,caixadc conver,39430,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00054,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00055,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00056,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00057,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00058,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,2,1,1,caixa de conver,32764,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00059,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,1,1,1,caixa dc conver,25567,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,3,1,1,caixa de conver,38742,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00060,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00061,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,3,1,1,caixa doconver,14053,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00062,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,1,1,1,caixa de conver,11793,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00063,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,1,1,1,caixa de conver,16017,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00064,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,1,1,2,caixa de conver,14685,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00065,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00066,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,2,1,1,caixa dn conver,18167,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00067,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00068,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,3,1,1,caixa de conver,25930,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00069,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00070,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00071,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00071,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00071,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00071,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,1,1,1,caixa do conver,29438,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00072,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,2,1,1,caixa de conver,52234,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00073,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00074,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,1,1,2,caixa do conver,15267,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00075,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,2,1,1,caixa dn conver,13547,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00076,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,1,1,1,caixade conver,37027,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00077,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00078,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,1,1,1,caixa deconver,25323,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00079,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,1,1,1,caixa de conver,17983,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00080,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,1,1,1,caixa dc conver,30140,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00081,6,1,2,caixa do conver,18178,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,2,1,1,caixa de conver,28712,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00082,6,1,2,caixa do conver,15080,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,2,1,2,caixa de conver,30800,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00083,8,1,1,caixa de conver,14636,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,1,1,1,caixa do conver,42494,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00084,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,1,1,1,caixa dc conver,31036,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,3,1,1,caixa de conver,2272,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00085,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,1,1,2,caixa do conver,21576,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00086,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00087,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00088,1,1,1,caixa do conver,22860,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00088,2,1,2,caixa do conver,26840,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00088,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00088,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00089,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00089,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00089,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00089,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,1,1,1,caixa de conver,17956,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,2,1,1,caixa do conver,53244,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00090,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00091,1,1,3,caixa do conver,31209,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00091,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00091,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00091,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,3,1,1,caixa de conver,26926,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00092,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,1,1,1,caixa de conver,19887,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,3,1,1,caixa de conver,37742,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00093,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,1,1,2,caixa de conver,21218,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,2,1,1,caixa deconver,37625,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00094,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,1,1,2,caixa do conver,23720,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,2,1,1,caixa do conver,38370,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00095,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,2,1,2,caixade conver,16561,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00096,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,2,1,1,caixa de conver,12163,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00097,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,3,1,1,caixa de conver,13802,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00098,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,1,1,1,caixa de conver,19826,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00099,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,1,1,1,caixa de conver,41423,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00101,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,1,1,1,caixa dc conver,34961,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00102,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,2,1,1,caixa de conver,6273,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00103,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00104,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00105,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00106,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00107,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,1,1,1,caixa de conver,31965,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00108,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,1,1,2,caixa deconver,6380,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00109,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,1,1,1,caixa de conver,17772,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00110,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,1,1,1,caixa de conver,12552,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,2,1,1,caixa de conver,43896,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00111,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,1,1,4,caixa de conver,12270,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00112,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,1,1,1,caixa do conver,20931,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,2,1,1,caixa de conver,2947,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00113,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,1,1,1,caixa dc conver,28090,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00114,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,4,1,1,caixa do conver,9889,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00115,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,1,1,1,caixa de conver,35772,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00116,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,1,1,1,caixa de conver,39909,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00117,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,1,1,1,caixa do conver,22210,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,2,1,2,caixa do conver,33276,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00118,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,1,1,1,caixa de conver,20980,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00119,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,1,1,3,caixa de conver,42458,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,2,1,1,caixa de conver,12369,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00120,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,1,1,1,caixa do conver,38988,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00121,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00122,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,1,1,2,caixa dc conver,27585,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,2,1,3,caixa dc conver,15970,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00123,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,2,1,1,caixa dn conver,6909,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,5,1,5,caixa de conver,24586,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00124,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,2,1,2,caixadcconver,15141,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00125,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,2,1,1,caixa doconver,36144,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00126,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,2,1,1,caixa de conver,17177,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00127,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,1,1,1,caixa de conver,12892,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00128,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,1,1,1,caixa de conver,39273,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,2,1,1,caixa do conver,5567,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00129,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,2,1,1,caixa de conver,5439,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00130,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00131,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,3,1,1,caixa de conver,51659,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00132,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00133,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00134,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,1,1,1,caixa de conver,30371,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00135,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,1,1,1,caixa dc conver,15451,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,2,1,1,caixa de conver,5117,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00136,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00137,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,1,1,1,caixa de conver,35461,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00138,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,1,1,1,caixa dc conver,31324,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00139,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00140,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,1,1,1,caixa do conver,22792,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00141,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,1,1,3,caixa do conver,20003,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00142,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,1,1,1,caixa de conver,43546,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00143,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,1,1,1,caixa de conver,20478,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,3,1,1,caixa do conver,29487,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00144,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,2,1,1,caixa de conver,10014,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,3,1,1,caixa de conver,7967,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00145,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,1,1,1,caixa de conver,15959,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00146,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,2,1,1,caixa de conver,18264,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00147,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,1,1,1,caixade conver,44031,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,3,1,2,caixa do conver,53941,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00148,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00149,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,1,1,1,caixa dc conver,37258,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,4,1,1,caixa de conver,51497,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00150,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00151,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00152,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00153,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,1,1,1,caixa de conver,11735,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00154,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,3,1,1,caixa de conver,54604,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00155,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00156,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,3,1,1,caixa de conver,15661,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00157,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00158,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00159,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,3,1,1,caixa do conver,21112,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00160,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00161,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00162,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,1,1,1,caixa de conver,46113,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00163,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,3,1,1,caixa dc conver,30303,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00164,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,1,1,1,caixa de conver,43471,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,2,1,1,caixa do conver,11981,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00165,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,3,1,1,caixa do conver,24842,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00166,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00167,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00168,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,2,1,1,caixa do conver,13649,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00169,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00170,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,3,1,1,caixa do conver,59179,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00171,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,3,1,1,caixa de conver,1929,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00172,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00173,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00174,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00175,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00176,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,1,1,1,caixa de conver,30641,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,2,1,1,caixa de conver,44474,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00177,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,1,1,1,caixa du conver,25624,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00178,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00179,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,1,1,1,caixa de conver,20515,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00180,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00181,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00182,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00182,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00182,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00182,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00183,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00184,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,5,1,1,caixa de conver,53657,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00185,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00186,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00187,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00188,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00189,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,1,1,2,caixa dt conver,31206,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00190,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00191,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00192,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,1,1,1,caixa de conver,46765,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00193,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00194,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00195,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00196,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00197,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00198,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,2,1,1,caixa de conver,28133,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,3,1,1,caixa dc conver,7485,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00199,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,2,1,1,caixa do conver,41920,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00201,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00202,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00203,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00203,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00203,3,1,1,caixa de conver,40215,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00203,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00204,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,4,1,1,caixa deconver,23973,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00205,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00206,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00207,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,2,1,1,caixa de conver,32839,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00208,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,2,1,1,caixa de conver,13869,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00209,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,1,1,2,caixa de conver,5507,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00210,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00211,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,1,1,1,caixa dcconver,32630,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00212,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,1,1,1,caixa de conver,20498,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00213,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,16,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,17,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,18,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,19,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,20,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,21,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,22,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,23,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,24,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,25,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,26,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,27,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00214,28,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00215,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,1,1,1,caixa de conver,40917,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00216,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00217,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00218,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00219,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00220,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00221,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00222,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00223,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00224,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00225,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00226,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,1,1,2,caixa de conver,26477,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00227,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00228,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,2,1,1,caixa de conver,44652,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00229,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,7,1,1,caixa de conver,26850,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00230,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,4,1,2,caixa de conver,49561,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00231,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00232,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,3,1,1,caixa dc conver,2077,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00233,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00234,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00235,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00236,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00237,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00238,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00238,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00238,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00238,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,2,1,2,caixa de conver,20938,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00239,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,2,1,1,caixa de conver,46503,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00240,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00241,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,1,1,1,caixa dc conver,7145,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00242,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,1,1,3,caixade conver,1087,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00243,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,5,1,1,caixa deconver,23840,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00244,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00245,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00245,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00245,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00245,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,4,1,1,caixa de conver,30030,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00246,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,1,1,1,caixa de conver,10645,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00247,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00248,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00249,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00250,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,2,1,1,caixa de conver,2838,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00251,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00252,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00252,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00252,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00252,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,1,1,1,caixa dc conver,27928,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,5,1,1,caixa de conver,23119,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00253,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00254,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,1,1,2,caixa de conver,16278,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00255,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,1,1,1,caixa dc conver,7749,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00256,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00257,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,5,1,1,caixa deconver,23622,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00258,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00259,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00259,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00259,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00259,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00260,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,1,1,1,caixa dc conver,7050,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00261,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,1,1,1,caixa de conver,28875,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00262,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00263,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00264,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,5,1,1,caixade conver,15777,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,7,1,1,caixa de conver,10209,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00265,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00266,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,2,1,1,caixa dc conver,25569,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00267,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00268,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,1,1,2,caixa dc conver,11264,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00269,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,1,1,1,caixa dc conver,5336,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00270,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,1,1,1,caixa de conver,5365,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00271,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00272,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00273,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,3,1,1,caixa de conver,26094,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00274,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,1,1,2,caixa de conver,17207,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00275,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,1,1,1,caixa de conver,36454,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00276,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,1,1,1,caixa de conver,28967,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,2,1,1,caixa de conver,43460,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00277,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,3,1,1,caixa de conver,27848,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00278,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,5,1,1,caixa de conver,28412,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,6,1,1,caixa de conver,43515,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,7,1,2,caixa do conver,2502,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,16,1,2,caixa do conver,43670,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,17,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00279,18,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,1,1,2,caixa de conver,9575,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,3,1,1,caixa de conver,60297,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00280,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,1,1,1,caixa de conver,25825,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00281,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,1,1,2,caixa de conver,23533,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00283,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,1,1,1,caixa de conver,9922,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00284,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00285,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00286,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00287,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00287,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00287,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00287,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,1,1,1,caixa de conver,34246,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,4,1,1,caixa deconver,37127,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00288,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,1,1,1,caixa de conver,7119,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00289,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,2,1,2,caixa do conver,13236,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00290,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,1,1,1,caixa da conver,2562,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00291,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,1,1,1,caixa deconver,16627,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00292,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,1,1,1,caixa de conver,11949,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,9,1,1,caixa de conver,13373,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00293,16,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,1,1,1,caixa dc conver,15467,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,5,1,2,caixa doconver,23840,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00294,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,1,1,1,caixa de conver,11001,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00295,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,1,1,1,caixa dc conver,15284,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00296,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00298,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,1,1,1,caixa de conver,4547,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,16,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,17,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00299,18,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00301,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,3,1,2,caixa de conver,40069,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00302,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,4,1,1,caixa de conver,16083,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00303,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00304,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00305,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00306,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00307,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00308,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,1,1,1,caixa de conver,10194,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00309,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00310,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,1,1,1,caixa de conver,10002,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00311,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,1,1,2,caixa deconver,9857,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00312,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,1,1,2,caixa de conver,3678,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00313,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,5,1,1,caixa dc conver,8910,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00314,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00315,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00315,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00315,3,1,1,caixa de conver,4984,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00315,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,5,1,1,caixa do conver,24628,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00316,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00317,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00318,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00319,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,3,1,1,caixa deconver,3348,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00320,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,5,1,1,caixa deconver,24811,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00321,16,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00322,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00322,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00322,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00322,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,1,1,1,caixa dc conver,4894,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,4,1,3,caixa do conver,14389,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00323,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00324,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00325,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,1,1,1,caixa de conver,15915,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00326,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00327,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00328,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00329,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00329,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00329,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00329,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,1,1,1,caixa de conver,19731,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00330,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00331,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00332,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,1,1,1,caixa de conver,10021,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00333,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,1,1,1,caixa de conver,8796,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00334,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,5,1,1,caixa de conver,28641,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,8,1,2,caixa do conver,10585,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00335,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,1,1,1,caixa de conver,15144,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00336,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,1,1,1,caixa de conver,24542,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00337,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00338,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,2,1,1,caixa doconver,36992,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00339,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00340,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,1,1,1,caixa de conver,20114,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00341,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,5,1,1,caixa de conver,23517,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00342,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00343,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00343,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00343,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00343,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00344,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00345,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,1,1,1,caixa de conver,21528,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00346,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00347,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,1,1,1,caixa de conver,31668,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00348,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,6,1,1,caixa dc conver,41500,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00349,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00350,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00350,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00350,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00350,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,1,1,1,caixa dc conver,25065,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,2,1,1,caixa de conver,40775,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00351,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00352,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00353,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,1,1,1,caixa de conver,11536,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00354,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,1,1,1,caixa de conver,11115,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00355,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,7,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,10,1,2,caixade conver,35522,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,13,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,14,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,15,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00356,16,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00357,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00357,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00357,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00357,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00358,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00359,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00360,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00361,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,1,1,1,caixa de conver,12223,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00362,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,5,1,1,caixa dc conver,29112,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,6,1,1,caixa de conver,28484,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,7,1,1,caixa de conver,27956,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,8,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,9,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,10,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,11,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00363,12,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00364,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00364,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00364,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00364,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,1,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,2,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,3,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,4,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,5,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
+103730,per103730_1907_00365,6,0,0,,,triagem/nome-caixa-conversao 1.0.0,21,ok
