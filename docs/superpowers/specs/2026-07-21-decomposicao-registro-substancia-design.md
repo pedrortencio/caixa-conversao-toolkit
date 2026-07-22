@@ -91,8 +91,10 @@ Unidades pequenas, cada uma testável isoladamente.
   CSV rotulável. Serve para (a) Pedro conferir se as três etiquetas são
   exaustivas e suficientes, (b) medir a distribuição real dos registros, (c)
   virar o conjunto de referência contra o qual os detectores são medidos.
-  Tamanho a fixar com Pedro (ordem de algumas centenas). Sem esta amostra os
-  detectores ficariam ancorados só nas ~32 edições.
+  Tamanho fixado (2026-07-21): amostra estratificada por jornal × ano, ~12
+  matches por célula, ~400 contextos no total (~35 células, Gazeta 1913 fora).
+  Ajustável se a distribuição pedir. Sem esta amostra os detectores ficariam
+  ancorados só nas ~32 edições.
 
 - **`pipeline/triagem/classificador_registro.py` — classificador de registro
   (função pura, sem I/O).** Recebe o contexto normalizado de um match, devolve
@@ -147,10 +149,19 @@ etiqueta por match ──► manifesto (coluna de registro)
 - **Teste do artefato de gênero**: `incidental` e `operacional_rotina` devem
   concentrar em 1907+ e ser raros em 1906. Se dispararem muito em 1906, estão
   errados (em 1906 a Caixa não operava, então não há boletim de movimento).
-- **Checagem humana estratificada**: amostra de cada etiqueta em anos tardios,
-  Pedro confere a acurácia. Refutador: se um balde estiver mal classificado
-  acima de uma margem pequena (a fixar, ordem de 5-10%), ajusto o detector e
-  repito. É o "vamos ver se vão ser acuradas e suficientes" operacionalizado.
+- **Checagem humana estratificada**: amostra de cada etiqueta, Pedro confere a
+  acurácia. **Margem fixada por Pedro (2026-07-21): 5% no nível da EDIÇÃO**
+  (não do match), avaliada nos dois registros mecânicos (incidental e
+  operacional_rotina, que empurram o denominador substantivo). O nível da
+  edição importa porque é o dos denominadores: a edição conta se qualquer
+  menção sua é substantiva, então erro num match isolado raramente vira a
+  edição; o risco concentra nas edições de menção única. **Cláusula de
+  calibração**: 5% é alvo com calibração pela amostra do passo 1, não promessa
+  cega. Se um registro não alcançar 5% barato, reporta-se a margem alcançada e
+  decide-se por registro (aceitar a margem declarada, ou escalar só aquela
+  fatia para instrumento mais caro). O gate mais informativo é o VIÉS LÍQUIDO
+  no denominador (erros equilibrados se cancelam), não a acurácia crua por
+  match. É o "vamos ver se vão ser acuradas e suficientes" operacionalizado.
 - **Margem de suficiência**: se a amostra do passo 1 revelar um quarto gênero
   frequente não coberto pelas três etiquetas, a taxonomia se estende antes de
   qualquer contagem em escala.
