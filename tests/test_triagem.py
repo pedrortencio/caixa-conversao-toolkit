@@ -31,7 +31,10 @@ def _sha(texto: str) -> str:
     return hashlib.sha256(texto.encode("utf-8")).hexdigest()
 
 
-class TriagemTests(unittest.TestCase):
+class FixtureBancoTriagem(unittest.TestCase):
+    """Base sem testes: banco em tempdir com o helper `_semeia`. Reusada por
+    TriagemTests e pelos testes da amostra de registro, sem rerodar testes."""
+
     def setUp(self) -> None:
         self._tmp = tempfile.TemporaryDirectory()
         self.addCleanup(self._tmp.cleanup)
@@ -131,6 +134,8 @@ class TriagemTests(unittest.TestCase):
         self.conn.commit()
         return object_id
 
+
+class TriagemTests(FixtureBancoTriagem):
     # --- db_leitura ---
     def test_itera_paginas_ordem_e_filtro(self) -> None:
         self._semeia("178691", 1906, "00002", ["b", "a"])
