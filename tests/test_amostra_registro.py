@@ -86,5 +86,25 @@ class EscreveAmostraTests(FixtureBancoTriagem):
         self.assertIn("per178691_1906_00001:p001:o", linhas[1])
 
 
+class ParseDataMastheadTests(unittest.TestCase):
+    def test_data_por_extenso_normaliza(self) -> None:
+        from pipeline.triagem.recupera_amostra import parse_data_masthead
+        self.assertEqual(
+            "1906-05-11",
+            parse_data_masthead(
+                "RIO DE JANEIRO, Sexta-feira 11 de Maio de 1906"
+            ),
+        )
+        self.assertEqual(
+            "1906-01-13",
+            parse_data_masthead("SABBADO 13 DE JANEIRO DE 1906"),
+        )
+
+    def test_sem_data_devolve_none(self) -> None:
+        from pipeline.triagem.recupera_amostra import parse_data_masthead
+        self.assertIsNone(parse_data_masthead("texto qualquer sem data"))
+        self.assertIsNone(parse_data_masthead("13 de mesinho de 1906"))
+
+
 if __name__ == "__main__":
     unittest.main()
