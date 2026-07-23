@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import datetime
 import re
 import sys
 from collections import Counter, defaultdict
@@ -24,7 +25,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from pipeline.base import db
-from pipeline.triagem import regra_nome
+from pipeline.triagem import db_leitura, regra_nome
 from pipeline.triagem.roda_censo import DIR_MANIFESTO
 
 ENTRADA = DIR_MANIFESTO / "amostra_recuperada.csv"
@@ -35,6 +36,12 @@ RELATORIO = db.ROOT / "docs" / "relatorio-limpeza-amostra.md"
 _DISCLAIMER = re.compile(
     r"\[|nao (e|est|h)|nenhum|aproximad|refer[eê]ncia|indireta|passagem", re.I
 )
+_DATA = re.compile(r"(\d{1,2})\s+de\s+([a-z]+)\s+de\s+(\d{4})")
+_MESES = {
+    "janeiro": 1, "fevereiro": 2, "marco": 3, "abril": 4, "maio": 5,
+    "junho": 6, "julho": 7, "agosto": 8, "setembro": 9, "septembro": 9,
+    "outubro": 10, "novembro": 11, "dezembro": 12,
+}
 
 
 def classifica(row: dict) -> str:
@@ -48,19 +55,82 @@ def classifica(row: dict) -> str:
         return "drop_amortizacao"
     if _DISCLAIMER.search(trecho):
         return "drop_disclaimer"
+    texto_norm = regra_nome.normaliza(row["texto"])
+    if len(row["texto"].strip()) < 150 and (
+        row["texto"].strip().startswith("[")
+        or "incluido acima" in texto_norm
+        or "cobre tambem" in texto_norm
+    ):
+        return "drop_referencia"
     if regra_nome.encontra(row["texto"]) or regra_nome.encontra(trecho):
         return "keep"
     return "keep" if row["continua"] == "1" else "drop_sem_nome"
 
 
-def data_confiavel(row: dict) -> int:
-    """1 se a data veio da visão e o ano casa com source_year (tolerância de
-    1 ano nas viradas de ano); 0 caso contrário (parser de OCR ou divergência),
-    para inspeção humana."""
-    data, ano = row["data"], row["source_year"]
-    if row["data_fonte"] != "masthead_llm" or len(data) < 4 or not data[:4].isdigit():
-        return 0
-    return 1 if abs(int(data[:4]) - int(ano)) <= 1 else 0
+def _iso_valida(ano: int, mes: int, dia: int) -> str | None:
+    """'YYYY-MM-DD' se for data de calendário possível, senão None (rejeita
+    dia impossível de erro de OCR, ex. 30 de fevereiro, 39 de abril)."""
+    try:
+        return datetime.date(ano, mes, dia).isoformat()
+    except ValueError:
+        return None
+
+
+def _para_iso(texto: str) -> str | None:
+    """Data 'YYYY-MM-DD' válida a partir de 'YYYY-MM-DD' ou de data por
+    extenso; None se não parsear ou for dia/mês impossível."""
+    achado_iso = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", texto)
+    if achado_iso:
+        a, m, d = (int(g) for g in achado_iso.groups())
+        return _iso_valida(a, m, d)
+    achado = _DATA.search(regra_nome.normaliza(texto))
+    if not achado:
+        return None
+    dia, mes_nome, ano = achado.groups()
+    mes = _MESES.get(mes_nome)
+    return _iso_valida(int(ano), mes, int(dia)) if mes else None
+
+
+def masthead_por_ano(
+    conn, sids_anos: dict[str, str]
+) -> dict[str, str]:
+    """Para cada objeto, a data do masthead da página 1 cujo ANO casa com
+    source_year (rejeita datas de decreto reproduzido, ex. 1887 numa edição
+    de 1910). É o consertador determinístico das datas suspeitas."""
+    resolvido: dict[str, str] = {}
+    for sid, ano in sids_anos.items():
+        texto = None
+        for p in db_leitura.itera_paginas(conn, source_identifiers=[sid]):
+            if p.page_number == 1:
+                texto = db_leitura.le_conteudo(p)
+                break
+        if not texto:
+            continue
+        for achado in _DATA.finditer(regra_nome.normaliza(texto)):
+            dia, mes_nome, a = achado.groups()
+            mes = _MESES.get(mes_nome)
+            iso = _iso_valida(int(a), mes, int(dia)) if mes else None
+            if iso and int(a) == int(ano):
+                resolvido[sid] = iso
+                break
+    return resolvido
+
+
+def resolve_data(row: dict, masthead: dict[str, str]) -> None:
+    """Fixa data/data_fonte/data_confiavel por prioridade: masthead da pág. 1
+    com ano casado (confiável) > data da visão consistente com o ano
+    (confiável) > só o ano (não confiável, mas nunca grosseiramente errada)."""
+    sid, ano = row["source_identifier"], row["source_year"]
+    if sid in masthead:
+        row["data"], row["data_fonte"], row["data_confiavel"] = (
+            masthead[sid], "masthead_pag1_ano", 1
+        )
+        return
+    iso = _para_iso(row["data"]) if row["data"] else None
+    if iso and abs(int(iso[:4]) - int(ano)) <= 1:
+        row["data"], row["data_confiavel"] = iso, 1
+        return
+    row["data"], row["data_fonte"], row["data_confiavel"] = ano, "ano_apenas", 0
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -87,10 +157,15 @@ def main(argv: list[str] | None = None) -> int:
         ]
         linhas += rec
 
+    conn = db.connect(db.DEFAULT_DATABASE, migrate=False)
+    sids_anos = {r["source_identifier"]: r["source_year"] for r in linhas}
+    masthead = masthead_por_ano(conn, sids_anos)
+    conn.close()
+
     por_ano: dict[str, Counter] = defaultdict(Counter)
     for r in linhas:
         r["status"] = classifica(r)
-        r["data_confiavel"] = data_confiavel(r)
+        resolve_data(r, masthead)
         por_ano[r["source_year"]][r["status"]] += 1
 
     with open(args.saida, "w", encoding="utf-8", newline="") as f:
