@@ -242,3 +242,35 @@ Pedro levantou o JC como ausência sentida do corpus (grande diário comercial d
 6. **Truncagem na amostra rotulável: não é parede.** Diagnóstico (`pipeline/triagem/diag_truncagem_variante.py`): das 487 keep, só **2** truncadas dos dois lados e **17** começam no meio; o resto do "sem fim" é tabela/boletim/lista legítimos. Política de Pedro: rotular pelo trecho visível; deixar a célula `registro` em branco nas indecidíveis (o merge trata branco como indeterminado, sem regenerar o xlsx). Re-transcrição dirigida (barata, à moda das 29 falhas) só se sobrar caso que trave.
 
 **Ferramenta de rotulagem entregue:** `dados/triagem/rotulagem_registro.xlsx` (487 keep, dropdown das 3 categorias) por `pipeline/triagem/gera_planilha_rotulagem.py` (TDD). Motivo do xlsx: o CSV canônico é UTF-8 e o Excel o lia como ANSI (mojibake `FIXAÇÃO`); o dado está íntegro, era só exibição.
+
+---
+
+## 2026-07-23 — Modelo de tópicos recusado como método central; Fightin' Words aprovado como diagnóstico
+
+Pedro perguntou se compensava fazer topic modeling no corpus, com a ressalva sincera de que "fica bonito no artigo". Dois pareceres convergiram: o do Claude nesta sessão e um do Codex trazido por Pedro ao chat. **Ressalva de proveniência:** o parecer do Codex não foi despachado por `scripts/invoca-codex.ps1`, então não há JSONL em `colaboracao/registros/` para ele; vale como argumento lido, não como parecer registrado pelo protocolo.
+
+1. **Recusa do modelo de tópicos como método central.** Motivos, em ordem: (a) tópico modela assunto, não adesão, e ortodoxos e expansionistas compartilham o vocabulário do debate (câmbio, conversão, lastro, emissão, 15 dinheiros, café), logo cairiam no mesmo agrupamento; (b) a unidade documental do jornal é uma página que mistura editorial, telegrama, movimento do porto e anúncio, então LDA sobre páginas recupera seção e gênero, não debate; (c) saco de palavras é o pior caso possível para as ~117 mil páginas de OCR bruto, e a normalização necessária seria ela mesma decisão de mensuração; (d) não produz erro reportável, o que colide com o padrão do projeto de erro medido e não assumido. Alternativa não descartada, apenas adiada e estreitada: STM com jornal e ano como covariáveis, sobre o subcorpus substantivo segmentado, para saliência e composição temática, nunca para posição.
+
+2. **Fightin' Words (Monroe, Colaresi e Quinn 2008) aprovado como diagnóstico e triangulação**, não como instrumento de posição. Razão da escolha: é transparente, dispensa escolher k, devolve palavras auditáveis até a contagem, e o prior de Dirichlet informativo mais a padronização pelo erro padrão penalizam justamente o termo raro, que é onde mora o erro de OCR. Quatro rodadas previstas, em ordem de valor: relevante contra não relevante (insumo da auditoria de recall), fase contra fase (assinatura lexical da periodização), jornal contra jornal (com cautela por confundimento de digitalização) e ortodoxo contra expansionista (só depois dos rótulos humanos, como leitura dos rótulos e não validação deles).
+
+3. **Gate:** nada roda antes de fechar a limpeza das bases. Pré-requisitos, especificação técnica, limites a declarar no artigo e papel previsto estão em `docs/todo-fightin-words.md`.
+
+4. **O que se aceita perder:** a figura de tópicos que renderia bem numa apresentação. O juízo comum aos dois pareceres é que uma banca de história econômica compra melhor um método lexical transparente e subordinado ao desenho de mensuração do que um método não supervisionado bonito e conceitualmente desalinhado com a pergunta.
+
+---
+
+## 2026-07-23 — Rotulagem de registro concluída e revisada (487 peças)
+
+Relatório completo em `docs/relatorio-rotulagem-registro.md`. Pontos que alteram o trabalho seguinte:
+
+1. **Cobertura:** 456 de 487 rotulados (93,6%), 31 em branco pela política de indeterminação de 2026-07-21. Distribuição: 240 substantivo, 169 operacional_rotina, 47 incidental.
+
+2. **Teste do artefato de gênero: passa.** 1906 tem 54 de 54 substantivo, zero incidental e zero operacional. A predição era pré-registrada e vinha da história, a Caixa não operava em 1906, logo não havia boletim de movimento. Podia ter falhado.
+
+3. **Margem de suficiência: passa.** Nenhum quarto gênero emergiu; 7 itens (1,4%) marcados como insuficientes, sem formar classe.
+
+4. **Achado de projeto para o detector:** editorial (28 de 28) e artigo (64 de 64) são sempre substantivos, boletim é rotina em 92%, e o telegrama se reparte pelos três registros, o que confirma que telegrama é veículo e não registro. Toda a ambiguidade está em `noticia` (232 itens repartidos em 117, 96 e 19). O `classificador_registro.py` pode usar `forma` como prior forte e concentrar os detectores em `noticia`, com a ressalva de que `forma` é saída de modelo e seu erro precisa ser medido.
+
+5. **Dois bugs a corrigir antes de qualquer contagem:** (a) 11 itens com disclaimer de "não menciona a Caixa" escaparam do `drop_sem_nome` do `limpa_amostra.py`, e um deles foi rotulado substantivo em 1910; (b) a data resolvida diverge de `source_year` em 26 itens e perde 18 só em 1910, então `source_year` passa a ser a chave de ano em toda contagem, com `data` restrita aos casos `data_confiavel=1`.
+
+6. **Hipótese aberta sobre a periodização:** a composição de registro segue as fases (substantivo em 1906, rotina em 1907-09, substantivo em 1910, rotina em 1911-12, substantivo em 1913-14), o que sugere que o bloco 1910-13 do codebook pode ser grosso demais. É hipótese, não achado: a amostra é de matches sobreviventes da limpeza, com taxa de `keep` variando de 51% a 66% por ano, e 1910 concentra os dois bugs acima. Teste barato e independente disponível pela rodada 2 do Fightin' Words.
