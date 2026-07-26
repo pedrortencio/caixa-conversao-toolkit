@@ -53,6 +53,12 @@ Editorial e artigo são substantivos sem exceção. Boletim é rotina em 92% dos
 
 ## Dois bugs na camada de limpeza
 
+> **Estado em 2026-07-25: os dois foram corrigidos.** A calibração do padrão na
+> base inteira mostrou que os vazamentos eram 19, não 11 (os 8 a mais estão em
+> `per103730_1908_00075:p005` e `per178691_1907_08206:p005`). `keep` cai de 487
+> para 468, rotulados decididos de 456 para 453. Detalhe e consequências em
+> `docs/decisoes.md`, entrada de 2026-07-25.
+
 **Bug 1, vazamento de disclaimer.** Onze itens de 487 (2,3%) trazem no `trecho_caixa` a marca de que a peça não menciona a Caixa, e ainda assim passaram pelo `drop_sem_nome` do `limpa_amostra.py`, porque a redação do disclaimer varia. Oito ficaram em branco, o que mostra que Pedro os reconheceu na leitura. Dois foram rotulados `incidental` com nota de ignorar. Um foi rotulado `substantivo`:
 
 - rotulado indevidamente: `per089842_1910_03440:p008:i3` (substantivo), `per089842_1914_05551:p001:i1` e `per089842_1914_05712:p006:i2` (incidental, com nota de ignorar);

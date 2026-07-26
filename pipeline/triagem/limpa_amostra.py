@@ -36,6 +36,24 @@ RELATORIO = db.ROOT / "docs" / "relatorio-limpeza-amostra.md"
 _DISCLAIMER = re.compile(
     r"\[|nao (e|est|h)|nenhum|aproximad|refer[eê]ncia|indireta|passagem", re.I
 )
+# Meta-comentário da visão sobre a AUSÊNCIA de menção. Casado sobre o trecho
+# normalizado (o padrão acima roda sobre o texto cru e não vê "não" acentuado).
+# Vaza pela regra de nome porque a própria negação nomeia a Caixa.
+#
+# A negação precisa ser SOBRE A MENÇÃO À CAIXA, não uma negação qualquer: o
+# jornal de época nega o argumento ("não há dúvida de que a Caixa beneficia a
+# lavoura") e descartar isso cortaria justamente o trecho polêmico. Daí a
+# vizinhança exigida entre a negação, o verbo de menção e o nome, e o corte da
+# janela em ponto e ponto-e-vírgula, que separam orações.
+_NEGA_MENCAO = r"nao aplic|nao menciona|sem mencao|nao (ha|existe|consta) mencao"
+_DISCLAIMER_VISAO = re.compile(
+    rf"nao aplic|({_NEGA_MENCAO})[^.;]{{0,40}}caixa"
+    r"|nao (ha|existe|consta)[^.;]{0,40}caixa[^.;]{0,20}mencionad"
+)
+# Forma solta da negação, usada só depois que a regra de nome já falhou no
+# trecho E no texto: sem nome em lugar nenhum, a vizinhança com "caixa" deixa
+# de ser exigível e a marca de ausência basta.
+_NEGA_MENCAO_SOLTA = re.compile(_NEGA_MENCAO)
 _DATA = re.compile(r"(\d{1,2})\s+de\s+([a-z]+)\s+de\s+(\d{4})")
 _MESES = {
     "janeiro": 1, "fevereiro": 2, "marco": 3, "abril": 4, "maio": 5,
@@ -53,7 +71,9 @@ def classifica(row: dict) -> str:
         return "drop_trecho_vazio"
     if "amortiza" in regra_nome.normaliza(trecho):
         return "drop_amortizacao"
-    if _DISCLAIMER.search(trecho):
+    if _DISCLAIMER.search(trecho) or _DISCLAIMER_VISAO.search(
+        regra_nome.normaliza(trecho)
+    ):
         return "drop_disclaimer"
     texto_norm = regra_nome.normaliza(row["texto"])
     if len(row["texto"].strip()) < 150 and (
@@ -64,6 +84,11 @@ def classifica(row: dict) -> str:
         return "drop_referencia"
     if regra_nome.encontra(row["texto"]) or regra_nome.encontra(trecho):
         return "keep"
+    # Sem nome no trecho nem no texto: a regra de continuação supõe que o nome
+    # esteja do outro lado da coluna, o que a declaração de ausência da visão
+    # desmente. Sem ela, a peça partida continua valendo.
+    if _NEGA_MENCAO_SOLTA.search(regra_nome.normaliza(trecho)):
+        return "drop_disclaimer"
     return "keep" if row["continua"] == "1" else "drop_sem_nome"
 
 
@@ -119,7 +144,12 @@ def masthead_por_ano(
 def resolve_data(row: dict, masthead: dict[str, str]) -> None:
     """Fixa data/data_fonte/data_confiavel por prioridade: masthead da pág. 1
     com ano casado (confiável) > data da visão consistente com o ano
-    (confiável) > só o ano (não confiável, mas nunca grosseiramente errada)."""
+    (confiável) > nenhuma data (`ano_apenas`, não confiável).
+
+    Quando não há data, a coluna fica VAZIA em vez de receber o ano nu: a
+    coluna é de data, e guardar duas espécies de valor nela fazia consumidor
+    que parseia perder linha em silêncio. O ano não se perde, está em
+    `source_year`, que é a chave de ano de qualquer contagem."""
     sid, ano = row["source_identifier"], row["source_year"]
     if sid in masthead:
         row["data"], row["data_fonte"], row["data_confiavel"] = (
@@ -130,7 +160,22 @@ def resolve_data(row: dict, masthead: dict[str, str]) -> None:
     if iso and abs(int(iso[:4]) - int(ano)) <= 1:
         row["data"], row["data_confiavel"] = iso, 1
         return
-    row["data"], row["data_fonte"], row["data_confiavel"] = ano, "ano_apenas", 0
+    row["data"], row["data_fonte"], row["data_confiavel"] = "", "ano_apenas", 0
+
+
+def conta_ano_divergente(linhas: list[dict]) -> int:
+    """Quantas datas confiáveis caem em ano diferente do `source_year`.
+
+    São as edições de virada de ano que a tolerância de um ano aceita: a data
+    do masthead manda sobre o rótulo de ano da pasta do acervo, mas o item
+    muda de balde numa contagem por data. Publicado no relatório para a
+    escolha da chave de ano ficar visível, não implícita."""
+    return sum(
+        1
+        for r in linhas
+        if int(r["data_confiavel"]) == 1
+        and r["data"][:4] != str(r["source_year"])
+    )
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -206,10 +251,18 @@ def main(argv: list[str] | None = None) -> int:
         f"| **{100*tot.get('falha',0)/ntot:.0f}%** |"
     )
     n_suspeita = sum(1 for r in linhas if r["data_confiavel"] == 0)
+    n_diverge = conta_ano_divergente(linhas)
     partes += [
         "",
-        f"Datas a conferir (`data_confiavel=0`): {n_suspeita} de {ntot} "
-        "(parser de OCR ou ano divergente do source_year).",
+        f"Sem data resolvida (`data_confiavel=0`, coluna `data` vazia): "
+        f"{n_suspeita} de {ntot}. O ano segue conhecido por `source_year`, "
+        "que é a chave de ano de toda contagem; `data` só entra onde "
+        "`data_confiavel=1`, e apenas para série mensal.",
+        "",
+        f"Datas confiáveis em ano diferente do `source_year`: {n_diverge}. "
+        "São edições de virada de ano, em que o masthead manda sobre o rótulo "
+        "de ano da pasta do acervo; contadas aqui porque mudam de balde numa "
+        "contagem por data.",
     ]
     Path(args.relatorio).write_text("\n".join(partes) + "\n", encoding="utf-8")
     print("\n".join(partes))

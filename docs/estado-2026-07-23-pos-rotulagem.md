@@ -2,6 +2,15 @@
 
 **Data:** 2026-07-23. **Autor:** Claude, a pedido de Pedro. **Estatuto:** relatório de estado, não decide nada reservado a Pedro pelo gate de `docs/contexto-debate-metodologico-mensuracao.md`.
 
+> **Nota de 2026-07-25.** Os dois bugs de limpeza do item 5 foram corrigidos e a
+> amostra foi reprocessada, então os números abaixo são os de antes da correção.
+> Valores vigentes: `keep` 468 (era 487), rotulados decididos 453 (era 456),
+> **piso 3.054 com IC95 de 2.784 a 3.347 e teto 3.758 com IC95 de 3.463 a
+> 4.042** (eram 3.043 e 3.750). A calibração de 1906 não muda (436 previsto
+> contra 429 do gabarito). A dívida 6, falta de teste no `estima_subcorpus.py`,
+> também está quitada. A conclusão da seção 3 permanece de pé. Detalhe em
+> `docs/decisoes.md`, entrada de 2026-07-25.
+
 ## Resumo
 
 A Fase A está fechada e a camada textual gratuita cobre o censo inteiro. A rotulagem de registro terminou e passou nos dois testes pré-registrados. Com ela, a **medida pivô do desenho de mensuração deixou de estar em aberto**: o subcorpus substantivo tem entre 3.000 e 3.750 edições, o que equivale a algo entre 200 e 250 horas de leitura. O número responde a pergunta que condicionava a escolha do instrumento desde 19/07, e a resposta é que a codificação humana por censo não cabe no cronograma. A rodada metodológica avança para os artefatos 2, 4 e 5, agora com o parâmetro que faltava.

@@ -16,6 +16,7 @@ Uso: uv run python pipeline/triagem/estima_subcorpus.py
 """
 
 import glob
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -52,12 +53,27 @@ def carrega_censo_matches() -> pd.DataFrame:
     return ed[ed["n_matches"] > 0].copy()
 
 
-def carrega_rotulagem() -> pd.DataFrame:
-    """Amostra rotulada, so as celulas decididas (branco = indeterminado)."""
-    rot = pd.read_excel("dados/triagem/rotulagem_registro.xlsx")
-    src = pd.read_csv("dados/triagem/amostra_para_rotular.csv", engine="python")
-    rot = rot.merge(src[["item_id", "source_year"]], on="item_id", how="left")
-    rot = rot[rot["registro"].notna()].copy()
+XLSX_ROTULAGEM = "dados/triagem/rotulagem_registro.xlsx"
+CSV_AMOSTRA = "dados/triagem/amostra_para_rotular.csv"
+
+
+def carrega_rotulagem(
+    caminho_xlsx: str | Path = XLSX_ROTULAGEM,
+    caminho_amostra: str | Path = CSV_AMOSTRA,
+) -> pd.DataFrame:
+    """Amostra rotulada, so as celulas decididas (branco = indeterminado) de
+    pecas que sobreviveram a limpeza (`status == keep`).
+
+    O filtro por status importa: a correcao do vazamento de disclaimer
+    (2026-07-25) descartou 19 itens que ja estavam na planilha, 3 deles
+    rotulados. Sem o filtro, eles seguiriam no denominador substantivo.
+    """
+    rot = pd.read_excel(caminho_xlsx)
+    src = pd.read_csv(caminho_amostra, engine="python")
+    rot = rot.merge(
+        src[["item_id", "source_year", "status"]], on="item_id", how="left"
+    )
+    rot = rot[(rot["registro"].notna()) & (rot["status"] == "keep")].copy()
     rot["subst"] = (rot["registro"] == "substantivo").astype(int)
     return rot
 

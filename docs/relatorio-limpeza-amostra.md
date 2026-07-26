@@ -4,15 +4,17 @@ Limpeza determinística (`pipeline/triagem/limpa_amostra.py`, sem API/LLM). `kee
 
 | ano | total | keep | drop_disclaimer | drop_trecho_vazio | drop_amortizacao | drop_sem_nome | falha | keep% | falha% |
 |---|---|---|---|---|---|---|---|---|---|
-| 1906 | 97 | 56 | 13 | 5 | 2 | 20 | 0 | 58% | 0% |
-| 1907 | 82 | 53 | 20 | 2 | 0 | 7 | 0 | 65% | 0% |
-| 1908 | 95 | 60 | 26 | 0 | 0 | 9 | 0 | 63% | 0% |
-| 1909 | 91 | 59 | 14 | 3 | 8 | 7 | 0 | 65% | 0% |
-| 1910 | 115 | 75 | 20 | 1 | 1 | 18 | 0 | 65% | 0% |
-| 1911 | 73 | 48 | 10 | 0 | 2 | 12 | 1 | 66% | 1% |
+| 1906 | 97 | 55 | 20 | 5 | 2 | 14 | 0 | 57% | 0% |
+| 1907 | 82 | 50 | 23 | 2 | 0 | 7 | 0 | 61% | 0% |
+| 1908 | 95 | 54 | 33 | 0 | 0 | 8 | 0 | 57% | 0% |
+| 1909 | 91 | 57 | 17 | 3 | 8 | 6 | 0 | 63% | 0% |
+| 1910 | 115 | 71 | 24 | 1 | 1 | 18 | 0 | 62% | 0% |
+| 1911 | 73 | 47 | 11 | 0 | 2 | 12 | 1 | 64% | 1% |
 | 1912 | 78 | 40 | 15 | 9 | 1 | 13 | 0 | 51% | 0% |
 | 1913 | 68 | 40 | 17 | 6 | 1 | 4 | 0 | 59% | 0% |
-| 1914 | 88 | 56 | 17 | 0 | 2 | 13 | 0 | 64% | 0% |
-| **tot** | **787** | **487** | **152** | **26** | **17** | **103** | **1** | **62%** | **0%** |
+| 1914 | 88 | 54 | 20 | 0 | 2 | 12 | 0 | 61% | 0% |
+| **tot** | **787** | **468** | **180** | **26** | **17** | **94** | **1** | **59%** | **0%** |
 
-Datas a conferir (`data_confiavel=0`): 37 de 787 (parser de OCR ou ano divergente do source_year).
+Sem data resolvida (`data_confiavel=0`, coluna `data` vazia): 37 de 787. O ano segue conhecido por `source_year`, que é a chave de ano de toda contagem; `data` só entra onde `data_confiavel=1`, e apenas para série mensal.
+
+Datas confiáveis em ano diferente do `source_year`: 1. São edições de virada de ano, em que o masthead manda sobre o rótulo de ano da pasta do acervo; contadas aqui porque mudam de balde numa contagem por data.
