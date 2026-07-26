@@ -1,0 +1,12 @@
+{
+  "task_id": "2026-07-25-escolha-instrumento-cobertura",
+  "evento": "congelamento do parecer do Claude ANTES do despacho ao Codex",
+  "motivo": "isolamento estrutural de pareceres duplos (nivel critico)",
+  "autor": "Claude (Opus 5)",
+  "arquivo": "colaboracao/pareceres/2026-07-25-escolha-instrumento-cobertura-claude.md",
+  "sha256": "4113ffd847fc4dff5d1367ad7abdb9f0bdf4374511bcd0afc2c703d4b77e1719",
+  "bytes": 9675,
+  "congelado_em": "2026-07-26T03:01:00.118792+00:00",
+  "despacho_ao_codex": "PENDENTE, aguarda autorizacao de Pedro sobre o manifesto",
+  "manifesto": "colaboracao/manifestos/2026-07-25-escolha-instrumento-cobertura.md"
+}
