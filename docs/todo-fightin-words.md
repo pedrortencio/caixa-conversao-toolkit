@@ -23,16 +23,18 @@ A saída canônica é o gráfico de frequência da palavra no corpus, em log, co
 
 ## Pré-requisitos, que bloqueiam a rodada
 
-1. Corrigir o vazamento de disclaimer no `limpa_amostra.py` e reprocessar a amostra (`docs/relatorio-rotulagem-registro.md`, bug 1).
-2. Fixar `source_year` como chave de ano em toda contagem (bug 2 do mesmo relatório).
-3. Decidir e registrar a normalização de vocabulário: ortografia de época e variantes de OCR (conversão e converção, actual e atual). Normalizar vocabulário num corpus definido pelo construto não é pré-processamento neutro, então a decisão entra em `docs/decisoes.md`.
-4. Medir a qualidade do OCR por grupo antes de qualquer comparação entre jornais, usando `char_count` e taxa de token fora de léxico da camada de texto embutido.
+1. ~~Corrigir o vazamento de disclaimer no `limpa_amostra.py` e reprocessar a amostra~~ **feito em 2026-07-25** (19 itens descartados, `keep` 487 para 468; ver `docs/decisoes.md`).
+2. ~~Fixar `source_year` como chave de ano em toda contagem~~ **feito em 2026-07-25** (a coluna `data` deixa de guardar o ano nu e fica vazia quando não há data resolvida).
+3. ~~Decidir e registrar a normalização de vocabulário~~ **decidido por Pedro em 2026-07-25: regime mínimo, minúsculas e remoção de acento**, sem regras de ortografia de época. A sonda mostrou que os termos do construto quase não se repartem em variantes e que qualquer regime colapsa no máximo 6% do vocabulário, então o ruído fica a cargo do prior de Dirichlet mais piso de frequência. Registro em `docs/decisoes.md`.
+4. ~~Medir a qualidade do OCR por grupo antes de qualquer comparação entre jornais~~ **feito em 2026-07-25**: `pipeline/analise/qualidade_ocr.py` (TDD) e `docs/relatorio-qualidade-ocr.md`. **Achado que muda este to-do:** O Paiz varia 3,0x em ruído entre 1909 (4,84%) e 1906 (14,33%), então a rodada 2, fase contra fase, está confundida pela digitalização tanto quanto a rodada 3, e não só a 3 como este documento supunha. Ver a ressalva acrescentada à rodada 2.
 
 ## As quatro rodadas, em ordem de valor
 
-**1. Relevante contra não relevante.** Objetivo: obter os termos que acompanham o debate e não estão na regra de busca por nome, como candidatos a ampliar a triagem. Insumo direto da auditoria de recall, que o desenho já exige antes de fechar o corpus. Não depende de rótulo humano de posição. Grupos: páginas com match de nome contra amostra de páginas sem match, sobre o OCR embutido. Esta é a primeira porque devolve algo acionável ainda na fase de construção do corpus.
+**1. Relevante contra não relevante.** ~~Objetivo: obter os termos que acompanham o debate e não estão na regra de busca por nome~~ **RODADA EM 2026-07-25**, ver `docs/relatorio-fw-rodada1-relevancia.md` e a entrada do dia em `docs/decisoes.md`. 8.331 páginas contra 8.331, controle estratificado por célula jornal-ano. Devolveu: confirmação empírica da camada 2 de termos (`cambio`, `cambial`, `moeda`, `circulacao`, `libras`, `amortizacao`), atores nomeados não procurados (`campista`, `bulhoes`, `rivadavia`) e o predomínio da seção de atos oficiais no grupo relevante. Limite achado na própria rodada: o controle é dominado por anúncio classificado, então o contraste é em parte de gênero de página.
 
 **2. Fase contra fase, no subcorpus substantivo.** Objetivo: testar se a periodização do codebook tem assinatura lexical própria, o que a converte de recorte a priori em achado. Hipótese específica vinda da rotulagem de registro: 1910 e 1913-14 se separam de 1911-12, o que colocaria em questão o bloco 1910-13.
+
+> **Ressalva de 2026-07-25, do pré-requisito 4.** Fase é recorte de ANOS, e o ruído de OCR varia por ano dentro do mesmo jornal (O Paiz: 4,84% em 1909 contra 14,33% em 1906, 3,0x). Como 1906 é fase inteira e é o pior ano de O Paiz, a assinatura lexical da fase 1 pode ser assinatura do scanner. Controle mínimo antes de ler a rodada 2: repetir a comparação dentro de cada jornal separadamente e reter só os termos que aparecem nos quatro, e conferir se o topo da lista não é lixo sem vogal.
 
 **3. Jornal contra jornal.** Cautela alta. A comparação é confundida com qualidade de digitalização por título e por década, e com a composição de seções de cada diário. Só depois do pré-requisito 4, e com inspeção de que os termos do topo são palavras de verdade.
 

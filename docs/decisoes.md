@@ -274,3 +274,69 @@ Relatório completo em `docs/relatorio-rotulagem-registro.md`. Pontos que altera
 5. **Dois bugs a corrigir antes de qualquer contagem:** (a) 11 itens com disclaimer de "não menciona a Caixa" escaparam do `drop_sem_nome` do `limpa_amostra.py`, e um deles foi rotulado substantivo em 1910; (b) a data resolvida diverge de `source_year` em 26 itens e perde 18 só em 1910, então `source_year` passa a ser a chave de ano em toda contagem, com `data` restrita aos casos `data_confiavel=1`.
 
 6. **Hipótese aberta sobre a periodização:** a composição de registro segue as fases (substantivo em 1906, rotina em 1907-09, substantivo em 1910, rotina em 1911-12, substantivo em 1913-14), o que sugere que o bloco 1910-13 do codebook pode ser grosso demais. É hipótese, não achado: a amostra é de matches sobreviventes da limpeza, com taxa de `keep` variando de 51% a 66% por ano, e 1910 concentra os dois bugs acima. Teste barato e independente disponível pela rodada 2 do Fightin' Words.
+
+---
+
+## 2026-07-25 — Bugs de limpeza corrigidos, amostra reprocessada e medida pivô recalculada
+
+Execução dos itens 1 e 5 do relatório de rotulagem (`docs/relatorio-rotulagem-registro.md`), por TDD, sem API. Implementação em `pipeline/triagem/limpa_amostra.py` e `pipeline/triagem/estima_subcorpus.py`; testes novos em `tests/test_limpa_amostra.py` (8) e `tests/test_estima_subcorpus.py` (5). Suíte inteira verde.
+
+1. **Bug 1, vazamento de disclaimer: eram 19, não 11.** O mecanismo: o meta-comentário da visão nomeia a Caixa dentro da própria negação ("não há menção à Caixa de Conversão neste item"), então a regra de nome casava com o disclaimer e devolvia `keep` antes que qualquer descarte se aplicasse. O padrão antigo rodava sobre o texto cru e trazia `nao` sem acento, de modo que nenhuma das redações com "não" era vista. A calibração na base inteira achou, além dos 11 que Pedro marcou na leitura, mais 8 do mesmo gênero que passaram despercebidos: 6 na página `per103730_1908_00075:p005` e 2 em `per178691_1907_08206:p005`. Impacto por ano: 1906 -1, 1907 -3, 1908 -6, 1909 -2, 1910 -4, 1911 -1, 1914 -2. `keep` cai de 487 para 468. Dos 19, só 3 tinham rótulo, exatamente os que o relatório previa: o `substantivo` indevido de 1910 e os 2 `incidental` de 1914. Rotulados decididos passam de 456 para 453 (239 substantivo, 169 operacional_rotina, 45 incidental).
+
+2. **O padrão novo é estreito de propósito.** A negação precisa ser sobre a menção à Caixa, com vizinhança exigida entre a negação, o verbo de menção e o nome, e a janela cortada em ponto e ponto-e-vírgula. O motivo é de construto: o jornal de época nega o argumento ("não há dúvida de que a Caixa beneficia a lavoura"), e um padrão largo cortaria justamente o trecho polêmico, que é o material de maior valor para a medida de posição. A guarda contra esse descarte está no teste `test_negacao_do_jornal_nao_e_disclaimer`, escrita antes da correção e vista falhar com o padrão largo.
+
+3. **Caso novo, decidido aqui: a regra de continuação não sobrevive à declaração de ausência.** `per178691_1910_09522:p002:i1` é editorial de 3.801 caracteres em que a regra de nome não acha a Caixa nem no trecho nem no texto, e a visão declara não ter achado a menção. Ele era mantido só por `continua=1`. A regra de continuação existe para não perder peça partida em coluna e pressupõe que o nome esteja do outro lado; quando não há nome em lugar nenhum e a visão declara a ausência, não sobra evidência positiva e o item é descartado. Outros 9 itens que já eram `drop_sem_nome` passam a `drop_disclaimer`, o que só torna o motivo mais exato, sem efeito de contagem.
+
+4. **Bug 2, chave de ano: a coluna `data` deixa de guardar duas espécies de valor.** Quando não havia data resolvida, a coluna recebia o ano nu, então consumidor que a parseava como data perdia 25 linhas em silêncio, 18 delas em 1910. Agora `data` fica vazia com `data_fonte=ano_apenas` e `data_confiavel=0`. O ano não se perde, está em `source_year`, que fica sendo a chave de ano de toda contagem; `data` só entra onde `data_confiavel=1`, e apenas para série mensal. Isso implementa na origem a regra pré-registrada, em vez de confiar em cada consumidor filtrar.
+
+5. **A divergência de ano vira registro positivo.** A tolerância de um ano em `resolve_data` aceita edição de virada de ano cujo masthead manda sobre o rótulo de ano da pasta do acervo. É defensável, mas move o item de balde numa contagem por data, então passa a ser contada e publicada no relatório de limpeza. Na amostra atual é 1 caso, `per103730_1912_00018:p001:i0`, com `source_year` 1912 e masthead de 18 de janeiro de 1913.
+
+6. **A medida pivô sobrevive à correção, e isso é o achado.** Com a amostra corrigida e o filtro por `status == keep` no `estima_subcorpus.py` (sem ele, os 19 descartados seguiriam contando), o subcorpus substantivo vai a **piso 3.054, IC95 de 2.784 a 3.347, e teto 3.758, IC95 de 3.463 a 4.042**, contra 3.043 e 3.750 antes. A calibração de 1906 fica idêntica (436 previsto contra 429 do gabarito, erro de 1,6%). Duas compensações se anulam: 1910 perde o `substantivo` indevido e cai de 0,714 para 0,710, enquanto 1914 sobe de 0,643 para 0,667, porque os 2 itens removidos eram `incidental` e saíram do denominador. **A conclusão de 23/07 não muda: o censo humano de posição não cabe no cronograma**, e a escolha entre as três saídas segue sendo decisão de Pedro, de nível crítico.
+
+7. **Dívida 6 do estado de 23/07 quitada:** `estima_subcorpus.py` deixa de ser script sem teste. `carrega_rotulagem` passou a receber caminhos, e `projeta` ganhou testes de caracterização com aritmética conferível à mão, para que a fórmula do número publicado não mude em silêncio.
+
+8. **Consequência para o Fightin' Words:** os pré-requisitos 1 e 2 de `docs/todo-fightin-words.md` estão fechados. Seguem abertos o 3 (normalização de vocabulário, que é decisão de construto e cabe a Pedro registrar) e o 4 (qualidade do OCR por grupo, que só bloqueia a rodada 3, jornal contra jornal). A rodada 1, relevante contra não relevante, não depende de nenhum dos dois.
+
+---
+
+## 2026-07-25 — Normalização de vocabulário para a análise lexical: regime mínimo (ratificado por Pedro)
+
+Pré-requisito 3 de `docs/todo-fightin-words.md`, que o próprio to-do reservava a Pedro por não ser pré-processamento neutro num corpus definido pelo construto. Decidido sobre medida, não sobre intuição.
+
+**Evidência (sonda de 1,4 milhão de tokens, 12 células jornal-ano, 20 páginas por célula).** Os três regimes colapsam pouco vocabulário: cru 295.801 tipos, minúsculas sem acento 283.429 (colapso de 4,2%), mais regras de época 277.506 (colapso de 6,2%). A taxa de hapax mal se move, de 83,0% para 82,0%. E os termos do construto quase não se repartem em variantes: `conversão` aparece numa forma só, o mesmo para `cambio`, `lastro` e `banco`; `café` fica em 98% e `actual` em 98,5%, com a forma de época dominando e `atual` sendo a raridade. O risco que o to-do temia, `conversão` contra `converção`, não se materializa neste corpus.
+
+**Decisão:** normalização mínima, minúsculas e remoção de acento. As regras de ortografia de época (ph→f, th→t, y→i, z→s, consoante dobrada) ficam FORA: comprariam apenas 2 pontos a mais de colapso e misturariam palavras distintas (z→s junta `vez` com `ves`, mas também `faz` com `fas`), o que é decisão de mensuração com retorno pequeno.
+
+**Consequência de método:** os 83% de hapax são lixo de OCR, não variante ortográfica, então o tratamento do ruído fica onde o desenho já o tinha posto, no prior de Dirichlet informativo do Fightin' Words mais um piso de frequência, e não no pré-processamento. A decisão é reversível e barata de auditar: o regime de época pode ser rodado depois como análise de sensibilidade, ao lado da sensibilidade em alpha_0 que a especificação já exige.
+
+---
+
+## 2026-07-25 — Qualidade do OCR por célula medida: a rodada 2 do Fightin' Words também está confundida
+
+Pré-requisito 4 do mesmo to-do, executado por TDD em `pipeline/analise/qualidade_ocr.py` (9 testes), relatório em `docs/relatorio-qualidade-ocr.md`. Amostra determinística de 25 páginas por célula, semente 20260725, sem API.
+
+**Métricas, escolhidas para não depender de léxico externo** (dicionário moderno rejeitaria `hontem`, `cambio` e `actual`, medindo anacronismo em vez de ruído): taxa de token sem vogal (lixo de OCR), taxa de hapax do vocabulário da célula e comprimento médio do token. O `y` entra como vogal, porque era vogal na ortografia da época e contá-la como ruído puniria justamente o texto mais antigo.
+
+**Resultado.** O confundimento entre jornais existe e é grande: Correio da Manhã fica entre 8,85% e 14,78% de token sem vogal, contra 6,30% a 10,05% do Correio Paulistano. Isso já era esperado e era o motivo da cautela na rodada 3.
+
+**O que não estava previsto:** O Paiz varia 3,0x entre seus próprios anos, de 4,84% em 1909 a 14,33% em 1906. Como 1906 é uma fase inteira do codebook e é o pior ano do jornal, **a rodada 2 (fase contra fase) está confundida pela digitalização tanto quanto a rodada 3**, e não só a 3 como o to-do supunha. Controle mínimo registrado no to-do antes de qualquer leitura da rodada 2: repetir a comparação dentro de cada jornal separadamente, reter só os termos que aparecem nos quatro, e conferir que o topo da lista não é lixo sem vogal.
+
+---
+
+## 2026-07-25 — Fightin' Words, rodada 1 rodada: relevante contra não relevante
+
+Primeira das quatro rodadas de `docs/todo-fightin-words.md`, liberada pelo fechamento dos quatro pré-requisitos. Implementação por TDD em `pipeline/analise/fightin_words.py` (núcleo puro, 15 testes) e `pipeline/analise/fw_relevancia.py` (construção dos grupos, 6 testes). Relatório em `docs/relatorio-fw-rodada1-relevancia.md`. Custo zero de API. Suíte em 179 verdes.
+
+**Desenho.** 8.331 páginas com match da regra de nome contra 8.331 páginas sem match, 56,1 milhões contra 48,2 milhões de tokens. O controle é **estratificado por célula jornal-ano**, decisão tomada por causa da medida de qualidade do OCR do mesmo dia: com ruído variando de 4,84% a 14,33% entre células, controle sorteado do corpus inteiro compararia digitalização junto com vocabulário. Página `empty` ou `error` fica fora dos dois grupos, porque é ausência de medida e não ausência de menção.
+
+**Filtro de leitura, registrado porque é escolha e não obviedade.** O z mistura tamanho de efeito com tamanho de amostra, e com dezenas de milhões de tokens `que`, `do` e `ao` chegam ao topo com diferença proporcional mínima. A leitura usa |delta| maior ou igual a 1,0 (razão de chances de cerca de 2,7) e mais de uma letra. É corte de leitura, não de estimação: nenhum z é recalculado depois dele, e o relatório publica os 15 de cada lado sem filtro para o corte ser auditável.
+
+**Resultado 1, a camada 2 de termos se confirma empiricamente.** O vocabulário monetário que a spec da triagem por nome de 2026-07-20 registrou como camada 2 sem implementar aparece no topo do grupo relevante por conta própria: `cambio` (delta 1,14), `cambial` (1,81), `moeda` (1,18), `circulacao` (1,33), `libras` (1,46), `dollars` (1,38), `amortizacao` (1,23), `financeira` (1,10), `retiradas` (1,91), `equivalentes` (2,20). Isso é o insumo da auditoria de recall que a rodada 1 prometia, e vem de uma comparação que não usou rótulo humano nenhum.
+
+**Resultado 2, atores nomeados emergem sem terem sido procurados.** `campista` (Davi Campista, ministro da Fazenda do Convênio) e `bulhoes` (Leopoldo de Bulhões) estão entre os 30 primeiros, com `rivadavia` logo abaixo. Candidatos para a extração de atores, que já está fora da questão da LLM para stance.
+
+**Resultado 3, a seção oficial domina o grupo relevante.** `regimento`, `alferes`, `infanteria`, `promptidao`, `graduado`, `nomeando` sobem junto com o vocabulário monetário. É a seção de atos oficiais, onde o movimento da Caixa era publicado, e casa com o achado da rotulagem de registro de que `operacional_rotina` é o gênero dominante de 1907 a 1912.
+
+**Limite a declarar no artigo, achado nesta rodada.** O grupo de controle é dominado por anúncio classificado (`aluga`, `sobrado`, `quartos`, `cozinha`, `drogaria`, `terreo`). O contraste da rodada 1 é portanto em parte de GÊNERO de página, conteúdo editorial e oficial contra classificados, e não apenas presença ou ausência do debate. Refinamento possível, se a rodada 2 exigir: casar o controle também por seção ou por forma, não só por célula jornal-ano.
+
+**Um achado que se desfez sob teste, registrado para não voltar.** `conver` aparece no grupo relevante com 1.007 ocorrências e delta 1,74, o que sugeria quebra de linha escapando da regra de nome, ou seja, falha de recall. Testei a regra contra as variantes (`Conver-` com quebra, quebra sem hífen, quebra dentro de `Caixa`, quebra antes de `Conversão`, ruído de OCR no meio): **ela captura todas**. `conver` é artefato do tokenizador do Fightin' Words, que separa palavra quebrada em fim de linha, e afeta os dois grupos igualmente. Não é falha de recall da triagem.
