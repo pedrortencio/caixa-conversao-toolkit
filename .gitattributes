@@ -2,3 +2,9 @@
 # (o SHA-256 registrado em dados/censo/indice_bndigital_LEIAME.md é dos
 # bytes originais capturados no navegador)
 dados/censo/snapshots_bndigital/** -text
+
+# Pareceres congelados: o SHA-256 e dos bytes exatos, entao o fim de linha
+# nao pode ser convertido no checkout, senao a verificacao do congelamento
+# falha fora desta maquina.
+colaboracao/pareceres/** -text
+colaboracao/registros/** -text
