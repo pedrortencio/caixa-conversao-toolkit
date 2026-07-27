@@ -1,27 +1,39 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)",
-      "Bash(uv run:*)",
-      "Bash(uv add:*)",
-      "Bash(uv sync:*)",
-      "Bash(git status:*)",
-      "Bash(git log:*)",
-      "Bash(git diff:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(python:*)", "Bash(uv run:*)", "Bash(uv add:*)", "Bash(uv sync:*)",
+      "Bash(git status:*)", "Bash(git log:*)", "Bash(git diff:*)",
+      "Bash(git add:*)", "Bash(git commit:*)"
     ]
   },
-  "enabledPlugins": {
-    "session-workflow@craft-collection": true,
-    "engineering-discipline@craft-collection": true
-  },
+  "enabledPlugins": {},
   "extraKnownMarketplaces": {
     "craft-collection": {
-      "source": {
-        "source": "github",
-        "repo": "grimaldost/craft-collection"
-      }
+      "source": { "source": "github", "repo": "grimaldost/craft-collection" }
     }
+  },
+  "skillOverrides": {
+    "superpowers:brainstorming": "off",
+    "superpowers:receiving-code-review": "off",
+    "superpowers:systematic-debugging": "off",
+    "superpowers:test-driven-development": "off",
+    "superpowers:verification-before-completion": "off"
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv",
+            "args": ["run", "python", "C:\\Users\\pedro\\OneDrive\\Documentos\\Acadêmico\\Dissertação Mestrado\\Dados\\caixa-conversao-toolkit\\.claude\\hooks\\gate_lote_pago.py"],
+            "timeout": 200,
+            "statusMessage": "Conferindo o portão de 1906..."
+          }
+        ]
+      }
+    ]
   }
 }
+

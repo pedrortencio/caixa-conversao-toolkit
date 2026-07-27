@@ -1,0 +1,42 @@
+{
+  "protocolo": "portao-1906",
+  "versao": "1.0.0",
+  "pre_registro": "docs/decisoes.md, entrada de 2026-07-18, item 3",
+  "aprovado_por": null,
+  "aprovado_em": null,
+  "nota": "PROPOSTA, NAO RATIFICADA. Enquanto aprovado_por for null o portao reprova e nenhum lote pago roda. Duas coisas dependem de Pedro: (a) confirmar a CLASSE de cada item, porque as duas do Correio da Manha podem ser manifestacao_coalescida em vez de excecao_terminal (so existe a variante B no DocReader, nao ha A01869 nem A01870); (b) preencher aprovado_por e aprovado_em. Ver docs/relatorio-cobertura-censo.md e a entrada de 2026-07-18 em docs/decisoes.md.",
+  "excecoes": [
+    {
+      "bib": "089842",
+      "numero": 1869,
+      "jornal": "Correio da Manha",
+      "classe": "excecao_terminal",
+      "fonte": "404 terminal no host estatico hemeroteca-pdf.bn.gov.br, confirmado em 2 observacoes separadas conforme a regra operacional de 2026-07-18. Presente no DocReader como B01869 (pagfis 11379-11386); nao existe A01869. O piloto obteve a edicao por exportacao manual no DocReader.",
+      "status": "proposta"
+    },
+    {
+      "bib": "089842",
+      "numero": 1870,
+      "jornal": "Correio da Manha",
+      "classe": "excecao_terminal",
+      "fonte": "404 terminal no host estatico, confirmado em 2 observacoes separadas. Presente no DocReader como B01870 (pagfis 11387-11392); nao existe A01870. O piloto obteve a edicao por exportacao manual no DocReader.",
+      "status": "proposta"
+    },
+    {
+      "bib": "090972",
+      "numero": 15276,
+      "jornal": "Correio Paulistano",
+      "classe": "excecao_terminal",
+      "fonte": "404 terminal no host estatico, confirmado em 2 observacoes separadas conforme a regra operacional de 2026-07-18. Fora do indice bndigital e fora da varredura; o piloto a obteve por exportacao manual no DocReader.",
+      "status": "proposta"
+    },
+    {
+      "bib": "103730",
+      "numero": 78,
+      "jornal": "Gazeta de Noticias",
+      "classe": "excecao_terminal",
+      "fonte": "404 terminal no host estatico, confirmado em 2 observacoes separadas conforme a regra operacional de 2026-07-18. O piloto a obteve por exportacao manual no DocReader.",
+      "status": "proposta"
+    }
+  ]
+}
