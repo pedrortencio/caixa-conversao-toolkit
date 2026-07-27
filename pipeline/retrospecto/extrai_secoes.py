@@ -1,4 +1,4 @@
-"""Extrai o texto completo das secoes da Caixa no Retrospecto Commercial do JC.
+r"""Extrai o texto completo das secoes da Caixa no Retrospecto Commercial do JC.
 
 EXPLORATORIO (2026-07-23). Nao e o instrumento de stance nem parte do censo
 dos 4 jornais; e extracao/OCR com proveniencia, de uma fonte candidata cujo
@@ -9,7 +9,8 @@ de como o Retrospecto entra.
 Fonte: Jornal do Commercio : Retrospecto Commercial (RJ), bib 180688, um PDF
 anual no host estatico da BN:
   https://hemeroteca-pdf.bn.gov.br/180688/per180688_{ano}_00001.pdf
-Os PDFs vivem em dados/raw_pdf/jc_retrospecto/ (gitignored).
+Os PDFs vivem em C:\dados-caixa\raw_pdf\jc_retrospecto, fora do repo e fora do
+OneDrive, como todo PDF bruto (decisao de 2026-07-17).
 
 Metodo: le a camada de texto (pypdf), acha as paginas que mencionam a Caixa
 (regra de nome da triagem, tolerante a OCR) e agrupa em SECOES contiguas
@@ -33,7 +34,8 @@ from pypdf import PdfReader
 
 from pipeline.triagem import regra_nome
 
-PDF_DIR = RAIZ / "dados" / "raw_pdf" / "jc_retrospecto"
+RAW_ROOT = Path(r"C:\dados-caixa\raw_pdf")
+PDF_DIR = RAW_ROOT / "jc_retrospecto"
 OUT_DIR = RAIZ / "dados" / "retrospecto_jc"
 GAP = 2  # paginas sem mencao toleradas dentro de uma secao continua
 

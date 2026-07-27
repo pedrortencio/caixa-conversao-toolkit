@@ -1,8 +1,9 @@
-"""Sonda de densidade: quanto texto sobre a Caixa ha em cada Retrospecto anual.
+r"""Sonda de densidade: quanto texto sobre a Caixa ha em cada Retrospecto anual.
 
 EXPLORATORIO (2026-07-23). Backing dos numeros de densidade reportados em
 docs/decisoes.md. Le a camada de texto (pypdf) de cada PDF anual em
-dados/raw_pdf/jc_retrospecto/, roda a regra de nome da triagem e imprime, por
+C:\dados-caixa\raw_pdf\jc_retrospecto (fora do OneDrive, como todo PDF bruto:
+decisao de 2026-07-17), roda a regra de nome da triagem e imprime, por
 arquivo: paginas totais, paginas com texto, paginas com mencao, mencoes.
 Sem API. Ver extrai_secoes.py para a extracao propriamente dita.
 """
@@ -20,7 +21,8 @@ from pypdf import PdfReader
 
 from pipeline.triagem import regra_nome
 
-PDF_DIR = RAIZ / "dados" / "raw_pdf" / "jc_retrospecto"
+RAW_ROOT = Path(r"C:\dados-caixa\raw_pdf")
+PDF_DIR = RAW_ROOT / "jc_retrospecto"
 
 
 def main() -> int:
