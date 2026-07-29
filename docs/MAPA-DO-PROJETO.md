@@ -175,6 +175,8 @@ decisão de 19/07 rebaixou o uso de LLM para detecção de posição a uma pergu
 empírica, com o ônus da prova do lado da LLM. A saliência e a exposição já são
 respondíveis sem nenhuma LLM.
 
+comentário 27/07: vamos fazer uma avaliação mais detalhada sobre qual IA usar quando for o momento. Só está colocado que o Gemini também está disponível, assim como o claude, o codex ou qualquer outra soluçao dentro desse orçamento que venhamos a decidir. Mas o foco é que se deve decidir como será implemenada a task a partir de uma avaliação comparativa de efetividade entre os serviços e ferramentas disponíveis.
+
 ## 5. As exceções do portão de 1906, explicadas
 
 Você disse que não entendeu. É o seguinte.

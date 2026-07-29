@@ -340,3 +340,70 @@ Primeira das quatro rodadas de `docs/todo-fightin-words.md`, liberada pelo fecha
 **Limite a declarar no artigo, achado nesta rodada.** O grupo de controle é dominado por anúncio classificado (`aluga`, `sobrado`, `quartos`, `cozinha`, `drogaria`, `terreo`). O contraste da rodada 1 é portanto em parte de GÊNERO de página, conteúdo editorial e oficial contra classificados, e não apenas presença ou ausência do debate. Refinamento possível, se a rodada 2 exigir: casar o controle também por seção ou por forma, não só por célula jornal-ano.
 
 **Um achado que se desfez sob teste, registrado para não voltar.** `conver` aparece no grupo relevante com 1.007 ocorrências e delta 1,74, o que sugeria quebra de linha escapando da regra de nome, ou seja, falha de recall. Testei a regra contra as variantes (`Conver-` com quebra, quebra sem hífen, quebra dentro de `Caixa`, quebra antes de `Conversão`, ruído de OCR no meio): **ela captura todas**. `conver` é artefato do tokenizador do Fightin' Words, que separa palavra quebrada em fim de linha, e afeta os dois grupos igualmente. Não é falha de recall da triagem.
+
+---
+
+## 2026-07-28 — O eixo não é metalismo contra papelismo: correção do codebook
+
+Aprovada por Pedro na sessão de 28/07 ("sobre a contradição, o codebook estava errado,
+isso aí mesmo").
+
+**O erro.** `docs/codebook-fases.md` afirmava que o eixo ortodoxo↔expansionista era a
+"encarnação, no debate da Caixa, da clivagem metalismo×papelismo que estrutura o Cap.
+2". A monografia do Pedro já dizia o contrário, na p. 9: a Caixa "não representou cisão
+com o pensamento metalista", "mesmo aqueles que defendiam o projeto, apoiavam-se na 'sã
+doutrina' da circulação metálica", e "nenhum grupo estava em condições de negar o
+padrão-ouro, especialmente após os eventos do início da República" (TORELLI, 2007). A
+clivagem metalismo×papelismo é anterior e pertence ao Encilhamento; em 1906 ela já não
+divide os campos.
+
+**O eixo correto**, na formulação da própria monografia via NEUHAUS (1975): disputa
+entre os setores que defendiam a permanência da política deflacionária até restaurar o
+par legal de 27 dinheiros por mil-réis e os setores que propunham expansão monetária e
+estabilidade do câmbio a uma taxa nova, mais de acordo com a realidade econômica do
+país. Em síntese, **valorização contra emissão**.
+
+**Evidência do corpus que motivou a revisão** (`docs/exploracao-base-2026-07-28.md`): o
+Correio Paulistano de 27/06/1910 defende a circulação metálica como consequência da
+ampliação da emissão conversível, argumentando que mais ouro na circulação aproxima o
+país do regime metálico. Sob o eixo antigo essa peça seria classificada errado, ou
+tratada como anomalia. Sob o eixo corrigido é a regra do período.
+
+**Consequência.** Um bloco de codebook que oponha "padrão-ouro" a "elasticidade"
+classifica mal o período inteiro. Os blocos das fases 2 a 4 devem opor objetos
+concretos: nível da taxa, limite de emissão, destino do lastro, tratamento aduaneiro,
+conversibilidade. O registro de debates em `dados/leitura/debates.csv` já está
+organizado assim.
+
+**O que esta decisão NÃO decide.** A escala de -2 a +2, a unidade edição-dia e a escolha
+do instrumento seguem abertas pelo gate de `docs/contexto-debate-metodologico-mensuracao.md`.
+
+---
+
+## 2026-07-28 — Codex passa a poder anotar; o piloto de catalogação compara anotadores
+
+Decisão de Pedro na sessão de 28/07: "eu nao me importo do codex anotar, não me parece
+perigoso. e não me importo dele participar do piloto de catalogação. quero comparar os
+resultados (mesma edição, claude e codex, mesmo prompt)."
+
+**O que muda.** A regra da CLAUDE.md "Codex NUNCA anota produção" está revogada. O
+Codex entra como anotador ao lado do Claude. A regra de isolamento que permanece é a de
+parecer: quem implementa um artefato não o audita.
+
+**O que isso ganha, e é o motivo de valer a pena.** Dois anotadores independentes sobre
+as MESMAS janelas com o MESMO prompt produzem concordância entre anotadores medida, e
+não presumida. Isso é dado de validade que o desenho não teria com um anotador só, e
+sai de graça no piloto. A ressalva do `contexto-debate-metodologico-mensuracao.md`
+continua valendo e precisa aparecer no artigo: concordância entre modelos é análise de
+sensibilidade, não validação humana nem validade de construto.
+
+**Estatuto do produto.** O piloto cataloga debates, agentes, posições e marcos, com
+citação verbatim. É extração descritiva que alimenta a escrita, NÃO é a estimativa
+quantitativa de distribuição de posições. Os dois objetos foram confundidos na primeira
+avaliação desta sessão, e a correção é registrada aqui: o aparato de padrão-ouro, κ por
+fase, DSL e bootstrap pertence ao segundo objeto e não é pré-requisito do primeiro.
+
+**Guardrail que substitui o aparato pesado.** Toda citação devolvida por qualquer
+anotador é conferida mecanicamente contra o texto de origem: normalizada, tem de ser
+substring literal da janela. Linha que não casa é rejeitada, nunca corrigida. A taxa de
+rejeição por anotador é a métrica de qualidade do lote, medida e publicada.

@@ -7,8 +7,20 @@
 
 ## Checagem prévia à redação dos blocos: perenidade do eixo (definida em 14/07/2026)
 
-Antes de redigir as fases 2-4, bater na bibliografia se o eixo ortodoxo↔expansionista
-(encarnação, no debate da Caixa, da clivagem metalismo×papelismo que estrutura o Cap. 2) se
+> **CORREÇÃO DE 2026-07-28.** A frase original desta seção dizia que o eixo
+> ortodoxo↔expansionista era a "encarnação, no debate da Caixa, da clivagem
+> metalismo×papelismo que estrutura o Cap. 2". **Estava errada**, e a própria
+> monografia (p. 9) já dizia o contrário: a Caixa "não representou cisão com o
+> pensamento metalista", "mesmo aqueles que defendiam o projeto apoiavam-se na 'sã
+> doutrina' da circulação metálica", e "nenhum grupo estava em condições de negar o
+> padrão-ouro" (TORELLI, 2007). O eixo operante no período é o que a monografia define
+> via NEUHAUS (1975): **os setores que defendiam a permanência da política
+> deflacionária até restaurar o par legal de 27 dinheiros contra os setores que
+> propunham expansão monetária e estabilidade do câmbio a uma taxa nova**. Ou seja,
+> valorização contra emissão, e não metalismo contra papelismo. Evidência do corpus em
+> `docs/exploracao-base-2026-07-28.md`, achado 4.
+
+Antes de redigir as fases 2-4, bater na bibliografia se o eixo valorização↔emissão se
 sustenta até 1914. Risco específico: com a suspensão UNIVERSAL do padrão ouro em ago/1914,
 "defender a suspensão" pode ser consenso pragmático, não posição; o bloco da fase 4 precisa de
 marcadores mais finos (tamanho/natureza da emissão de socorro; veredito retrospectivo sobre a

@@ -2,6 +2,11 @@
 
 **Data:** 2026-07-24. **Estatuto:** arranque do artefato 2 da rodada metodológica (revisão estruturada de pesquisas comparáveis). Documento de trabalho, não decide construto. **Fontes da semente:** Monografia (Final), Capítulo 3 de Metodologia (final), projeto em inglês (jun/2025), e a pasta `Dissertação Mestrado/Referencias Ivan/`.
 
+> **Continuidade aprovada em 2026-07-27:** o contexto consolidado, a fila de
+> leitura e o inventário ampliado estão em
+> [`contexto-bibliografia-caixa-conversao.md`](contexto-bibliografia-caixa-conversao.md).
+> Este arquivo permanece como registro do levantamento inicial de 2026-07-24.
+
 ## Finalidade
 
 Reunir o que já está na estante, para que a busca por literatura nova ache o que falta em vez de re-descobrir o que existe. A semente serve como **filtro de deduplicação**, e não como prova de que o campo está coberto. A presença de um ou outro título recente não indica atualidade da revisão; isso se testa por busca sistemática, não por inspeção do que já se tem.
