@@ -44,3 +44,6 @@ dados/texto_embutido/log_*.txt
 colaboracao/logs/raw/*
 !colaboracao/logs/raw/.gitkeep
 colaboracao/**/*.part
+
+# Worktrees locais do Codex
+.worktrees/
