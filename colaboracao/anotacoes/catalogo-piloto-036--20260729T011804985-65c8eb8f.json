@@ -1,0 +1,67 @@
+[
+  {
+    "janela_id": "per103730_1914_00288:p001:c0-6180",
+    "debate": "Conversão de notas para remessa ao exterior",
+    "objeto_politica": [
+      "conversibilidade",
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende a conversão excepcional de notas da Caixa em ouro para pagar o cupom do empréstimo das obras do porto.",
+    "argumento": "A operação evitaria pressionar o mercado de câmbio e permitiria ao Tesouro obter libras por preço inferior ao dos saques, gerando economia.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Sr. ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "responsável pela operação defendida"
+      }
+    ],
+    "vocabulario_epoca": [
+      "notas conversíveis",
+      "mercado cambial",
+      "troca por ouro"
+    ],
+    "citacao_verbatim": "teveo, excellento inspiração do fazerconverter cm espécie 3.000 contosd.» notas da Caixa Jo Convõrsãri,obtendo desto modo as í rMO.OOr)iiara a necessidade ocoiirrento.",
+    "observacao": "O valor em libras está fortemente corrompido pelo OCR."
+  },
+  {
+    "janela_id": "per103730_1914_00288:p001:c0-6180",
+    "debate": "Remessa de ouro e existência do funding",
+    "objeto_politica": [
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Rejeita que a remessa de ouro demonstre a inexistência do novo funding.",
+    "argumento": "Sustenta que os empréstimos das obras do porto constituem operações especiais e que, no novo funding, suas amortizações foram incluídas, permanecendo apenas os juros pagáveis em espécie.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Sr. ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "negociador do tratamento das amortizações"
+      }
+    ],
+    "vocabulario_epoca": [
+      "fundlng",
+      "divida estorna",
+      "pagos cm espécie"
+    ],
+    "citacao_verbatim": "Mas para os pro-prios empréstimos destinados ísobras do porto o Sr. ministro daFazenda obteve que'as ajnorUsaçüaaentrem no réglmen do r.ovo \"fim-ding\", continuando a sor pagos cmespécie súmento os juros.",
+    "observacao": "As formas relativas a funding e amortizações estão corrompidas pelo OCR."
+  }
+]

@@ -1,0 +1,53 @@
+nome,classe,formas,origem
+David Campista,parlamentar,campista,debates.csv|catalogo|documentos_parlamentares
+Barbosa Lima,parlamentar,barbosa lima,debates.csv|catalogo|documentos_parlamentares
+Calogeras,parlamentar,calogeras,documentos_parlamentares
+Galeao Carvalhal,parlamentar,carvalhal,debates.csv|catalogo|documentos_parlamentares
+Cincinato Braga,parlamentar,cincinato,debates.csv|documentos_parlamentares
+Paula/Paulo Ramos,parlamentar,paula ramos|paulo ramos,catalogo|documentos_parlamentares
+Severino Vieira,parlamentar,severino vieira,documentos_parlamentares
+Duarte de Abreu,parlamentar,duarte de abreu,catalogo|documentos_parlamentares
+Lindolpho Camara,parlamentar,lindolpho,catalogo|documentos_parlamentares
+Felisbello Freire,parlamentar,felisbello,documentos_parlamentares
+Alberto Sarmento,parlamentar,alberto sarmento,debates.csv|documentos_parlamentares
+Alcindo Guanabara,parlamentar,alcindo,debates.csv|catalogo|documentos_parlamentares
+Leopoldo de Bulhoes,parlamentar,bulhoes,debates.csv|catalogo|documentos_parlamentares
+Joaquim Murtinho,parlamentar,murtinho,debates.csv|catalogo
+Serzedello Correa,parlamentar,serzedello,debates.csv|documentos_parlamentares
+Carlos Peixoto,parlamentar,carlos peixoto|peixoto filho,debates.csv|catalogo
+Pinheiro Machado,parlamentar,pinheiro machado,catalogo
+Francisco Glycerio,parlamentar,glycerio,catalogo
+Nilo Pecanha,executivo,pecanha,catalogo
+Rui/Ruy Barbosa,parlamentar,rui barbosa|ruy barbosa,debates.csv|catalogo
+Affonso Costa,parlamentar,affonso costa,debates.csv|catalogo
+Joao Luiz Alves,parlamentar,luiz alves,debates.csv|catalogo
+Wenceslau Braz,executivo,wenceslau|wenceslao,debates.csv|documentos_parlamentares
+Rodrigues Alves,executivo,rodrigues alves,catalogo
+Affonso Penna,executivo,affonso penna|affonso pena,catalogo
+Campos Salles,executivo,campos salles,catalogo
+Rodolpho Paixao,parlamentar,rodolpho paixao,debates.csv|catalogo|documentos_parlamentares
+Custodio Coelho,tecnico,custodio coelho,debates.csv|catalogo
+Homero Baptista,parlamentar,homero,catalogo|documentos_parlamentares
+Alfredo Ellis,parlamentar,alfredo ellis,catalogo|documentos_parlamentares
+Germano Hasslocher,parlamentar,hasslocher,catalogo|documentos_parlamentares
+Arthur Orlando,parlamentar,arthur orlando,catalogo|documentos_parlamentares
+Martim Francisco,parlamentar,martim francisco,debates.csv
+Miguel Calmon,parlamentar,miguel calmon,documentos_parlamentares
+Urbano Santos,parlamentar,urbano santos,documentos_parlamentares
+Antunes Maciel,parlamentar,antunes maciel,documentos_parlamentares
+Moniz Freire,parlamentar,moniz freire,documentos_parlamentares
+Altino Arantes,parlamentar,altino arantes,documentos_parlamentares
+Hermes da Fonseca,executivo,hermes,catalogo
+Ramiro Barcellos,parlamentar,ramiro barcellos,catalogo
+Augusto Ramos,publicista,augusto ramos,catalogo
+Sa Freire,parlamentar,sa freire,banqueiros_externos
+Antonio Carlos,parlamentar,antonio carlos,debates.csv
+Rothschild,banqueiro_externo,rothschild,banqueiros_externos
+Speyer,banqueiro_externo,speyer,banqueiros_externos
+Baring,banqueiro_externo,baring,banqueiros_externos
+Schroder,banqueiro_externo,schroder,banqueiros_externos
+Deutsche Bank,banqueiro_externo,deutsche,banqueiros_externos
+Credit Lyonnais,banqueiro_externo,lyonnais,banqueiros_externos
+Goschen,estrangeiro,goschen,catalogo
+Wileman,estrangeiro,wileman,catalogo
+Lewandowski,estrangeiro,lewandowski,catalogo

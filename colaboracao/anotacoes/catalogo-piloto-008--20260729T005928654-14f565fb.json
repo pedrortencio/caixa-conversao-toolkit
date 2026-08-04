@@ -1,0 +1,127 @@
+[
+  {
+    "janela_id": "per089842_1910_03388:p001:c19566-33229",
+    "debate": "Caixa como barreira à queda cambial",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende que a Caixa de Conversão impede a queda do câmbio abaixo da taxa que orientou sua criação.",
+    "argumento": "A dificuldade do Banco do Brasil para obter ouro por preço inferior ao da Caixa é apresentada como evidência de que o mecanismo sustenta a taxa cambial.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Banco do Brasil",
+        "papel": "",
+        "atribuicao": "comprador de ouro"
+      },
+      {
+        "nome": "Caixa de Conversão",
+        "papel": "",
+        "atribuicao": "mecanismo defendido"
+      }
+    ],
+    "vocabulario_epoca": [
+      "ouro metallico",
+      "cambio",
+      "Caixa de Conversão"
+    ],
+    "citacao_verbatim": "E eis ahi como esse apparelho tao guer-reado impede de cair o cambio que lhe pre-sidiu a creação",
+    "observacao": "A taxa e alguns valores monetários aparecem parcialmente corrompidos pelo OCR."
+  },
+  {
+    "janela_id": "per089842_1910_03388:p001:c19566-33229",
+    "debate": "Intervenção para forçar a alta cambial",
+    "objeto_politica": [
+      "taxa",
+      "lastro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Condena a intervenção destinada a forçar a alta do câmbio e defende conter a taxa próxima do nível anteriormente combinado.",
+    "argumento": "O texto afirma que o ministro mobilizou reservas do Tesouro para elevar artificialmente o câmbio, apesar do acordo sobre uma nova taxa e dos protestos das classes produtoras.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "responsabilizado pela intervenção"
+      },
+      {
+        "nome": "Banco do Brasil",
+        "papel": "",
+        "atribuicao": "instrumento da operação cambial"
+      },
+      {
+        "nome": "classes prodttcloras",
+        "papel": "",
+        "atribuicao": "opositoras à orientação atribuída ao ministro"
+      }
+    ],
+    "vocabulario_epoca": [
+      "forçar a alta do cambio",
+      "reservas luctalliea.s do Thesouro",
+      "classes prodttcloras"
+    ],
+    "citacao_verbatim": "motivada pela intervenção do ministro nomercado, com o fim de forçar a alta docambio.",
+    "observacao": "O nome do ministro não aparece de forma identificável na janela. A grafia da taxa combinada está corrompida pelo OCR, embora o contexto indique valor próximo de 16 dinheiros."
+  },
+  {
+    "janela_id": "per089842_1910_03388:p001:c19566-33229",
+    "debate": "Legalidade do prejuízo imposto ao Tesouro",
+    "objeto_politica": [
+      "lastro",
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Sustenta que o ministro não tinha fundamento legal para impor ao Tesouro as perdas da operação cambial.",
+    "argumento": "A diferença entre o preço de compra e o preço de venda das libras é apresentada como perda colossal suportada pelo Tesouro, associada ao capricho e à intervenção do ministro.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "responsabilizado pela perda"
+      },
+      {
+        "nome": "Tliesotiro",
+        "papel": "",
+        "atribuicao": "suporta a perda"
+      },
+      {
+        "nome": "Banco do Brasil",
+        "papel": "",
+        "atribuicao": "realizador da operação"
+      }
+    ],
+    "vocabulario_epoca": [
+      "prejuizo",
+      "contos de réis",
+      "Tliesotiro"
+    ],
+    "citacao_verbatim": "A lei ? Não ha lei para o figurante de tacsaventuras",
+    "observacao": "Os valores da operação apresentam inconsistências de OCR. A crítica à competência institucional é formulada como ausência de direito e de lei, sem indicação de norma específica."
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "janela_id": "per178691_1908_08585:p002:c4301-14198",
+    "debate": "Risco das retiradas de ouro",
+    "objeto_politica": ["lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "As retiradas de ouro, mesmo que esvaziassem a Caixa, não produziriam inconveniente econômico ou financeiro.",
+    "argumento": "A Caixa é apresentada como instituição quase inútil, dispendiosa e substituível pelo Banco do Brasil.",
+    "voz": "editorial_do_jornal",
+    "agentes": [],
+    "vocabulario_epoca": ["retiradas de. ou-ro", "depósitos", "caixa de conversão"],
+    "citacao_verbatim": "mesmo que a cai-xa ficasse sem uma libra, nenhum incon-.eniente de ordem econômica ou finan-ceira d'ahi podia advir, pela simples ra-/ão de que a caixa dê conversão é umainstituição quasi inútil e dispendiosa",
+    "observacao": "O OCR fragmenta palavras e torna ilegível parte da palavra correspondente a inconveniente."
+  },
+  {
+    "janela_id": "per178691_1908_08585:p002:c4301-14198",
+    "debate": "Transferência das atribuições da Caixa",
+    "objeto_politica": ["competencia_institucional"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "As atribuições da Caixa de Conversão deveriam passar ao Banco do Brasil.",
+    "argumento": "O Banco do Brasil poderia emitir as notas conversíveis e associá-las a operações comerciais, sem manter um aparelho burocrático separado.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Banco do Brazil",
+        "papel": "instituição proposta para receber as atribuições da Caixa",
+        "atribuicao": "alternativa institucional defendida"
+      }
+    ],
+    "vocabulario_epoca": ["notas conversiveis", "contas correntes", "circulação ouro"],
+    "citacao_verbatim": "Em resumo: parece-nos que haveriatoda a vantagem em passar as attribuiçõesda caixa de conversão para o Banco doBrazil",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per178691_1908_08585:p002:c4301-14198",
+    "debate": "Notas conversíveis nos direitos aduaneiros",
+    "objeto_politica": ["alfandega"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "alfandega",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "As alfândegas deveriam aceitar notas conversíveis no pagamento dos direitos aduaneiros e abandonar os vales ouro.",
+    "argumento": "O regime dos vales ouro é descrito como complicado, oneroso para o comércio e gerador de escrituração dispensável.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Dr. Campista",
+        "papel": "ministro da fazenda",
+        "atribuicao": "autoridade instada a adotar a medida"
+      }
+    ],
+    "vocabulario_epoca": ["direitos aduaneiros", "bilhetes conversiveis", "valesouro"],
+    "citacao_verbatim": "orde-nantlo ás alfândegas que recebessem os bi-lhetes conversiveis para pagamento dosdireitos aduaneiros, acabando com esseregimen condemnado e laborioso dos valesouro.",
+    "observacao": "A palavra inicial da citação apresenta erro de OCR."
+  },
+  {
+    "janela_id": "per178691_1908_08585:p002:c4301-14198",
+    "debate": "Contas correntes em ouro",
+    "objeto_politica": ["outro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O Banco do Brasil deveria estabelecer contas correntes em ouro.",
+    "argumento": "As contas permitiriam empregar as notas conversíveis em operações comerciais e favorecer uma circulação de ouro no país.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Banco do Brazil",
+        "papel": "banco proposto para oferecer contas em ouro",
+        "atribuicao": "executor da medida defendida"
+      }
+    ],
+    "vocabulario_epoca": ["contas correntesem ouro", "circulação ouro", "notas conversiveis"],
+    "citacao_verbatim": "O Banco do Brazil que estabeleça ascontas correntes em ouro.",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per178691_1908_08585:p002:c4301-14198",
+    "debate": "Caixa como causa da fixidez cambial",
+    "objeto_politica": ["taxa"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_aplica"
+      }
+    ],
+    "posicao_defendida": "A Caixa de Conversão não deve ser considerada responsável pela fixidez do câmbio.",
+    "argumento": "O texto rejeita como infantil a alegação atribuída à Gazeta de que a Caixa teria causado a fixidez cambial e outros resultados econômicos.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Gazeta",
+        "papel": "jornal",
+        "atribuicao": "defensora da alegação contestada"
+      }
+    ],
+    "vocabulario_epoca": ["fixidez do cambio", "caixa"],
+    "citacao_verbatim": "Quanto a essa.pilhéria, que os collegasda Gazeta põem em circulação, de serdevida á caixa a fixidez do cambio eaugmentos de importação e fiscalizaçãoaduaneira, etc, nem vale a pena tratardisso, de tal modo é infantil a allegação-",
+    "observacao": "O trecho contesta uma atribuição causal, mas não defende um nível específico para a taxa de câmbio."
+  }
+]

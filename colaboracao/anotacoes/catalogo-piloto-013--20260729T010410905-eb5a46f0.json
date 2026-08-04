@@ -1,0 +1,106 @@
+[
+  {
+    "janela_id": "per090972_1906_15348:p002:c3904-13949",
+    "debate": "fixação do câmbio contra o câmbio-par",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende fixar o câmbio em uma taxa inferior a 27 dinheiros e adequada às transações internacionais.",
+    "argumento": "A estabilidade cambial favoreceria a produção e a prosperidade, enquanto a valorização artificial do câmbio prejudicaria a produção nacional.",
+    "voz": "indeterminado",
+    "citacao_verbatim": "advogo com todo o ardor ccom toda a sinceridade, a fixaçãodo cambio e a crenção da Caixa deConversão",
+    "observacao": "O trecho está em primeira pessoa, mas a autoria não aparece na janela."
+  },
+  {
+    "janela_id": "per090972_1906_15348:p002:c3904-13949",
+    "debate": "emissão conversível com lastro em ouro",
+    "objeto_politica": [
+      "limite_emissao",
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende ampliar o meio circulante mediante notas da Caixa de Conversão, conversíveis por valor fixo e correspondentes a ouro depositado.",
+    "argumento": "A insuficiência de numerário dificultaria o crédito e o desenvolvimento econômico; o lastro metálico permitiria aumentar a circulação sem depreciá-la.",
+    "voz": "indeterminado",
+    "citacao_verbatim": "As funcçõos.da Caixa de Convcr-são se resumem cm emittir pope)conversível em ouro à vontade doportador, por um valor flxo",
+    "vocabulario_epoca": [
+      "curso forçado",
+      "lastro motallico",
+      "papcl-mocda inconver-sivol"
+    ],
+    "observacao": "O trecho está em primeira pessoa, mas a autoria não aparece na janela."
+  },
+  {
+    "janela_id": "per090972_1906_15348:p002:c3904-13949",
+    "debate": "valorização artificial do café",
+    "objeto_politica": [
+      "valorizacao_cafe",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Condena a valorização artificial do café e propõe como solução uma taxa cambial correspondente às transações internacionais.",
+    "argumento": "A fixação cambial é apresentada como alternativa à política de valorização artificial do café e dos demais produtos.",
+    "voz": "indeterminado",
+    "marcos": [
+      {
+        "data": "1906-02-25",
+        "descricao": "Presidentes de Minas, Rio e São Paulo adotam em Taubaté a orientação de fixação do câmbio.",
+        "confianca": "alta"
+      }
+    ],
+    "citacao_verbatim": "fui obrigado a condemnal-a, upre-sentando como solu«;ao uo proble-ma da valorização do culé",
+    "observacao": "O trecho está em primeira pessoa, mas a autoria não aparece na janela; a data do marco resulta de dois dias após 23 de fevereiro de 1906, conforme a sequência afirmada no texto."
+  },
+  {
+    "janela_id": "per090972_1906_15348:p002:c3904-13949",
+    "debate": "alta cambial financiada por empréstimos",
+    "objeto_politica": [
+      "taxa",
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Rejeita como artificial a alta cambial obtida mediante grandes empréstimos.",
+    "argumento": "O pagamento futuro dos compromissos contraídos produziria uma crise, por isso o câmbio alto não representaria adequadamente o valor da moeda.",
+    "voz": "indeterminado",
+    "citacao_verbatim": "o cambioalto obtido á custa dos enormesempréstimos contrahidos, é pre-parar pura o momento do satisfa-cção desses compromissos a verda-deira ruina da pátria.",
+    "observacao": "O texto não identifica os empréstimos nem seus credores."
+  }
+]

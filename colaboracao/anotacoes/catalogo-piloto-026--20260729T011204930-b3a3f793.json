@@ -1,0 +1,214 @@
+[
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Fixação temporária contra oscilação cambial",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende fixar em 15 ds. a taxa das notas da Caixa, de modo temporário e alterável conforme as condições do país.",
+    "argumento": "A estabilidade protegeria produção, trabalho e riqueza das variações cambiais que não refletissem a situação econômica efetiva.",
+    "voz": "documento_oficial",
+    "marcos": [
+      {
+        "data": "1905-12-30",
+        "descricao": "A lei n. 1.452 é citada como respaldo à adequação da taxa aos interesses da indústria.",
+        "confianca": "alta"
+      }
+    ],
+    "vocabulario_epoca": [
+      "estabilidade cambial",
+      "taxa corrente",
+      "papel em curso legal"
+    ],
+    "citacao_verbatim": "A fixação não será definitiva, mas pPr«miltiiá sufllciente estabilidade para incre-mentar a riqueza, tonificar a producçãoo o trabalho, pondi -os a coberto das su-bitas variações,alheias ao verdadeiro es-lado econômico,",
+    "observacao": "O nome do autor e o cabeçalho não aparecem na janela. A voz foi classificada como documento oficial porque o texto se identifica como parecer, acompanha um projeto e termina com síntese numerada."
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Fixação sem quebra do padrão",
+    "objeto_politica": [
+      "taxa",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Sustenta que a taxa fixa regula apenas as notas especiais da Caixa e não redefine a conversão do papel de curso forçado.",
+    "argumento": "A relação entre ouro depositado e notas emitidas seria condição contratual entre a Caixa e o portador, portanto não constituiria quebra do padrão monetário.",
+    "voz": "documento_oficial",
+    "vocabulario_epoca": [
+      "quebra do padrão monetário",
+      "papel de curso forçado",
+      "valor da moeda"
+    ],
+    "citacao_verbatim": "A fliação da taxa refere-se a essas no-tas e é como a condição de um conlractoentre a caixa emissora e o portador doouro. Não ha quebra do padrão monetário.",
+    "observacao": "O trecho distingue a taxa das novas notas de uma eventual taxa para conversão geral do meio circulante."
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Lastro integral das notas conversíveis",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende que cada nota especial corresponda ao ouro depositado e seja conversível segundo a relação prefixada.",
+    "argumento": "As notas seriam certificados de depósitos em ouro, separados da circulação estatal inconversível, o que daria segurança ao novo meio circulante.",
+    "voz": "documento_oficial",
+    "vocabulario_epoca": [
+      "certificados de depósitos em ouro",
+      "encaixo",
+      "circulação inconversivel"
+    ],
+    "citacao_verbatim": "As nolas especiaes assim emittidas nãosão mais do que verdadeiros certificadosde depósitos em ouro, independentes eestranhos á circulação inconversivel doEstado.",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Resgate do papel e conversão futura",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "Propõe reforçar os fundos de resgate e garantia para retirar papel de curso forçado e ampliar progressivamente a circulação conversível.",
+    "argumento": "A retirada do papel inconversível conteria movimentos de baixa, fortaleceria a confiança e prepararia a conversão definitiva do meio circulante.",
+    "voz": "documento_oficial",
+    "marcos": [
+      {
+        "data": "1899-06-20",
+        "descricao": "Lei cria os fundos de resgate e de garantia do papel-moeda.",
+        "confianca": "baixa"
+      }
+    ],
+    "vocabulario_epoca": [
+      "fundo de resgate",
+      "fundo de garantia",
+      "papel de curso forçado",
+      "conversão definitiva"
+    ],
+    "citacao_verbatim": "Medida de grande conveniência será,bemestudados os nossos encargos e os nossosrecursos, reforçar o fundo de resgate demodo a ser vigorosamente retirado dacirculação o papel de curso forçado o, aomesmo tempo, abrihdo caminho ao alarga-1 mento progressivo da circulação conver-sivel.",
+    "observacao": "O ano da lei aparece como \"1S99\" em uma ocorrência do OCR, mas o próprio texto também menciona o projeto de 1899."
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Limite de emissão e retorno ao par",
+    "objeto_politica": [
+      "limite_emissao",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "Defende limitar a emissão da Caixa para permitir posterior apreciação gradual do meio circulante em direção ao par legal.",
+    "argumento": "Atingido o máximo de emissões e depósitos, a entrada de ouro e o fortalecimento econômico poderiam justificar uma elevação legítima da taxa, sem mudanças bruscas.",
+    "voz": "documento_oficial",
+    "vocabulario_epoca": [
+      "par legal",
+      "máximo das emissões",
+      "apreciação do meio circulante"
+    ],
+    "citacao_verbatim": "O inluito dessa limitação é tornar pos-sivel uma elevação legitima das taxas, ap-proximando-as segura e progressivamentedo par legal, sem abalos e sem bruscasf.ucluações.",
+    "observacao": "O projeto fixa o máximo em 320.000:000$, correspondente a 20 milhões de libras, segundo o trecho."
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Empréstimo externo convertido em lastro",
+    "objeto_politica": [
+      "divida_externa",
+      "lastro",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "divida_externa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende aplicar o produto do empréstimo externo como lastro da Caixa de Emissão e Conversão.",
+    "argumento": "A aplicação evitaria que uma entrada volumosa de ouro provocasse elevação cambial súbita e, simultaneamente, criaria um abrigo para esses capitais.",
+    "voz": "documento_oficial",
+    "vocabulario_epoca": [
+      "operações de credito",
+      "empréstimo externo",
+      "corrente de ouro",
+      "lastro"
+    ],
+    "citacao_verbatim": "Ou para evilar essa perturbação ou como intuito de aproveitar capitães para acreação de um apparelho quo sirva deabrigo ao ouro, determinou o Convênioque o produeto do empréstimo seja applf.cado como lastro para uma Caixa de Emis-são e Conversão, tendente 6 fixação dtvalor da moeda.",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per103730_1906_00185:p003:c24117-49537",
+    "debate": "Auxílio estatal à valorização do café",
+    "objeto_politica": [
+      "valorizacao_cafe",
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende que o Estado auxilie os produtores a graduar a oferta e melhorar os preços do café.",
+    "argumento": "Como os produtores não conseguiriam organizar sozinhos uma ação comum, caberia ao Estado intervir em favor da prosperidade e do desenvolvimento econômico.",
+    "voz": "documento_oficial",
+    "vocabulario_epoca": [
+      "graduação da offerta",
+      "melhoria dos preços de consumo",
+      "Convênio de Taubaté"
+    ],
+    "citacao_verbatim": "Na impossibilidade de organisarenaos produclores a sua acção commum, ten-dente á graduação da offerta e melhoriados preços de consumo, cabe ao Estadoauxilial-os como propulsor, quo é, da pro-speridade edo desenvolvimento economicedo paiz.",
+    "observacao": "A posição favorável à intervenção e à valorização é clara, mas não se reduz às direções monetárias de valorização do mil-réis ou estabilidade de uma taxa nova."
+  }
+]

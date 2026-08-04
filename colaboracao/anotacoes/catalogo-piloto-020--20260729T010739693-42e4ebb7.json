@@ -1,0 +1,241 @@
+[
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Manutenção da taxa de quinze dinheiros",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Galeão Carvalhal defende a estabilidade cambial na taxa de quinze dinheiros.",
+    "argumento": "A alteração da taxa produziria instabilidade e efeitos imediatos prejudiciais à economia nacional.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      }
+    ],
+    "vocabulario_epoca": [
+      "cambio baixo",
+      "taxa de 15",
+      "instabilidade"
+    ],
+    "citacao_verbatim": "pleiteando o cambio baixo; d.fon-demos a estabilidado nn taxa do 15 com onatural recoio dn instabilidao o seus re-saltados inimcdiatos na economia nacio-nal.",
+    "observacao": "O início da frase está parcialmente corrompido pelo OCR."
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Ampliação da emissão da Caixa",
+    "objeto_politica": [
+      "limite_emissao"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende-se ampliar a emissão da Caixa de Conversão mantendo a taxa de quinze dinheiros.",
+    "argumento": "A ampliação permitiria conservar o regime cambial existente sem elevar a taxa de emissão.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "David Campista",
+        "papel": "relator do parecer sobre o projecto",
+        "atribuicao": "posição citada pelo orador"
+      },
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      }
+    ],
+    "vocabulario_epoca": [
+      "ampliação da emissão",
+      "taxa do 15 dinheiros"
+    ],
+    "citacao_verbatim": "O dr. David Campista;o relator do parecor sobro o projecto, loio primeiro a reconhecer a conveniênciada pbrmanonoia da taxa do 15 dinheiros,sondo urgoiito a ampliação da omissão acargo da Caixa do Conversão.",
+    "observacao": "A posição de David Campista é apresentada por Galeão Carvalhal."
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Fundos de garantia e resgate",
+    "objeto_politica": [
+      "lastro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende-se a manutenção dos fundos de garantia e de resgate do papel-moeda.",
+    "argumento": "Os fundos reduziriam o papel em circulação e formariam lastro em ouro para uma conversão futura.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      }
+    ],
+    "marcos": [
+      {
+        "data": "1899-06-20",
+        "descricao": "Lei institui os fundos de resgate e de garantia do papel-moeda",
+        "confianca": "alta"
+      }
+    ],
+    "vocabulario_epoca": [
+      "fundo de garantia",
+      "fundo do resgato",
+      "lastro-ouro",
+      "papel moeda"
+    ],
+    "citacao_verbatim": "Doum lado diminuía a massa do papel omi-irculação e de outro lado formava o las-tro-ouro para a futura conversão.",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Conversibilidade contra especulação cambial",
+    "objeto_politica": [
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende-se a emissão de notas conversíveis como instrumento de estabilidade cambial.",
+    "argumento": "A conversibilidade produziria equilíbrio e reduziria a exposição da carteira cambial à especulação associada ao papel de curso forçado.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      }
+    ],
+    "vocabulario_epoca": [
+      "notas convertivois",
+      "papol do curso forçado",
+      "especulação cambial"
+    ],
+    "citacao_verbatim": "A omia-são do notas convertivois trazia o neces-sario equilibriò, o a carteira cambial selibertar., das garras da especulação.",
+    "observacao": ""
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Delegação das elevações da taxa",
+    "objeto_politica": [
+      "competencia_institucional",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "A exposição que acompanhou a mensagem presidencial propõe autorizar o Poder Executivo a elevar sucessivamente a taxa da Caixa.",
+    "argumento": "As elevações seriam realizadas de acordo com as condições do país, a atividade industrial, a valorização do papel-moeda e os depósitos de ouro.",
+    "voz": "documento_oficial",
+    "agentes": [
+      {
+        "nome": "Leopoldo do Bulhões",
+        "papel": "elaborador da exposição que acompanhou a mensagem presidencial",
+        "atribuicao": "autor da proposta relatada"
+      }
+    ],
+    "vocabulario_epoca": [
+      "Poder Executivo",
+      "successivas elevações",
+      "taxa cambial"
+    ],
+    "citacao_verbatim": "con feri r-so ap Poder Executivocâpaoidado legal unia proceder a sue-cessivas elevações da taxa cnnibinl",
+    "observacao": "A proposta oficial é reproduzida dentro do discurso parlamentar."
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Estabilidade cambial e valorização do café",
+    "objeto_politica": [
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende-se a estabilidade cambial como proteção das operações destinadas à valorização do café.",
+    "argumento": "A alta abrupta do câmbio poderia alterar os preços internos e causar grandes prejuízos às operações financiadas pelo empréstimo.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      }
+    ],
+    "marcos": [
+      {
+        "data": "1906-02-25",
+        "descricao": "Celebração do Convênio de Taubaté",
+        "confianca": "média"
+      }
+    ],
+    "vocabulario_epoca": [
+      "valorizar o café",
+      "alta vertiginosa do cambio",
+      "Convênio de Taubaté"
+    ],
+    "citacao_verbatim": "Procurando valorizar o café no exto-rior, o grando empréstimo influindo di-rectíimente sobro o cambio o elevando «ibsuns taxas; podia modificar os proços nosmercados nacionaes, arrebatando as sunsdiferença, cm papel, o na vordado qual-quer alta vertiginosa do cambio ncarrota-ria projuizos avultados.",
+    "observacao": "O ano do Convênio aparece parcialmente corrompido no OCR, mas é indicado no contexto imediato como 1906."
+  },
+  {
+    "janela_id": "per090972_1910_17028:p009:c0-20842",
+    "debate": "Moratória do Funding-loan",
+    "objeto_politica": [
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Galeão Carvalhal declara ter apoiado a moratória associada ao Funding-loan.",
+    "argumento": "A moratória é apresentada como medida que salvou a situação financeira e iniciou uma política restauradora da confiança.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da bancada paulista",
+        "atribuicao": "orador"
+      },
+      {
+        "nome": "Joaquim Murtinho",
+        "papel": "executor daquelle contracto",
+        "atribuicao": "executor citado"
+      }
+    ],
+    "vocabulario_epoca": [
+      "Funding-lonn",
+      "moratória",
+      "credores oxtrangoiros"
+    ],
+    "citacao_verbatim": "Apesar do op-posicionista nnquella época, apoiei since-ramonte a moratória, o roconhooi immo-diatnmonto quo a situação financeira os-tava salva.",
+    "observacao": ""
+  }
+]

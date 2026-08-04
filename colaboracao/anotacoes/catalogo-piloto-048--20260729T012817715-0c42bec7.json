@@ -1,0 +1,81 @@
+[
+  {
+    "janela_id": "per178691_1914_10907:p002:c13657-20011",
+    "debate": "Alta cambial contra a Caixa",
+    "objeto_politica": [
+      "taxa",
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "João Luiz Alves sustenta que Leopoldo de Bulhões forçou a alta do câmbio para prejudicar a valorização do café e a Caixa de Conversão.",
+    "argumento": "A alta até 18 é apresentada como resultado deliberado dos procedimentos de Bulhões, e não como simples movimento espontâneo do câmbio.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "João Luiz Alves",
+        "papel": "orador",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Leopoldo de Bulhões",
+        "papel": "",
+        "atribuicao": "alvo da crítica"
+      }
+    ],
+    "vocabulario_epoca": [
+      "alta do cambio",
+      "Caixa de Conversão"
+    ],
+    "citacao_verbatim": "Vem fíuei-o para confirmar que, nogoverno Rodrigues Alves, querendo impe-dir a valorização do café e a Caixa deConversão, S. Ex. fez a alta do cambio,levando-o a 18 no governo Nilo Peçanha,e, querendo matal-a, usou dos mesmosprocessos.",
+    "observacao": "O trecho atribui intenção e responsabilidade pela alta cambial, mas não formula diretamente qual taxa alternativa deveria prevalecer."
+  },
+  {
+    "janela_id": "per178691_1914_10907:p002:c13657-20011",
+    "debate": "Fundos para valorização gradual da moeda",
+    "objeto_politica": [
+      "lastro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "A política atribuída a Murtinho empregava fundos de resgate e garantia para promover a valorização gradual da moeda, política que Bulhões não teria seguido.",
+    "argumento": "O equilíbrio orçamentário, obtido por aumento de receitas e diminuição de despesas, é associado à criação dos fundos destinados ao resgate e à garantia da moeda.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "João Luiz Alves",
+        "papel": "orador",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Murtinho",
+        "papel": "",
+        "atribuicao": "política descrita"
+      },
+      {
+        "nome": "Bulhões",
+        "papel": "",
+        "atribuicao": "acusado de não seguir a política"
+      }
+    ],
+    "vocabulario_epoca": [
+      "fundos de resgate",
+      "fundos de gramntia",
+      "valorizaçãogradual da moeda"
+    ],
+    "citacao_verbatim": "A politica Murtinho consistiu em au-ginento de receita, por novos impostos,diminuição de deSpe-zas, -para tquilibraros orçamentos, na creação dos fundos deresgate e ele gramntia para valorizaçãogradual da moeda.O Sr. Bulhões não seguiu essa politica.",
+    "observacao": "A atribuição da política a Murtinho é explícita, mas o OCR torna algumas palavras incertas."
+  }
+]

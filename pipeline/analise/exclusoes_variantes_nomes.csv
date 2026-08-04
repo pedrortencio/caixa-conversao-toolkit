@@ -1,0 +1,124 @@
+variante,token_chave,motivo
+carvalho,carvalhal,outro sobrenome corrente (2.322 ocorrencias nas paginas com mencao)
+carvalha,carvalhal,forma de carvalho
+carvalhoe,carvalhal,forma de carvalho
+carvalhoi,carvalhal,forma de carvalho
+carvalhoo,carvalhal,forma de carvalho
+carvalhoa,carvalhal,forma de carvalho
+carvalhoc,carvalhal,forma de carvalho
+carvalhor,carvalhal,forma de carvalho
+carvalhon,carvalhal,forma de carvalho
+carvalhos,carvalhal,forma de carvalho
+carvalh,carvalhal,truncamento ambiguo entre carvalho e carvalhal
+cambista,campista,palavra corrente do dominio (negociante de cambio)
+campistas,campista,plural de cambista ou de campista, ambiguo
+dinheiro,pinheiro,palavra corrente do dominio (1.056 ocorrencias)
+dinheiros,pinheiro,palavra corrente do dominio
+pinheiros,pinheiro,toponimo e plural
+sargento,sarmento,palavra corrente (1.204 ocorrencias)
+sarmiento,sarmento,sobrenome argentino distinto
+sarmentos,sarmento,plural
+martinho,murtinho,outro nome proprio
+muniz,moniz,outro sobrenome
+severiano,severino,outro nome proprio
+felisberto,felisbello,outro nome proprio
+albino,altino,outro nome proprio
+calmo,calmon,adjetivo corrente
+calmou,calmon,verbo corrente
+calmos,calmon,adjetivo corrente
+marcello,barcellos,outro nome proprio
+parcellas,barcellos,palavra corrente
+barcellona,barcellos,toponimo
+barcelona,barcellos,toponimo
+abriu,abreu,verbo corrente (524 ocorrencias)
+abrem,abreu,verbo corrente
+abrou,abreu,verbo corrente
+abre,abreu,verbo corrente
+breu,abreu,palavra corrente
+quarte,duarte,palavra corrente
+alvos,alves,adjetivo corrente
+aves,alves,palavra corrente
+alpes,alves,toponimo
+alve,alves,truncamento
+vamos,ramos,verbo corrente
+damos,ramos,verbo corrente
+ramo,ramos,palavra corrente
+remos,ramos,palavra corrente
+rados,ramos,ruido sem referente
+raros,ramos,adjetivo corrente
+raios,ramos,palavra corrente
+ratos,ramos,palavra corrente
+rumos,ramos,palavra corrente
+santo,santos,palavra corrente
+tantos,santos,palavra corrente
+campo,campos,palavra corrente
+saloes,salles,palavra corrente
+veira,vieira,forma truncada ambigua
+viera,vieira,verbo corrente
+freira,freire,palavra corrente
+freiro,freire,palavra corrente
+heroes,hermes,palavra corrente
+vermes,hermes,palavra corrente
+cargos,carlos,palavra corrente
+carros,carlos,palavra corrente
+antonia,antonio,outro nome proprio
+antonino,antonio,outro nome proprio
+urbanos,urbano,adjetivo corrente
+urbana,urbano,adjetivo corrente
+urbino,urbano,toponimo
+urban,urbano,truncamento
+urano,urbano,palavra corrente
+rodriguez,rodrigues,grafia espanhola de outro portador
+rodriguesde,rodrigues,juncao de OCR com preposicao
+rodriguesda,rodrigues,juncao de OCR com preposicao
+rodriguesdo,rodrigues,juncao de OCR com preposicao
+pensa,penna,verbo corrente
+perna,penna,palavra corrente
+penha,penna,toponimo e outro sobrenome
+senna,penna,outro sobrenome
+menna,penna,ruido sem referente
+penny,penna,palavra estrangeira corrente
+penca,penna,palavra corrente
+pennas,penna,plural
+penda,penna,verbo corrente
+pinna,penna,outro sobrenome
+romero,homero,outro nome proprio
+hombro,homero,palavra corrente
+homhro,homero,ruido de hombro
+orando,orlando,verbo corrente
+ornando,orlando,verbo corrente
+martin,martim,outro nome proprio
+marti,martim,truncamento
+marfim,martim,palavra corrente
+martir,martim,palavra corrente
+artur,arthur,grafia moderna, fora da epoca
+willeman,wileman,grafia alternativa nao conferida na pagina
+schroeder,schroder,grafia alternativa nao conferida na pagina
+elles,ellis,pronome corrente (955 ocorrencias)
+ellas,ellis,pronome corrente
+ellos,ellis,pronome corrente
+ellcs,ellis,ruido de elles
+elis,ellis,truncamento ambiguo
+elli,ellis,truncamento ambiguo
+eilis,ellis,ruido de elles
+ellls,ellis,ruido de elles
+walfredo,alfredo,outro nome proprio
+ealfredo,alfredo,juncao de OCR
+oalfredo,alfredo,juncao de OCR
+ialfredo,alfredo,juncao de OCR
+bilhoes,bulhoes,palavra corrente do dominio (bilhoes de reis)
+custodia,custodio,palavra corrente
+teixoto,peixoto,ruido ambiguo com Teixeira
+feixoto,peixoto,ruido ambiguo
+augusta,augusto,outro nome proprio
+pala,paula,palavra corrente
+parla,paula,verbo corrente
+aula,paula,palavra corrente
+paul,paula,truncamento
+pauta,paula,palavra corrente
+pula,paula,verbo corrente
+randolpho,lindolpho,outro nome proprio
+landulpho,lindolpho,outro nome proprio
+ladolpho,lindolpho,outro nome proprio
+andolpho,lindolpho,truncamento ambiguo
+teutsche,deutsche,ruido ambiguo

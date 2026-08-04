@@ -1,0 +1,62 @@
+[
+  {
+    "janela_id": "per089842_1906_01901:p001:c11865-20902",
+    "debate": "Capacidade da Caixa de estabilizar o câmbio",
+    "objeto_politica": ["taxa"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A Caixa de Conversão não seria capaz de impedir nem a baixa nem a alta do câmbio.",
+    "argumento": "Arthur Orlando contesta a eficácia do mecanismo proposto para controlar as oscilações cambiais.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Arthur Orlando",
+        "papel": "orador",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "David Campista",
+        "papel": "autor do projecto",
+        "atribuicao": "alvo"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": ["baixa", "alta", "cambio"],
+    "citacao_verbatim": "Contestou que a Caixa tenha o poderrie impedir quer a baixa, quer a alta elocambio",
+    "observacao": "O trecho rejeita a capacidade estabilizadora da Caixa, mas não permite reduzir a posição à defesa da valorização ou da estabilidade em uma taxa nova."
+  },
+  {
+    "janela_id": "per089842_1906_01901:p001:c11865-20902",
+    "debate": "Constitucionalidade e retroatividade do projeto",
+    "objeto_politica": ["outro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O projeto da Caixa de Conversão deve ser rejeitado por ofender o princípio da não retroatividade das leis.",
+    "argumento": "Arthur Orlando combate o projeto do ponto de vista jurídico e constitucional, sustentando que ele produziria efeitos retroativos incompatíveis com o direito moderno.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Arthur Orlando",
+        "papel": "orador",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "David Campista",
+        "papel": "autor do projecto",
+        "atribuicao": "alvo"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": ["náo retroactivi-dado rins leis", "effeitos retroaclivos"],
+    "citacao_verbatim": "entrou a combater o projocloelo ponlo do vista jurídico e constitucio-nnl porque olTcnde francamente os maissagrados princípios da náo retroactivi-dado rins leis.",
+    "observacao": "A passagem não especifica quais disposições do projeto seriam retroativas."
+  }
+]

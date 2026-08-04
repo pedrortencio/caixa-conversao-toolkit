@@ -1,0 +1,159 @@
+[
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Sustentabilidade da taxa de 18",
+    "objeto_politica": ["taxa"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A taxa de 18 não estaria sustentada pelas condições econômicas do país.",
+    "argumento": "A experiência da Caixa na taxa de 15 e a insuficiência dos saldos comerciais diante das necessidades de ouro são apresentadas como evidências contra a permanência da taxa de 18.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "marcos": [
+      {
+        "data": "1906-01-01",
+        "descricao": "Criação da Caixa de Conversão",
+        "confianca": "baixa"
+      }
+    ],
+    "vocabulario_epoca": ["altistas", "cambio alto", "saldos commerciaés"],
+    "citacao_verbatim": "Neste facto está prova provada, in-sophismavel, irretorquivel, de que arecente alta de 15 a IS 1|4 não se fun-da em prosjieridade econômica.",
+    "observacao": "A data da criação é informada apenas pelo ano. O trecho critica a sustentabilidade econômica da taxa de 18, mas não formula neste ponto uma alternativa normativa entre as duas direções controladas."
+  },
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Limite das emissões da Caixa",
+    "objeto_politica": ["limite_emissao", "lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende-se limitar as emissões mediante um depósito suficientemente grande para enfrentar anos consecutivos de escassez de ouro.",
+    "argumento": "A produção exportável seria intermitente e poderia gerar déficits elevados em anos sucessivos, exigindo reservas capazes de impedir a queda do câmbio abaixo da taxa da Caixa. A representação paulista propõe 40 milhões de libras, enquanto o orador afirma que os cálculos poderiam justificar 60 milhões.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "\"leader\" da bancada paulista, com assento na Comissão de Finanças da Câmara",
+        "atribuicao": "órgão da proposta da representação de S. Paulo"
+      },
+      {
+        "nome": "representação de S. Paulo",
+        "papel": "",
+        "atribuicao": "proponente da limitação das emissões a 40 milhões esterlinos"
+      }
+    ],
+    "vocabulario_epoca": ["limitação das emissões", "vaccas gordas", "vaccas magras", "baixa cambial"],
+    "citacao_verbatim": "Aqui tambem pôde acontecer omesmo. E se calculando por baixo,como retro fizemos, mostrámos quenão é nada impossível no Brazil aetualum \"déficit\" de.20 milhões \"em umanno\", ê evidente que garantirmo-noscom 20 milhões para dois annos, nãotem nada de extraordinário.",
+    "observacao": "O OCR oscila entre a proposta institucional de 40 milhões e a sugestão pessoal de elevar a proteção a 60 milhões."
+  },
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Caixa como amortecedor cambial",
+    "objeto_politica": ["lastro", "conversibilidade", "taxa"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "A Caixa deve acumular ouro nos anos favoráveis e fornecê-lo nos anos de escassez para evitar a baixa cambial.",
+    "argumento": "Como as receitas de exportação são intermitentes e as obrigações externas são permanentes, os depósitos acumulados funcionariam como reserva limitada para sustentar a taxa da Caixa.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "vocabulario_epoca": ["vaccas gordas", "vaccas magras", "depósitos da caixa", "baixa cambial"],
+    "citacao_verbatim": "Noanno das vaccas gordas, nossosaldo abundante vai todo parar nasarcas da Caixa de Conversão. Nos an-nos de falha, ou de pleno \"déficit\",vaccas magras, os depósitos da caixasupprem as necessidades de ouro, evi-tando a baixa cambial",
+    "observacao": "O trecho ressalva que o poder estabilizador da Caixa é limitado pelas economias efetivamente acumuladas."
+  },
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Caixa pública ou banco",
+    "objeto_politica": ["competencia_institucional"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Prefere-se a Caixa regulada por lei a um banco que administre o câmbio segundo interesses lucrativos e o critério individual de seus diretores.",
+    "argumento": "O banco seria uma casa de negócio interessada nas diferenças de valor do papel-moeda, enquanto a Caixa operaria sem buscar esses lucros e segundo critério legal.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "vocabulario_epoca": ["carteira cambial", "papel-moeda", "critério é o da lei"],
+    "citacao_verbatim": "o banco, que éuma casa dc negocio, exerce essa fun-cção á cata «Jo lucros sobre dtrfereti-ças maiores ou menores, no valor dopapel-moeda, ao imsso que a caixa éimpassível no operar sem Üto algumcm taes lucros",
+    "observacao": "Há forte corrupção de OCR na passagem, mas a contraposição institucional entre banco e Caixa permanece legível."
+  },
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Retorno gradual à paridade de 27",
+    "objeto_politica": ["taxa", "conversibilidade", "lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "Defende-se a elevação prudente e gradual das taxas até a paridade de 27 dinheiros e a conversão metálica definitiva.",
+    "argumento": "A Caixa de Conversão e os fundos de resgate e garantia deveriam atuar de forma conjunta e orgânica na redução do papel-moeda e na marcha para a conversão metálica.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "vocabulario_epoca": ["paridade de 27 d.", "conversão metálica", "fundo de resgate", "fundo de garantia", "quebra do padrão"],
+    "citacao_verbatim": "Eu J4 declarei que, em vez da que-bra do padrão, prefiro a política da J||ascensão prudente e gradativa .das-taxas para a paridade de 27 d.', po.\" 'mil réis.",
+    "observacao": "A frase contém corrupção de OCR, mas a preferência pela ascensão gradual até 27 dinheiros está explícita."
+  },
+  {
+    "janela_id": "per178691_1910_09574:p009:c15348-36294",
+    "debate": "Quantidade ou prazo das emissões",
+    "objeto_politica": ["limite_emissao", "competencia_institucional"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O limite das emissões pode ser estabelecido por um montante máximo de depósitos ou pelo período durante o qual depósitos e emissões são permitidos.",
+    "argumento": "O texto contrapõe o critério quantitativo adotado na lei de criação da Caixa ao critério temporal atribuído à mensagem de Leopoldo Bulhões.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Leopoldo Bulhões",
+        "papel": "",
+        "atribuicao": "autor da mensagem que teria optado implicitamente pela limitação temporal"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": ["quantum", "depósitos de ouro", "correspondentes emissões"],
+    "citacao_verbatim": "A lei da creação da Caixa de Con-versão ad-optou o primeiro alvItTe.A mensagem de abril do correnteanno, do Sr. Leopoldo Bulhões, im-plicitamente opta pelo segundo.",
+    "observacao": "A janela termina antes de esclarecer se o orador escolheria definitivamente o limite quantitativo ou o temporal."
+  }
+]

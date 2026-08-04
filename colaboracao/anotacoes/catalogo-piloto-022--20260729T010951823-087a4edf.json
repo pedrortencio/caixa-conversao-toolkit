@@ -1,0 +1,53 @@
+[
+  {
+    "janela_id": "per090972_1914_18122:p002:c21193-27703",
+    "debate": "Origem econômica do bloco e apoio à Caixa",
+    "objeto_politica": [
+      "valorizacao_cafe",
+      "outro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Pinheiro Machado sustenta que a articulação política mencionada se formou em torno de questões econômicas e apoiou a Caixa de Conversão e a valorização do café.",
+    "argumento": "O orador afirma que os republicanos que elegeram Affonso Penna sustentavam o princípio da Caixa e que Glycerio e seu grupo haviam dado solidariedade à solução conjunta da Caixa de Conversão e da valorização do café.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Pinheiro Machado",
+        "papel": "senador e orador",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Francisco Glycerio",
+        "papel": "senador por S. Paulo",
+        "atribuicao": "apoiador atribuído"
+      },
+      {
+        "nome": "Nilo Peçanha",
+        "papel": "senador",
+        "atribuicao": "interlocutor divergente"
+      },
+      {
+        "nome": "Affonso Penna",
+        "papel": "",
+        "atribuicao": "eleito por elementos que sustentavam a Caixa de Conversão"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "principio da Caixa de Conversão",
+      "valorização do caíé",
+      "questão econômica"
+    ],
+    "citacao_verbatim": "O sr. senador Glycerio estava com , aquestão econômica da Caixa de Conversãoe d.i valorização do caíé;_ nós tínhamosdado a nossa solidariedade á solução desseproblema; s. exc. entendeu que era coiive-niente normalizar, disciplinar a acção; «:,por isso, invesliu-nie da direcção dessacampanha.",
+    "observacao": "O trecho discute principalmente a origem e a composição de uma articulação política. Embora atribua apoio à Caixa de Conversão e à valorização do café, não informa taxa, mecanismo monetário, lastro ou forma concreta da política defendida."
+  }
+]

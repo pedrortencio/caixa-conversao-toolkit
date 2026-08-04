@@ -1,0 +1,91 @@
+{
+  "protocol_name": "correcao-conservadora-documentos-parlamentares",
+  "protocol_version": "1.0.0",
+  "pages": 1152,
+  "errors": 0,
+  "status_counts": {
+    "empty": 22,
+    "ok": 1130
+  },
+  "operation_counts": {
+    "correcao_lexical": 145,
+    "dehifenizacao": 5000,
+    "espaco_pontuacao": 19902,
+    "refluxo_linha": 39949
+  },
+  "search_counts": {
+    "Arthur Orlando": {
+      "raw": 7,
+      "corrected": 7
+    },
+    "Caixa de Conversão": {
+      "raw": 520,
+      "corrected": 606
+    },
+    "David Campista": {
+      "raw": 130,
+      "corrected": 134
+    },
+    "papel-moeda": {
+      "raw": 361,
+      "corrected": 381
+    },
+    "câmbio": {
+      "raw": 0,
+      "corrected": 0
+    },
+    "projecto": {
+      "raw": 802,
+      "corrected": 820
+    },
+    "emissão": {
+      "raw": 342,
+      "corrected": 342
+    }
+  },
+  "lexical_hyphen_count": 1864,
+  "raw_inputs": [
+    {
+      "file": "caixa_conversao_v1_paginas.jsonl",
+      "bytes": 2218246,
+      "sha256": "1f2ce01afeaef037a069394e0f9b9ff9d9c48032e2097fe28475544f725cc8f6"
+    },
+    {
+      "file": "caixa_conversao_v2_paginas.jsonl",
+      "bytes": 1356844,
+      "sha256": "e7b638ab3eb305c466b580d59c051032e854b2fb3277121ca7f785d8e1be065a"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "caixa_conversao_v1_paginas_corrigidas.jsonl",
+      "bytes": 2291383,
+      "sha256": "b85bab32b81874a859e88305f1649d176e57c12385bb643230c7b8db8d638b60"
+    },
+    {
+      "file": "caixa_conversao_v1_texto_leitura.txt",
+      "bytes": 1913431,
+      "sha256": "19865dd833292e0b846c24d9644516ddb23204930116f41e1f8709ad7ef412cb"
+    },
+    {
+      "file": "caixa_conversao_v2_paginas_corrigidas.jsonl",
+      "bytes": 1407169,
+      "sha256": "69a48e77800fea48313e5f3adbb81ac3f5ae066d0e4aae659de7427aad19aa92"
+    },
+    {
+      "file": "caixa_conversao_v2_texto_leitura.txt",
+      "bytes": 1161646,
+      "sha256": "772cddbf2d7171ea845ca27f6a1df12dd61add54e10e3c5d704c2ee6c7a6078b"
+    },
+    {
+      "file": "correcoes_lexicais_permitidas.csv",
+      "bytes": 519,
+      "sha256": "be9c00f98585d5ed8abd6b7eef018ac96ad6138c3cb3f1925d36a2460a9a055f"
+    },
+    {
+      "file": "manifesto_correcao_paginas.csv",
+      "bytes": 276696,
+      "sha256": "634abb90c0a41e1c2c4f813cd859c8e134ddcb085352747c8d1a18e06741c9ce"
+    }
+  ]
+}

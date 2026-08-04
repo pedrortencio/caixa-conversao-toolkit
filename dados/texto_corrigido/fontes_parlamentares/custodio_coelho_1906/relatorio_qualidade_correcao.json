@@ -1,0 +1,38 @@
+{
+  "source_pdf": "custodio_coelho_relatorio_1906.pdf",
+  "source_pdf_sha256": "a9a3a7fe4483f61413ebc9535f407dfd0f005f6fda74bdbcda267dfe5d4c5de6",
+  "source_pages": [
+    2,
+    3
+  ],
+  "segment_count": 8,
+  "protocol_name": "correcao-conservadora-documentos-parlamentares",
+  "protocol_version": "1.0.0",
+  "status_counts": {
+    "ok": 7,
+    "unchanged": 1
+  },
+  "operation_counts": {
+    "controle_ocr": 21,
+    "dehifenizacao": 1,
+    "espaco_pontuacao": 19,
+    "refluxo_linha": 45
+  },
+  "outputs": [
+    {
+      "file": "correcoes_lexicais_permitidas.csv",
+      "bytes": 519,
+      "sha256": "be9c00f98585d5ed8abd6b7eef018ac96ad6138c3cb3f1925d36a2460a9a055f"
+    },
+    {
+      "file": "custodio_coelho_relatorio_1906_segmentos_corrigidos.jsonl",
+      "bytes": 32692,
+      "sha256": "951e93756806b9284c09129d53efcbe8474cae452bab2fa4b79f16c4ed18ef2c"
+    },
+    {
+      "file": "custodio_coelho_relatorio_1906_texto_leitura.txt",
+      "bytes": 28027,
+      "sha256": "3d1b78e7496f791b9f2a56f4bf74904942567c720862a6af5ec7f76d88f1d09b"
+    }
+  ]
+}

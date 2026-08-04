@@ -1,0 +1,55 @@
+[
+  {
+    "janela_id": "per089842_1914_05736:p002:c9833-17138",
+    "debate": "Legalidade da retirada de fundos da Caixa",
+    "objeto_politica": [
+      "lastro",
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A retirada de 200 mil libras da Caixa por ordem do ministro da Fazenda é apresentada como ilegal.",
+    "argumento": "A operação é tratada como evidência do regime de ilegalidades e incoerências atribuído ao governo.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "responsável pela ordem de retirada"
+      }
+    ],
+    "citacao_verbatim": "as 200.000 libras retiradas da Caixadc Conversão por ordem do minis-tro' dã Fazenda, põem a descobertoo regimen de ilk-galidades c das in-coiierèn-ias mais completas cm quc ollrasil tem vivido ultimamente.",
+    "observacao": "O OCR mistura o início do artigo com fragmentos de coluna vizinha; não é possível determinar pela janela o fundamento jurídico preciso da alegada ilegalidade."
+  },
+  {
+    "janela_id": "per089842_1914_05736:p002:c9833-17138",
+    "debate": "Suspensão das operações da Caixa de Conversão",
+    "objeto_politica": [
+      "taxa",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A suspensão das transações da Caixa é condenada, defendendo-se sua manutenção até que existisse um substituto capaz de estabilizar o câmbio.",
+    "argumento": "Embora considerada artificial e destinada a desaparecer, a Caixa teria reduzido as oscilações cambiais e permitido tranquilidade ao comércio; sua suspensão sem serviço substituto deixaria o câmbio sujeito à exploração e à queda.",
+    "voz": "editorial_do_jornal",
+    "citacao_verbatim": "Foi, pois, erro c erro grave, aqui*Ia medida restrictiva da funeção <ía'Caixa de Conversão, a qual tinhapara a dirigir lei própria, tão priva-tíva quanto severa",
+    "observacao": "O trecho posterior sobre a conflagração europeia, a crise interna e a escassez de ouro está cortado e parcialmente misturado com outra coluna."
+  }
+]

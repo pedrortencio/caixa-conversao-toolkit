@@ -1,0 +1,54 @@
+[
+  {
+    "janela_id": "per090972_1914_18417:p004:c31478-38082",
+    "debate": "Troca de notas após fechamento da Caixa",
+    "objeto_politica": [
+      "conversibilidade",
+      "taxa",
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_aplica"
+      }
+    ],
+    "posicao_defendida": "O Ministério da Fazenda nega a abertura clandestina da Caixa e defende como regular uma troca excepcional destinada ao pagamento de dívida externa.",
+    "argumento": "A nota afirma que a única troca posterior ao fechamento foi autorizada por escrito e divulgada pela imprensa. Sustenta que a operação gerou lucro para o Tesouro e evitou uma intervenção governamental que provocaria a baixa do câmbio.",
+    "voz": "documento_oficial",
+    "agentes": [
+      {
+        "nome": "ministro da Fazenda",
+        "papel": "",
+        "atribuicao": "autoridade que ordenou e justificou a operação"
+      },
+      {
+        "nome": "Banco Nacional Ultramarino",
+        "papel": "",
+        "atribuicao": "intermediário da remessa para Londres"
+      },
+      {
+        "nome": "O Imparcial",
+        "papel": "",
+        "atribuicao": "autor da acusação refutada"
+      }
+    ],
+    "vocabulario_epoca": [
+      "elevar o cambio",
+      "Caixa de Conversão",
+      "troca",
+      "coupon",
+      "mercado de cambio"
+    ],
+    "citacao_verbatim": "O ministro da Fazenda, após o fecha-mento da Caixa de Conversão, apenas or-denou a troca da quantia dc 3.000 contos,correspondente a 200 mil libras, as quaesforam enviadas para Londres, por mter-médio do Banco Nacional Ultramarino,afim de acudir ao pagamento do coupondo empréstimo de v/03, para as obras doporto do Rio dc Janeiro.",
+    "observacao": "A identificação do empréstimo está corrompida pelo OCR como \"v/03\". A data traz apenas o dia 24, sem mês legível na janela, por isso não foi registrada em marcos."
+  }
+]

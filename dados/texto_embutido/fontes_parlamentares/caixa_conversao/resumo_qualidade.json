@@ -1,0 +1,121 @@
+{
+  "dataset": "documentos_parlamentares_caixa_de_conversao",
+  "extraction_protocol": "pypdf_extract_text_default_raw",
+  "pypdf_version": "6.10.0",
+  "encoding": "UTF-8 sem BOM",
+  "normalization": "none; raw text returned by PdfReader.page.extract_text()",
+  "page_reference": "pdf_page is the physical PDF page, starting at 1",
+  "volumes": [
+    {
+      "volume": 1,
+      "source_pdf": "caixa_conversao_v1.pdf",
+      "source_pdf_bytes": 130530011,
+      "source_pdf_sha256": "349042a4b03cf84bc8adfb66c472c320a62987c9b37435b0525f1816529b2712",
+      "pages": 698,
+      "empty_pages_count": 15,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        12,
+        14,
+        554,
+        556,
+        610,
+        612,
+        614,
+        696,
+        697,
+        698
+      ],
+      "sparse_pages_count": 9,
+      "sparse_pages": [
+        7,
+        10,
+        11,
+        144,
+        553,
+        611,
+        629,
+        630,
+        695
+      ],
+      "extraction_errors_count": 0,
+      "extraction_error_pages": [],
+      "median_chars_per_page": 2852.5,
+      "mean_chars_per_page": 2672.3,
+      "min_chars_per_page": 0,
+      "max_chars_per_page": 3765,
+      "replacement_chars": 0,
+      "unexpected_control_chars": 0
+    },
+    {
+      "volume": 2,
+      "source_pdf": "caixa_conversao_v2.pdf",
+      "source_pdf_bytes": 78077003,
+      "source_pdf_sha256": "949468aff4d52dc73aa7f6142a010fcde58515fea95b0b6cae8a3843289cf5bd",
+      "pages": 454,
+      "empty_pages_count": 7,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        392,
+        394,
+        452,
+        454
+      ],
+      "sparse_pages_count": 11,
+      "sparse_pages": [
+        4,
+        6,
+        7,
+        10,
+        11,
+        12,
+        14,
+        77,
+        449,
+        450,
+        451
+      ],
+      "extraction_errors_count": 0,
+      "extraction_error_pages": [],
+      "median_chars_per_page": 2674.5,
+      "mean_chars_per_page": 2498.5,
+      "min_chars_per_page": 0,
+      "max_chars_per_page": 4118,
+      "replacement_chars": 0,
+      "unexpected_control_chars": 0
+    }
+  ],
+  "outputs": [
+    {
+      "file": "caixa_conversao_v1_paginas.jsonl",
+      "bytes": 2218246,
+      "sha256": "1f2ce01afeaef037a069394e0f9b9ff9d9c48032e2097fe28475544f725cc8f6"
+    },
+    {
+      "file": "caixa_conversao_v1_texto_integral.txt",
+      "bytes": 1960994,
+      "sha256": "23f8008d50e1410f4bd17e52c0b8c10a5bded89676bd8b732d59f4b5a827b25e"
+    },
+    {
+      "file": "caixa_conversao_v2_paginas.jsonl",
+      "bytes": 1356844,
+      "sha256": "e7b638ab3eb305c466b580d59c051032e854b2fb3277121ca7f785d8e1be065a"
+    },
+    {
+      "file": "caixa_conversao_v2_texto_integral.txt",
+      "bytes": 1190093,
+      "sha256": "0e319630d40ec80712e8f27e638f71afc991234defd7dd31a73dc270469ffe99"
+    },
+    {
+      "file": "manifesto_extracao_paginas.csv",
+      "bytes": 213863,
+      "sha256": "6074521c33715e42de91f5c2f2b52d0adc6b2584c5f9914ff81221b5d1a257e0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "janela_id": "per103730_1907_00112:p001:c36521-43373",
+    "debate": "Caixa como reservatório de ouro",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A Caixa de Conversão é defendida como reserva útil de ouro, da qual se pode retirar metal mediante o troco de notas sem causar perturbações no mercado.",
+    "argumento": "A saída líquida de ouro não seria motivo de estranheza, mas demonstração da utilidade da Caixa quando a escassez de letras de câmbio encarece o metal. As retiradas também são atribuídas à demora do Banco do Brasil na expedição de vales-ouro.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Banco do Brasil",
+        "papel": "",
+        "atribuicao": "sua morosidade na expedição de vales-ouro é apontada como causa adicional das retiradas"
+      }
+    ],
+    "vocabulario_epoca": [
+      "reserva-torlo do ouro",
+      "letras do cambio",
+      "troco do suas no-tas",
+      "vales-ouro"
+    ],
+    "citacao_verbatim": "Nada ha em lal facto quo possa causarestranheza.E' um facto dos mais naturaes, quo vemapenas revelar uma das faces uleis daCaixa do Conversão, esso grando reserva-torlo do ouro da economia nacional.",
+    "observacao": "O trecho defende a função operacional da Caixa, mas não explicita preferência entre valorização do mil-réis e estabilidade em uma taxa nova; por isso, as direções foram classificadas como não classificáveis."
+  }
+]

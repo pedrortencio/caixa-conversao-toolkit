@@ -1,0 +1,62 @@
+[
+  {
+    "janela_id": "per178691_1914_10827:p001:c14018-22109",
+    "debate": "Taxa elevada contra câmbio estável",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende a decretação de uma taxa cambial estável e critica a manutenção do câmbio em níveis elevados.",
+    "argumento": "A resistência de Bulhões à taxa estável é apresentada como sectária e responsável por sacrifícios, embora seus benefícios fossem reconhecíveis.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Sr. Bulhões",
+        "papel": "ministro da fazenda",
+        "atribuicao": "adversário da decretação da taxa estável"
+      }
+    ],
+    "vocabulario_epoca": [
+      "taxa de 16 dinheiros",
+      "taxa estável",
+      "cambio"
+    ],
+    "citacao_verbatim": "depois de ter mantido, ácusta de sacrifícios inauditos, o cambioa lax-as exageradamente elevadas, fez umultimo esforço a favor da, taxa de 16 di-nheiros para lypo do cambio da Caixa deConversão, que o Congresso foi coagidoa aocjl-ar, como transacção, sem o quenão poderia vencer a resistência do mi-nistro da fazenda na sua má vontadecontra a decretação-da tax-a estável, cujosbenefícios só os sectários de fórmulastheoricas' deixam dc reconhecer.",
+    "observacao": "O OCR torna parcialmente ilegíveis algumas palavras, mas a oposição entre taxas elevadas e a decretação de uma taxa estável está explícita."
+  },
+  {
+    "janela_id": "per178691_1914_10827:p001:c14018-22109",
+    "debate": "Dívida governamental no lastro da Caixa",
+    "objeto_politica": [
+      "lastro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Condena o pagamento de dezenove mil contos à Caixa mediante um vale governamental em lugar de ouro em espécie.",
+    "argumento": "O texto sustenta que a operação impôs um ônus sem compensação ao país e desvirtuou a composição prevista para os ativos da Caixa de Conversão.",
+    "voz": "editorial_do_jornal",
+    "agentes": [
+      {
+        "nome": "Sr. Bulhões",
+        "papel": "ministro da fazenda",
+        "atribuicao": "responsabilizado pela operação"
+      }
+    ],
+    "vocabulario_epoca": [
+      "ouro cm espécie",
+      "saccos do precioso metal",
+      "vale da responsabilidade do governo"
+    ],
+    "citacao_verbatim": "Que compensação teve o paiz com essecolossal ônus, que desvirtuou a própriaessência da Caixa de Conversão, onde sópodia entrar ouro cm espécie e hoje tem,entre os saccos do precioso metal, umvale da responsabilidade do governo de19.000 contos?",
+    "observacao": "A janela não esclarece a natureza jurídica do vale nem fornece data precisa para a operação."
+  }
+]

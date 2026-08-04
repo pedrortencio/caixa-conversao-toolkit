@@ -24,6 +24,7 @@ Words de 25/07. Reproduziu a triagem.
 | `celulas.csv` | agregado por jornal-ano: páginas, páginas com Caixa, com Rothschild, com ambos, e o mesmo para cada casa bancária |
 | `variantes_rothschild.csv` | as 126 grafias distintas que o OCR produziu, com frequência |
 | `proximidade.csv` | as 170 páginas Rothschild+Caixa, com a distância mínima em caracteres entre as duas menções |
+| `exemplares_curados.csv` | os 10 trechos curados em 26/07, com localizador, termo, variante de OCR e o contexto do manifesto |
 
 Os scripts que geraram tudo estão em `pipeline/banqueiros/`.
 
@@ -57,9 +58,12 @@ nome canônico, do mesmo jeito que "Caixa de Emissão e Conversão" (registrada 
 
 ## Onde estão os exemplares substantivos
 
-Os 15 trechos curados (3 por jornal, mais 3 do Retrospecto do JC) **não estão em
-arquivo**: foram entregues no chat de 26/07. Para recuperá-los, os localizadores
-estão em `achados.csv` e `proximidade.csv`. Os melhores:
+Em 2026-08-03 os trechos curados foram reconstruídos do manifesto e estão em
+`exemplares_curados.csv`, com localizador, termo, variante de OCR e o contexto
+de 280 caracteres. Antes disso existiam apenas no chat de 26/07, que não é
+manifesto. O do Retrospecto do JC não entra nesse arquivo porque o JC não está
+no censo e portanto não está em `achados.csv`. A tabela abaixo é a leitura
+curada dos mesmos itens:
 
 | Jornal | Edição | O que tem |
 |---|---|---|

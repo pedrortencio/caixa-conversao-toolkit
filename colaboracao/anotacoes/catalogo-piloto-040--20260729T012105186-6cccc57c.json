@@ -1,0 +1,49 @@
+[
+  {
+    "janela_id": "per178691_1907_08314:p002:c28048-35562",
+    "debate": "Suposto desaparecimento de cédulas conversíveis",
+    "objeto_politica": [
+      "outro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_aplica"
+      }
+    ],
+    "posicao_defendida": "A notícia sobre inquérito e desaparecimento de cédulas na Caixa de Conversão é infundada, pois as notas recebidas, emitidas, inutilizadas e depositadas estariam contabilizadas.",
+    "argumento": "O vice-presidente apresenta os registros de entrada e emissão e afirma que o saldo de cédulas permanece depositado em um cofre da repartição. O jornal reconhece que o erro de contagem ocorreu na Caixa de Amortização, e não na Caixa de Conversão.",
+    "voz": "assinado",
+    "agentes": [
+      {
+        "nome": "Dr. Henrique Diniz",
+        "papel": "vice-presidente da caixa de conversão",
+        "atribuicao": "autor da contestação"
+      },
+      {
+        "nome": "Dr. Carlos Cláudio da Silva",
+        "papel": "ex-thesoureiro interino",
+        "atribuicao": "recebedor do material de emissão"
+      },
+      {
+        "nome": "barão de Águas Claras",
+        "papel": "secretario da caixa de conversão",
+        "atribuicao": "autor de carta com as mesmas considerações"
+      }
+    ],
+    "marcos": [
+      {
+        "data": "1907-02-22",
+        "descricao": "Últimas remessas de cédulas conversíveis pela Casa da Moeda à Caixa de Conversão",
+        "confianca": "alta"
+      }
+    ],
+    "vocabulario_epoca": [
+      "cédulas conversíveis",
+      "material de emissão",
+      "notas conversíveis"
+    ],
+    "citacao_verbatim": "Posso felizmente assegurar-vos sercompletamente Infundada tal noticia,quer quando ella se refere a inque-rito, quer quanto a desappareciini.ntodo cedulae.",
+    "observacao": "A carta rebate uma acusação administrativa e não formula posição sobre taxa, emissão, lastro ou conversibilidade. Os valores têm possíveis erros de OCR e aparente inconsistência aritmética, por isso não foram corrigidos."
+  }
+]

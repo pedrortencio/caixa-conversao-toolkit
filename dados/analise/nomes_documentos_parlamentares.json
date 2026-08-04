@@ -1,0 +1,472 @@
+{
+  "atores": [
+    {
+      "nome": "Barbosa Lima",
+      "classe": "parlamentar",
+      "total": 212,
+      "v1_1906": 159,
+      "v2_1910": 53,
+      "paginas_v1": 91,
+      "paginas_v2": 31,
+      "turnos_de_fala": 105
+    },
+    {
+      "nome": "David Campista",
+      "classe": "parlamentar",
+      "total": 193,
+      "v1_1906": 164,
+      "v2_1910": 29,
+      "paginas_v1": 96,
+      "paginas_v2": 23,
+      "turnos_de_fala": 5
+    },
+    {
+      "nome": "Calogeras",
+      "classe": "parlamentar",
+      "total": 120,
+      "v1_1906": 0,
+      "v2_1910": 120,
+      "paginas_v1": 0,
+      "paginas_v2": 52,
+      "turnos_de_fala": 77
+    },
+    {
+      "nome": "Affonso Costa",
+      "classe": "parlamentar",
+      "total": 80,
+      "v1_1906": 15,
+      "v2_1910": 65,
+      "paginas_v1": 11,
+      "paginas_v2": 46,
+      "turnos_de_fala": 48
+    },
+    {
+      "nome": "Leopoldo de Bulhoes",
+      "classe": "parlamentar",
+      "total": 78,
+      "v1_1906": 4,
+      "v2_1910": 74,
+      "paginas_v1": 4,
+      "paginas_v2": 56,
+      "turnos_de_fala": 3
+    },
+    {
+      "nome": "Joaquim Murtinho",
+      "classe": "parlamentar",
+      "total": 75,
+      "v1_1906": 33,
+      "v2_1910": 42,
+      "paginas_v1": 27,
+      "paginas_v2": 32,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Cincinato Braga",
+      "classe": "parlamentar",
+      "total": 69,
+      "v1_1906": 3,
+      "v2_1910": 66,
+      "paginas_v1": 2,
+      "paginas_v2": 42,
+      "turnos_de_fala": 42
+    },
+    {
+      "nome": "Serzedello Correa",
+      "classe": "parlamentar",
+      "total": 64,
+      "v1_1906": 60,
+      "v2_1910": 4,
+      "paginas_v1": 44,
+      "paginas_v2": 4,
+      "turnos_de_fala": 19
+    },
+    {
+      "nome": "Paula/Paulo Ramos",
+      "classe": "parlamentar",
+      "total": 49,
+      "v1_1906": 37,
+      "v2_1910": 12,
+      "paginas_v1": 28,
+      "paginas_v2": 6,
+      "turnos_de_fala": 22
+    },
+    {
+      "nome": "Galeao Carvalhal",
+      "classe": "parlamentar",
+      "total": 45,
+      "v1_1906": 24,
+      "v2_1910": 21,
+      "paginas_v1": 18,
+      "paginas_v2": 17,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Rodolpho Paixao",
+      "classe": "parlamentar",
+      "total": 43,
+      "v1_1906": 24,
+      "v2_1910": 19,
+      "paginas_v1": 16,
+      "paginas_v2": 16,
+      "turnos_de_fala": 23
+    },
+    {
+      "nome": "Alcindo Guanabara",
+      "classe": "parlamentar",
+      "total": 41,
+      "v1_1906": 30,
+      "v2_1910": 11,
+      "paginas_v1": 19,
+      "paginas_v2": 7,
+      "turnos_de_fala": 10
+    },
+    {
+      "nome": "Moniz Freire",
+      "classe": "parlamentar",
+      "total": 40,
+      "v1_1906": 16,
+      "v2_1910": 24,
+      "paginas_v1": 13,
+      "paginas_v2": 11,
+      "turnos_de_fala": 25
+    },
+    {
+      "nome": "Lindolpho Camara",
+      "classe": "parlamentar",
+      "total": 37,
+      "v1_1906": 2,
+      "v2_1910": 35,
+      "paginas_v1": 2,
+      "paginas_v2": 21,
+      "turnos_de_fala": 18
+    },
+    {
+      "nome": "Felisbello Freire",
+      "classe": "parlamentar",
+      "total": 35,
+      "v1_1906": 6,
+      "v2_1910": 29,
+      "paginas_v1": 5,
+      "paginas_v2": 17,
+      "turnos_de_fala": 13
+    },
+    {
+      "nome": "Duarte de Abreu",
+      "classe": "parlamentar",
+      "total": 34,
+      "v1_1906": 0,
+      "v2_1910": 34,
+      "paginas_v1": 0,
+      "paginas_v2": 15,
+      "turnos_de_fala": 22
+    },
+    {
+      "nome": "Homero Baptista",
+      "classe": "parlamentar",
+      "total": 33,
+      "v1_1906": 9,
+      "v2_1910": 24,
+      "paginas_v1": 9,
+      "paginas_v2": 12,
+      "turnos_de_fala": 10
+    },
+    {
+      "nome": "Campos Salles",
+      "classe": "executivo",
+      "total": 32,
+      "v1_1906": 25,
+      "v2_1910": 7,
+      "paginas_v1": 20,
+      "paginas_v2": 7,
+      "turnos_de_fala": 2
+    },
+    {
+      "nome": "Wenceslau Braz",
+      "classe": "executivo",
+      "total": 28,
+      "v1_1906": 27,
+      "v2_1910": 1,
+      "paginas_v1": 15,
+      "paginas_v2": 1,
+      "turnos_de_fala": 15
+    },
+    {
+      "nome": "Nilo Pecanha",
+      "classe": "executivo",
+      "total": 26,
+      "v1_1906": 12,
+      "v2_1910": 14,
+      "paginas_v1": 11,
+      "paginas_v2": 11,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Severino Vieira",
+      "classe": "parlamentar",
+      "total": 25,
+      "v1_1906": 0,
+      "v2_1910": 25,
+      "paginas_v1": 0,
+      "paginas_v2": 14,
+      "turnos_de_fala": 18
+    },
+    {
+      "nome": "Altino Arantes",
+      "classe": "parlamentar",
+      "total": 20,
+      "v1_1906": 19,
+      "v2_1910": 1,
+      "paginas_v1": 15,
+      "paginas_v2": 1,
+      "turnos_de_fala": 10
+    },
+    {
+      "nome": "Affonso Penna",
+      "classe": "executivo",
+      "total": 14,
+      "v1_1906": 2,
+      "v2_1910": 12,
+      "paginas_v1": 2,
+      "paginas_v2": 8,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Hermes da Fonseca",
+      "classe": "executivo",
+      "total": 14,
+      "v1_1906": 0,
+      "v2_1910": 14,
+      "paginas_v1": 0,
+      "paginas_v2": 10,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Alberto Sarmento",
+      "classe": "parlamentar",
+      "total": 13,
+      "v1_1906": 13,
+      "v2_1910": 0,
+      "paginas_v1": 10,
+      "paginas_v2": 0,
+      "turnos_de_fala": 6
+    },
+    {
+      "nome": "Antunes Maciel",
+      "classe": "parlamentar",
+      "total": 13,
+      "v1_1906": 13,
+      "v2_1910": 0,
+      "paginas_v1": 9,
+      "paginas_v2": 0,
+      "turnos_de_fala": 7
+    },
+    {
+      "nome": "Rui/Ruy Barbosa",
+      "classe": "parlamentar",
+      "total": 12,
+      "v1_1906": 6,
+      "v2_1910": 6,
+      "paginas_v1": 6,
+      "paginas_v2": 4,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Urbano Santos",
+      "classe": "parlamentar",
+      "total": 11,
+      "v1_1906": 11,
+      "v2_1910": 0,
+      "paginas_v1": 10,
+      "paginas_v2": 0,
+      "turnos_de_fala": 6
+    },
+    {
+      "nome": "Rodrigues Alves",
+      "classe": "executivo",
+      "total": 10,
+      "v1_1906": 3,
+      "v2_1910": 7,
+      "paginas_v1": 3,
+      "paginas_v2": 6,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Francisco Glycerio",
+      "classe": "parlamentar",
+      "total": 9,
+      "v1_1906": 5,
+      "v2_1910": 4,
+      "paginas_v1": 5,
+      "paginas_v2": 4,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Joao Luiz Alves",
+      "classe": "parlamentar",
+      "total": 9,
+      "v1_1906": 2,
+      "v2_1910": 7,
+      "paginas_v1": 2,
+      "paginas_v2": 6,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Arthur Orlando",
+      "classe": "parlamentar",
+      "total": 8,
+      "v1_1906": 8,
+      "v2_1910": 0,
+      "paginas_v1": 7,
+      "paginas_v2": 0,
+      "turnos_de_fala": 1
+    },
+    {
+      "nome": "Custodio Coelho",
+      "classe": "tecnico",
+      "total": 7,
+      "v1_1906": 7,
+      "v2_1910": 0,
+      "paginas_v1": 6,
+      "paginas_v2": 0,
+      "turnos_de_fala": 1
+    },
+    {
+      "nome": "Alfredo Ellis",
+      "classe": "parlamentar",
+      "total": 6,
+      "v1_1906": 1,
+      "v2_1910": 5,
+      "paginas_v1": 1,
+      "paginas_v2": 3,
+      "turnos_de_fala": 4
+    },
+    {
+      "nome": "Miguel Calmon",
+      "classe": "parlamentar",
+      "total": 6,
+      "v1_1906": 6,
+      "v2_1910": 0,
+      "paginas_v1": 4,
+      "paginas_v2": 0,
+      "turnos_de_fala": 3
+    },
+    {
+      "nome": "Goschen",
+      "classe": "estrangeiro",
+      "total": 6,
+      "v1_1906": 5,
+      "v2_1910": 1,
+      "paginas_v1": 4,
+      "paginas_v2": 1,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Carlos Peixoto",
+      "classe": "parlamentar",
+      "total": 5,
+      "v1_1906": 5,
+      "v2_1910": 0,
+      "paginas_v1": 3,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Lewandowski",
+      "classe": "estrangeiro",
+      "total": 5,
+      "v1_1906": 5,
+      "v2_1910": 0,
+      "paginas_v1": 5,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Germano Hasslocher",
+      "classe": "parlamentar",
+      "total": 4,
+      "v1_1906": 4,
+      "v2_1910": 0,
+      "paginas_v1": 4,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Wileman",
+      "classe": "estrangeiro",
+      "total": 4,
+      "v1_1906": 4,
+      "v2_1910": 0,
+      "paginas_v1": 3,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Augusto Ramos",
+      "classe": "publicista",
+      "total": 3,
+      "v1_1906": 3,
+      "v2_1910": 0,
+      "paginas_v1": 3,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Ramiro Barcellos",
+      "classe": "parlamentar",
+      "total": 2,
+      "v1_1906": 2,
+      "v2_1910": 0,
+      "paginas_v1": 2,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Pinheiro Machado",
+      "classe": "parlamentar",
+      "total": 1,
+      "v1_1906": 0,
+      "v2_1910": 1,
+      "paginas_v1": 0,
+      "paginas_v2": 1,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Sa Freire",
+      "classe": "parlamentar",
+      "total": 1,
+      "v1_1906": 1,
+      "v2_1910": 0,
+      "paginas_v1": 1,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Antonio Carlos",
+      "classe": "parlamentar",
+      "total": 1,
+      "v1_1906": 1,
+      "v2_1910": 0,
+      "paginas_v1": 1,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    },
+    {
+      "nome": "Deutsche Bank",
+      "classe": "banqueiro_externo",
+      "total": 1,
+      "v1_1906": 1,
+      "v2_1910": 0,
+      "paginas_v1": 1,
+      "paginas_v2": 0,
+      "turnos_de_fala": 0
+    }
+  ],
+  "sem_mencao": [
+    "Martim Francisco",
+    "Rothschild",
+    "Speyer",
+    "Baring",
+    "Schroder",
+    "Credit Lyonnais"
+  ]
+}

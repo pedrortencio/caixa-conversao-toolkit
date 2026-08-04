@@ -1,0 +1,31 @@
+{
+    "task_id":  "catalogo-piloto-009",
+    "run_id":  "20260729T010052868-0950347e",
+    "attempt":  1,
+    "modo":  "anotacao",
+    "status":  "sucesso",
+    "modelo_solicitado":  "gpt-5.6-sol",
+    "modelo_reportado":  null,
+    "effort_solicitado":  "high",
+    "versao_cli":  "codex-cli 0.145.0",
+    "sessao_codex":  "019fac08-4f2b-75e0-94cd-08e2086e304c",
+    "hash_manifesto":  "0950347e0c9221846b1cbbd51742cc2922e66633b153cc5abe552e578891da51",
+    "commit_repo":  "affd6275b1a7a0490381d8e5b4e04cba70e37c88",
+    "git_status_porcelain":  " M dados/catalogo/aceitos_claude.jsonl\n M dados/catalogo/anotacoes_claude.jsonl\n M dados/catalogo/rejeitados_claude.jsonl\n M pipeline/catalogo/roda_piloto.py\n M scripts/invoca-codex.ps1\n?? dados/catalogo/aceitos_codex.jsonl\n?? dados/catalogo/anotacoes_codex.jsonl\n?? dados/catalogo/rejeitados_codex.jsonl",
+    "hash_diff":  "8a9614f36dd0d9da12a5ef8ee08fcfb766b1f594e79b2bb2d1bccd283181761a",
+    "workdir_isolado":  false,
+    "parecer":  "colaboracao/anotacoes/catalogo-piloto-009--20260729T010052868-0950347e.json",
+    "inicio":  "2026-07-29T01:00:52.8688212-03:00",
+    "fim":  "2026-07-29T01:01:09.4038183-03:00",
+    "exit_code":  0,
+    "comando":  "codex \"exec\" \"-\" \"--ignore-user-config\" \"--ephemeral\" \"--sandbox\" \"read-only\" \"-m\" \"gpt-5.6-sol\" \"-c\" \"model_reasoning_effort=high\" \"--color\" \"never\" \"--json\" \"--output-last-message\" \"\u003csaida\u003e\"",
+    "token_usage":  {
+                        "input_tokens":  22150,
+                        "cached_input_tokens":  12032,
+                        "cache_write_input_tokens":  0,
+                        "output_tokens":  561,
+                        "reasoning_output_tokens":  514
+                    },
+    "hash_parecer":  "c43fddc8dce92eba70df8d6e6f7e41367c89dc4455571f94d4c21188739aca77",
+    "hash_log":  "1d0bcce469b8f5565474cde0b25bc005e4fd3632a46c984ce1de1ef77493a875"
+}

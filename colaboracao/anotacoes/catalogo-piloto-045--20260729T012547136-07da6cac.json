@@ -1,0 +1,162 @@
+[
+  {
+    "janela_id": "per178691_1913_10676:p003:c0-16123",
+    "debate": "Endosso federal ao empréstimo da valorização",
+    "objeto_politica": [
+      "valorizacao_cafe",
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Alfredo Ellis defende o endosso da União ao empréstimo necessário para executar a valorização do café.",
+    "argumento": "A bancada paulista considerava a medida indispensável ao plano e aceitava oferecer garantias para que a União não sofresse prejuízo.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Alfredo Ellis",
+        "papel": "senador por São Paulo",
+        "atribuicao": "defensor da medida"
+      },
+      {
+        "nome": "Ramiro Barcellos",
+        "papel": "relator do orçamento da receita",
+        "atribuicao": "modificou o parecer após a oferta de garantias"
+      },
+      {
+        "nome": "Rosa e Silva",
+        "papel": "senador por Pernambuco",
+        "atribuicao": "opositor da medida"
+      }
+    ],
+    "vocabulario_epoca": [
+      "endosso da União",
+      "valorização do café"
+    ],
+    "citacao_verbatim": "Para os paulista ern,no entanto, ella uma questão do vidae morte, porque determinaria se sepoderia executar o plano formuladoda valorização do café.",
+    "observacao": "O texto menciona empréstimo de 15 milhões, banqueiros e pagamento em libras, mas não identifica explicitamente os credores nem a moeda do valor principal."
+  },
+  {
+    "janela_id": "per178691_1913_10676:p003:c0-16123",
+    "debate": "Caixa como amparo à valorização",
+    "objeto_politica": [
+      "valorizacao_cafe",
+      "outro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Pinheiro Machado apresenta a Caixa de Conversão como meio de reduzir os riscos do plano de valorização do café, do qual desconfiava.",
+    "argumento": "O plano seria aventuroso e sujeito ao fracasso, especialmente diante de safras elevadas, e por isso precisaria ser amparado pela Caixa de Conversão.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Pinheiro Machado",
+        "papel": "representante do Rio Grande do Sul",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Jorge Tybirlçá",
+        "papel": "",
+        "atribuicao": "destinatário de carta mencionada"
+      }
+    ],
+    "vocabulario_epoca": [
+      "plano devalorização",
+      "Caixa deConversão"
+    ],
+    "citacao_verbatim": "Sempre, Sr. presidente, declarei aosIllustres paulistas, que commigo seentendiam, e mesmo em carta, quedirigi ao Dr. Jorge Tybirlçá, que re-ceava, pelos resultados do plano devalorização; que me parecia estoplano por de mais avrnturoso.sem ba-sr> r:i realidade' das oojsas, c que. paraimpedir que elle fracuçasse, era ne-cessarjn no menos diminuir os í-ousperigos, amparando-o com a Caixa deConversão.",
+    "observacao": "Alfredo Ellis atribui a Pinheiro Machado uma declaração mais enfática de apoio à Caixa e oposição à valorização. Pinheiro contesta apenas que ela tivesse sido feita naquela ocasião, afirmando que a Caixa ainda não estava em discussão."
+  },
+  {
+    "janela_id": "per178691_1913_10676:p003:c0-16123",
+    "debate": "Iniciativa da Caixa de Conversão",
+    "objeto_politica": [
+      "outro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_aplica"
+      }
+    ],
+    "posicao_defendida": "Alfredo Ellis atribui a iniciativa da Caixa de Conversão ao senador Toledo iiza.",
+    "argumento": "Segundo Ellis, o senador levantou a proposta depois de retornar de uma viagem à República Argentina.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Alfredo Ellis",
+        "papel": "senador por São Paulo",
+        "atribuicao": "autor da atribuição"
+      },
+      {
+        "nome": "Toledo iiza",
+        "papel": "senador",
+        "atribuicao": "iniciador da proposta"
+      },
+      {
+        "nome": "Pinheiro Machado",
+        "papel": "representante do Rio Grande do Sul",
+        "atribuicao": "intervenção eficaz no estabelecimento"
+      }
+    ],
+    "vocabulario_epoca": [
+      "Caixa de(Smversão"
+    ],
+    "citacao_verbatim": "a iniciativa sobre a Caixa de(Smversão; de justiça, pertence ao se-nador Toledo iiza, que a ventilou",
+    "observacao": "O nome de Toledo e a expressão Caixa de Conversão estão corrompidos pelo OCR. O mesmo discurso reconhece a intervenção eficaz de Pinheiro Machado no estabelecimento da Caixa."
+  },
+  {
+    "janela_id": "per178691_1913_10676:p003:c0-16123",
+    "debate": "Causas do êxito da valorização",
+    "objeto_politica": [
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_aplica"
+      }
+    ],
+    "posicao_defendida": "Glycerio atribui grande parte do êxito da valorização aos administradores paulistas, enquanto Pinheiro Machado acrescenta a cooperação federal.",
+    "argumento": "O desacordo trata da contribuição relativa da administração de São Paulo e do apoio do Congresso e do governo da República para o resultado da operação.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Francisco Glycerio",
+        "papel": "",
+        "atribuicao": "atribui o êxito aos administradores de São Paulo"
+      },
+      {
+        "nome": "Pinheiro Machado",
+        "papel": "representante do Rio Grande do Sul",
+        "atribuicao": "atribui parte do êxito à cooperação federal"
+      },
+      {
+        "nome": "Alfredo Ellis",
+        "papel": "senador por São Paulo",
+        "atribuicao": "apoia a intervenção de Glycerio"
+      }
+    ],
+    "vocabulario_epoca": [
+      "êxito da operação",
+      "cooperação"
+    ],
+    "citacao_verbatim": "O Sr. Francisco Glycerio — Masem grande parte o êxito da operaçãofoi devido k capacidade dos adminis-tradores de S. Paulo.O Pr. Alfredo Rtlis — Apoiado.O SR; PINHEIRO MACHADO—In-negnvelmente.mns lambem á coopera-ção que o Congresso o o governo da.Rr-publica prestaram a S. Ppulo.",
+    "observacao": "A passagem registra uma divergência de atribuição causal, não uma defesa de direção monetária."
+  }
+]

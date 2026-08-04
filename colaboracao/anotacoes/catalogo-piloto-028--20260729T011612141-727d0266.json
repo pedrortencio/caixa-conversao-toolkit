@@ -1,0 +1,32 @@
+[
+  {
+    "janela_id": "per103730_1907_00013:p006:c36709-44526",
+    "debate": "Exigência de guias nas operações da Caixa",
+    "objeto_politica": ["outro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende a manutenção das guias exigidas para a emissão e o resgate de notas conversíveis.",
+    "argumento": "A exigência facilitaria a escrituração, melhoraria a estatística e permitiria ao governo conhecer a procedência do ouro depositado. A adoção de guias em instituições argentinas e estrangeiras é apresentada como precedente.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "David Campista",
+        "papel": "ministro da fazenda",
+        "atribuicao": "autor da declaração"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "guias",
+      "emissão e resgate de notas conversíveis",
+      "escripluração",
+      "procedência do ouro"
+    ],
+    "citacao_verbatim": "tal providencia[oi adoplada o será mantida, não Imitopara se verificar qualquer falsificação dasnotas conversíveis, mas sim para facilitara escripluração o lieul orientar a eslalis-lica.",
+    "observacao": "O OCR apresenta corrupção no nome do ministro e em partes da justificativa. As reclamações que motivaram a declaração não são detalhadas."
+  }
+]

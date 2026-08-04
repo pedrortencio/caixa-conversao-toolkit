@@ -1,0 +1,47 @@
+[
+  {
+    "janela_id": "per089842_1906_01891:p002:c19913-27563",
+    "debate": "Criação da Caixa e fixação do câmbio",
+    "objeto_politica": [
+      "taxa",
+      "conversibilidade",
+      "lastro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "O projeto aprovado cria a Caixa de Conversão, fixa uma nova taxa cambial e determina a conversão dos bilhetes em ouro.",
+    "argumento": "O mecanismo vincula a emissão aos depósitos de ouro, garante o resgate dos bilhetes na Caixa e proíbe que o ouro depositado seja empregado em outra finalidade.",
+    "voz": "documento_oficial",
+    "agentes": [
+      {
+        "nome": "Câmara dos Deputados",
+        "papel": "",
+        "atribuicao": "aprovou o projeto em segunda discussão"
+      },
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "",
+        "atribuicao": "requereu votação nominal"
+      }
+    ],
+    "vocabulario_epoca": [
+      "curso legal",
+      "bilhetes ao portador",
+      "Thesouro Nacional"
+    ],
+    "citacao_verbatim": "«Art. 1* li' instituída nma caixa do con-versão especialmente destinada a rocebermoedas do ouro do curso legal o as quoconstam ilo arti 5* desta lei, entregandoom troca bilhotes ao portador representa-tivos rie yalot egual ao dns moedas rio ourorecebidas lixado esto valor om 18 dinholrosostorilnos por mil réis.",
+    "observacao": "Há divergência interna causada possivelmente pelo OCR: a notícia afirma que o projeto fixava o câmbio em \"15 d.\", enquanto a transcrição do artigo 1º registra \"18 dinholros\". A janela não permite resolver a discrepância."
+  }
+]

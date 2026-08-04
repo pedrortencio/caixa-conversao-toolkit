@@ -1,0 +1,109 @@
+[
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Depósito metálico prova acerto da lei",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O ouro depositado na Caixa não demonstra, por si só, o acerto da lei monetária.",
+    "argumento": "O depósito seria resultado da riqueza produtiva e exportadora argentina, enquanto a lei apenas obrigaria os possuidores de ouro a convertê-lo em papel para utilizá-lo nas transações.",
+    "voz": "assinado",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "stock metallico",
+      "moeda tiduciaria",
+      "lei monetária",
+      "Caixa de Conversão"
+    ],
+    "citacao_verbatim": "cem milhões do pesos ouro arn.;i_euados' na Caixa dc Conversão não testemunhampor si só o acerto da lei monetária",
+    "observacao": "O artigo assinado incorpora e endossa trechos traduzidos de La Prensa. O nome do autor está afetado pelo OCR."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Guerra explica esterilidade inicial da Caixa",
+    "objeto_politica": [
+      "taxa",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O conflito com o Chile e as despesas militares não explicam a inatividade inicial da Caixa nem os resultados negativos da fixação cambial.",
+    "argumento": "Se a guerra fosse a causa, a pacificação deveria ter reduzido as despesas militares, mas os orçamentos de guerra e marinha permaneceram elevados.",
+    "voz": "assinado",
+    "agentes": [
+      {
+        "nome": "Martiuez",
+        "papel": "",
+        "atribuicao": "autor da explicação contestada"
+      },
+      {
+        "nome": "Itt-waudowski",
+        "papel": "",
+        "atribuicao": "autor da explicação contestada"
+      }
+    ],
+    "marcos": [
+      {
+        "data": "1902-01-01",
+        "descricao": "O conflito com o Chile terminou",
+        "confianca": "baixa"
+      }
+    ],
+    "vocabulario_epoca": [
+      "esterilidade da Caixa de Conversão",
+      "lei da conversão monetária",
+      "lei de fixação do cambio"
+    ],
+    "citacao_verbatim": "é ocaso de dizer que os srs. Martiriez e r.ewau-dQjvski lançavam mão desse argumentopara»legitimara lusiijcessp da lei da con-versão monetária",
+    "observacao": "A data do término do conflito é informada apenas pelo ano. Os nomes próprios e parte da formulação do argumento estão corrompidos pelo OCR."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Saldos comerciais explicam operações da Caixa",
+    "objeto_politica": [
+      "conversibilidade",
+      "outro"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A explicação da atividade da Caixa pelos saldos da balança econômica precisa demonstrar a correspondência temporal entre ambos.",
+    "argumento": "O texto censura os autores por não indicarem quando surgiram os saldos nem mostrarem sua relação paralela com o crescimento das operações da Caixa.",
+    "voz": "assinado",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "balança econômica",
+      "operações ua Caixa de Conversão"
+    ],
+    "citacao_verbatim": "sem indicar quando esses saldos apparece-raia c mostrar a repercussão parallela <jflagrante entre o augnieuto animal des.:.balança e o movimento crescente das ope-rações ua Caixa de Conversão.",
+    "observacao": "O trecho anuncia uma continuação e não apresenta, nesta janela, a explicação causal considerada verdadeira pelo autor."
+  }
+]

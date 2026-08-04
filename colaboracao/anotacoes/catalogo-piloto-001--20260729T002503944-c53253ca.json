@@ -1,0 +1,119 @@
+[
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "O estoque de ouro comprova o acerto da lei",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O ouro acumulado na Caixa não comprova, por si só, o acerto da legislação monetária.",
+    "argumento": "O depósito seria resultado da vitalidade produtiva argentina e da obrigação de converter ouro em papel para utilizá-lo nas transações, não uma criação da lei.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "La Prensa",
+        "papel": "jornal de Buenos Aires",
+        "atribuicao": "autor do argumento reproduzido"
+      }
+    ],
+    "marcos": [
+      {
+        "data": "1890-11-04",
+        "descricao": "Lei monetária argentina mencionada no texto",
+        "confianca": "alta"
+      }
+    ],
+    "vocabulario_epoca": [
+      "lei monetária",
+      "deposito metallico",
+      "nota liduciaria"
+    ],
+    "citacao_verbatim": "Os cem milhões da Caixa não foramgerados pela loi.",
+    "observacao": "O argumento refere-se à Caixa de Conversão argentina e aparece em tradução de editorial de La Prensa."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Gastos militares explicam a inatividade inicial da Caixa",
+    "objeto_politica": [
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A continuidade das despesas militares depois da paz enfraquece a explicação de que o conflito com o Chile causou a inatividade inicial da Caixa.",
+    "argumento": "Se o perigo de guerra fosse a causa da esterilidade da Caixa, sua cessação deveria ter reduzido os gastos militares e produzido saldos orçamentários, mas o texto afirma que isso não ocorreu.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "Martiuez",
+        "papel": "",
+        "atribuicao": "defensor da explicação criticada"
+      },
+      {
+        "nome": "Itt-waudowski",
+        "papel": "",
+        "atribuicao": "defensor da explicação criticada"
+      }
+    ],
+    "vocabulario_epoca": [
+      "esterilidade",
+      "inacção",
+      "conversão monetária"
+    ],
+    "citacao_verbatim": "a cessação do alarma dcguerra com o Chile não teve pnr effeito adiminuição da»-> despesos militares",
+    "observacao": "Os nomes dos autores estão corrompidos pelo OCR e aparecem com grafias diferentes na janela."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Balança econômica explica as operações da Caixa",
+    "objeto_politica": [
+      "taxa",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Os saldos da balança econômica são apresentados como a razão essencial do funcionamento posterior da Caixa e dos resultados da fixação cambial.",
+    "argumento": "O texto sustenta que haveria correspondência entre o crescimento anual dos saldos externos e o aumento das operações da Caixa, relação que os autores criticados teriam obscurecido.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "Martiuez",
+        "papel": "",
+        "atribuicao": "autor criticado"
+      },
+      {
+        "nome": "r.ewau-dQjvski",
+        "papel": "",
+        "atribuicao": "autor criticado"
+      }
+    ],
+    "vocabulario_epoca": [
+      "balança econômica",
+      "fixação do cambio",
+      "conversão monetária"
+    ],
+    "citacao_verbatim": "osfsaldos consideráveis dn balança econômicada Republica.",
+    "observacao": "A passagem está afetada por OCR e o desenvolvimento integral do argumento é anunciado para continuação posterior."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "janela_id": "per090972_1906_15418:p004:c8556-16567",
+    "debate": "Empréstimo à lavoura versus compra de café",
+    "objeto_politica": [
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O empréstimo à lavoura só seria aceitável como complemento, não como substituto da valorização mediante compra e retenção do café.",
+    "argumento": "O empréstimo não influenciaria os preços, seria consumido pelos beneficiários, agravaria a dívida e alcançaria poucos lavradores. A compra e retenção elevaria os preços e beneficiaria os produtores proporcionalmente à produção.",
+    "voz": "indeterminado",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "valorizução",
+      "compra e retenção",
+      "Convênio"
+    ],
+    "citacao_verbatim": "P. E o que potisu sobro um em-preslimo á lavoura ?B. Como complemento á valo-rizução, seria um bem ; como sub-stilulo, serio um erro gruvissi-mo.",
+    "observacao": "A identidade do entrevistado ou respondente não está legível na janela."
+  },
+  {
+    "janela_id": "per090972_1906_15418:p004:c8556-16567",
+    "debate": "Caixa de Conversão e plano de valorização",
+    "objeto_politica": [
+      "taxa",
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A cláusula da Caixa de Conversão não alteraria o plano de valorização e serviria para conter o câmbio.",
+    "argumento": "O empréstimo projetado seria um fator anormal capaz de alterar o câmbio e desorganizar situações existentes, cabendo à Caixa neutralizar essa influência.",
+    "voz": "indeterminado",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "caixu de con-versão",
+      "con-ter o cnmbio",
+      "vnlni-i-znçáo do calo"
+    ],
+    "citacao_verbatim": "Note-se quo mo refiro ú vnlni-i-znçáo do calo o não ii questão mo-m-iario. Nem a cláusula do con-venio, referente á caixu de con-versão, oltorn em uma sò linha aninho dc valoriznção.",
+    "observacao": "O OCR está especialmente corrompido na distinção entre valorização do café e questão monetária."
+  },
+  {
+    "janela_id": "per090972_1906_15418:p004:c8556-16567",
+    "debate": "Congresso decide sobre a Caixa",
+    "objeto_politica": [
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "As autoridades executivas deveriam aguardar a decisão do Congresso e acatá-la, em vez de anunciar previamente o veto.",
+    "argumento": "Diante de opiniões divergentes sobre a Caixa, o Congresso deveria pronunciar-se, sendo criticada a declaração presidencial de que a lei seria vetada.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "sr. presidente da Republica",
+        "papel": "presidente da Republica",
+        "atribuicao": "adversário da Caixa e anunciante do veto"
+      },
+      {
+        "nome": "sr. conselheiro Afionso Pennn",
+        "papel": "conselheiro",
+        "atribuicao": "defensor de opinião diversa sobre a Caixa"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "vetnria a lei",
+      "Congresso"
+    ],
+    "citacao_verbatim": "Eramantorem-so ambos om naturalreserva c deixarem quc si- pronun-ciasse o Congresso alim cie lheacatarem a resolução. Tal não sedou e não cessou o sr. presidenteda Republica de tornar publicoque vetnria a lei",
+    "observacao": "A formulação sobre as duas opiniões contém OCR corrompido, mas a atribuição da decisão ao Congresso e a crítica ao anúncio do veto são legíveis."
+  },
+  {
+    "janela_id": "per090972_1906_15418:p004:c8556-16567",
+    "debate": "Caixa contra elevação prejudicial do câmbio",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "A elevação cambial prejudicial à lavoura demonstraria a necessidade da Caixa de Conversão.",
+    "argumento": "O presidente afirmara poder conter o câmbio sem a Caixa, mas a elevação vigente continuava e produzia prejuízos intoleráveis aos produtores, o que é apresentado como prova da necessidade da instituição.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "sr. presidente da Republica",
+        "papel": "presidente da Republica",
+        "atribuicao": "afirmara poder conter o câmbio sem a Caixa"
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "eleva-ção do cambio",
+      "taxade cambio",
+      "caixa de conversão"
+    ],
+    "citacao_verbatim": "Não eslá abi a justificação ntkcomp Ma e irrecusável da necesti-«lade da caixa de conversão ?",
+    "observacao": "A expressão imediatamente anterior a \"irrecusável\" está ilegível no OCR."
+  }
+]

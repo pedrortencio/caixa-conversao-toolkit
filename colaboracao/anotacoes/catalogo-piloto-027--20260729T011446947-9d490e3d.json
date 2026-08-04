@@ -1,0 +1,134 @@
+[
+  {
+    "janela_id": "per103730_1906_00265:p002:c414-20557",
+    "debate": "Estabilização cambial pela Caixa de Conversão",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende a Caixa de Conversão como instrumento de estabilização do câmbio.",
+    "argumento": "A estabilidade do valor da moeda daria tranquilidade e confiança ao comércio e sustentaria a prosperidade das classes produtoras.",
+    "voz": "assinado",
+    "agentes": [
+      {
+        "nome": "Augusto Ramos",
+        "papel": "autor do texto",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Penna",
+        "papel": "conselheiro e professor de finanças",
+        "atribuicao": "partidário da estabilização do câmbio"
+      }
+    ],
+    "vocabulario_epoca": [
+      "estabilisação do cambio",
+      "lei monetária"
+    ],
+    "citacao_verbatim": "A Caixa de Conversão não lem oulroobjeclivo senão esses que deixo enuncia-dos; e foi exaclamenle por haver ado -piado esse prograinma que o Sr. conse-Ibeiro Penna, muito antes do Convênio deTaubaté, já se declarara partidário daeslabilisação do cambio",
+    "observacao": "O texto contrapõe essa defesa às críticas atribuídas ao Jornal do Commercio."
+  },
+  {
+    "janela_id": "per103730_1906_00265:p002:c414-20557",
+    "debate": "Caixa de Conversão e crédito externo",
+    "objeto_politica": [
+      "divida_externa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "divida_externa",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Sustenta que as relações com banqueiros estrangeiros dependem da solvência brasileira, não da rejeição da Caixa de Conversão.",
+    "argumento": "A continuidade do crédito seria garantida pela prosperidade e solvência do Brasil, obtidas mediante o apoio às atividades produtoras.",
+    "voz": "assinado",
+    "agentes": [
+      {
+        "nome": "Augusto Ramos",
+        "papel": "autor do texto",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Rolbschlld",
+        "papel": "banqueiros",
+        "atribuicao": "credores ou parceiros comerciais estrangeiros"
+      }
+    ],
+    "vocabulario_epoca": [
+      "solvavel",
+      "banqaeiros",
+      "credito das nações"
+    ],
+    "citacao_verbatim": "K*.sa boa harmonia, porém, sõ pôde sub-sistir, como é natural, emquanto se- man-liver prospero c solvavel o Brasil e em-quanto, por conseguinte, íõr um homcliente para os Srs. Rolbschlld.",
+    "observacao": "O nome dos banqueiros apresenta OCR defeituoso."
+  },
+  {
+    "janela_id": "per103730_1906_00265:p002:c414-20557",
+    "debate": "Congresso mantém tramitação da Caixa",
+    "objeto_politica": [
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Aprova a continuidade da deliberação congressual sobre a Caixa, apesar das pressões contrárias.",
+    "argumento": "O Congresso é apresentado como impassível diante das críticas da imprensa, do governo e dos agentes financeiros estrangeiros.",
+    "voz": "assinado",
+    "agentes": [
+      {
+        "nome": "Augusto Ramos",
+        "papel": "autor do texto",
+        "atribuicao": "autor"
+      },
+      {
+        "nome": "Congresso",
+        "papel": "órgão legislativo",
+        "atribuicao": "responsável pela discussão e votação do projeto"
+      }
+    ],
+    "vocabulario_epoca": [
+      "Caixa dcConversão",
+      "dis.-ussão"
+    ],
+    "citacao_verbatim": "Em compensação vai o Congresso, irre-verente e rebelde, continuando impassívelo s- u caminho, discutindo a Caixa dcConversão c preparando-se para volal-aem .i* dis.-ussão por ISO votos conladniios.",
+    "observacao": "O número e a referência à discussão estão prejudicados pelo OCR."
+  },
+  {
+    "janela_id": "per103730_1906_00265:p002:c414-20557",
+    "debate": "Curso forçado e papel inconversível",
+    "objeto_politica": [
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Combate o curso forçado do papel inconversível.",
+    "argumento": "O regime monetário é apontado como origem de dificuldades econômicas, financeiras e mais amplas na vida nacional.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Galeão Carvalhal",
+        "papel": "leader da representação paulista na Câmara",
+        "atribuicao": "orador"
+      }
+    ],
+    "vocabulario_epoca": [
+      "curso forçado",
+      "papel inconversivel"
+    ],
+    "citacao_verbatim": "Combateu o curso forçado donosso papel inconversivel, como fonle detodas as clillicuIdades que, mesmo fora daordem econômica e financeira, lem asso-berbado a vida da nação, quer 11a Monar-chia, quer na Rpullici.",
+    "observacao": "O jornal declara apresentar apenas um resumo muito sucinto do discurso."
+  }
+]

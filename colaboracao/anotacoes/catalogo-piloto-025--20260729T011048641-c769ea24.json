@@ -1,0 +1,85 @@
+[
+  {
+    "janela_id": "per103730_1906_00174:p005:c24255-33647",
+    "debate": "Fixação cambial para proteger a produção",
+    "objeto_politica": [
+      "taxa",
+      "valorizacao_cafe"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende fixar e estabilizar o câmbio por meio da Caixa de Conversão para sustentar a valorização do café e da produção nacional.",
+    "argumento": "A oscilação do papel em relação ao ouro prejudicaria a relação entre custos e preços, favoreceria a especulação cambial e afastaria o ouro do país. A estabilidade permitiria remunerar a produção e conservar capitais no mercado interno.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "signatários do Convênio",
+        "papel": "",
+        "atribuicao": "proponentes da fixação do câmbio"
+      },
+      {
+        "nome": "Caixa de Conversão",
+        "papel": "apparelho de defesa da producção",
+        "atribuicao": "instrumento proposto para estabilizar o câmbio"
+      }
+    ],
+    "vocabulario_epoca": [
+      "fixação do cambio",
+      "jogo do cambio",
+      "meio circulante",
+      "valorisação do café"
+    ],
+    "citacao_verbatim": "Eslabilisado o cambio para as operaçõesda Caixa de Conversão^ íunecionará ellacomo apparelho de defesa da producçãoe de fixação, 110 paiz, do ouro que dellefoge por medo á instabilidade do seuvalor.",
+    "observacao": "O cabeçalho indica reprodução de A Lavoura de Minas. O OCR mistura colunas e torna ilegível o valor exato da taxa proposta."
+  },
+  {
+    "janela_id": "per103730_1906_00174:p005:c24255-33647",
+    "debate": "Emissão conversível garantida por ouro",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade",
+      "limite_emissao"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende que a Caixa emita papel conversível, garantido pelo ouro depositado, e efetue o troco dos bilhetes por ouro na taxa fixada.",
+    "argumento": "O ouro do empréstimo, dos fundos de resgate e garantia e dos particulares formaria a base metálica da emissão. A vinculação entre emissão, lastro e troco sustentaria a conversibilidade e a estabilidade cambial.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "Caixa de Conversão",
+        "papel": "instituição a ser criada no Thesouro Nacional",
+        "atribuicao": "emissora e conversora de bilhetes"
+      }
+    ],
+    "vocabulario_epoca": [
+      "papel conversível",
+      "lastro da emissão",
+      "fundo de resgate",
+      "fundo de conversão",
+      "base metallic"
+    ],
+    "citacao_verbatim": "Serão essas notes ile papel conversívelgarantidas pelo ouro depositado na Caixa,corno lastro da emissão, que hão de servirãs Irahsacções commerciaes do Convênio.",
+    "observacao": "O trecho sustenta emissão limitada pela base metálica, mas não apresenta um teto numérico legível."
+  }
+]

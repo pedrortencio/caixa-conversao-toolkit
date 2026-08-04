@@ -1,0 +1,54 @@
+[
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Origem do ouro acumulado na Caixa",
+    "objeto_politica": ["lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O ouro acumulado na Caixa não demonstra, por si, o acerto da lei monetária.",
+    "argumento": "O depósito resultaria da riqueza e da capacidade produtiva do país, enquanto a lei apenas obrigaria a transformação do ouro em papel para uso nas transações.",
+    "voz": "reproduzido_terceiro",
+    "citacao_verbatim": "Os cem milhões da Caixa não foramgerados pela loi. Acham-se ali porque estaobrigou os possuidores daqui a transfor-uial-os em papel, como condição para utili-ial-Ó nas transacçoes, Não havia liem haoutro processo para sc porem circulação uinetalliu'1.",
+    "observacao": "Trecho apresentado como tradução literal de editorial de La Prensa sobre a Caixa de Conversão argentina."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Guerra e insucesso da conversão",
+    "objeto_politica": ["conversibilidade"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "As despesas provocadas pelo conflito com o Chile não explicam a inatividade inicial da Caixa.",
+    "argumento": "As despesas militares permaneceram elevadas depois do desaparecimento do risco de guerra, portanto sua cessação não coincide com a mudança nas operações da Caixa.",
+    "voz": "assinado",
+    "citacao_verbatim": "Si, portanto, a cessação do alarma dcguerra com o Chile não teve pnr effeito adiminuição da»-> despesos militares, é ocaso de dizer que os srs. Martiriez e r.ewau-dQjvski lançavam mão desse argumentopara»legitimara lusiijcessp da lei da con-versão monetária, na falta de qualqueroutro mais Mirio.",
+    "observacao": "Há numerosos erros de OCR nos nomes e na formulação final."
+  },
+  {
+    "janela_id": "per089842_1906_01776:p001:c11-15029",
+    "debate": "Balança econômica e operações da Caixa",
+    "objeto_politica": ["taxa", "conversibilidade"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Os saldos da balança econômica seriam a explicação essencial para a esterilidade inicial da Caixa e para a posterior expansão de suas operações.",
+    "argumento": "O texto exige demonstrar a correspondência temporal entre o crescimento dos saldos econômicos e o movimento das operações da Caixa, em vez de apenas invocar esses saldos.",
+    "voz": "assinado",
+    "citacao_verbatim": "II íbiluieute ei.-cumscrcVerai.i esse pontocapital a uma phrase : u os saldos conside-raveis da balança econômica daRepublicaii,sem indicar quando esses saldos apparece-raia c mostrar a repercussão parallela <jflagrante entre o augnieuto animal des.:.balança e o movimento crescente das ope-rações ua Caixa de Conversão.",
+    "observacao": "O OCR está severamente corrompido, sobretudo no início da citação e na expressão sobre o aumento da balança."
+  }
+]

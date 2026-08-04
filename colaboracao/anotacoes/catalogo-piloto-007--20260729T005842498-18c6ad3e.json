@@ -1,0 +1,97 @@
+[
+  {
+    "janela_id": "per089842_1910_03211:p002:c0-7390",
+    "debate": "Excesso do estoque de ouro",
+    "objeto_politica": [
+      "lastro",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "O estoque de ouro não é excessivo e a emissão à taxa atual não desvaloriza o meio circulante.",
+    "argumento": "A persistência de juros elevados e a demanda por capitais indicariam que o estoque metálico ainda é insuficiente para as necessidades econômicas brasileiras.",
+    "voz": "editorial_do_jornal",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "stock do ouro",
+      "meio circulante inconvcrsivel",
+      "taxa do juro"
+    ],
+    "citacao_verbatim": "O slock do ouro actnal na nossa Caixade Conversão é, na opinião destes, inferiorao de que necessita o Brasil..",
+    "observacao": "O início da janela está cortado. O texto contrapõe adversários e defensores da Caixa e, em seguida, desenvolve argumentos favoráveis aos defensores."
+  },
+  {
+    "janela_id": "per089842_1910_03211:p002:c0-7390",
+    "debate": "Obrigatoriedade de alterar a taxa",
+    "objeto_politica": [
+      "taxa",
+      "limite_emissao",
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A lei permite, mas não obriga, a alteração da taxa quando os depósitos atingem o limite mencionado.",
+    "argumento": "A ausência de determinação imperativa na lei é apresentada como fundamento para conservar a taxa vigente.",
+    "voz": "editorial_do_jornal",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "taxa da emissão",
+      "depósitos em ouro",
+      "cambio da Caixa"
+    ],
+    "citacao_verbatim": "Apenas dispõe que PODKRA1<er -Itei-.ida. A falia dc obrigatoriedade daílltitlííteacíni do cambio da Caixa presuppSca p»i*siliilidiide dc ser conveniente cousrr-1:11 a taxa actual.",
+    "observacao": "O OCR está muito corrompido, mas a oposição entre possibilidade e obrigatoriedade de alteração permanece legível."
+  },
+  {
+    "janela_id": "per089842_1910_03211:p002:c0-7390",
+    "debate": "Efeito fiscal do câmbio de 16 dinheiros",
+    "objeto_politica": [
+      "taxa",
+      "alfandega"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "alfandega",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "O texto rejeita a valorização do câmbio a 16 dinheiros por exigir maior arrecadação de impostos em ouro.",
+    "argumento": "Para manter a receita do Tesouro em papel com o câmbio de 16 dinheiros, seria necessário elevar o excedente das receitas em ouro, transferindo o ônus ao comércio importador e ao consumidor.",
+    "voz": "editorial_do_jornal",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "receitas em ouro",
+      "moeda corrente",
+      "cambio de 16 d."
+    ],
+    "citacao_verbatim": "Para obter ,1rticsitm receita rrti papel, ao cambio de 16 d.,í necessário que os impostos cm ouro, emve* de (M-ulercm a despeja rui 48.000 con-tn». a excedam em ft-,000 contos, numerosredondos.",
+    "observacao": "Os valores numéricos e algumas palavras estão parcialmente ilegíveis por falhas de OCR."
+  }
+]

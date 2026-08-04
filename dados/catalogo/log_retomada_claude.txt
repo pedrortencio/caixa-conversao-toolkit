@@ -1,0 +1,31 @@
+﻿anotador claude | cli 2.1.220 (Claude Code) | prompt 61030ebfd7b93485
+[1/24] janela 025 per103730_1906_00174:p005:c24255-33647     ok     3 reg   79.2s
+[2/24] janela 026 per103730_1906_00185:p003:c24117-49537     ok     7 reg   93.1s
+[3/24] janela 027 per103730_1906_00265:p002:c414-20557       ok     3 reg   59.3s
+[4/24] janela 028 per103730_1907_00013:p006:c36709-44526     ok     1 reg   46.3s
+[5/24] janela 029 per103730_1907_00023:p003:c21173-33278     ok     0 reg    9.2s
+[6/24] janela 030 per103730_1907_00112:p001:c36521-43373     ok     4 reg   64.8s
+[7/24] janela 031 per103730_1910_00078:p005:c11793-17814     ok     0 reg    5.5s
+[8/24] janela 032 per103730_1910_00120:p001:c36659-43149     ok     6 reg   89.4s
+[9/24] janela 033 per103730_1910_00150:p001:c24581-31580     ok     0 reg    6.3s
+[10/24] janela 034 per103730_1914_00140:p006:c7735-13735      ok     1 reg   33.5s
+[11/24] janela 035 per103730_1914_00217:p005:c24347-30528     ok     1 reg   44.7s
+[12/24] janela 036 per103730_1914_00288:p001:c0-6180          ok     2 reg   56.2s
+[13/24] janela 037 per178691_1906_08005:p004:c31479-42902     ok     2 reg   85.4s
+[14/24] janela 038 per178691_1906_08026:p001:c19016-28127     ok     4 reg  100.8s
+[15/24] janela 039 per178691_1906_08040:p001:c8775-21557      ok     3 reg   81.6s
+[16/24] janela 040 per178691_1907_08314:p002:c28048-35562     ok     1 reg   41.1s
+[17/24] janela 041 per178691_1908_08585:p002:c4301-14198      ok     4 reg   69.0s
+[18/24] janela 042 per178691_1909_08983:p002:c8829-18014      ok     0 reg    7.3s
+[19/24] janela 043 per178691_1910_09573:p011:c15871-24655     ok     4 reg   88.0s
+[20/24] janela 044 per178691_1910_09574:p009:c15348-36294     ok     4 reg   73.7s
+[21/24] janela 045 per178691_1913_10676:p003:c0-16123         ok     5 reg  112.9s
+[22/24] janela 046 per178691_1914_10818:p004:c7023-16392      falha  0 reg   54.6s
+[23/24] janela 047 per178691_1914_10827:p001:c14018-22109     ok     3 reg   67.1s
+[24/24] janela 048 per178691_1914_10907:p002:c13657-20011     ok     2 reg   54.4s
+
+== claude | prompt 61030ebfd7b93485 ==
+janelas: 48 | reaproveitadas: 24 | chamadas: 24 | falha de chamada ou parse: 1
+registros devolvidos: 102
+aceitos: 95 | rejeitados: 7 | taxa 6.9%
+  citacao_ausente_da_janela: 7

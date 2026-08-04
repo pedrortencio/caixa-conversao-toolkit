@@ -1,8 +1,9 @@
 # Mapa do projeto
 
-**Escrito em:** 2026-07-27. **Para:** orientação rápida, sua ou de uma sessão
-com contexto zero. Todos os números aqui foram medidos nesta data, não
-lembrados.
+**Escrito em:** 2026-07-27. **Atualizado em:** 2026-08-03. **Para:** orientação
+rápida, sua ou de uma sessão com contexto zero. Todos os números aqui foram
+medidos nessas datas, não lembrados. A auditoria que produziu os números de
+agosto está em `docs/auditoria-da-base-2026-08-03.md`.
 
 Se você só tem dois minutos: o repositório é o **instrumento** (código,
 manifestos, decisões); `C:\dados-caixa` é o **acervo** (123 GB de PDF e texto);
@@ -125,6 +126,27 @@ justificativa de análise.
 - **Retrospecto do JC:** 136 páginas, 748 mil caracteres, das seções monetárias
   anuais. Estatuto no desenho ainda em aberto.
 
+### Etapa 4: camadas abertas depois de 27/07
+
+- **Sondagem de banqueiros externos** (26 e 27/07): 1.709 achados sobre as
+  117.703 páginas, com variantes de OCR, células por jornal-ano e as 170 páginas
+  em que Rothschild e Caixa dividem a página. Não é instrumento. Os 10 trechos
+  curados estão em `dados/banqueiros_externos/exemplares_curados.csv` desde
+  03/08.
+- **Piloto de catalogação de debates** (28 a 31/07): 48 janelas de 6.000
+  caracteres, quatro jornais e quatro fases, catalogadas pelo Claude e pelo Codex
+  com o mesmo prompt. 98 registros aceitos do Claude e 83 do Codex, com taxa de
+  rejeição de citação de 6,7% e 5,7%. Relatório em
+  `docs/relatorio-piloto-catalogacao.md`.
+- **Documentos Parlamentares da Caixa de Conversão** (01/08): dois volumes
+  digitalizados, 698 e 454 páginas, extraídos e corrigidos. 660 menções do nome
+  em 392 páginas. **A rotina que gerou a camada corrigida não está no repo**,
+  veja a auditoria de 03/08.
+- **Nomes no debate** (03/08): distância em caracteres entre cada nome de um
+  elenco de 52 atores e a menção mais próxima da Caixa, nas 8.331 páginas
+  triadas. Manifesto em `dados/analise/nomes_distancia.csv`, relatório em
+  `docs/relatorio-nomes-no-debate-2026-08-03.md`.
+
 ### Backup
 
 `G:\My Drive\caixa-conversao`, por robocopy, conferido em 11.960 objetos.
@@ -149,10 +171,10 @@ Lidera código e arquitetura. Ferramentas próprias do projeto:
 - **Skills:** `pipeline-hemeroteca` (rodar ou alterar o pipeline),
   `escrita-academica` (qualquer texto acadêmico, e é ela que proíbe travessão),
   `parecer-codex` (despachar trabalho ao Codex), `text-as-data` (trabalho
-  estatístico sobre a base de classificações). Esta última **nunca disparou e
-  não pode disparar**, porque a base de classificações ainda não existe.
+  estatístico sobre a base de classificações). Esta última **não tem sobre o que
+  disparar no objeto 2**, porque a base de classificações ainda não existe.
 - **Agente:** `revisor-metodologico`, para crítica de rascunho.
-- **Comandos (novos):** `/regressao-1906` roda o portão; `/suite` roda os 191
+- **Comandos (novos):** `/regressao-1906` roda o portão; `/suite` roda os 256
   testes.
 - **Hook (novo):** `gate_lote_pago.py` barra as etapas pagas enquanto o portão
   de 1906 não passar.
@@ -232,3 +254,8 @@ falha que o portão existe para impedir.
    (sha256 `4113ffd8...`).
 4. **Rotular cerca de 40 descartes sorteados**, uma tarde de trabalho, que
    converte a medida pivô de "calibrada num ano só" para "com viés medido".
+5. **A rotina da camada corrigida dos Documentos Parlamentares** (aberto em
+   03/08). Os dados existem e o código não. Enquanto ficar assim, a camada serve
+   para ler, não para publicar número.
+6. **As 185 fichas de leitura**, com os quinze campos de leitura zerados. É a
+   mesma leitura que destrava o codebook das fases 2 a 4.

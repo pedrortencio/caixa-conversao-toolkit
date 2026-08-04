@@ -1,0 +1,129 @@
+[
+  {
+    "janela_id": "per089842_1914_05642:p002:c12218-20882",
+    "debate": "Crédito da Caixa para financiar a safra",
+    "objeto_politica": ["valorizacao_cafe", "limite_emissao", "taxa", "lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "valorizacao_cafe",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende que a Caixa de Conversão emita notas especiais para financiar o café depositado, com resgate previsto e conversão a 16 dinheiros.",
+    "argumento": "O empréstimo substituiria a venda imediata em mercados paralisados pela guerra. O café depositado e parte do produto de sua venda serviriam para garantir e resgatar a emissão.",
+    "voz": "assinado",
+    "agentes": [],
+    "vocabulario_epoca": ["notas de curso legal", "cambio de 16 d."],
+    "citacao_verbatim": "A Caixa de Conversão dará ü \u007f$. por sacca,l cm inot.is de curso legal, especiaes. resgata-: veis! até 30 de junho de ioi5- «o camMo«le 16 d. |*or i$aoo.",
+    "observacao": "O valor concedido por saca e a assinatura estão prejudicados pelo OCR."
+  },
+  {
+    "janela_id": "per089842_1914_05642:p002:c12218-20882",
+    "debate": "Oposição a toda emissão de papel-moeda",
+    "objeto_politica": ["limite_emissao"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Homero Haplista declara-se contrário a qualquer emissão de papel-moeda.",
+    "argumento": "",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "Homero Haplista",
+        "papel": "",
+        "atribuicao": "opositor à emissão"
+      }
+    ],
+    "citacao_verbatim": "O ir. Homero Haplista jusiiíi-cou a auá ausência, por telcgramtna'no qual te declara contrario * todficmltsio dc papcl-mocda.",
+    "observacao": "A posição é comunicada por telegrama pessoal reproduzido no relato dos trabalhos, não por telegrama de agência."
+  },
+  {
+    "janela_id": "per089842_1914_05642:p002:c12218-20882",
+    "debate": "Suspensão do troco das notas da Caixa",
+    "objeto_politica": ["conversibilidade"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A maioria adota a suspensão temporária da troca das notas da Caixa de Conversão, apesar da oposição de Carlos Peixoto.",
+    "argumento": "Carlos Peixoto registra sua oposição à suspensão, mas reconhece a decisão majoritária. João Luiz Alves propõe que a não conversão acompanhe o prazo ampliado da moratória.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Carlos Peixoto",
+        "papel": "",
+        "atribuicao": "opositor à suspensão"
+      },
+      {
+        "nome": "João Luiz Alves",
+        "papel": "",
+        "atribuicao": "proponente do prazo"
+      }
+    ],
+    "citacao_verbatim": "O tr. Carlos 1'eixoto ponderou que,embora contrario i suspciisâu do trocodenotas da Caixa do Conversão, umavez que foi esta idéa adoptada pelamaioria",
+    "observacao": "O trecho não identifica nominalmente os integrantes da maioria favorável à suspensão."
+  },
+  {
+    "janela_id": "per089842_1914_05642:p002:c12218-20882",
+    "debate": "Poder executivo sobre a suspensão do troco",
+    "objeto_politica": ["competencia_institucional"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende autorizar o governo a tornar a suspensão contínua ou intermitente e a permitir trocas diárias limitadas.",
+    "argumento": "A flexibilidade permitiria ajustar a conversão das notas às condições do mercado cambial durante o prazo excepcional.",
+    "voz": "documento_oficial",
+    "agentes": [
+      {
+        "nome": "Carlos Peixoto",
+        "papel": "",
+        "atribuicao": "proponente da autorização"
+      },
+      {
+        "nome": "João Luiz Alves",
+        "papel": "",
+        "atribuicao": "proponente da formulação aprovada"
+      }
+    ],
+    "citacao_verbatim": "podendo o governo, dentro-dosprazos dcs.e artigo, tornar a suspcrisf*pcontinua ou intermittente, assim comopermittir a troca dc quantias diária^mente prefixadas;",
+    "observacao": "A citação pertence ao projeto que seria formulado conforme a votação da comissão."
+  },
+  {
+    "janela_id": "per089842_1914_05642:p002:c12218-20882",
+    "debate": "Vinculação do ouro ao resgate das notas",
+    "objeto_politica": ["lastro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Determina que o ouro da Caixa permaneça depositado exclusivamente para converter as notas por ela emitidas.",
+    "argumento": "O projeto mantém garantias e penalidades legais para impedir que o ouro seja desviado de sua finalidade de resgate.",
+    "voz": "documento_oficial",
+    "agentes": [],
+    "vocabulario_epoca": ["troca de notas", "ouro existente na Caixa"],
+    "citacao_verbatim": "O ouro existentena Caixa dc -Conversão continuaria' ali-depositado' pam o fim,' exclusivo ' daconversão de notas por cila eiuitti.das;.'-mantidas, para qualquer* desvio, as iga-'rànti.s e penalidades Cslatuidas : pelalei ln. 1.575, de. .6 .dc dezembro .\".det,90?.",
+    "observacao": "A numeração e a data da lei estão parcialmente corrompidas pelo OCR."
+  }
+]

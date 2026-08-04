@@ -1,0 +1,101 @@
+[
+  {
+    "janela_id": "per178691_1906_08026:p001:c19016-28127",
+    "debate": "conter ou permitir a alta cambial",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "A alta do câmbio deve prosseguir como resultado da valorização monetária, em vez de ser contida pela Caixa de Conversão.",
+    "argumento": "A alta cambial é apresentada como resultado benéfico dos sacrifícios fiscais e da política de resgate e valorização, enquanto a estabilização proposta interromperia essa recuperação.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "Congresso",
+        "papel": "poder legislativo",
+        "atribuicao": "responsável pela mudança de política"
+      },
+      {
+        "nome": "David Campista",
+        "papel": "deputado e autor do projecto",
+        "atribuicao": "proponente da Caixa de Conversão criticada"
+      }
+    ],
+    "vocabulario_epoca": [
+      "alta do cambio",
+      "valorização",
+      "taxa fixa"
+    ],
+    "citacao_verbatim": "muda subitamente do rumo o de-clara ao povo espantado que e in-dispensável coíilblr a alta do cam-blo, aquella altn salvadora para con-seguir a qual tantos sacrlíicH»; ex-Iglu !",
+    "observacao": "A janela começa no meio do texto e não permite determinar com segurança se a voz principal é editorial ou assinada."
+  },
+  {
+    "janela_id": "per178691_1906_08026:p001:c19016-28127",
+    "debate": "lastro e conversibilidade da Caixa",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "A Caixa proposta é rejeitada por não converter o papel-moeda estatal nem possuir lastro próprio.",
+    "argumento": "O texto contrapõe a Caixa ao programa gradual de resgate, valorização e garantia em ouro, cujo resultado esperado seria retirar a moeda do curso forçado e torná-la conversível à vista.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "David Campista",
+        "papel": "autor do projecto",
+        "atribuicao": "autor do plano criticado"
+      }
+    ],
+    "vocabulario_epoca": [
+      "lastro",
+      "papel-moeda",
+      "curso íorçcdo",
+      "notas especiaes"
+    ],
+    "citacao_verbatim": "uma ealxa do conversãoquo não converta o papel-moeda doEstado, não dispõe de lastro seu oespora a incursão do ouro espon-tanoo, emitto bilhetes a uma taxa\"predeterminada\";",
+    "observacao": "A crítica ao lastro e à conversibilidade aparece junto de outras objeções ao desenho da Caixa."
+  },
+  {
+    "janela_id": "per178691_1906_08026:p001:c19016-28127",
+    "debate": "credibilidade da reversão legislativa",
+    "objeto_politica": [
+      "competencia_institucional"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "competencia_institucional",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "A mudança de orientação do Congresso retira credibilidade à sua condução da política monetária.",
+    "argumento": "Segundo o texto, ao abandonar a política seguida por oito anos, o Congresso teria de admitir incompetência anterior ou temeridade presente.",
+    "voz": "indeterminado",
+    "agentes": [
+      {
+        "nome": "Congresso",
+        "papel": "poder legislativo",
+        "atribuicao": "alvo da crítica"
+      }
+    ],
+    "vocabulario_epoca": [
+      "poder legislativo"
+    ],
+    "citacao_verbatim": "Ouo Congresso affirma a sua iheompo-tencla pretérita, ou confessa n suatemeridade aetual. O quo parece delodo Inudmissivel 6 quo so reputecom direito a ser acreditado, querconfosse, quer affirme.",
+    "observacao": "A direção não é redutível às alternativas substantivas de valorização ou estabilização, pois o objeto imediato é a credibilidade institucional."
+  }
+]

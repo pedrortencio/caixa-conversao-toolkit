@@ -17,7 +17,15 @@ param(
     [string]$Workdir,
     [switch]$PacoteIsolado,
     [string]$SufixoParecer = '',
-    [string]$CodexCommand = 'codex.cmd'
+    [string]$CodexCommand = 'codex.cmd',
+    # 'parecer' grava em colaboracao/pareceres/*.md, o fluxo de auditoria.
+    # 'anotacao' grava em colaboracao/anotacoes/*.json, o fluxo de catalogacao
+    # (autorizado em 2026-07-28, docs/decisoes.md). Separar os dois evita que
+    # um lote de anotacao vire dezenas de arquivos no diretorio de pareceres,
+    # que existe para provar que uma OPINIAO foi emitida antes de conhecer a
+    # outra. O registro de proveniencia em colaboracao/registros/ e o mesmo
+    # nos dois modos, porque a proveniencia e a mesma exigencia.
+    [ValidateSet('parecer', 'anotacao')][string]$Modo = 'parecer'
 )
 
 $ErrorActionPreference = 'Stop'
@@ -141,11 +149,18 @@ Assert-CmdSafe $CodexResolved 'CodexCommand resolvido'
 $registrosDir = Join-Path $ColabDir 'registros'
 $rawDir = Join-Path $ColabDir 'logs\raw'
 $parecerDir = Join-Path $ColabDir 'pareceres'
+$anotacaoDir = Join-Path $ColabDir 'anotacoes'
 foreach ($dir in @($registrosDir, $rawDir, $parecerDir)) {
     if (-not (Test-Path -LiteralPath $dir -PathType Container)) {
         throw "Diretorio de colaboracao ausente: $dir"
     }
 }
+if ($Modo -eq 'anotacao' -and -not (Test-Path -LiteralPath $anotacaoDir -PathType Container)) {
+    throw "Diretorio de colaboracao ausente: $anotacaoDir"
+}
+$saidaDir = if ($Modo -eq 'anotacao') { $anotacaoDir } else { $parecerDir }
+$saidaSubdir = if ($Modo -eq 'anotacao') { 'anotacoes' } else { 'pareceres' }
+$saidaExt = if ($Modo -eq 'anotacao') { 'json' } else { 'md' }
 
 $inicio = Get-Date
 $hashManifesto = Get-HashArquivo $Manifesto
@@ -204,8 +219,8 @@ while ($true) {
 }
 
 # Parecer com run_id no nome: cada execução preserva o seu, nunca sobrescreve o anterior.
-$parecerFinal = Join-Path $parecerDir "$TaskId$SufixoParecer--$runId.md"
-$parecerRelativo = "colaboracao/pareceres/$TaskId$SufixoParecer--$runId.md"
+$parecerFinal = Join-Path $saidaDir "$TaskId$SufixoParecer--$runId.$saidaExt"
+$parecerRelativo = "colaboracao/$saidaSubdir/$TaskId$SufixoParecer--$runId.$saidaExt"
 $rawFinal = Join-Path $rawDir "$TaskId--$runId.jsonl"
 $errFinal = Join-Path $rawDir "$TaskId--$runId.err.txt"
 $parecerFalha = Join-Path $rawDir "$TaskId--$runId.parecer-falha.md"
@@ -270,6 +285,7 @@ try {
         task_id              = $TaskId
         run_id               = $runId
         attempt              = $attempt
+        modo                 = $Modo
         status               = $(if ($sucesso) { 'sucesso' } else { 'falha' })
         modelo_solicitado    = $Modelo
         modelo_reportado     = $modeloReportado

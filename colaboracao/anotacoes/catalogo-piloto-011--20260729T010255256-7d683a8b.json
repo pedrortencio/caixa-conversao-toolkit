@@ -1,0 +1,74 @@
+[
+  {
+    "janela_id": "per089842_1914_05644:p002:c11130-17130",
+    "debate": "Elevação do meio circulante",
+    "objeto_politica": ["limite_emissao"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende a elevação do meio circulante.",
+    "argumento": "A medida integra uma representação formulada após exame da situação do comércio, da lavoura e da indústria.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "Associação Commercial do Rio de Janeiro",
+        "papel": "",
+        "atribuicao": "autora da representação"
+      }
+    ],
+    "vocabulario_epoca": ["meio circulante"],
+    "citacao_verbatim": "A elevação do meio circulante.",
+    "observacao": "O trecho não informa como a elevação seria executada nem sua relação com uma taxa cambial específica."
+  },
+  {
+    "janela_id": "per089842_1914_05644:p002:c11130-17130",
+    "debate": "Suspensão do troco das notas",
+    "objeto_politica": ["conversibilidade"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "conversibilidade",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende a suspensão do troco das notas da Caixa de Conversão.",
+    "argumento": "A medida integra uma representação formulada após exame da situação do comércio, da lavoura e da indústria.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "Associação Commercial do Rio de Janeiro",
+        "papel": "",
+        "atribuicao": "autora da representação"
+      }
+    ],
+    "vocabulario_epoca": ["troco das notas"],
+    "citacao_verbatim": "Suspensão do troco das* notas daCaixa de Conversão.",
+    "observacao": "O asterisco e a ausência de espaço em \"daCaixa\" são erros ou marcas do OCR preservados na citação."
+  },
+  {
+    "janela_id": "per089842_1914_05644:p002:c11130-17130",
+    "debate": "Suspensão de emissões da dívida pública",
+    "objeto_politica": ["outro"],
+    "direcao_por_objeto": [
+      {
+        "objeto": "outro",
+        "direcao": "nao_classificavel"
+      }
+    ],
+    "posicao_defendida": "Defende a suspensão das autorizações para emissões de títulos da dívida pública.",
+    "argumento": "A medida integra uma representação formulada após exame da situação do comércio, da lavoura e da indústria.",
+    "voz": "reproduzido_terceiro",
+    "agentes": [
+      {
+        "nome": "Associação Commercial do Rio de Janeiro",
+        "papel": "",
+        "atribuicao": "autora da representação"
+      }
+    ],
+    "vocabulario_epoca": ["Divida Pitliliia"],
+    "citacao_verbatim": "Suspensão das autorizações paraemissões dc tif.ilos da Divida Pitliliia,",
+    "observacao": "O texto não permite determinar se a dívida mencionada é externa; por isso, o objeto foi classificado como \"outro\"."
+  }
+]

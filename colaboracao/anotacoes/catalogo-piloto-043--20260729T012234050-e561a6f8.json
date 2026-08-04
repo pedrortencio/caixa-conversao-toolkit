@@ -1,0 +1,152 @@
+[
+  {
+    "janela_id": "per178691_1910_09573:p011:c15871-24655",
+    "debate": "Resgate gradual do papel e reserva metálica",
+    "objeto_politica": [
+      "lastro",
+      "conversibilidade"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "lastro",
+        "direcao": "valorizacao"
+      },
+      {
+        "objeto": "conversibilidade",
+        "direcao": "valorizacao"
+      }
+    ],
+    "posicao_defendida": "Defende retirar o papel resgatado e acumular reservas para o futuro troco das notas.",
+    "argumento": "O curso forçado é apresentado como período transitório, cuja superação exige redução do papel-moeda e formação gradual de reserva metálica.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "curso forçado",
+      "reserva metálica",
+      "papel resgatado",
+      "troco das notas"
+    ],
+    "citacao_verbatim": "Incinerar o papel resgatado,e simultaneamente aecummular re-serva metálica, devem ser a preoc-eupnção essencial, substancial no tra-tamento.",
+    "observacao": "O OCR parece corromper algumas palavras próximas, mas o sentido geral da defesa do resgate e da acumulação de reservas é explícito."
+  },
+  {
+    "janela_id": "per178691_1910_09573:p011:c15871-24655",
+    "debate": "Estabilidade cambial na taxa da Caixa",
+    "objeto_politica": [
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Defende câmbio fixo e estável, sem queda abaixo da taxa adotada pela Caixa.",
+    "argumento": "A estabilidade da medida de valor é apresentada como proteção ao comércio, à lavoura, à indústria e aos demais agentes econômicos.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Sr. Campista",
+        "papel": "ministro",
+        "atribuicao": "Empregou meios para que o câmbio não baixasse de 15 durante sua administração."
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "cambio estável",
+      "cambio fixo",
+      "taxa da caixa"
+    ],
+    "citacao_verbatim": "O que queremos é cam-blo \"estável\", cambio \"fixo\", tantoejuanto possivel.",
+    "observacao": "A unidade da taxa 15 não é explicitada nessa passagem."
+  },
+  {
+    "janela_id": "per178691_1910_09573:p011:c15871-24655",
+    "debate": "Limite da Caixa e instabilidade cambial",
+    "objeto_politica": [
+      "limite_emissao",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Sustenta que a interrupção do funcionamento pleno da Caixa, após o limite dos depósitos, eliminou a tranquilidade monetária.",
+    "argumento": "O funcionamento da Caixa teria permitido transações sem surpresas quanto ao valor da moeda, enquanto a incidência do limite teria restaurado a incerteza.",
+    "voz": "discurso_parlamentar",
+    "agentes": [],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "depositos",
+      "limita imposto",
+      "valor da moeda"
+    ],
+    "citacao_verbatim": "Bastou inter-romper a Caixa a plenitude de suas |funeções, por terem os seus depo-sitos attingido o limita imposto aoseu funecionamento, e immedlata-mente desappareccu a tranqüilidadecom relação ao valor da moeda.",
+    "observacao": "O trecho critica o efeito do limite, mas está cortado antes de formular explicitamente uma proposta de alteração."
+  },
+  {
+    "janela_id": "per178691_1910_09573:p011:c15871-24655",
+    "debate": "Emissões conversíveis e depreciação do papel",
+    "objeto_politica": [
+      "limite_emissao",
+      "taxa"
+    ],
+    "direcao_por_objeto": [
+      {
+        "objeto": "limite_emissao",
+        "direcao": "estabilidade_taxa_nova"
+      },
+      {
+        "objeto": "taxa",
+        "direcao": "estabilidade_taxa_nova"
+      }
+    ],
+    "posicao_defendida": "Rejeita a previsão de que as emissões da Caixa depreciariam o papel-moeda e derrubariam o câmbio.",
+    "argumento": "O desempenho observado é mobilizado contra os adversários de 1906: o papel inconvertível teria mantido o valor de 15 dinheiros por mil-réis, em vez de sofrer a queda prevista.",
+    "voz": "discurso_parlamentar",
+    "agentes": [
+      {
+        "nome": "Sr. Lourenço de Albuquerque",
+        "papel": "",
+        "atribuicao": "Previu que o aumento do meio circulante precipitaria o câmbio abaixo da taxa fixada."
+      },
+      {
+        "nome": "Goschen",
+        "papel": "pseudonymo",
+        "atribuicao": "Previu redução do poder aquisitivo do papel existente."
+      },
+      {
+        "nome": "Dr. Serzedeilto Correia",
+        "papel": "autor do voto vencido ao parecer da commissão de finanças da Câmara",
+        "atribuicao": "Previu que as emissões da Caixa depreciariam o meio circulante existente."
+      },
+      {
+        "nome": "Dr. Affonso Costa",
+        "papel": "collega por Pernambuco",
+        "atribuicao": "Previu especulação, oscilações cambiais e desvalorização das notas inconvertíveis."
+      },
+      {
+        "nome": "Sr. Barbosa Limia",
+        "papel": "collega",
+        "atribuicao": "Manifestou temor de desvalorização do papel-moeda."
+      }
+    ],
+    "marcos": [],
+    "vocabulario_epoca": [
+      "empapelamento",
+      "papel inconvertivel",
+      "baixa cambial",
+      "meio circulante",
+      "15 dinheiros por mil réis"
+    ],
+    "citacao_verbatim": "Entretanto, o que se está vendo éo contrario disso. O papel inconver-tivel (para nós) mantém seu valorde 15 dinheiros por mil réis;",
+    "observacao": "Os nomes Serzedeilto Correia e Barbosa Limia foram mantidos conforme o OCR. A passagem reúne diversas previsões adversárias como manifestações do mesmo debate sobre os efeitos das emissões."
+  }
+]
