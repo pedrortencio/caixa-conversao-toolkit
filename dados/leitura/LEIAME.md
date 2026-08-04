@@ -8,6 +8,24 @@ Amostra de leitura gerada por `pipeline/triagem/amostra_leitura.py`, semente 202
 185 peças com identificação pré-preenchida e 15 campos a preencher na leitura.
 Protocolo em `docs/plano-leitura-fases.md`.
 
+**Preencher com `uv run python -m pipeline.leitura.ficha`**, não na planilha. O
+arquivo é UTF-8 **sem BOM**, e o Excel em português abre como ANSI, transforma
+`CONVERSÃO` em `CONVERSÃO` e grava o lixo de volta. A ferramenta abre o PDF na
+página certa, valida o vocabulário de `voz`, `objeto_politica` e
+`direcao_por_objeto`, cobra a correspondência um-para-um entre objeto e direção,
+cronometra, confere a citação contra o OCR sem bloquear, e grava a cada peça
+terminada por troca atômica.
+
+```bash
+uv run python -m pipeline.leitura.ficha              # camada 0, o que falta
+uv run python -m pipeline.leitura.ficha --fase F1    # uma fase
+uv run python -m pipeline.leitura.ficha --resumo     # estado e taxa medida
+```
+
+A ferramenta nunca sugere valor nem preenche campo sozinha. Um default oferecido
+pela máquina contaminaria a codificação humana que existe justamente para não vir
+de modelo.
+
 Ler na página, não na coluna `texto` de `amostra_para_rotular.csv`. Essa coluna é
 reconstrução do `claude-sonnet-5` e falha de três maneiras medidas em 2026-07-28:
 interpola resumo próprio entre colchetes (3,8% das peças, 13,3% dos editoriais), sangra
