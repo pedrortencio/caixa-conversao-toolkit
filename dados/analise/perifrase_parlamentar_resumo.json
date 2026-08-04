@@ -1,0 +1,20 @@
+{
+  "protocolo": "perifrase-parlamentar",
+  "versao": "0.1.0",
+  "paginas_varridas": 1152,
+  "ocorrencias": 14,
+  "paginas_com_perifrase": 14,
+  "por_familia": {
+    "agente_financeiro": 1,
+    "banqueiro_estrangeiro": 2,
+    "capital_externo": 2,
+    "casa_bancaria": 1,
+    "credor": 6,
+    "praca": 1,
+    "realeza_bancaria": 1
+  },
+  "por_volume": {
+    "1": 8,
+    "2": 6
+  }
+}
