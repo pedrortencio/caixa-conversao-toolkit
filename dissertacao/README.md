@@ -7,15 +7,13 @@ Este diretório contém um texto de trabalho da dissertação sobre o debate jor
 No PowerShell, a partir deste diretório:
 
 ```powershell
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
-bibtex main
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
+.\verificar.ps1
 ```
+
+O verificador confere os arquivos obrigatórios, as regras editoriais e as referências antes de produzir `main.pdf`. A compilação manual continua possível com a sequência `pdflatex`, `bibtex`, `pdflatex`, `pdflatex`.
 
 O arquivo `configuracao/notas-rascunho.tex` controla a exibição dos marcadores editoriais. Use `\rascunhotrue` durante a redação e substitua por `\rascunhofalse` para gerar uma versão limpa.
 
 ## Organização
 
-Os capítulos estão em `capitulos/`, o inventário do corpus em `apendices/`, a bibliografia em `bibliografia/` e as notas de trabalho em `notas/`. Os marcadores `\lacuna`, `\fonteaconferir`, `\interpretacaoprovisoria` e `\revisarbibliografia` identificam, respectivamente, lacunas documentais, referências primárias a conferir, interpretações ainda provisórias e pontos de revisão bibliográfica.
-
+Os capítulos estão em `capitulos/`, a construção do corpus em `apendices/`, a bibliografia em `bibliografia/` e as notas de trabalho em `notas/`. Os marcadores `\lacuna`, `\fonteaconferir`, `\interpretacaoprovisoria` e `\revisarbibliografia` identificam, respectivamente, lacunas documentais, referências primárias a conferir, interpretações ainda provisórias e pontos de revisão bibliográfica.

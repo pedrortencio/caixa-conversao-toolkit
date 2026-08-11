@@ -13,3 +13,19 @@
 \onehalfspacing
 \setlength{\parindent}{1.25cm}
 \setlength{\parskip}{0pt}
+
+% Evita que a primeira entrada do sumário herde o estado de pós-título
+% do capítulo sem numeração em algumas versões recentes do LaTeX.
+\makeatletter
+\renewcommand\tableofcontents{%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \chapter*{\contentsname
+    \@mkboth{\MakeUppercase\contentsname}{\MakeUppercase\contentsname}}%
+  \par\@starttoc{toc}%
+  \if@restonecol\twocolumn\fi
+}
+\makeatother
