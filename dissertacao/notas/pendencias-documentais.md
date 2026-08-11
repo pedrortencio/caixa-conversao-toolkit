@@ -22,4 +22,3 @@ As pendências abaixo concentram verificações que não devem ficar dispersas a
 | baixa | extinção formal da Caixa | localizar eventual norma de extinção e distingui-la da suspensão operacional de 1914 | capítulo 5 e conclusão |
 | baixa | bibliografia de Torelli e Ribeiro | normalizar metadados incompletos e decidir qual obra de Ribeiro será efetivamente citada | bibliografia |
 | baixa | imprensa fora do corpus | definir estatuto de `O Estado de S. Paulo` e do diário do `Jornal do Commercio` quando reaproveitados da monografia | método e notas de rodapé |
-
