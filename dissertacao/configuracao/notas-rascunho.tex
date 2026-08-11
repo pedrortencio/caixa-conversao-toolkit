@@ -1,0 +1,17 @@
+% Troque para \rascunhofalse ao gerar uma versão sem marcadores editoriais.
+\newif\ifrascunho
+\rascunhotrue
+
+\newcommand{\marcadorrascunho}[3]{%
+  \ifrascunho
+    \par\begingroup\small\color{#1}%
+    \noindent\textbf{#2:} #3\par
+    \endgroup
+  \fi
+}
+
+\newcommand{\lacuna}[1]{\marcadorrascunho{red!65!black}{Lacuna}{#1}}
+\newcommand{\fonteaconferir}[1]{\marcadorrascunho{orange!80!black}{Fonte a conferir}{#1}}
+\newcommand{\interpretacaoprovisoria}[1]{\marcadorrascunho{blue!65!black}{Interpretação provisória}{#1}}
+\newcommand{\revisarbibliografia}[1]{\marcadorrascunho{violet!70!black}{Revisar bibliografia}{#1}}
+
