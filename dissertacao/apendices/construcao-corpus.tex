@@ -1,0 +1,107 @@
+\chapter{Construção e inventário do corpus}
+
+\section{Universo documental}
+
+O corpus principal reúne os objetos digitais identificados na Hemeroteca Digital Brasileira para quatro periódicos entre 1906 e 1914. A tabela registra os identificadores bibliográficos, o número de objetos materializados e a cobertura anual observada na auditoria da base.
+
+\begin{table}[ht]
+\centering
+\caption{Periódicos do corpus principal}
+\begin{tabular}{lrrl}
+\toprule
+Periódico & Identificador BN & Objetos & Cobertura \\
+\midrule
+\textit{O Paiz} & 178691 & 3.087 & 1906--1914 \\
+\textit{Correio da Manhã} & 089842 & 3.240 & 1906--1914 \\
+\textit{Correio Paulistano} & 090972 & 3.128 & 1906--1914 \\
+\textit{Gazeta de Notícias} & 103730 & 2.505 & sem 1913 \\
+\midrule
+Total & & 11.960 & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Objeto digital é a unidade disponibilizada e recuperada no acervo, não sinônimo necessário de edição diária historicamente publicada. Suplementos, variantes, lacunas de numeração e diferenças de catalogação podem afetar a correspondência. A completude declarada refere-se ao universo digital identificável segundo o manifesto do projeto, não a toda circulação histórica.
+
+O censo materializado soma 117.705 páginas. A extração encontrou texto em 117.703 e registrou duas como vazias. A camada textual contém aproximadamente 4,32 bilhões de caracteres. Cada objeto conserva ponteiro, proveniência e hash, permitindo ligar registros leves do repositório ao acervo pesado mantido fora do Git.
+
+\section{Da página à menção}
+
+A triagem nominal utilizou regras tolerantes a variações do OCR para localizar a expressão Caixa de Conversão. Foram identificadas 8.331 páginas com pelo menos uma ocorrência. A regra não utiliza modelo de linguagem e não atribui relevância ou posição. Sua finalidade é reduzir o espaço de busca sem apagar o acesso à página integral.
+
+Menção nominal não equivale a debate. A Caixa aparece repetidamente em tabelas de depósitos, cotações, balanços, boletins bancários, listas e notícias de rotina. Em outra contagem do manifesto de triagem, 6.354 registros de edição possuíam ao menos uma ocorrência entre 11.959 registros processados. A diferença de uma unidade em relação aos 11.960 objetos do censo decorre das unidades registradas nas camadas e deverá permanecer documentada, não corrigida por arredondamento.
+
+Mais da metade das edições com menção possuía uma única ocorrência, e 82 por cento possuíam no máximo duas. Apenas 264 acumulavam cinco ou mais. A intensidade ajuda a localizar edições densas, mas não resolve a distinção entre repetição operacional e argumento.
+
+\section{Amostra de peças e registro documental}
+
+Uma camada tratada preserva 468 peças com estado \textit{keep}, estratificadas por jornal e ano. Destas, 453 receberam classificação humana quanto ao registro documental. O resultado atual é apresentado apenas para descrever a base de leitura.
+
+\begin{table}[ht]
+\centering
+\caption{Registro documental das peças classificadas}
+\begin{tabular}{lr}
+\toprule
+Registro & Peças \\
+\midrule
+Substantivo & 239 \\
+Operacional ou rotina & 169 \\
+Incidental & 45 \\
+Sem preenchimento & 15 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Entre as 239 peças substantivas, a identificação provisória de forma registra 117 notícias, 64 artigos, 28 editoriais, 20 telegramas e dez itens classificados como tabela, lista, anúncio ou outro. A coluna de forma foi produzida com auxílio de modelo e seu erro ainda não foi medido. A contagem não deve ser interpretada como censo definitivo dos gêneros, especialmente porque há indício de editoriais ocultos entre artigos e notícias.
+
+\begin{table}[ht]
+\centering
+\caption{Peças substantivas por fase e periódico}
+\begin{tabular}{lrrrrr}
+\toprule
+Fase & \textit{Correio da Manhã} & \textit{Correio Paulistano} & \textit{Gazeta} & \textit{O Paiz} & Total \\
+\midrule
+1906 & 17 & 15 & 12 & 10 & 54 \\
+1907--1909 & 10 & 6 & 26 & 13 & 55 \\
+1910--1913 & 23 & 15 & 20 & 36 & 94 \\
+1914 & 6 & 7 & 14 & 9 & 36 \\
+\midrule
+Total & 56 & 43 & 72 & 68 & 239 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+A amostra apoia exploração, formação do inventário e desenvolvimento da leitura. Não é, sozinha, base para inferir a distribuição de posições no universo. Em particular, a seleção substantiva, o erro de recuperação e a identificação de gêneros ainda precisam ser avaliados.
+
+\section{Voz, forma e evidência}
+
+Cada peça pode conter voz editorial do jornal, artigo assinado, fala reproduzida, telegrama de agência, carta, seção livre, anúncio ou registro indeterminado. A descrição atual preserva forma, seção, título, atores e texto, mas a atribuição de voz exige leitura. Para cada afirmação usada nos capítulos, a ficha final deverá registrar citação âncora, página, coluna e dificuldade de interpretação.
+
+A separação é especialmente importante em três situações. Discursos parlamentares circulam entre jornais e podem ser duplicados. Seções livres podem ser espaços pagos. Cartas e telegramas podem ser publicados com ou sem comentário. A mesma sequência textual em dois periódicos documenta circulação, não duas posições editoriais independentes.
+
+\section{Qualidade da camada textual}
+
+O OCR varia por célula de jornal e ano. Uma medida de ruído aplicada a \textit{O Paiz} encontrou 4,84 por cento em 1909 e 14,33 por cento em 1906. Essa diferença de quase três vezes limita comparações lexicais diretas. Ortografia histórica e composição em colunas acrescentam dificuldades que uma taxa geral não resume.
+
+A camada de peças reconstruídas também apresenta erros próprios. Foram observadas interpolações de modelo, sangria entre colunas e substituição de artigo. Por isso, o texto extraído serve para busca e orientação, mas nenhuma citação âncora é considerada conferida antes da leitura da imagem. O OCR determinístico do objeto e o fac-símile permanecem as referências de auditoria.
+
+\section{Fontes acessórias}
+
+As fontes abaixo não integram o denominador do corpus jornalístico principal:
+
+\begin{itemize}
+  \item dois volumes de \textit{Documentos Parlamentares} sobre a Caixa, um de 698 páginas relativo a 1906 e outro de 454 páginas relativo a 1910, totalizando 1.152 páginas;
+  \item relatório de Custódio Coelho, diretor da carteira de câmbio, dividido em oito segmentos de leitura;
+  \item nove edições anuais do \textit{Retrospecto Commercial} do \textit{Jornal do Commercio}, com 136 páginas de seções monetárias extraídas e aproximadamente 748 mil caracteres;
+  \item leis, decretos, mensagens presidenciais, relatórios ministeriais, cartas e telegramas localizados nos jornais ou em repositórios oficiais;
+  \item periódicos externos ao censo atual, inclusive \textit{O Estado de S. Paulo} e o diário do \textit{Jornal do Commercio}, quando usados com proveniência e estatuto explícitos.
+\end{itemize}
+
+A camada corrigida dos documentos parlamentares pode ser lida, mas a rotina integral que a produziu ainda precisa de replay reproduzível antes que contagens derivadas sejam publicadas. O \textit{Retrospecto} funciona como balanço anual e fonte de correspondência financeira, não como substituto serial do diário.
+
+\section{Rastreabilidade e atualização}
+
+Os números deste apêndice descrevem o estado auditado entre julho e agosto de 2026. Antes da entrega, o apêndice deverá ser regenerado a partir dos artefatos canônicos da base. Mudanças em contagens, recuperação ou gênero deverão ser registradas com data, versão e razão.
+
+\fonteaconferir{Atualizar todas as contagens diretamente de `MAPA-DO-PROJETO.md`, dos manifestos de triagem e das fichas de leitura após a última rodada de processamento.}
+
