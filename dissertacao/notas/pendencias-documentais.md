@@ -7,6 +7,7 @@ As pendências abaixo concentram verificações que não devem ficar dispersas a
 | alta | citações e paráfrases de jornais | conferir cada passagem primária na imagem da Hemeroteca, registrar página, coluna, título, seção, autoria e voz | capítulos 3 a 5 |
 | alta | início efetivo da Caixa | localizar regulamento, data de abertura ao público, primeira emissão e primeiro balanço mensal | capítulos 3 e 4 |
 | alta | Caixa em 1913 | reconstruir cronologia mensal de depósitos, retiradas, emissão e taxa de mercado | capítulo 5 |
+| resolvida em 2026-08-11 | data do editorial da `Gazeta de Notícias` sobre as retiradas | é 17 de janeiro de 1912, objeto `per103730_1912_00017` p. 1, e não 15 de janeiro; fixada por masthead dos vizinhos e pelo calendário; o objeto de 15 traz só boletim de rotina | capítulos 4 e 5 |
 | alta | ausência da `Gazeta de Notícias` em 1913 | documentar a lacuna do acervo e impedir qualquer imputação de posição | método, capítulo 5 e apêndice |
 | alta | suspensão de 1914 | conferir Decreto n. 2.862, prorrogações, feriados, moratória e sequência diária das medidas | capítulo 5 |
 | alta | posições editoriais de 1914 | ampliar a leitura de artigos, editoriais e notícias comentadas nos quatro jornais | capítulo 5 e conclusão |
