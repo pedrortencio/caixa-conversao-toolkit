@@ -407,3 +407,181 @@ fase, DSL e bootstrap pertence ao segundo objeto e não é pré-requisito do pri
 anotador é conferida mecanicamente contra o texto de origem: normalizada, tem de ser
 substring literal da janela. Linha que não casa é rejeitada, nunca corrigida. A taxa de
 rejeição por anotador é a métrica de qualidade do lote, medida e publicada.
+
+
+---
+
+## 2026-08-03 - Camada de leitura por imagem para citacao; o campo de contexto sai do schema
+
+Motivo: Pedro apontou que o `relatorio-credor-externo-no-debate.md` tinha citacoes
+inutilizaveis, com `quando recebeu 111:1 lelcgraiimia de aos-sos banqueiros em Londres`
+como exemplo. A conferencia de substring aprovava todas, porque ela pergunta se a linha
+existe no OCR, e nao se o OCR corresponde a pagina.
+
+**O que foi criado.** `pipeline/analise/confere_citacao_imagem.py` le cada passagem no
+JPEG embutido no PDF da BN, com Claude Sonnet 5 (visao), e guarda a leitura ao lado do
+OCR. O OCR nunca e sobrescrito: `citacao_verbatim` continua sendo o texto literal da
+camada embutida, que e o que a conferencia de substring precisa, e as leituras de imagem
+vivem em arquivo separado. Custo real da rodada: US$ 1,27, dentro do orcamento de visao.
+
+**Duas passagens, nao uma.** Cada pagina e lida duas vezes em chamadas separadas, e a
+passagem so entra como `estavel` se as duas coincidirem letra a letra. Resultado sobre 36
+citacoes: 23 `estavel`, 11 `instavel`, 2 `divergente_do_ocr`. Isto NAO e validacao: duas
+leituras do mesmo modelo nao sao dois anotadores, e o registro abaixo mostra o erro
+correlacionado acontecendo.
+
+**Achado 1, campo aberto convida invencao.** A primeira versao do prompt pedia, junto da
+transcricao, o "contexto em volta" de cada passagem. As transcricoes sairam ancoradas no
+OCR e os contextos sairam confabulados: paragrafos inteiros, plausiveis, em portugues de
+epoca, ausentes da pagina, um deles uma reconstrucao de pagina inteira com numeros de
+balancete que nao estao no OCR. Campo ancorado num trecho que ja existe nao fez isso. O
+schema perdeu o campo de contexto e a rodada foi descartada e refeita, ao custo de
+US$ 0,43. Regra que fica: em transcricao com proveniencia, todo campo pedido ao modelo
+precisa de uma ancora verificavel; campo livre nao entra.
+
+**Achado 2, o modelo alisa, e alisa duas vezes igual.** Onde o scan esta sujo, a leitura
+devolve frase limpa e mais curta que a impressa, e devolve a mesma nas duas passagens.
+Dois casos medidos: `gn1906-282-rei`, em que o OCR tem `reidos banqueiros londrinos` e as
+duas leituras devolveram `dos banqueiros londrinos`, perdendo justamente o "rei" da
+metafora que motivou a varredura de perifrase; e `op1908-ouro-onde`, em que
+`palaciodourado da avenida` virou "cofre" numa leitura e "palacio" na outra. Por isso a
+saida tem a coluna `omissoes_vs_ocr`, deterministica, que lista as palavras do OCR
+ausentes da leitura. Consequencia para o desenho: **visao serve para desfazer ruido de
+OCR, nao para atestar completude.** Onde o OCR traz palavra que a visao nao traz, o OCR e
+a testemunha melhor ate leitura humana.
+
+**Achado 3, a costura entre leituras e um modo de erro novo, e eu cai nele.** Ao redigir o
+relatorio revisado eu montei um bloco de citacao com palavras da primeira leitura e
+palavras da segunda. Nenhuma das conferencias existentes pegaria isso, porque todas olham
+o manifesto e nenhuma olha o texto que vai para o capitulo.
+`tests/test_citacoes_do_relatorio.py` passa a exigir que cada bloco `>` do relatorio case
+inteiro com o OCR ou com uma das duas leituras.
+
+**Curadoria: cinco citacoes estavam curtas demais.** `gn1910-taxa`, `gn1911-remessa` e
+`op1909-telegrama` paravam antes da designacao do credor e foram estendidas dentro da
+mesma frase impressa; `op1913-funding` e `cm1913-parabens` ganharam citacao irma
+(`op1913-casa-rotschild`, `cm1913-documento`) porque o OCR intercala colunas num caso e ha
+duas falas de permeio no outro. O manifesto foi de 33 para 36 linhas, todas passando na
+conferencia de substring.
+
+**Estatuto.** Recuperacao/transcricao com proveniencia, do objeto 1. Nao seleciona, nao
+descarta e nao estrutura informacao segundo o construto, e por isso nao passa pelo gate de
+mensuracao. Se virar insumo de classificacao, passa. `conferido_na_imagem` segue `nao` nas
+36: nenhuma foi lida por humano.
+
+**Portao de 1906.** O manifesto de excecoes estava com JSON invalido (`aprovado_por: pedro`
+e `aprovado_em: 03/08` sem aspas), o que fazia o portao levantar `JSONDecodeError` e o hook
+barrar toda etapa paga. Pedro autorizou correcao de sintaxe apenas, sem tocar em conteudo
+nem em classe. Com as aspas, o portao APROVA: 426 itens de gabarito, 422 reproduzidos, 4
+excecoes ratificadas, 0 inexplicados. Pendencia registrada: o campo `nota` do manifesto
+ainda diz "PROPOSTA, NAO RATIFICADA" e ainda pede a confirmacao da CLASSE das duas
+excecoes do Correio da Manha, que pode ser `manifestacao_coalescida` em vez de
+`excecao_terminal`. Ratificar o aprovador nao respondeu essa pergunta.
+
+---
+
+## 2026-08-11: conferencia na imagem 1.1.0, a guarda de adicao
+
+**Contexto.** Piloto pago de conferencia na imagem de duas pecas-ancora da
+dissertacao, autorizado por Pedro, portao de 1906 APROVADO antes da chamada.
+Custo real US$ 0,08 em 4 chamadas, US$ 0,04 por pagina nas duas leituras.
+
+**O defeito encontrado.** Em `cm1906-aventura`, o OCR termina em `novas e
+desconhe-`, na quebra da coluna, e as DUAS leituras devolveram `novas e
+desconhecidas aventuras.`. Os vinte caracteres finais nao existem em lugar
+nenhum da pagina. O veredito saiu `estavel`, porque as duas leituras concordam,
+e elas concordam porque o erro e correlacionado: e a completacao obvia da frase.
+`omissoes_vs_ocr` media o que a leitura tirava; nada media o que ela punha.
+
+**A mudanca, aprovada por Pedro em 11/08.** Protocolo
+`conferencia-citacao-imagem/claude-sonnet-5` vai de 1.0.0 para 1.1.0. Muda
+apenas a reconciliacao, nao a leitura: o prompt, o modelo e a chamada de API sao
+os mesmos, e passes gravados sob 1.0.0 continuam entrada valida sem releitura.
+
+- coluna nova `adicoes_vs_ocr`, simetrica de `omissoes_vs_ocr`, implementada
+  como `omissoes` com os papeis trocados;
+- veredito novo `estendida`, verificado depois da ancoragem no OCR e ANTES da
+  comparacao entre as duas leituras, pela mesma razao que a ancoragem vem
+  primeiro: concordancia entre leituras nao absolve o par;
+- veredito proprio em vez de reaproveitar `instavel`, porque discordar entre si
+  e alongar a passagem sao falhas diferentes e fundi-las esconderia a nova.
+
+**Calibragem.** `LIMIAR_ADICAO = 8` letras de crescimento LIQUIDO num unico
+trecho. Liquido, e nao bruto, porque `Kepit-Mica` virando `Republica` e uma
+substituicao de nove por nove letras e e o trabalho esperado da camada; so o
+saldo denuncia extensao. Varredura sobre as 46 citacoes ja conferidas: o
+resultado e identico para qualquer limiar entre 3 e 8, porque a distribuicao e
+bimodal, e o limiar desligado reproduz exatamente 23/11/2, a distribuicao
+publicada em 03/08.
+
+**Consequencia para o relatorio do credor externo.** Sob 1.1.0 as 36 citacoes
+ficam 21 `estavel`, 9 `instavel`, 4 `estendida`, 2 `divergente_do_ocr`. As
+quatro `estendida` estao TODAS citadas em bloco no corpo de
+`docs/relatorio-credor-externo-no-debate.md` e duas delas estavam sob rotulo
+`estavel`, isto e, o relatorio usou a leitura de imagem:
+
+- `op1912-quebra`, era `estavel`, a leitura acrescentou `Que diriam de tal
+  acto?`, 18 letras, uma pergunta retorica que muda o tom da passagem;
+- `op1910-concordata`, era `estavel`, acrescentou `tantos abalos,`, 12 letras;
+- `cm1914-posse`, era `instavel`, acrescentou o nome proprio `Barroso` antes de
+  `telegrapharam`, o que altera quem envia o telegrama;
+- `cm1913-murtinho`, era `instavel`, sinalizada pela segunda leitura.
+
+O relatorio precisa ser corrigido antes de qualquer uso dessas quatro. Nenhuma
+delas foi lida por humano: `conferido_na_imagem` segue `nao` nas 36.
+
+**Defeito de invocacao, nao consertado.** `--saida` troca so o arquivo
+reconciliado; os nomes dos passes sao fixos, entao rodar um manifesto novo
+apensa linhas aos passes de outro relatorio. Aconteceu no piloto, foi detectado
+e revertido, e a restauracao foi conferida linha a linha. Contorno: dar a
+`--saida` um diretorio proprio. Conserto de fundo pendente, e mudanca de
+instrumento.
+
+**Estatuto.** Recuperacao/transcricao com proveniencia, do objeto 1. Continua
+sem passar pelo gate de mensuracao. Duas leituras do mesmo modelo seguem nao
+sendo dois anotadores, e nenhum veredito daqui dispensa a leitura da pagina.
+
+---
+
+## 2026-08-11, mesmo dia: corrigindo a entrada acima sobre as `estendida`
+
+A entrada anterior deste dia diz que as quatro `estendida` do manifesto do credor
+externo contem texto acrescentado pelo modelo, e trata `Que diriam de tal acto?`
+como pergunta retorica que muda o tom da passagem. **Isso esta errado em tres dos
+quatro casos, e a correcao importa porque as acoes sao opostas.**
+
+Checagem determinista, custo zero de API: se a adicao esta impressa, alguma
+versao dela existe no OCR da PAGINA INTEIRA, ainda que corrompida. Rodada sobre
+as cinco `estendida` conhecidas, comparando pelo maior bloco contiguo:
+
+| citacao | adicao | casa na pagina | leitura |
+|---|---|---|---|
+| `op1912-quebra` | `Que diriam de tal acto?` | 1,00 | ancora curta |
+| `cm1914-posse` | `Barroso` | 1,00 | ancora curta |
+| `op1910-concordata` | `tantos abalos,` | 0,92 | ancora curta |
+| `cm1913-murtinho` | quatro palavras, L2 | 0,56 | inconclusivo |
+| `cm1906-aventura` | `desconhecidas aventuras.` | ausente | invencao |
+
+**O que isso significa.** A leitura de imagem estava certa nos tres primeiros. O
+que estava curto era o `citacao_verbatim` curado, e a leitura simplesmente leu
+alem da ancora. Nao ha invencao ali, e as citacoes do corpo do
+`relatorio-credor-externo-no-debate.md` estao substantivamente corretas. O unico
+caso de texto inexistente na pagina e `cm1906-aventura`, do piloto, que nao esta
+em nenhum relatorio.
+
+**Consequencia para o veredito.** `estendida` continua util, porque separa um
+grupo que precisa de olho. Mas o nome sugere invencao e a causa dominante e
+outra, ancora curta. Uma passagem `estendida` nao deve ser descartada: deve ir
+para a checagem de pagina, e de la para extensao da ancora ou para descarte.
+
+**Implementado.** `casamento_na_pagina` em `pipeline/analise/confere_citacao_imagem.py`,
+com quatro testes. Compara pelo maior bloco contiguo, e nao pela razao global,
+porque a agulha tem dezenas de caracteres e a pagina tem dezenas de milhares.
+`autojunk` desligado, senao o difflib trata vogal como lixo em sequencia longa.
+Nao decide sozinho: casamento alto em trecho curto e comum pode ser
+coincidencia, e a ultima palavra segue sendo a da imagem.
+
+**Pendente, e e curadoria de manifesto publicado, decisao de Pedro.** Estender
+`citacao_verbatim` das tres para cobrir a passagem impressa, como ja foi feito
+em 03/08 com cinco citacoes curtas demais. Feito isso, a conferencia de
+substring volta a passar sobre o span maior e o veredito sai de `estendida`.

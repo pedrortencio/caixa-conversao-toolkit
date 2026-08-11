@@ -5,6 +5,14 @@ rápida, sua ou de uma sessão com contexto zero. Todos os números aqui foram
 medidos nessas datas, não lembrados. A auditoria que produziu os números de
 agosto está em `docs/auditoria-da-base-2026-08-03.md`.
 
+> **Defasado desde 2026-08-11.** Este arquivo não conhece
+> `pipeline/triagem/objeto_por_data.py`, o protocolo 1.1.0 de
+> `pipeline/analise/confere_citacao_imagem.py` nem os manifestos de âncora da
+> dissertação. O estado corrente e a lista de pendências estão em
+> `docs/retomada-2026-08-11.md`; o parecer do rascunho zero está em
+> `docs/parecer-rascunho-zero-2026-08-11.md`. Regenerar este mapa antes de
+> confiar nele para contagem.
+
 Se você só tem dois minutos: o repositório é o **instrumento** (código,
 manifestos, decisões); `C:\dados-caixa` é o **acervo** (123 GB de PDF e texto);
 o banco costura os dois por ponteiro e hash. O gargalo do projeto não é técnico,
