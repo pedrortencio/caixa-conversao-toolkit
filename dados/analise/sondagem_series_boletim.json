@@ -1,0 +1,499 @@
+{
+  "paginas_lidas": 8331,
+  "paginas_com_padrao": {
+    "cotacao_praticas": 528,
+    "renda_alfandega": 358,
+    "boletim_movimento": 319,
+    "balanco_deposito": 208,
+    "entrada_saida_moedas": 86,
+    "tabela_cambio": 82,
+    "premio_ouro": 81,
+    "titulos_londres_preco": 27,
+    "equivalente_libras": 8
+  },
+  "edicoes_distintas_com_boletim": {
+    "089842|1906": 1,
+    "089842|1907": 37,
+    "089842|1908": 2,
+    "089842|1909": 57,
+    "089842|1911": 13,
+    "089842|1913": 3,
+    "090972|1906": 1,
+    "090972|1907": 6,
+    "090972|1908": 7,
+    "090972|1909": 4,
+    "090972|1910": 2,
+    "090972|1912": 1,
+    "090972|1913": 3,
+    "090972|1914": 1,
+    "103730|1906": 2,
+    "103730|1907": 69,
+    "103730|1908": 24,
+    "103730|1909": 39,
+    "103730|1910": 12,
+    "103730|1911": 7,
+    "178691|1907": 1,
+    "178691|1908": 3,
+    "178691|1909": 11,
+    "178691|1910": 11,
+    "178691|1914": 2
+  },
+  "por_ano_jornal": {
+    "renda_alfandega": {
+      "089842|1906": 2,
+      "089842|1907": 1,
+      "089842|1909": 25,
+      "089842|1910": 18,
+      "089842|1911": 4,
+      "089842|1912": 46,
+      "089842|1913": 130,
+      "089842|1914": 1,
+      "090972|1908": 1,
+      "090972|1909": 6,
+      "090972|1910": 14,
+      "090972|1911": 57,
+      "090972|1912": 37,
+      "090972|1913": 1,
+      "090972|1914": 4,
+      "103730|1906": 2,
+      "103730|1910": 4,
+      "103730|1911": 1,
+      "103730|1914": 1,
+      "178691|1908": 1,
+      "178691|1910": 1,
+      "178691|1914": 1
+    },
+    "cotacao_praticas": {
+      "089842|1906": 33,
+      "089842|1907": 65,
+      "089842|1908": 11,
+      "089842|1909": 54,
+      "089842|1910": 20,
+      "089842|1913": 1,
+      "090972|1906": 15,
+      "090972|1907": 14,
+      "090972|1908": 6,
+      "090972|1909": 13,
+      "090972|1910": 42,
+      "090972|1911": 39,
+      "090972|1912": 25,
+      "090972|1913": 15,
+      "090972|1914": 1,
+      "103730|1906": 24,
+      "103730|1907": 16,
+      "103730|1908": 3,
+      "103730|1909": 3,
+      "103730|1910": 72,
+      "103730|1911": 37,
+      "103730|1912": 12,
+      "103730|1914": 3,
+      "178691|1907": 1,
+      "178691|1911": 1,
+      "178691|1912": 1,
+      "178691|1914": 1
+    },
+    "boletim_movimento": {
+      "089842|1906": 1,
+      "089842|1907": 37,
+      "089842|1908": 2,
+      "089842|1909": 57,
+      "089842|1911": 13,
+      "089842|1913": 3,
+      "090972|1906": 1,
+      "090972|1907": 6,
+      "090972|1908": 7,
+      "090972|1909": 4,
+      "090972|1910": 2,
+      "090972|1912": 1,
+      "090972|1913": 3,
+      "090972|1914": 1,
+      "103730|1906": 2,
+      "103730|1907": 69,
+      "103730|1908": 24,
+      "103730|1909": 39,
+      "103730|1910": 12,
+      "103730|1911": 7,
+      "178691|1907": 1,
+      "178691|1908": 3,
+      "178691|1909": 11,
+      "178691|1910": 11,
+      "178691|1914": 2
+    },
+    "premio_ouro": {
+      "089842|1906": 2,
+      "089842|1909": 4,
+      "089842|1910": 7,
+      "089842|1911": 14,
+      "089842|1912": 1,
+      "089842|1913": 2,
+      "090972|1906": 3,
+      "090972|1910": 6,
+      "090972|1914": 2,
+      "103730|1906": 23,
+      "103730|1909": 2,
+      "103730|1910": 1,
+      "178691|1906": 2,
+      "178691|1907": 2,
+      "178691|1908": 4,
+      "178691|1910": 3,
+      "178691|1913": 1,
+      "178691|1914": 2
+    },
+    "tabela_cambio": {
+      "089842|1906": 1,
+      "089842|1907": 1,
+      "089842|1910": 6,
+      "089842|1911": 9,
+      "089842|1912": 2,
+      "089842|1913": 5,
+      "089842|1914": 6,
+      "090972|1907": 1,
+      "090972|1908": 3,
+      "090972|1909": 2,
+      "090972|1910": 1,
+      "090972|1914": 6,
+      "103730|1906": 2,
+      "103730|1908": 1,
+      "103730|1910": 5,
+      "103730|1911": 2,
+      "103730|1914": 4,
+      "178691|1907": 20,
+      "178691|1908": 4,
+      "178691|1913": 1
+    },
+    "balanco_deposito": {
+      "089842|1907": 6,
+      "089842|1909": 12,
+      "089842|1910": 2,
+      "089842|1911": 3,
+      "089842|1912": 5,
+      "089842|1913": 2,
+      "089842|1914": 2,
+      "090972|1907": 6,
+      "090972|1908": 8,
+      "090972|1909": 25,
+      "090972|1912": 1,
+      "090972|1914": 1,
+      "103730|1907": 10,
+      "103730|1908": 6,
+      "103730|1909": 8,
+      "103730|1910": 5,
+      "103730|1911": 2,
+      "103730|1912": 2,
+      "103730|1914": 4,
+      "178691|1907": 3,
+      "178691|1908": 18,
+      "178691|1909": 25,
+      "178691|1910": 16,
+      "178691|1911": 20,
+      "178691|1912": 10,
+      "178691|1913": 3,
+      "178691|1914": 3
+    },
+    "entrada_saida_moedas": {
+      "089842|1909": 21,
+      "089842|1910": 1,
+      "089842|1911": 2,
+      "089842|1912": 4,
+      "089842|1913": 1,
+      "090972|1906": 1,
+      "090972|1909": 2,
+      "090972|1911": 5,
+      "090972|1912": 1,
+      "103730|1907": 1,
+      "103730|1910": 1,
+      "178691|1908": 1,
+      "178691|1911": 7,
+      "178691|1912": 1,
+      "178691|1913": 25,
+      "178691|1914": 12
+    },
+    "equivalente_libras": {
+      "089842|1909": 1,
+      "089842|1910": 1,
+      "089842|1911": 1,
+      "090972|1908": 3,
+      "090972|1913": 2
+    },
+    "titulos_londres_preco": {
+      "090972|1906": 1,
+      "090972|1910": 2,
+      "090972|1911": 10,
+      "090972|1912": 1,
+      "103730|1906": 7,
+      "103730|1907": 6
+    }
+  },
+  "exemplos": {
+    "renda_alfandega": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01716",
+        "pagina": "1",
+        "contexto": "i'j'2\u0000602 hamburgo\u0000\u00007u9\u00007io ltalla\u0000\u00002\u00006(i:i \u0000portugal\u0000\u00002\u0000329\u0000nova york\u0000\u00002\u00003.0%libra esterlina om moeda\u0000\u000014.950uuro nacional cm vales por 1$\u0000i.g78uai.eai-io\u0000\u000010 1/8\u0000ig 5/32caixa matriz\u0000\u0000io l/s\u0000lurj/itirenda da alfandegarenda do dia 23 iem ouro\u0000\u0000c9:0r,iiswiem papel\u0000\u0000i3-i-i57j971213:5.0*980hoje ^\"~~esta de servico, na reparticao central dcpolicia o 2\" delegado auxiliar.por ter de despachar com o presidenteda republica, nao descera dc petropolis oministro da fazenda.missasnczam-sens b_guln.es, por alma de :1). bllzabclli m. perrlor ndo selianenborg, as9 lioras, na ogreja de s. francisco xavlor;u. lconor uolbetli l ucas, as 9 noras, no altarde nossa senhora das doia.-s, na egreja do saofrancisco do paula;hanio (lo"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01880",
+        "pagina": "1",
+        "contexto": "objectos piraos quaes sao concedidos os favores dc isen-cao de direitos sejam ntithenticados na di-rectoria de rendas publicas, rie modo a evi-tar que sejam alterados ou substituidos nasalfandegas.-i renda da alfandega de santos teve nome*, findo o acoescimo de 1.000:00(1$,em cirnal periodo, a renda da alfandegade victoria teve tambem o acerescimo de40:0005000.foi assignado pelo chefe rio estado o de-creto concedendo permissao ao brazilianbank fnr dentscl.land para abrir uma casafilial na bahia. 71 'lima ingleza rirpor tloentes e saos.granado deve ser usadaa' camara dos deputados foram hontemapresentados dois projectos de lei: um pelosr. menezes doria, creando na fiscalizacaoda estrada dc ferro do parana o l"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_04016",
+        "pagina": "1",
+        "contexto": "urgo\u0000i italia\u0000a portugal\u0000!\u0000nova york\u0000\u000f\u0000libra esterlina em moeda\u0000,ouro nacional'cm vales por lf..flaticario\u0000\u000f\u0000,,caixa matriz\u0000 6387*5 15 5/3215 3/16 a vistala 1/166.17so3523.2916.1)601,703is 1/415 7/32renda da alfandegartnia do dia 6:em ouro\u0000 110:lll*3s5kmpapel\u0000, 166:!i;.5i871 277;047i256renda do dia 1 n 6 do corrente,hm egual periodo de 1900\u0000dlttercugn a maior cm 1907\u0000hoje 1.549i237j2l.26i.:301 0:7282;846,315 pagam-se uo thcsouro federal ns seguintes lollias:ilelegados de policia, cominissarios e escrivaesiiiuutepio civil da guerra, montepio do exterior,pensoes, pensoes provisorias, pracas de pret e lirios. egicjn da hsts de servico na reparticao central de policia oi* delegado auxiliar.missasreziuu-sc as seg"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02788",
+        "pagina": "1",
+        "contexto": "ns dc campanha.as forcas formarao sob o commando dogeneral caetano dc faria, commandante da1* brigada estrategica, passando revista astropas o marechal hermes da fonseca, ti-tular da pasta da guerra. renda da alfandegakcnta dodi 3 .\"* \"\"mba prerogativa de escriptora, que umouro\u0000 9j:853jencara os factos segundo o se livre pon- bmpatwi\u0000 i55it3ui*flft de yiita e ss comnienta sem eias, com -*e.-da io a* i3 * cote\". - .*:48:87$859705:03a no despacho dc hoje serao assignados osseguintes decretos da pasta da guerra :transferindo para a 2' classe do exercitoo coronel pedro manoel gomes carneiro ;concedendo a gratificacao addicional de10 |\" sobre seus vencimentos ao lente da es-cola do estado-maior, tenente-coronel an"
+      }
+    ],
+    "cotacao_praticas": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01717",
+        "pagina": "1",
+        "contexto": "nto a manoel go-mes; de 24:2'14$860j para pagamento acarl hoepcke sr. c. e ernest vahl & c,todos era virtude de sentencas judiciacs.\u0005\u0000cambiocurso olllciali'iiac.8\u0000oo n/v a vistasobre londres\u0000\u000010 3'32\u000015 15/10. paris\u0000\u0000i-94\u0000ua\u0000hamburgo\u0000\u0000732\u0000740\u0000italia\u0000\u0000\u0010\u000008\u0000portugal\u0000\u0000\u0010\u0000329. novnyork\u0000\u0000\u0010\u00003.101libra esterlina ern imxda\u0000\u0000h.550ouro iiiifiorial cm vides uor 1$\u00001.081hnncarlo\u0000\u0000us 1/18 ic 1/8caixa matriz\u0000\u000016 l/l 16-1/8rn da aliaatjegailenila do dia 24:em ouro \u0000 i9.5(u,imem papel\u0000\u0000137:503j7w227:ld?|!)44hojb poiutnaprendi/.. naa)xao iksv.iioavef-fi,tne*t fin*tos concorrem para .cceti-tuar a minha convkclo da que se tratadc uma louca, uma desiquillbrada queaindiuao se abysmou, porquo vive ai_l*.r de uma idea para"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01733",
+        "pagina": "1",
+        "contexto": "tropolis o ministro dafazenda.gm seu gabinete estiveram, entretanto,os drs. conselheiro barradas, erico coelhoe wanderlcy dc mendonca.-\u0000cambiocar olflcld .,pnacas\u0000k dtv k vistasobre londros\u0000\u0000ii 47'04\u000015 19/32!\u0000paris\u0000\u0000ms\u000061c!\u0000hamburgo\u0000\u0000760\u0000752 italia\u0000\u00002\u00006*30!\u0000portugal..\u0000\u00002\u0000339 nova york\u0000\u0000.\u0000s.i8ulibra esterlina (im moeda.\u0000\u000011.800ouro nacional em vales por ii\u0000 \u0000l.tfshancarlo\u0000\u000015 11/10\u000015 85/32cuixa matriz\u0000\u000015 tt/16\u000015 s/4. rendi da alfandegallnnda do dia 9:em ouro....\u0000\u00000f>:33gis-15em papel\u0000 \u0000 15l*i(ip09t o padeao legal 248:105(936 eatd de scmco na reparttcio centrat depolicia o 1* /delegado auxiliar.iw'p\u0000rtnrm-l^.' 'com o piesidente da republica despachao ministro 4a'wukfiko-.:*\" *;para assistir a fest"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01734",
+        "pagina": "1",
+        "contexto": ">'8\u000015si/-m parle\u0000\u0000812\u0000...> hamburgo...............\u0000756\u0000162. italia\u0000\u00002\u000055 portugal....'\u0000\u00002\u0000310 nova vorls...;\u0000\u00002\u0000s.uufll.llira esterlina cm moeda\u0000\u0000ls.tiiiouro nacional em vales por 1$\u0000l~.itllaneailo\u0000\u000015 1/2\u000015 2_/a2caixa matriz.\u0000\u000015 1/2\u000015 ll/ittrenda da allandtgatenda do dia 10 em ouro\u0000.,\u0000 ' 9tf2.osf,.;oem papel...\u0000 __a.:l_5.is_m;ti_67s\u0000r-r-^ \u0000v\u0000hoje -p_.gamc.ntos no thesouro .federal:montepio civil da viacao e da marinha.na prefeitura:inspectoria de mattas, jardins, arbori-zacao, caca c pesca.\u0000,esta de servico na reparticao central dcpolicia o 2 a delegado auxiliar.\"tm\u0000missasflezam-so as seguintes, por alma de;u. maria emilia hnd.lgiies, ii_ l> lioras, naetfieju de s. francisco de paulaii). ou"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01754",
+        "pagina": "5",
+        "contexto": "alterados, abrindo osiaques n 15 l/i e 15 o;s? d., contra letras a5 tl/112 o 15 a/s il. sena negocios, tornou-se tlr-ti.) o merendo quo subiu a 15 6'lfi o 15 llf.12 d:bancario, contra o particular a 15 13/3! e 15 7/it.d., mas, rcaiiliiinnrfo-se um pouco fraqueou edeclarou-ue nm baixa. oo facto. cairam as cam-bluea a 15 l/t e 15 5/tc d-, sendo esta para pe-quonos ne-godos, com o pupel indfrocto aisi1/s2 o 15.1/tt d.a' tarde, passaram a correr os limites dc15 1/4 e- 15 ./'.vi il., fracos, contra o particular erepassado de 15 5/lg a 15 3/8 d., mas sem von-tude dc comprar, fechando o mercado, om todocaso, mal collocado.careceu de importancia o movimento do dia,spezar das osi-illncnoft, lendo corrido p"
+      }
+    ],
+    "boletim_movimento": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01777",
+        "pagina": "1",
+        "contexto": "asmosa a repercussao quetem nn vida argentina e nos seus gasto-., oaugmento ou a diminuicao das suas expor-tacoes.' como deixar de verificar si esse ainrmentoou essa diminuicao nao influiram tambemno movimento da caixa de conversao,tipparelho creado cxactnmctttc para cana-lliar ps saldos em ouro que licam uo paizcm consequencia da ditierenca entre aa cx-jjortacbes e as importacoes ?a lei 11. 3.871 entrou cm vigor no fimde 1899.-acabamos do ver que em 1900 o total dasexportacoes foi de 1.s4 milhoes de pesos ou:!0 milhoes do menos do atino inteiro. nesseanno a caixa de conversao recebeu cmtroco de notas calculadas ao cambio fixode 227, a importancia de 18 milhoes de pc--.os *uro, iminediaianieilte retirada.de w00 para 1901 "
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02006",
+        "pagina": "1",
+        "contexto": "lica resolveuque, d'ora em deante, por intermedio dodispeusario mantido pela virtuosa irmapaula, se fizessem os seus obulos as pes-soas que procurarem s. ex. para esse llm.- -*^^^\u0000caixa de conversaoo movimento da caixa dc conversao temaugmen tado consideravelmente, pelo que nemostra bastante satisfeito o dr. david cam-pista, jue, diariamente, a hora cm que scabre esta repartirao, ji ahi esta, assistindo atrocagem do ouro, examinando os livros edando providencias sobre a boa mareba dosnegocios da caixa.s. ex. ao depois dos. 6 horas da tarde 3que sc tem retirado para sua residencia, de-v do aos multiplos altazeres que tom a seucargo.hontem furam recolhidas a caixa libra-2.448 j frs. 500.180; c 110i000 em moedas acouro liacl"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02028",
+        "pagina": "1",
+        "contexto": "ade mac.ioconnuuuicaudo haver concedido o credito de247:993$\"la, van a construccao de umaponte mctallica 'naquella alfandega..o labo ----tmardu., sexta-feira, edicaoa cores, photogravui-as, m i-ois.a caixa de conversao recebeu da casa damoeda 100.000 notas de 10i e 8.000 das de10.0$ que vaoser convenientemente assigna-das e conferidas, afim de entrarem em cir-culacao.\u0000;\u0000pelos asen.es da-l.oterla da capital federal,io 011 b ilo ooituiuc, coldrwlow^ 11. uw*.premiado ante-hontem eom; laiuooltldo.no ministerio do mlonor estivcnimhontem os nadresprofessores. t1o1l.1tro^,1 mafra dc souza o l).-:-!\"\"i'.cliampssoesobrets'suitipt-us referenloa ao mestabeleci mento dc ensino os novos precos quo hoje comecam a vi-gorar nos arm"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02034",
+        "pagina": "1",
+        "contexto": "ir provisoria-mente 110 gabinete do dr. davld cauiplsta.o sr. armando lllocli vae trabalhar 110 rc-latorio do ministro que devera ser apresen-tadona abertura do congresso nacional.caixa de conversaoa caixa de conversao recebeu hontemlb. 2.406 correspondentes a 38:496$00o, ten-do sido retiradas lb. 238-10 equivalentes a3.840$00o. -. ;; . '\"acompanhado pelo dr. moltinlio, officialdo gabinete do prefeito, o general souzaaguiar, em automovel, percorreu varias masalargadas ou melhoradas, paro verificarquaes os predioa que faltam ainda para se-rem demolido e rmotivo da nao-dcmollcao.logo em seguido, o prefeito dirigiu-separa a. rua da aaacmbtaa, a examinar o pre-dio do canto da rua da misericordia, queleve ir abaixo e, dah"
+      }
+    ],
+    "premio_ouro": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01779",
+        "pagina": "1",
+        "contexto": "a ; terceiro, qtte a fi-xacao do cambio so serviu aos ricos, aopasso que nao melhorou do forma algumau sorte dc grande maioria da populacao ; quarto, que nao o de excluir a possibili-dade da volta do agio do ouro; quinto quesi hoje lia na ai-gciitiua-flucttiaci.es. o por-que a nacao paga muito mais pelo peso ourodo que o ouro na realidade vale,e' conveniente que cx.-ii-iiiieiuos um perum esses cinco aspectos aa questao.cube-mc, porom, o dever de abrir aquinm parenthesis. o sr. sixto j. quesada,director do banco popular argentino, dcquem j.x tive repetidas occasioes de citar enome com o respeito que merecem a suacompetencia ca sua lealdade, pensa, a rc-speito da taxa adoptadn para a fixacao docambio, dc "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01947",
+        "pagina": "5",
+        "contexto": " ii 3 i d. e ll 20/32 d., muiuivo,duranto esse anno, a media de 12 d.; em1901, a de 12 7/32 d.; om 1906, a de15 57/01 d, c nos dez mezes decorridosdo 1906, a media de 16 21/01 d.quer isto dizer que o agio do ouro eraem janeiro de 1003, de 129,80, e nos dezmezes dc janeiro a outubro dc 1906 bai-xoti a 05,45, tendo, consequentemente, alibra esterlina, cujo valor era entao de205)26, descido a iis693.islo significa ainda que a nossa cir-oulacao, na vigencia da minha gestao nacarlolra do cambio, ganhou perto dctreze milhoes de poder aoquisitivo.becobl a conla alos banqueiros cmposicao devedora e cotn o descoberto do 2.85.000 o deixo intacto, cm poalcr1i03 agentes, no exterior, o fundo de1.130.000, representa"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02788",
+        "pagina": "1",
+        "contexto": "o retrospecto preve c muitissimo exag-gerado.estes dados autorizam os seguintes alga-rismos que vao expostos pela forma adoptadapelo retrospecto:orcada para 1908\u0000 118.400 :ooo$oooouro \u0000 7i.ooo:ooo$oooagio do ouro\u0000 arrecadado cm i9o8:em papel\u0000ouro \u0000 56.800 :ooo$ooo246.;20o.:ooo$ooo118.707 :ooo.fooo65.575 :ooo$oooagio do ouro\u0000 52.460 :ooo$ooo236.742 :ooo$ooodifferenca para menos.... 9.458:ooo?oooe o retrospecto calcula a differenca paramenos cm 40.869:20oifooo 1! note-se que os algarismos que acima ali-nhamos sao susceptiveis dc augmehto; porquenao esta completa a apuracao no thesouroe referem-sc somente aos impostos de im-portacao, como fez o retrospecto do jornal.si tivessemos di estudar a apuracao gera"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02858",
+        "pagina": "1",
+        "contexto": "primeiro calculoapresentado no dia 10, no qual, para umdespacho dc mercadorias de valor de 5 li-bras, ao cambio de \\2 d., com taxa ap-plicavcl dc 60 o|o, sc da para papel 60$,para o ouro 30? e para o agio do ouro,24$, do que resultaria a somma total de114$, e -nao 84$, que e, alias, exacta.temos, portanto, que os proteccionistaslamentaram a importacao de mercadoriassem similares 110 paiz, que tivessem12 i|2 o|o de beneficio, eniquanto qui! asque concorrem com os produetos da nossaindustria gozassem dc um favor dc 20 o|o.sem que tenhamos procuracao do minis-tro da fazenda, vamos, todavia, esdare-cer os amigos intransigentes da proteccaoaduaneira que permitte os largos dividen-dos e as boas fortunas facei"
+      }
+    ],
+    "tabela_cambio": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01912",
+        "pagina": "1",
+        "contexto": "manoel dos rei.estiveram no gabinatc do ministro dafaienda o dr, attiiio' de abreu, pedrolago, alfredo rocha, francisco bernar-dino, pruco paraiso c duarque de macedo,-4 1cambiocari.emctklmaca *\u0000md/vsobre londres....,., ..17,;;,,,\u000019 9/16!\u0000parla\u0000i,..\u0000ll!\u0000hamburgo\u0000\u0000>i6\u0000italia...\"...\u0000porttigil.... nova vorlr..............\u0000_libra esterlina em moeda......ouro nacional em vales por llbancario\u0000 is 7/16calx matriz\u0000,1.. is 7,16 \"v\".l,f.. a vista15 276161u767* tst351- 3.211li 3001.71915 h/kl13 u/16resia\u0000eo aui4.|.renda do dia 51em ouro\u0000 \u000f\u0000h0s'itcwem papel\u0000\u0000lihuw.renda do dia i a 5 do corrente..em egual periodo de 1003\u0000dltterenea a maior em 19w\u0000 st5:c3jj101i.56i.0iiiiw51.179.930*587401:08.1878hoje)-'\"4.%'v^. despacha com o "
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_04067",
+        "pagina": "1",
+        "contexto": "a, isto e.-9:000*5000 !ll\u0000':;;:\u0000'onde e que os proprietarios dc ^<r>-<.pi jiviram automoveis de praca a 9 coutos '**-._ praca areis |!1nove contos de reis sao approxlmada^'mente 15 mil francos, pelo cambio official,'e 15 mil francos e o preco de ansalimousiiie-ou de um coupe particular, de magnifica)marca.o automovel de praca e no maximo de10 h p c o automovel dc 10 ii p, da rue- iilior marca, para o servico nas cidades, quoc a rijham/r, por' ser em absoluto silcn-icioso, custa no maximo sete mil c qniuhcn-.tos francos, \u0000 . .ora, sele mil e quinhentos francos saojapctias 4:500$- isto e, metade do qite diz oorcamento dos.proprietarlos.\u0000'a verba, portanto, amoiiizacao, admittiu-do-sc que' um automovel de p"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03244",
+        "pagina": "3",
+        "contexto": "onvorsivcl, a taxa de 16 d.,justificada pelos factos c pelas\" condicoeseconomicas rcaes do paiz, tanto mais quan-lo; sendo esta taxa a maxima que se lem co-lado, com grandes rcstriccoos, para loirasa 90 d|v., c .sendo torto que o maximo nummercado, quo vae ficar sujeito a flutuacoes,nao podc considerar-se como a taxa real, si-nao ua oceasiao ein que por cila se liquidamas transaccoes do cambio; sem investigar-mos, ainda, si essa pretensa . valorizacao eou nao consequencia clo ser ja um traco dacirculacao fiduciaria total do brasil conver-sive! em ouro, ao cambio da emissao: demosde barato que efiectivamcnte .1 libra t^ster-lina, ouro, vale lealmente 15?, c nao 16?, empapel inconvcrsivcl.si o brasi"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03326",
+        "pagina": "6",
+        "contexto": "* ****** ** te**!*!*, ** tti.*eri s* 4* &*. * emtrat, m!**r*. *jt*. tcmmmstiam ttt tmrmcsi*. -eaeiomi ***** w*ift*i eifue*yr e*jt!-**t. o 'me*tt * ra-taiv. a*: iw*** t*s*f3 ethftmt* prtrqtttiesa*. a 90 d|v.16 ij|i6 a ,501 a69j a564 a2$940.  300 a303 a5-8 a530 aii|i6 aa$88o a3-5085 a 17 d.563695568a$950303304536i6 3i46:s8do3$iosrecebedoria de minasarrecadacao do dia as\u0000 17:4805209de i* a a$-   \u00003i8:636$023em egual periodo do anno passado 4541464$!23marcado du cafe'as vendas de hontem, para a exportacao, oram avaliadas em 15.000 sacas-o mercado abriu hontem com os vendedo-res bastante firmes que apresentaram quantida-de desenvolvida de cafe a venda, e. nos ne-gocios realizados, vigorou a base d"
+      }
+    ],
+    "balanco_deposito": [
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02031",
+        "pagina": "5",
+        "contexto": "iiil o aiitbcnoe'v-ives,caixa de conversaoa caixa de convir-iso recebeu liontem1b. 137 c<nespondcnt-m a 2:190j000 cm no-ta conversiveis, tcipto .sido retirada lb.fiequivalente a ofiftooo. conforme o balanco semanal, procedidolionlem, lem a caixa cm cofre a soturna dc62.43j:sj3m73.' dr. alvaro alvim avisa ,103 bcu3 lien-tes o 00 publico cm geral que, ao contrariodo quo so tom propalado, ns precos dotratamento nu seu giihluelo sio os mesmosmodicos precos du todos 09 gabinetes con-generos om iodas as parto* do mundo.avisa tambom que iuitioa (ove nom temsubstituiu ou ajudante para auxlllal-o nostrabalhos da suu clinica.f1jsta da candelariacom (i 111 ilor pompa n extraordinariaconoorrencli, ,lo lieis, realizo"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02052",
+        "pagina": "5",
+        "contexto": "niouo,tendo sido retiradas lbs. 10.79.3, fs. 30 o210s00o cm niocrius dc oiiro lucionacs.equi-valentes a l73:loo50op.\u0000.a caina tem cm deposito a elevada impor-tanciadc 69.745:7i1$062, conforme aceusa obalanco semanal procedido hontem.; a lliesournria do thesouro rcitralouliontom 10 apolices do emprcsiitrio du1897, im imporiancia tu itjtijoogix.,^y ciixade .amorti'/.n:i*in(lnvnr.'i rosii-tuir iio\"'dr. .lerimiynio de kreit.is utlitn.i-.rans:as apolices de .sua propriodade p:ehaviam sido lopnsil.uliis, para g.-iranli-do cx-col)ra!arriii llcceliedoria do itio dejanoiro, josi; hrilo. 1: oliveira, eu iuscontas ja roram inpiul.iitas p julgadaspelo tribunal de contas. a\\tmim'?j'h a alma portuguezagonferenoin cio o"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02281",
+        "pagina": "1",
+        "contexto": "beu c cs1 1/2, iloilars 910e 20$ em moediia do ouro tiuclouaes, cortespoudeutesa lo.ionf >:a. leiulo si.lo retiradas l.w) e itos emmoedas de uuru iiiioiou les, equivalentes a 133:0(0*000.scgiiittly o balancete semanal procedido iiuu.c.ue.visi. ni nos colres da caixa a imporcaociii de.\u000098.4-i7.953\"$uloou 6.1^l.t4r-z-(j.curso ofilclalpracassobre '.omites\u0000,.. paris \u0000!|,inu>iirgu\u0000, ilalia\u0000-* rottugal\u0000s nova york. \u0000i.itua esterlina em moeda\u0000outo uaciocal cru vales poi lf...bancado\u0000cabia unuk\u0000>>uoiicla cta alfaailosc*rtula du dia ll; ,km ouro\u0000  *- sl?is47lim papel\u0000 25s:t>w93 4tl:4j3i5j,0) camlilo90 d/v\u0000a visr.,is 3/10\u000015 3/61ti>')\u0000biov.i\u0000' 7s(,2\u000013')2\u00003t52\u00003 3ui2\u0000l&.oob2\u00001.79.1is 5/32 15 7/3i15 5,'jd. li 3/"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03008",
+        "pagina": "5",
+        "contexto": "ivorsilo .- a caixa de.conversao recebeu 6.sst-10, uras 20v4:810) eih'moedas ile ouro nacional, correspondentesk luiatilu i lendo sidorctltndas i 2,,-mi cnulawlcutes;e:35ii7s(ho0o. ,,, ,,\u0000...\u0000' , :,0 balanco semanal proccdialo hontem necusa era(lolre a importancia ,1e aa.sesilvuicjr. '_ . . \";.-_ ,\"' *'... oanatilo' 'cnrao oltlclol\u0000. - -.. .;'i''sft'';. wica9\u000090 o/t -a vistbobref.ondres........,.,,\u0000\u0000ii 5/31\u000015 i,'64\". paris\u0000 ............\u0000630\u0000635' hamburgo\u0000\u0000111\u0000.. ms italia....!\u0000\u00002\u0000e<3 portugal...\u0000\u00002\u00003s4 hora vorli....:...\u0000..,,\u00002\u00003.31ubra esterlina em moeda .,....,'\u00002\u0000lt.093ouro nacional em vales por 1j. >\u0000>-\u00004.800bancario\u0000\u000015 1/8\u000015 3/16cllxamalrls............\u0000,,.'111/1\u000013 5/33renda da alxandosa' renda "
+      }
+    ],
+    "entrada_saida_moedas": [
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02846",
+        "pagina": "1",
+        "contexto": "nto,homero baptista e diogo fortuna; dr. pedroteixeira soares, dr. honorio cunha, senadorjoaquim malta e drs. joao ribeiro e carlosamerico dos santos.o movimento da caixa de conversao foi oseguinte:' entraram 542 libras, 4 :ofiu$, ouronacional e 500 marcos, no valor dc i6:~7*$s5s,as retiradas foram de: 1.020-0 libras e 250francos, correspondentes a i6:4_6$.86.foram trocadas notas dilaceradas no valorde -oot.doo.estiveram no palacio do governo, em visitaao presidente da republica, os senadores jorgede moraes e urbano santoi; deputados costamarques, arnolpho azevedo, domingos gui-maraes, bernardo horta, monteiro de souzae joaquim cruz; desembargador souza cam-pos, dr. monteiro lopes, dr. eduardo socra-tes, padre"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02847",
+        "pagina": "3",
+        "contexto": "aulo,. 14,3; santos, 22,0; posadas, 20,0;corricntes, 21,0; cordoba, 14,0: rosario, 12,0;montevideo, 14,3, e buenos aires, 15,0.hontemcaixa de conversaoo movimento da caixa de conversao foi.oseguinte: entraram 65 libras, equivalentes a\u0014\u00001040$, e sairam 2.236 112 libras, correspon-dentea a -35 :78.)$ooo.estiveram no palacio do governo, em visitaao presidente da republica: deputados chris-tino cruz, passos de miranda, hermenegildode moraes e celso bayma; dr. honorio dacunha, dr. carlos americo, capitao crisun-lho de miranda junior, dr. carlos sampaio,dr. domingos silva cunha, xbomaz salgado,dr. j. americo dc carvalho, dr. antonio piresde albuquerque, antonio da costa lago edr. piquei carneiro.o novo director ger"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02872",
+        "pagina": "1",
+        "contexto": "io, 2,0;montevidco, 8,0, e lluenos aires, 6,0. hontemcalxn lo conversaoo movimento da caixa dc conversao foi oseguinte: entraram 36-10-0 libras, 5.150 fran;cos e 3411 liras, equivalentes a 4:><\"5$3-4>saindo 13.219-10-0 libras, 4.090 francos c 75dollars, correspondentes a 2i4:i.6o$i9i.com o prcsidcnle da republica esteve cmcoiiicrcncia o-juinistro da industria e via-cao.\u0000*** \u0000estiveram no gabinete do minislro da farendai os deputados josei'\u0000\u0000 ' \"ivi\u0000,.\u0000\u0000ignacio, manga-bci'ra,'c,;.ii*fio earvalhal, julio ile mollo, cor-rea da coln, monteiro lopes, sampaio mar-iiius. pedro pernambuco c uracebo cardoso;dr. samuel das neves; dr. jo.lo ribeiro, dire-ctor-presidente do llanco ilo urasil; dr. >.a-vier da silveir"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02873",
+        "pagina": "1",
+        "contexto": "ia francesa. o governo de francaacceitou o donativo de cinco milhoes, feitopor camegie e destinado a recompensa dosactos de heroismo.coisa de conversaoo movimento da caixa de conversao foi oseguinte: entraram 4.246 libras, equivalentesa 67:936$, saindo 12.517 libras, correspondeu-tes a aoo :aa4$ooo.pagam-se, 110 thesouro, as folhas de todoo pessoal das obras publicas.cario olllcmtttcttsobre londres\u0000.,, paris\u0000i* hamburgo\u0000a italia \u0000> portugal\u0000a nova vom...\u0000l.lbra esterliun em moeda\u0000ouro nacional em'vales por 11....baucurio\u0000\u000f\u0000*caiu nutri*.,\u0000... cambio90 d/v a vista11 s/38 li 1/6*633no is 1/1815 1/16 6377866373313s304iemsn1s800.16 1/815 3/32renda da alfandegarenda do dta 271em ouro\u0000 83:s79m3bmpapel\u0000 13:1:116197"
+      }
+    ],
+    "equivalente_libras": [
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02914",
+        "pagina": "1",
+        "contexto": " notas dilaceradas no valorde 40o$ooo.estiveram no. gabinete do ministro da fa-*.* 7 '/:\u0000' \u0011\u0000-'-..:'-';-..' o valor total da nossa importacao, desdejaneiro a maio ultuno, subiu a 225.4511219$,papel, equivalente a 14.102.494 libras. a im-portacao e ainda inferior a que foi notada nosannos de 1902 e 1908, nos mesmos inezes, sen-do de 26.101 contos a dilferenca cm relacaoa 1907, e de 27.972 contos, em relacao a 190s.a exportacao subiu a 345-5(8 contos papel,correspondentes a 21.614.769 libras esterlinas.houve uma differenca a mais de 77.965 con-tos, comparativamente com a exportacao dosprimeiros mezes do anno ffndo.entre a '.mportacao total e a exportacaohouve uin saldo provavel de 120.064 contospapel, correspondente a 7-51"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03410",
+        "pagina": "2",
+        "contexto": "brasileiro comecou precisamente o seugrande desenvolvimento, exerceram uma a partir do coriieco dc maio ae 1910, omaximitin da emissao das notas convcrsi-veis em ouro (320.000i coutos ou 20.000.000de libras esterlinas 1. tendo sido attingido. acaixa deixou de funecionar e o cambio.que se manteve cm 15 d. 12 durante o mezde marco c durante ns primeiros dias deabril, subiu bruscamente acima de io d.em meados de maio: elle attingiu mesmoji taxa do 16 d. i-|4 a 12 dc outubro ultimo.* o sr. leopoldo de bulhoes, ministro dasfinancas dos estados unidos do brasil, le-ria podido, desde o mez de marco de 1910.propor a elevacao do limite de emissao fi-xado pela lei de 6 de dezembro de 1906. efazer decidir pelo congresso "
+      },
+      {
+        "bib": "089842",
+        "ano": "1911",
+        "objeto": "per089842_1911_03677",
+        "pagina": "1",
+        "contexto": "cciiiniu 11 icado ao congresso estadual que,por intermedio -do conde de g.i-ling, contra-tara o listado com o cridil dcpaitcinev.tal,sbcictlaili! anonyma eom sede cm paris, ..ariupre-tinio de 500.000 libras esterlinas 0:1de ij.500.oco francos, ao typo de ho e a ju?ros de 5 \"j\", pagaveis seiiicstralincntc em ]a-neir.i e junho de cada anno; que tlc tal cm-prestiiuo so uma parle havia sido realizada,110 valor de i 230,000, as quaes deviam serpagas em quatro prestacoes de l 40.000, aprimeira em [5 de dezembro de 1006. a se-guiula em 15 de fevereiro, a terceira em 13de abril c a quarta cm 15 de junho de 190;;que, finalmente, em 22 e 27 de setembro deiccx) havia o governo gyrado dois saques,um de i oo.coo, oulro de "
+      },
+      {
+        "bib": "090972",
+        "ano": "1908",
+        "objeto": "per090972_1908_15966",
+        "pagina": "1",
+        "contexto": "ra haver aquella.importancia.enfermoesta enfermo, recolhido & sua- resi-dencia o dr. lindolpho camaral inspe-ctor da alfandega desta capital.caixa de conversaoentraram hoje na caixa de conyor-sao 805 libras esterlinas 1.705 dollars,e 40s000 em ouro nacional, equivalentes-a 18:8078905.\u0000 ...as retiradas foram de 1.817 hbi!;5 dollars, correspondentes a 29 :0s8s4/a.-exposicao nacionalo hospicio nacional do alienadosconcorrera a grande exposicao a reato-zar-se proximamonte nesta capital com.varios-c interessantes trabalhos de en-fermos recolhidos aquelle estabeleci-mento. \u0000. .alistamento eleitoral - uma decisao.\\\\i junta - protesto do dr. nicanondo nascimento.\\ commissao de alistamento eleito-ral para estabelecer ordem"
+      }
+    ],
+    "titulos_londres_preco": [
+      {
+        "bib": "090972",
+        "ano": "1906",
+        "objeto": "per090972_1906_15538",
+        "pagina": "1",
+        "contexto": " affonso penna.aproveitando o ensejo que se nosolferece para registar o auspicioso(acto, damos em seguido as cota-coes quo tem chegado pelo tele-grapho desde o dia 18 do corron-te:dia 13 de novembro :apolices ouro-1889-4 o/o 83 1/4!\u00001895-5 0/o 98 l/a\u000f\u00001903-5 0/0 94 1/9o funding\u00006 0/0 102 1/2ooato de minas -o o/o 95 8/4dia 14 di nooembro :apolices ouro-1889-4 o/o 88 8/4\u000f\u00001895-5 o/o 90!\u00001903-6 0/0 04 3/4funding\u00006 0/0 102 8/4ooste de minas -5 0/o 95 1/4 collogio de nossa sonhora do cor-mo.antes s. exa. reoebou os cum-primentos da camara municipal,incorporada, da coinmlesfioa doclub allianca, dos empregados nocommeroio o da sociedade opora-ria, bem como das aucloridadespoliciaee. a ostacoo estava repletanao so do gente de qua"
+      },
+      {
+        "bib": "090972",
+        "ano": "1910",
+        "objeto": "per090972_1910_16943",
+        "pagina": "1",
+        "contexto": "is foli-zes e communicativos. as cotacoes das titulos brasiloiros nabolsa do londres ornm as seguintes, sub-bado ultimo:1880, do 5 % \u0000\u000089 3/4\u000091 3/41895, do 5 % \u0000\u0000100 1/2\u0000100 1/21903, do 5 % \u0000\u0000104\u0000104funding, 5 % \u0000\u0000103 1/2\u0000104 1/2convorsao, 1910, 4 %...\u000088\u000088 \"\",r.ei*in anemia, fraquezamolestia das senhoras. l. queirozcomp. atraves das revistas no syndroma psychico a timidez, osperturbacoes do rytbmo sao registadas naimmensa maioria dos casos, o cansam aosdoont.s un.a angustia horrivol, tornando-os verdadeiros parias socines, mudando doandar ao verem uma senhora, 011 sendoatao dos do um tromor involuntario aoentrarem numa sala choia de pessoas.educado o 1 thino, volta 11 snude psyohi*ca. a hevisla medica da norma"
+      },
+      {
+        "bib": "090972",
+        "ano": "1910",
+        "objeto": "per090972_1910_16957",
+        "pagina": "1",
+        "contexto": "nistro promcttciii providencinr arespeito junto ao ministro das obrus pu-bliolis o uos referidos arrendatarios. 1s39, de 5 % \u0000\u000089 1/2\u000039 1/21895, do 5 % \u0000\u0000100 3/4\u0000100 3/41903, do 5 % \u0000\u0000103 1/2\u0000103 1/2funding, 6 \b\u0000\u0000103\u0000103conversao, 1910, 4 \b\u000087 3/4\u000087 1/2 h*, rendimentos fiscaesa alfandega do santos rondou desdo 1do outubro, 2.331:961$055; desclo 1 do ja-neiro, 41.290 *280$984.a hebedoria do rondas arrecadou desa*1 do outubro, 929:291$422 om papel ei.,'150.227,0 francos; desdo 1 de julho14,201:1555005 em papel o 22.411.219,93francos. vinho do porto baruelmais pifo. e' o--&. despachara hojo com o presidonto do es-tudo, do meio diu, as duas da tardo, o dr.carlos guimaraes, secretario do interior.das duna as quatro, o dr. albuquerquolins rec"
+      },
+      {
+        "bib": "090972",
+        "ano": "1911",
+        "objeto": "per090972_1911_17075",
+        "pagina": "1",
+        "contexto": "10, tiveram nlta dc3/4.as cotacoes goraes dos titulos brnsiloi-ros na bolsa do londros foram as soguin-tes, snbbndo ultimo:1889, do 4 \b\u0000 90 3/4 90 1/41895, do 5 \b\u0000 100 1/2 100 3/41903. do 5 \b\u0000 103\u0000103funding, 5 \b\u0000 104 1/2 101conversao, 1910, de 4 % 87\u000080 3/4rendimentos fiscaesa alfnndogn do snntos rendou, dosde 1de feveroiro, 2.123:385$110; desdo 1 djanoiro, 7.978; 259$685.a recobodoria do rendas arrecadou,desdo 1 do fevoroiro, 408:079$150 om pa-pol o 1.020.211,08 francos; desde 1 do ju-lho, 11.587:103$088 em papol o \u000036.931.613,07 francos.caixa de conversaocom nfl rotirndns da somana, o-depositoom ouro na caixa do convorsno bnixou f289:093$730, equivalentes a librns\u000019.279.929-16-11.so om um dia, sabbado, forn"
+      }
+    ]
+  }
+}

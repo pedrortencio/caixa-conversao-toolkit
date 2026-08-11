@@ -1,0 +1,1391 @@
+{
+  "paginas_lidas": 8331,
+  "paginas_com_padrao": {
+    "apolices_titulos": 2324,
+    "juro_taxa_emprestimo": 395,
+    "moratoria_default": 228,
+    "funding": 204,
+    "divida_externa": 193,
+    "fundo_de_garantia": 153,
+    "rothschild": 153,
+    "emprestimo_externo": 122,
+    "agentes_financeiros": 110,
+    "confianca_capital_estrangeiro": 103,
+    "financial_news": 92,
+    "cotacao_londres": 70,
+    "credito_externo": 61,
+    "outras_casas": 56,
+    "padrao_ouro": 49,
+    "the_economist": 33,
+    "fuga_de_ouro": 31,
+    "servico_da_divida": 25,
+    "leroy_beaulieu": 10,
+    "ansiaux": 6,
+    "rafalovich": 1
+  },
+  "paginas_com_padrao_perto_da_caixa_300c": {
+    "apolices_titulos": 72,
+    "fundo_de_garantia": 26,
+    "moratoria_default": 19,
+    "divida_externa": 11,
+    "agentes_financeiros": 10,
+    "rothschild": 9,
+    "funding": 9,
+    "padrao_ouro": 7,
+    "juro_taxa_emprestimo": 5,
+    "confianca_capital_estrangeiro": 5,
+    "fuga_de_ouro": 4,
+    "credito_externo": 3,
+    "cotacao_londres": 3,
+    "emprestimo_externo": 2,
+    "outras_casas": 2,
+    "financial_news": 2,
+    "rafalovich": 1,
+    "ansiaux": 1,
+    "servico_da_divida": 1
+  },
+  "por_ano": {
+    "fundo_de_garantia": {
+      "1906": 29,
+      "1907": 9,
+      "1908": 9,
+      "1909": 4,
+      "1910": 63,
+      "1911": 18,
+      "1912": 8,
+      "1913": 5,
+      "1914": 8
+    },
+    "apolices_titulos": {
+      "1906": 165,
+      "1907": 306,
+      "1908": 210,
+      "1909": 156,
+      "1910": 336,
+      "1911": 412,
+      "1912": 236,
+      "1913": 237,
+      "1914": 266
+    },
+    "emprestimo_externo": {
+      "1906": 12,
+      "1907": 13,
+      "1908": 16,
+      "1909": 8,
+      "1910": 23,
+      "1911": 14,
+      "1912": 5,
+      "1913": 12,
+      "1914": 19
+    },
+    "divida_externa": {
+      "1906": 9,
+      "1907": 7,
+      "1908": 16,
+      "1909": 19,
+      "1910": 67,
+      "1911": 19,
+      "1912": 12,
+      "1913": 11,
+      "1914": 33
+    },
+    "funding": {
+      "1906": 42,
+      "1907": 17,
+      "1908": 8,
+      "1909": 12,
+      "1910": 45,
+      "1911": 32,
+      "1912": 12,
+      "1913": 3,
+      "1914": 33
+    },
+    "leroy_beaulieu": {
+      "1906": 3,
+      "1907": 2,
+      "1908": 1,
+      "1909": 1,
+      "1910": 1,
+      "1911": 1,
+      "1914": 1
+    },
+    "confianca_capital_estrangeiro": {
+      "1906": 14,
+      "1907": 4,
+      "1908": 4,
+      "1909": 15,
+      "1910": 25,
+      "1911": 14,
+      "1912": 2,
+      "1913": 13,
+      "1914": 12
+    },
+    "agentes_financeiros": {
+      "1906": 5,
+      "1907": 17,
+      "1908": 7,
+      "1909": 16,
+      "1910": 30,
+      "1911": 17,
+      "1912": 4,
+      "1913": 9,
+      "1914": 5
+    },
+    "servico_da_divida": {
+      "1906": 3,
+      "1907": 2,
+      "1909": 1,
+      "1910": 4,
+      "1911": 4,
+      "1912": 1,
+      "1913": 5,
+      "1914": 5
+    },
+    "juro_taxa_emprestimo": {
+      "1906": 25,
+      "1907": 22,
+      "1908": 19,
+      "1909": 32,
+      "1910": 87,
+      "1911": 76,
+      "1912": 30,
+      "1913": 57,
+      "1914": 47
+    },
+    "padrao_ouro": {
+      "1906": 12,
+      "1907": 2,
+      "1908": 3,
+      "1909": 7,
+      "1910": 22,
+      "1913": 1,
+      "1914": 2
+    },
+    "moratoria_default": {
+      "1906": 7,
+      "1908": 10,
+      "1909": 9,
+      "1910": 30,
+      "1911": 8,
+      "1912": 2,
+      "1913": 13,
+      "1914": 149
+    },
+    "credito_externo": {
+      "1906": 8,
+      "1907": 1,
+      "1908": 2,
+      "1909": 6,
+      "1910": 16,
+      "1911": 3,
+      "1912": 1,
+      "1913": 7,
+      "1914": 17
+    },
+    "rothschild": {
+      "1906": 11,
+      "1907": 21,
+      "1908": 11,
+      "1909": 15,
+      "1910": 27,
+      "1911": 25,
+      "1912": 11,
+      "1913": 23,
+      "1914": 9
+    },
+    "outras_casas": {
+      "1906": 2,
+      "1907": 5,
+      "1908": 6,
+      "1909": 8,
+      "1910": 7,
+      "1911": 17,
+      "1912": 6,
+      "1913": 1,
+      "1914": 4
+    },
+    "the_economist": {
+      "1907": 3,
+      "1908": 2,
+      "1909": 13,
+      "1910": 7,
+      "1911": 3,
+      "1912": 2,
+      "1913": 1,
+      "1914": 2
+    },
+    "financial_news": {
+      "1906": 5,
+      "1907": 4,
+      "1908": 26,
+      "1909": 20,
+      "1910": 14,
+      "1911": 6,
+      "1912": 4,
+      "1913": 5,
+      "1914": 8
+    },
+    "fuga_de_ouro": {
+      "1909": 2,
+      "1910": 10,
+      "1912": 1,
+      "1913": 7,
+      "1914": 11
+    },
+    "cotacao_londres": {
+      "1906": 14,
+      "1907": 10,
+      "1908": 7,
+      "1909": 7,
+      "1910": 15,
+      "1911": 8,
+      "1912": 3,
+      "1913": 3,
+      "1914": 3
+    },
+    "ansiaux": {
+      "1910": 3,
+      "1913": 2,
+      "1914": 1
+    },
+    "rafalovich": {
+      "1910": 1
+    }
+  },
+  "por_jornal": {
+    "fundo_de_garantia": {
+      "089842": 47,
+      "090972": 19,
+      "103730": 33,
+      "178691": 54
+    },
+    "apolices_titulos": {
+      "089842": 498,
+      "090972": 334,
+      "103730": 478,
+      "178691": 1014
+    },
+    "emprestimo_externo": {
+      "089842": 27,
+      "090972": 36,
+      "103730": 22,
+      "178691": 37
+    },
+    "divida_externa": {
+      "089842": 53,
+      "090972": 35,
+      "103730": 32,
+      "178691": 73
+    },
+    "funding": {
+      "089842": 26,
+      "090972": 55,
+      "103730": 80,
+      "178691": 43
+    },
+    "leroy_beaulieu": {
+      "089842": 2,
+      "090972": 3,
+      "103730": 2,
+      "178691": 3
+    },
+    "confianca_capital_estrangeiro": {
+      "089842": 41,
+      "090972": 5,
+      "103730": 22,
+      "178691": 35
+    },
+    "agentes_financeiros": {
+      "089842": 23,
+      "090972": 28,
+      "103730": 25,
+      "178691": 34
+    },
+    "servico_da_divida": {
+      "089842": 10,
+      "090972": 5,
+      "103730": 3,
+      "178691": 7
+    },
+    "juro_taxa_emprestimo": {
+      "089842": 71,
+      "090972": 72,
+      "103730": 70,
+      "178691": 182
+    },
+    "padrao_ouro": {
+      "089842": 12,
+      "090972": 6,
+      "103730": 8,
+      "178691": 23
+    },
+    "moratoria_default": {
+      "089842": 73,
+      "090972": 40,
+      "103730": 27,
+      "178691": 88
+    },
+    "credito_externo": {
+      "089842": 18,
+      "090972": 12,
+      "103730": 13,
+      "178691": 18
+    },
+    "rothschild": {
+      "089842": 28,
+      "090972": 52,
+      "103730": 21,
+      "178691": 52
+    },
+    "outras_casas": {
+      "089842": 8,
+      "090972": 14,
+      "103730": 13,
+      "178691": 21
+    },
+    "the_economist": {
+      "089842": 8,
+      "090972": 16,
+      "103730": 7,
+      "178691": 2
+    },
+    "financial_news": {
+      "089842": 14,
+      "090972": 52,
+      "103730": 18,
+      "178691": 8
+    },
+    "fuga_de_ouro": {
+      "089842": 14,
+      "090972": 5,
+      "103730": 2,
+      "178691": 10
+    },
+    "cotacao_londres": {
+      "089842": 4,
+      "090972": 22,
+      "103730": 34,
+      "178691": 10
+    },
+    "ansiaux": {
+      "089842": 1,
+      "090972": 1,
+      "178691": 4
+    },
+    "rafalovich": {
+      "178691": 1
+    }
+  },
+  "exemplos": {
+    "fundo_de_garantia": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01646",
+        "pagina": "1",
+        "perto_da_caixa": true,
+        "contexto": "vamente a servir do ga-rantiaa conversao do papel-moeda. .art. 4.' destina-se a formacao do fun-do de conversao:\u0000i - )1.' os 5 ij\"' dos direitos de importacaoquo eram destinados ao fundo dega-ranlia do papel-moeda.2.' 0 fundo de garantia do papel-mo%da que existe actualmente, bem comoas sommas que delle foram retiradas,quando reslituidas.3.' 0 fundo de resgate do papel-moedaque existe actualmente, bem como assoturnas que delle foram retiradas,quando res"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01891",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "om o rie soo 11 to ato viu-to por coiito (io valor rios bilhetes, diii-anlocinco ;i- nus, contados da lata inicial dotroco, 1.,211'ris rins cinco annos, dar-se-a aprosoriiic.tiii revertendo o fundo prescriptoem favor lu fundo de garantia instituidopela lei ii. 531. de 20 do junho rie 1891).art. ii . os marcos, francos, liras,dollars,alem dn libra esterlina, servirao para cou-siitiiicao do deposito rie que trata o nrt.l-,guiirdaain, para os offeitus dn e"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01902",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " julhode 1899.iii.\u0000os saldos do fundo de resgate conti-nuarao a ser applicados de accordo com odisposto uo art. 1 da lei supra mencionada,mantida integralmente a disposicao doart. 3' da referida lei.iv.\u0000com os saldos do fundo de garantiapodera o governo, por intermedio da caixade conversao ou da agencia desta, operarem cambio, comprando c vendendo letraspara o exterior, de modo a manter a taxacambial lixada no art. ir.v.\u0000si houver conveniencia para as o"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01903",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " do congresso e trans-formar umn lei de eileitos duvidosos, ena qual nao se envolviam os interessesconservadores do paiz, numa verdadeiraoasa de jogo cujo capital e fornecidopelos quatro milhoes de libras esterli;nas do fundo de garantia, nao so nao eoohcrcnle, como tambem nao e logico.e' rematado desprezo dos grandes in-teresses da patria, e um escandalosoexemplo dc leviandade, e uma ameacagravissima que vae pesar sobre o povobrasileiro, sobre o nosso "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01903",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "dade dee.x-minis-tro da fazenda, demonstra o prbfundo, oinstinavel erro que a caixa, constituidacomo nm banco, representa c o ttbysmoque elia vae ser no caso em que se lhepermitia jogar com os quatro milhoesde libras do fundo de garantia.['azcinlo urna 'breve e substancial di-igressao sobre o quo e na realidade a leiae gresham provou que as applioffcocsdessa lei, feilns na cnmara, nem sem-iiro correspondem ao que e na rea-(idade o o que vale na systomal"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01912",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ongresso mandou entregar ao bancodo hepublica, pora os necessidades da-quello dilllcil momento, o milhao de li-liras do fundo do garantia, esse:fundose compunha exactomente e apenas deum milhao de libras ou pouco mais. ofundo de garantia lloou inteiramentedesfalcado, naquclla epoca. volto o tra-tor da confianca quo deve merecer ogoverno,e le, a respeito do convenienciado intervencao ofllcial no mercado docambio, alguns trechos suggestivoa dorelutorio do"
+      }
+    ],
+    "apolices_titulos": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01701",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "osdiiferen-.l.atvpi.s de submarinos uaclouaes.a coniiiii.i.sao probeg-uiu iu discusvao dosvarios iiiuil,-k>s apresentado., devendo bre-mente apresentar seu relatorio a respeito.o tliesouro federal resgatou hontemmala 11 apolices to emprestimo dc 18'j7 epagou juros dode v'0*, no valor de 200$000odr. rego barros, superintendente dacompanhia ilo ga-, coilferenclou hontemlonganicnte com o prefeito acerca de as-..imptos relativos iquclla empreia,no "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01706",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ppouicuo do presi-licd .iu plano combl-. resulta da cotifusiloaioitur, m; iti-.i.iaai _ i;x|ios|.*,oparmnnonlo ile roupas feitas pnrn im-mona 0meninos; rua goncalves dias ii.o thesouro lrvder.it resgatou liontemmais ios apolices do emprestimo de 1s97.por losioooi, papel;o dr. jos.* antoiiio ile meilo, do s. paulotosta oellleiicln il i matricaria nutraat- d.tcid.i, ile acudu .le pronipu) .i lavoura dccafe.ti unia ve; quedente da ropitbliado em t"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01714",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "isconsultos e homensde estado, a um convite que sc nos affigu-gura obrigado nesta emergeucia. fl como i ti 1 00:000% i'01' lim hiu - grande' v***'*,w*j**'*ljloici'ia espei-*:ii>-o thesouro federal resgatou hontemmais 50 apolices do emprestimo'valor de s0:$00*5, papel.pe3n eit,arror.\"easteuoes'.*.i venda ha'churutai ia parls\",':cas|no 'cmaisoh-moderne 'o thesouro federal recebeu hontem ;dadelegacia fiscal da bahia,30s:623i.301em lbs. 34.715-x7-7"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01715",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ia.no .nlorcira c marcos cavalcanti,continua roin real sticcasso a oxposicuode roupas feitas..1 precos retltizldos, que es-tilo fazendo os ormo/ens ur casa colombo._ poram liontem resgatadas pelo thesourokedititl mais u apolices tio emprestimo tleih\"7, 110 valor de 14:000*000, papel c umatio tu i8fi8, no valor de 1:0005000, ouro.<t ohlf do liiijc o cnmer no liestaurantpalma, etn frente ao theatro lyrlco.() inluktro ia viacao recebeu honlem tele"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01721",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " comer no hi-staurantpalma) om frente ,10 theatro lyrlco..v alfaiataria do povo continua n cumprirasordensdosaeiisfregue.es o amigos, provlsoriamcnte, a rua goncalves dias :is.o thesouro federal resgatou liontemmais 17 apolices do emprestimo de 1 sn8.sendo 0 de 1:0oi $ e 11 de 500$00(), todas 110valor de 11|s00$000, ouro.chai-euria motta - goncalves dias c..o prefeito, caso tenha fundamento aie araujo | denuncia que recebeu, demittirii diverso"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01731",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "*c. irj. fia^ni/f, .pvdetil resistir um jbutimo i tx *i.l<i\"n,-i %n .a- bb>' tm ma'it.^mier.ti 5 iioin';. tieiawam-.iieaaiiftifillq.aijiiitlill ;.i.ais{-i'llilll.sf^i^aj\" o thesouro pederal resgutou houtenvai.,seguintes apolices:\u0000, |do emprestimo de. 18(8, 17 de l:u003on'>.c 2 de 500$000, no valor de l:ouosjo\".i.ouro, e do dc 1897, 4 de liooojooo, no valordc 4:0000000, pajiel. pinaos 8ffififflspilitiosrtfti.'i.i, i.-l.-! chapelaria mottahoncalr"
+      }
+    ],
+    "emprestimo_externo": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01703",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "cbe.s ? 1o convenio assenta sobre a ii<. do cm-prestinio dc li.000,000 para comprurcafe poi precos precst.ibelccitlos e para ias-tro dc emivaao dc twpcl ulocda convertivp|;e o sr, campos salles, que praguejara con-tra o emprestimo externo como a maiorchaga tle nossas financas e etaiitn o papelm>e<la como o nosso mainr fla_,-e!':o, qncinuo qne atlortjn r adora o que t>ucim.,u 1o toiia-emo e a mii brnst. c bnit.u pr-:arlctiii do plano dc rt-^atc e ctn-.oli"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01717",
+        "pagina": "1",
+        "perto_da_caixa": true,
+        "contexto": "ao se limitaras oper-.c5-s sobre o cafe, mas converterpela taxa prefixada todo o papel moeda cir-culautc, em ordem a realizar o desideratumdo regimen metallico?mais innocuo se tornara o meio empre-gado, porque, sl com o emprestimo externoa administracao cafceira conseguir retermais de nm anno dc safra abundante, 6fora de duvida que a parte restante do em-prestimo nao constituira lastro snfficientepara converter parte sensivel do enormestock do papel moed"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01774",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "-vidos hospitaleiros do sr. affonso penna,dando um pusso mais, queriam c querem asmedidas de valorizacao rio cafe, consigna-das no convenio ou equivalentes, sem acauda da caixa dc conversao a cambio fixo,mas mediante um emprestimo externo, pre-calco indispensavel.os ultimos, finalmente, gn lados pelo vice-presidente eleito e presidente do estadofluminense, uao prescindam da caixa deconversao com o seu lastro: mctallico toma-rio ao emprestimo exlcrno eda "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01781",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "adi.s, a tou-t.itiva do convenio paulista seria de moldea tirar a ultima illusao.nao por peoes da retaguarda republica-na, senao por seus chefes da vanguardapretende-se comproinctter* a responsabili-dade da nacao por um emprestimo externode ibs, 15.000.000 para vuiorizar o produ-cto de uni genero de cultuei de que temoso monopolio natural! para reconverter emmoeda papel, convertivel cu ouro, de umlastro dc ibs. 10.000.000, cr meio circulantena importanci"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03026",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "da populacao, os quaes nao poderao>cr custeados com os recursos do.orcamentoem vigor.em face dessa embaracosa situacao, pa-rece-me que o unico melo do rsolvel-a,.sc-ra como tive a honra de lembrar-vos, olancamento de um emprestimo externo ouinterno, como melhor couvciilia, pora sutis-fazer taes compromissos e outras neces-sidades nao menos palpitantes, como aa qnesao apontadas,penso confiante no exito do emprestimointerno, attentas as cond^oes espcclacs "
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_03032",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " poucos mezes, com.dez contra-torpedeiros e mais algumas tor-pedciras.o o seculo, referindo-se, hontem, a conimissaoque levou o sr. miguel cahnon, do governo ;!oseu estado, de represental-o na conclusao docontrato de um emprestimo externo que aquelleestado tem contratado, insinua que s. cx. re-cebera por' isso conimissao.podemos affirmar que a alludida intervencaodo sr. miguel calmon e inteiramente gratuita.nenhuma commissao percebera s. ex., quer doesta"
+      }
+    ],
+    "divida_externa": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01703",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ongresso nacional,podera tomar delle conhecimento.na conferencia chegon-sc a duvidar dacompetencia do congresso para alterar opadrao monetario com relacao aos compro-nilssos do governo com os portadores detitulos de sua divida externa c interna.o congresso nao sera convocado extra-ordinariamente c o sr. presidente da kepit-mica sc dirigira aos tres presidentes de8. paulo, rio de janeiro minas geraesdando as mzocs por que nao convocara congresso par"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01716",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "cirio, 'il km nome do governo do estadode alagoas, peco a essa lllustrada redaccao pu-bllcar esle como contestacao oram! a cam-panlia tlktamatorla, oalumnlos-i o dcaleal que seesta fazendo abi. 0 eslado de magoas nao temdivida externa; o sou debito total, inclusive adivida itii.tiinnte o a consolidada, nao attlngc amil e ollocenlos contos, e' fnisa i-ualquor adir-mallva no sentido contrai io, sendo precisoaccentuar quo a sua divida actlva o superior "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01876",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": ".o governo 6 por sim natiiraza iim nio-monto oxtrcmamonlo perturbador. foi go-verno e sabo disso. voltn a descrever oserros administrativos o financeiros do go-voruo do sr itodriguos alves, resumlndo-ono redobramento da divida externa, nnequilibrio instavel dos orcamentos, nu sus-pensao da amortizacao, no nugmento dedespezas, nos compromissos acarretadospela compra do novos vasos de guerra.cnda voz m-ils, de *i.-ir,t o sr. ssrzodeilocorrea, ve diminu"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03021",
+        "pagina": "4",
+        "perto_da_caixa": false,
+        "contexto": ".gg7:4118000.por conta do fundo de resgate, aque foi addicionado, na formada lei,o produeto dos dividendos do bancodo brazil recebidos pelo thesouro,foi mandada incinerar em abril pro-ximo findo a somma delooo:0008000.a divida externa da uniao e aetual-mente de l. 69.e08.357**-9, por ha-ver sido reduzida pelos resgates de-fde dezembro o 10 de janeiro findos//referentes ao emprestimo de wrescisslon bondso valor do fundo de garantiardijpapei-\"jiioeda e"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03073",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": ".2\u0000a camara dos deputados discutiu hojevarias interpellacses ao governo srbre onrojeclo de construccao de um caminho de,forri rapido entre m'lao e g.cnova.2\u0000no senado foi approvado o orcamenteda marinha.estados \"unidosa divida externa de s. dnntingos. accordosobre as rendas alfandegariaswashington. 24.-dizcm de oyster-o cx-prefeito, marcellin albert decla-fbay que o presidente roosevelt assignouios jornalistas que viera tr paris en- hoje em s. doming"
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02485",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "idas as quai)ti!its citadas a soinm.i depapel-nioeda ineineratio, verilleii-so que,no periodo tio 1 de janeiro de 190) a marcotio corronto anno, houve uniu reditecao iloa~ lilu:7i7s nas responsabilidades do the--oul'0.a divida externa fundada e aeliiaimentoi 72.133.437-9-?, tcn.lo havido no exerci-cio passado unia diminuicio de0s7.c>jpelo resgate do iieicistion bonde o um ae-crescimo de 3.000.(100 em consoqucr.ciado emprestimo contrahido para o eslad"
+      }
+    ],
+    "funding": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01717",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "e aos sacrificios feitos (grande den-ama deimposto* por aqueile praso), para obterapenas o resgate dc pouco mais de rs.100.000:000$000 de papel circulante.essa tem sido a obra lenta do governo,urgido pelo cumprimento do funding-loati ea . depois descansado, ou porque nao podeser mai prompto c rapido, ou porque en-tendeu que, financeiramente, nao convinhaproceder de outro modo.imagine-se o qne nao sera o resgate, le-vado a effeito por uma admi"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01882",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "o forcado.o con 'nio rie taubate com n sua vene-'insn enue i cnixi da convorsao tudocomplica, niiil*) rosulve, nao no conduziraa terra de proniissao, mns nos npproxl-mara mul'o rio c.aptlveiro do egypto. istoa, rie novo funding-loan,embora o preco do enfe possn e deva sermais remuneradnr, estou convencido deque etia cn frnnoo declinio, senao extlnctna crise d3 ;te rumo dn lavoura : o que subsisie r n ,-rise de invrndiires, pnrn n qualso conheco um "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01906",
+        "pagina": "7",
+        "perto_da_caixa": false,
+        "contexto": "or-ino iaiiil>''in encerra ns suas ultimas llqulcla-cucs.li assim vamos do dopreclacilo om deprecia-cao iitit que, chogado o niomonto do prestacaodo contas; nos encontraremos insoluveis, nailtira eonllligancln tle novos fundings latina,como osso nue lauto nos icm custado, mascujos resultados se aiintillani do um momentopara oulro. \u0010\u0000\u000f\u0000a\u0000,ao abrir-se o mercado, sacava o lianco dolirasil a rri|sd , cujo proco ileu em tabolla,onerando os outros n"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03025",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "io. unico depositocarioca li, .. easa v plranaa. rua em solucao a uma consulta feita pelosyndico da compagnle des agents lechange de paris, declarou o ml nistro dafazenda,- que, execepcao feita dos titulosemittidos pelo funding-toan, a uniao naoemitte titulos com coupons para pagamentode juros dos seus titulos, mesmo porque ocapital c juros dos titulos da divida publicasao iinpre.scriptiveis.,\u0000*ainda cm resposta ao.officio dossyndloos,declarou"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_03078",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "ciacao do papel-rmoedanuo frr/o chegado ao limite, que altingin,ai importacoes nao teriam sido cxaggcradas,como foram de i89_ a 1807, t o brasil naoteria tido necessidade dt passar pelo vexameda moratoria concedida pelo funding fi1898. porque e sabido que a insolvabilidadetemporaria do brasil, para com os seus cre-dores estrangeiros, proveio unicamente daserroneas difierencas de cambio, pie o go-verno teve dc fazer, para solvcr os encargosda d"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03105",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "es\" nao expirara: hibernava, para mesaltear mais virulenta. si a historia se naofaz com a \"mentira\", a \"politica, de or-dinario, nao se faz sinao com a impeniten-cia da maldade. na hora das cffiisoes pelaboa cstrella do funding loan, em cujo pro-gnoslicp, si me enganei, foi em boa com-panhia, com alguns dos coripheus aetnaesdo hermismo, e induzido por consideracoes,que nao eram nem pessoaes, nem despicien-das, 05 enlhusiasfas da situacao, si dc con"
+      }
+    ],
+    "leroy_beaulieu": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01765",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": " com-iii!inicac_o, ao povoamento do sulo, aodesenvolvimento material.' omflm, naturalmente encara eslos problemas por umprisma especial, resultnnlo do campo dassuas observacoes.ainda assim, entretanto, o alto criteriodo leroy-beaulieu proclama como nocos-sidade mais imporlosa, no ponto da vistaeconomico, a flxidoz dn moeda, ianio damoeda interior em si mesma, como em suasrelacoes com as moedas estrangeiras. dir-so-aque isto 6 uma aspirupfto de todos,"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03424",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "igas todos os odios emalquerencas que o animavam quando elle,antes de ser o sr. dircclor, era apenas o lio-uciu que burilava artigos, mostrando, comma discreta maneira de escrever, erudicaosobre coisas e preceitos que o leroy beaulieu,com a sua profunda intelligencla, nao ousaradirkia ibfirdardo sr. nuno de andrade se conhece a for-cno-a versatilidade do talento. medico, pro- rio polilieo. aproveitou-se do pedido, c naolia por e|uc o censurar;os corr"
+      },
+      {
+        "bib": "090972",
+        "ano": "1906",
+        "objeto": "per090972_1906_15494",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "uelle.para um paiz de curto forcadomais valle retgatar diminuindoa circulacio doa bilhetes do queaugmentar o lastro metauico.cri o orador que eate principioesta em condicoes do ter bem ac-ceilo, porque foi tubscriplo porleroy beaulieu, a quem nio cba-ma mais de indefectivel, para niomciindrar o tr. lourenco de ai-'buquerque.aprecia a questao do governoentrar em negocios de cambio.analytando os temores do tr.alcindo guanabra. diz que e no-vidade a um "
+      },
+      {
+        "bib": "090972",
+        "ano": "1907",
+        "objeto": "per090972_1907_15593",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "o japao, afimda conquista do oceano pacifico,ojio mesmo sentido, cada vez mais,procuram adextror-se os moder-nissimos oslados da australia, danova zelandia o do canada, cujaorganizacao administraliva-politicao escriptor leroy-beaulieu apre-ciou em um importonto estudoonoiytico.meditando sobre ostes eloquon-tos factos contemporanoos, pareco[uo desassombrada mento podo osr. alvareu penteado oquilatar oalcance podoroso do sua generosadotacao para a esco"
+      },
+      {
+        "bib": "090972",
+        "ano": "1907",
+        "objeto": "per090972_1907_15828",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "as de accordo como compendio de horrcro, foram desen-volvidos com methodo, clareza o techno-logia seientiflea, ombora sem originali-dade. pareceu-me que om todos os seusconceitos, soguiu o distineto lente as li-ccqes de leroy beaulieu.os alumnos e uma alutnnu ouviamattentos, e alguns tomavam aponlamcn-tos.ao terminar a preleccao, voltou u dr.iriondo a referir-se no visitante c do novo lhe prodigalizou amubilidados, queforam coroadas por uma ovarao ti"
+      },
+      {
+        "bib": "103730",
+        "ano": "1906",
+        "objeto": "per103730_1906_00133",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " circulacaoinconversivel do thesouro, tornando-aconversivel. e' um engano queconvem desfazer sempre que apparece:cogita-se de fixar uma taxa que tenhasido obtida por meios absolutamentelegitimos, na incisiva expressao deleroy-beaulieu, exactamente para queessa taxa, representando um valor nor-mal do nosso credito e uma relacaonormal dos nossos precos, nao fiquesujeita a contradanca de oscillacoes dia-rias; epara que o avultadp emprestimode 15.000.000"
+      }
+    ],
+    "confianca_capital_estrangeiro": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01770",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "dom jose mariaroza, autor da a esta hora tao celebre leide 4 de novembro de 1899) c mauricio le-wandotvski, doutor era direito (que estevedurante longos annos na republica argen-tina, por conta de importante syndicato decapitalistas europeus).a dom arturo pereyra fui apresentadopelo amavel secretario de ia nailon. naolevava carta de recommcndacao para ne-iihuiti dos redactores da gloriosa folha ar-gentina. nao precisei mais, porem do quefazer passar o meu c"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01775",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "o quando nunca, perpetuando a .memoriados beneficios de que o povo argentino idevedor, de quem teve a idea, de quemexecutou cisa\" lei. estrangeiro, elle encara,va a lei debaixo dc outros pontos fle vista :& attraccao de capitaes estrangeiros comexcellentes perspectivas de optimas rcmti-ncnicoes ; a attraccao, o atvcicoainento ea fixacao no solo (i03 iiiimigrnntcs que asosellhicdcs do valor da moeda incitam asen-siderar-se ali como andorinhas ; ocontinuo des"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01777",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "pela desordemo extravagancia,e que nao sao dividas in-tornas cujes juros fiquem no paiz, mas saodividas externas com tujo servico so vaoernmie parte do nossas receitas.a maior parle do nosso progresso 6 pro-dii> ida por capitaes estrangeiros cujos di-videndos sao levados cm ouro para forado imu.\u0000,alijm disso, o capital nacional nao se ac-cumula por economias do povo, mas con- soraa-sa no jogo o no luxo, o isto e semfalar dos niilhoes de ouro produzidos nopa"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01796",
+        "pagina": "6",
+        "perto_da_caixa": false,
+        "contexto": " dando-lheem um pessoal habilitado o om utc.isiliosaperfeicoados, meios do nocao cada vozmriscflleaz.es. os poderes publicos como-c.aram assim a elevar ns insutuicoes de hy-giene da capital francoza ao nivcl dns do-mais capitaes estrangeiras, e com issoprestaram, a boa administracao da policiasanitaria, a probidade commercial o, maisdo que tudo, a saudo dns classes operariasservicos que a opiniao publica, de ha muitoreclamava, a cujo beneficio cada dia mais"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01903",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "a propria defesa feita pelo re-lator, reproduzimos aqui com imparcia-lidudc. nao devemos, entretanto, oceul-tar que n defesa lao intelligonte e bri-lhitnlc quo o sr david campista fez doseu trabalho, nao nos convenceu.0 capital estrangeiro empregado nobrasil, este, nao so nao se convenoeu daconveniencia do projeelo campista, co-nhociilo atraves das noticias telegraphi-cas idas daqui para o velho mundo, masencarou-o como uma ameaca e um pe-rign e nos tivem"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02836",
+        "pagina": "6",
+        "perto_da_caixa": false,
+        "contexto": "ncia cjactancia do que essa lisonja ao jacobinismo,dc que as obras foram feitas com capitaesnacionaes. para um paiz sem capitaes comoo nosso, ha toda a vantagem ein que as tran-tlcs obras sirvam de ensejo a importacao decapitaes estrangeiros.realizadas com capitaes nacionaes, dao lo-gar a exportacao de ouro para pagamento domaterial importado, o que no caso dc instai-lacocs hydro-elcctricas imporia em 2i3 dadespesa; ao passo que, feitas com capitaesestrange"
+      }
+    ],
+    "agentes_financeiros": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01777",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "s pela societc auouyine des pa-peteries du murais.o dr. castro uma. do rio do ,iaiic:ro,a efilcncla da matrlcaria dutra.attesta 0 dr. viiio.riaiio de souza, de s. paulo, dttestaa ofilcacla da wntrlearla natra.aos nossos agentes financeiros em eon-dres, remetlcu hontem o tliesouro federala quantia de 3.2s7:081>'694, em 369.736c ires 361.no ui''z proximo futuro scr.i feit.'. psraali nova remessa uo dobro da quantia aci-ma designada.nao hesitamos em aflirmar"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01906",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "a itctiialiiientc a som-ma rie lbs. 4.021.574-18-4 e o rie resgatotem o saltlo le 298.2435454, papel;2'que a referida importancia em ourose acha depositada no estabelecimento ban-cario dos srs. n. m. rottschild and sons,agentes financeiros jo brasil cm londres;3-que dispondo o art. 4- \\ 2-, dis esta-tutos do banco do brasil que uma parte docapital das accoea tomadas pelo .thesourofederal seja realizaria com os bens, direi-tos e accoes da.conta nova do ban"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01922",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "go, o agente fiscal dos impestee da consu-mo na 2(f! circtimscripcio do estado de mi-ais geraes, felinto erblno.visitem a torre eiffel e comparemos seus precos, ouvidor 6* e 65o ministro dn fazenda telegraphou aosnossos agentes financeiros em londres, an-torizanda o pagamento de ibs. 43,875-18-11a c. ii. wal ker a c, proveniente dos tra-halhos eiecutados em setembro findo nasobrai do porto do rio de janeiro ao pavltlloa-uar, uma eipirlincla demappirelho.a"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02048",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "rcpututtiquc o diamante 5 fa-jbricado nas crateras dos vulcoes.os da colonia do cabo, amarcllos a su-perficie, appareccm agora, de primeira agua,por serem mais proximos do centro na pro-fttndidadt da cralera.em paris um agente financeiro de fortepasa ingleza rcconimendou-me, cm 1883, deavlsal-o lot-o apos a lescoberta de uma era-(era no brasil, certo do encontrar ucllajazidas de diamantes.si, pois, elles se acham espalhados nabahia, cm minas geraes c ou"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02097",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " subsistirao comovaliosas no reconhecimento do poderespela simples, razao do que o agrupamentodo sr/auguctb de a'asconcellos conta alicom a maioria.\u0000i^^fe.vamos a ver agora eot)io so conduzemesses magistrados.aos nossos agentes financeiros em lon-dres rcmetlcra hoje o thcsoiiro federallbs. 841.977-9-5 e frs. 115.683,71.\u0000.\"'.-'-:>w,, ----., ^-nnrirrj1| para denticao das creancas matrlcarln ou.tra. ,pelo wagellan serao remcttidos pelo the-souro,' dorr^dosti"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02273",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": " propria vida, salvou-o, retiran-do o diagiia.hamallio foi enviado em maca para apharmacia silva araujo, onde recebeu osprimeiros curativos, rocolhendo-so em se-guida ;i santa casa, com guia da policia dol(actoos nossos agentes financeiros ua europa,os srs. n. m, rotuchild & sons, foram au-torizados a receber uma cambial' do valorde 4:8125000 fortes, sacada pela agenciifinancial de portugal no rio de janeirocontra o banco de portugal.essa quantia c destin"
+      }
+    ],
+    "servico_da_divida": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01786",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "i.ewandowsln compilafaui um biuajico complexo da sitnacaieconomica argentina a 31 de dczcmbride 1901 baseaiulo-se no inventario dos vnlotes moveis, na balanca cplninerciul, no.depositos cm ouro na caixa de couvcrsap,tio^servico da divida publica, etc. k' o serriiinte : fazem, uma vez a colheita terminada, nosegundo trimestre, de abril a junho.a.noticia,daqui publicou cm data 11 domez lindo um telegramma de buenos airesdizendo que durante os primeiros qu"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01902",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "oura ftlnduslrla. favorecendo o cambio baixoiquellos ipie lomdo enviar orno ou cnm-bines para o estrangeiro, como neonleeecom a jjnlao quando manda as quiintinsprecisas pnn n pagamento do corpo riiplo-matico c consular, servico da divida pu-bllca. compra do miitorlni do guerra o doestradas de ferro o outras despezas a souc.,tl*go.\u0000c.nn ns impostos cobrados eni ouro nfiosnffro grande, prejuizo a uniao no-iio par-ileulnr, visto como. tendo ouro ou eain-b"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03243",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "a, con-sigiiott-sc que i a primeira ves que um es-tado obtem uma operacao de credito a jurotao baixo; procurando-se tambem fazer crerque resultara do novo emprestimo unia eco-nomia annual dc quasi um milhao dc francosno servico da divida externa.o dever profissional dc orgao dedicadoaos elevados interesses do povo nos forca &arrefecer um pouco o enthttsiastno da im-prensa govemista, reduzindo as verdadeirasproporcoes a negociacao levada a termo pelosr. "
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03385",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "epublica sul-americana a bancarrota ca uiiica restriccao decisiva aos caprichos dosgovernantes. no caso vertente o governobrasileiro tem cm deposito cm londres som-mas consideraveis, que ostensivamente aquiestao .para o servico da divida externa epara a satisfacao dos outros compromissosda republica na europa. seguindo as tradi-c/ios sul-americanas, o ministro da fazenda(io brasil jioz esses fundos as ordens dobanco do brasil, que foi encarregado pelogo"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03410",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "rangeira c o conjuucto das suas receitas damesma natureza.para o brasil, esta balanca podc estabe-leccr-sc, deduzindo do excedente do com-mercio exterior e de algumas receitas dcordem estrangeira que entram 110 paiz:1.o servico das dividas exteriores dodistricto federal, dos estados confedera-dos e das municipalidades;2\"as outras despesas exteriores do go-ver iro;3\"-os bem-ficios das companhias parti-culares, constituidas 'com capitaes estran-geirus* div"
+      },
+      {
+        "bib": "089842",
+        "ano": "1911",
+        "objeto": "per089842_1911_03468",
+        "pagina": "4",
+        "perto_da_caixa": false,
+        "contexto": "parte.\"si excluirmos o anno de 1908, em que serefleetiu a grande crise economica norte-americana de 1907, facilmente se observa que uliias. emprezas estrangeiras, que operam nocommercio, na agricultura u industria ecujo servico de divida nao podcmo3 conhecer,porque nem todas, as particulares pelo menos,liublicsrru relatorios.temos ainda as remessas da economias dostrabalhadores estrangeiros que montam, asvezes, a grandes quantias. basta assignalarque na"
+      }
+    ],
+    "juro_taxa_emprestimo": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01866",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " vor-mula, segundo as doutrinas seienliticasconlieoirias no assumpto,o que 6 a in-ver*'lo. koi um aoto rin conversao o rioministro francisco belisario eni l\"*!,converlendo o juro do totlos os titulosda divida publioa ao juro de 6 'i. emtitulos vencendo o juro de 5 !. foi outra conversao a do visconde deouro prcto.cnnvertendo o juro dos titu-los da divida publica estrangeira cie5para 4 por cenlo. e o foram o decretorio sr. lluv barbosa, converle"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01906",
+        "pagina": "7",
+        "perto_da_caixa": false,
+        "contexto": "nteiro accordo,vem solicitar desta tisseiriblea, que lheseja concedida a necessaria autorizacao|i.-il-it ioiitiiiliir lliil etuprusiiiiiii jitll' debell-lares de 2.(jo0:o00s (dois mil contos de reis),pelo monos, nn par, juros de 7 /., nmnrti-zacao dentro do 50 annos. a partir de 1908,podendo dar em segunda nypotheca osbons ja hypotliee.idos ao cmorcstiino an-terior.\u0000rio do janeiro, 7 de agosto do 1000.adirectoria: artliur qflujln tius hcoos.], "
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01909",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "o.por falta de numero deivoti de reunir-seontem a junta' admmlutialiva da caixa deamortizacao.por esse motivo ficou transferido para, asessao de 9 do corrente, o sorteio de 6.000polices nominativas du emprestimo de1897, juro de 6 -., papel,clarko calcado deste afamado fabri-cante e reconhecido como o unico supe iorno brasil, s.eus precos sito '.'us, 22s e 25so0o.o ministro da fazenda cogita de submet-fer a assignatura do prc.-adeute da repu-ifl"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01918",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "iisi.iliv.i do congresso estadiuil dc matto grosso.a autorizacao falava num emprestimopara o prazo dc 20 annos, ao juro dc s .,devendo a amortizacao comecar no terceiroanno, ao passo que o emprestimo foi reati-zado pelo juro de 7 '. com o prazo de umanno, so amortizavcl de semestre em se-mestre.o sr. azcrodo fez no senado os commen-tarios que julgou convenientes a explica-c5,\"> que acabava de dar.catic-no; mostrar aqui a falta de serlcda-de com"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01971",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "urlvca 103.di u)i'io do prefeito, apresentado:htir cuccavuiil, um memorial ccwistruocao dc .^.sitfl casaif i i !.\"> .a.-,. \\uni lembra, paia a ciccucaoi.i...un;n'..f, am emprestimo de:t.-ti dtvjtliuu ':ii i25.uoo dpoli-juro de 8 '[,, amortizavel. . ,i_ihim a creacao dc uma>!*.,! .nitiex.. :i direetoriara cuidar cxd.iuivameiite facadaa manto perigosoo voyfidn !'raii.f )pn/.tlrnrlo da<cann|-nellas o t|tle, em tempos idos, tivera unsamores fortes"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02090",
+        "pagina": "8",
+        "perto_da_caixa": false,
+        "contexto": "te o mel/jor calcado que sezonhec&no tjrasil.' o mais duravel, commodo, eco~nomico e^impernjeave/.todos devem usar de rima vez parasempre deste famoso calcadom, m do ootmob>b1esb3 apolice perdidaperdeu-se a de n. 1,381, juros de 5 /.,valor 50oj00o o omissao do 1863, da dividapublica nacional, pertencente ao dr. jofloda costa ribeiro, residento em macaha.-.'..' 40-15 boas luvasda-se por uma loja espacosa com algunsannos dooontracto, entre as rua"
+      }
+    ],
+    "padrao_ouro": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01866",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": ".io do sr.paula liamos citando o seu voto cm sopa-rido a respeito dos direitos adquiridos,em virtude ria ultima lei que o organi-zou, pelo banco rio brasil quanto a ex-elusividade de emissao no cnso em quefor possivel a circulacao metallica emouro.o orador diverge da opiniao consa-grada pelo presidente ria iiopublioii,na sua ultima mensagem, quanto a ba-lanco commercial rio nosso paiz entre olotai rie exportacao o rie importacao, eprovoca apartes tio sr. s"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01876",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": " da voltaao regimen financeiro do rescato do papel-moeda, do fortalecimento dos fundos doresgate e garanti.i, orcnmontos com saldoso diminuicao nns despezas. so eom essapolitica poderemos accolerar, exclamou oadvento da circulacao metallica o a ab-ii-cao do curso forcado no nosso paiz.o sr. sorzedello, qne fui escutado deprincipio a din com religioso respeito porgrande numero de collegas, foi grando-mente cumprimentado por todos.hoje falara o sr. paula nam"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03028",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ando ns suas trans-accoes reciprocas sc eifectuam nas cerca-njas dessa base. e' isso qne constituo a so-lidez financeira dos dois paizes. o brasilesta presentemente, em relacao a todos osjoutros povos, como si possnisse padrao ourodefinitivo, e moeda cunhada nesse metal, arazao de 15000 reis seus para 15 pence;nao possuimos de facto, mas possuimos vir-ttialmcnte, o orgao monetario dessa relacao, e como e sina situacao identica que emtoda parte sym"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03263",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "commtiuns e ordinarias sem antecipada-mente sahcr o valor exacto e determinadodessas moedas. para tal circulacao, a esta-bilidade do valor seria condicao primaria,essencial. mas o jornal do commercio, quealias defende a circulacao metallica, nao aquer agora, reprllc-a mesmo, porque... oapavora a idea da quebra do padrao, c achaque o cambio de 15 d. passou a historia, eque mesmo a adopcao da taxa de 16 d. jaseria retroagir da situacao actual do cam-bio. fel"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03276",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ta admira-se que o ministro da fa-renda do brasil nao autorize ate a caixa tleconversao a receber depositos de ouro iittcsubstituam as retiradas e ridiculariza a de-claracao do sr. leopoldo de bulhoes preten-dendo que a circulacao metalica se encontrarestabelecida, e, assignalando o facto dc queo commercio paga cm ouro os direitos alfan-degarios, declara que o ministro se illude, por-que o excedente de ouro e devido, nao & im-portancla das exportacoes, ma"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03287",
+        "pagina": "6",
+        "perto_da_caixa": false,
+        "contexto": "ais da baixado cambio?li mesmo entre nos, 'conservando a taxai de15, quem e quo ante os 20 milhoes deposita-dos, admiltc a baixa cambial ?e' por isso mesmo que ja desfrutavamostranqiiillos e seguros as vantagens todas dacirculacao metallica, esse inconiparavcl regi-meu cuja permanencia c fortalecimento esta-nios defendendo nestas linhas, ao pugnarmospela nao alteracao daquella taxa.houve, porem, quein escrevesse que a cc-(lula conversivel, dc tao abundante"
+      }
+    ],
+    "moratoria_default": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01880",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "z.a situacao rie 1807 o a de lonfi. quem pode-rft dizer que teria sido melhor ter-se fixadoa 7 ou a 8 o cambio 1 pois u apreciacao damoerin nao creou umo situacao mil vozesmnls prospera do que nquolln. quo tiosobrigou a moratoria ? essn situacao nfloe evidonto rin tnntos mortos, especialmentepelas mnnifestncoes do credito?o orndor passn n tratar dn inflacao a queprtdo dnr logar o projecto. diz quo n caixarie conversao, no entender dos presidente"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01882",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "a consequencia tio ub.iso do crotlito eaccumiilncao do defleits. cadu vez maisayilltndos, e que ebtes. qunndo ja nao saopossiveis novos emprestimos, nrntsliim ngoverno nn desespernilo recurso di) papel-moeda e por (lm a moratoria.nfto invento nem docliunu, lombro apenasima pagina recentisalina a multo dulorosude nossa historia fluanceira.nio e para abrir escolas praticas de agrl-tiltura nem melhorar os prncossns detrabalho dc modo que eem nugi"
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02564",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ormarom de/tclt. isio evidentemente demoustra,como bem concluiu o sr. d irbosa lima, queo conjunto da populacao quo, durante ai-gum tompo, aie\" o.s impostos exigidos paraa execucao do /uiuting loars ou cumprlinetl-to da moratoriaimpostos que se disseramexcepcionaes e ti-ansitorlos, exclusivamente)decretados para a salvacao do credito na-cinualtinha reservas o as levara, para oadias didieois, as caixas economicas, foi fi-caudo cm condicoes de lev"
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02566",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "nao foi devida, j.i sc vo, sinao acamas oceasion-aes e nao ao effcctlvo des-envolvimento c pro;rrc.-:9o da rlqucr.a na*cional. daltl nao lia fugir, a menos quenao queiramos voltar i porta do credor paraimplorar-lhe nova moratoria.ll' liflicil, bem sabemos, realizar esseplano de economias que sc impue na deplo*ravcl situacao a que cheiramos. ila servicosque assumiram taes proporcckcs que lhescercear hoje oa recursos seria anu.illal-os.slhouve err"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02767",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ando-se impbssi-vel a conservacao do cambio a 15 ou a libra esterlina a i6$ooo. ate onde baixaranao e facil prever; mas daremos gracas adeus si nao chegai' a casa de 6 dinheirospor mil reis ou ao cambio que nos obrigoua moratoria.a nossa situacao, merece, pois, o maiorjuidatlo dos goveriiantes.gitnipre-ilies pou-par vintens para que o paiz nao cheguedc novo a vergonha da bancarrota. a sc-giuida suspensao ile pagamentos seriamuito mais grave do q"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_03052",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "da po-pulm-ao. emprestimos, iriam augniciilar .cadavci mais a ja enorme responsabilidade lue.jnoestrangeiro, pca sobre o brasil, responsabilirlaile forniidavelmcnlc accrcscida depois dafallencia dc |uc elle saiu por uma moratoria,toi. ii i|ii.il ainda vive, suspensa, como ainda scacii.-i.-n amortizacao da divida.',o ipie ha a fazer c economizar. mas comoisu. c difficil ! quem ousaria tocar nos orca-menlos da marinha c da guerra ? tantoo congress"
+      }
+    ],
+    "credito_externo": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01881",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "seja. isto afinal decontas e ou deve ser ainda o brasil. equando nao fosse uma questao de so-lidariedade humana essa intervencao,bastaria para a justificar, para a impora todos os espiritos, a necessidade dcimpedir o descredito do paiz, que aban-donado as invasoes de temidas moles-tias passaria a ser evitado por todo omundo.os argumentos em favor dessa inter-vencao sao alias desnecessarios. esta aentrar por todos os olhos o monstruo-so abandono que se"
+      },
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01897",
+        "pagina": "1",
+        "perto_da_caixa": true,
+        "contexto": "de conversao, nao parece stiliiciente.quer-se fazer um salto ainda maior para oabysmo com a taxa de 12 dlnhelros, que-brando sem meios termos o padrao moneta-rio nacional. que dlltrns surpresas esairiamreservadas para o credito do paiz ?essas noticias ecoaram largamente nueuropa e nos outros mercados do mundo,com os quaes mantemos relacoes de inter-cambio.os effoltostisotardarlara amanifes.tar-se. eni o que se deu.desde a manha dc ante-hontem rs danco"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02788",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "isto e, 91.4937t4$j2i ouroe 271.217:40o$ooo papel.e' lamentavel que um documento da tra-dicional importancia do retrospecto cxhibaalgarismos c argumentos dc fragilidade taovisivel e que affectam tao desfavoravclmcn-te o credito do paiz. e elles serao repetidospela opiniao apressada dos que acceitam semmaior exame as mas novas ainda que pu-blicadas sem criterio. publica e predius: sede, avenida central 87. a imprensa tem registrado, ultimamente,que o p"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02836",
+        "pagina": "6",
+        "perto_da_caixa": true,
+        "contexto": "as as pharmacias' e drogaria do brasil cuidadocom as fai.sikk.acoks.depositario gerai do fabricante drogaria pacheco rua dosandrudus ns. 59 e 65itio de janeiro.'\u0000'fcrespondente fica na caixa de conversao paraaugmentar o credito do paiz e facilitar depoisoutros negocios. #portanto, o tal augmento ti-rado da nacionalidade do capital, como mo-tivo dc jactancia, e simplesmente tolo, sinaocontraproducente.o que nao e nem uma nem outra coisa,porque e a prop"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_03011",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "s lados sctorna evidente 1 benefirn intervencao do ban-co r.o mercado de cambio.si nao fura a sua accao energica c opportu-na, estariamos hoje soffrendo as consequen-cias de uni desastre incomparavelmente maisfunesto no credito do paiz. do que a desolado-ra contingencia a que fomos arrastados cm1908. pois quei dc entao para ca, os nossoscompromissos externos se avolumaram de ma-neira .1 causar serias apprelicnsoes ate aosespiritos mediocremenie reflec"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03118",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "-mento em que os credores sc queiram pre-valecer das garantias que lhes foram dadase tornal-as effcrfivas. si esses homens pu-blicos encarassem a questao de mais alto, noponlo de vista do interesse nacional, veriamque o credito externo, creando relacoes juri-dicas fora do paiz. de que nao raro resultamdesagrados de ordem internacional e reclama-coes diplomaticas que chegam ate a demon-stracoes dc forca material, consoante os no-vos processos e as ulti"
+      }
+    ],
+    "rothschild": [
+      {
+        "bib": "089842",
+        "ano": "1906",
+        "objeto": "per089842_1906_01911",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "s peito dc fustio o zephira 4s000, colletes do fianella a $o0o, costu-mes de dolman a 15(000 o eto.o ministro da fazenda tomou beutemconhecimento dos balancetes vindos delondres e enviados pelos nossos banquei-ros, srs. rotschild t sons.s. ex. esteve cm palacio c subnietteii aapreciacao ilo presidente da republica es-ses (lociiuienlns.matrlcaria wi.trn & o mellior nniiillo par.\",dentitfao.comecou limitem na imprensa nacionala paginucao do relato"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02048",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "de cafe vae aobanqueiro, mas a fiinccao deste consisteapenas cm receber a importancia da letra nadatado vencimento.ija estabelecimentos c negociantes que sotratam da compra, venda e liquidacao dccafe.na carteira da casa rothschild &.c. pas-sam todos os annos letras dc muitos milhoesde libras esterlinas saccadas sobre o cafe.bem garantida pela mercadoria, a casaadeanta c recebe o seu dinheiro na datalixada,e' o banqueiro.nao se lhe deve pedir ques"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02305",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "do. (samurt,smimis-o dnvr, pag. 87-89.)vlrirlllo variou.181000 am b\". asslgnantea pedimos no envia-rtm a importancia de usa asignaturas emt,ka postaea do correio e enderecado aogerente desta folha, v. a. dmri* ftlix, 08 rothschildtopicos e noticiaso tefllpoo dia ile linnlein nlto leve rko de pilmateill; nu dhtil, nnkliii cuino <iuem riutk cheio de dtkaunin-eu e cuui vuiumle ileajnirrdlr.conitiido, rniide clm-tu na velu, c u le.upcfiituiu nuicbuu"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_04030",
+        "pagina": "2",
+        "perto_da_caixa": true,
+        "contexto": "eccao, peln vagi doixada polo oapitfto-tenento aprlglu menezes. casacos para senhoras nox.0 tlioatru si a. ao rnsco fi-destinadas a casa da moeda, foram trau-sjwtadas de t,ondres, pelo vapor a'ile, en-vi a d.is pelo sr. rothschlld, 153 barras deprata, dcstlnauiit. a cuuhagem de moedas,com o pcio de 4.743 kilogrammas.as barros acima foram descarregadas riadoca da alfandega desta capital, sendo re-colhidas a gn.irdanieria. pdibbin pyrilampos - f"
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02570",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " de artigos cm que fazminucioso estudo do projecto da valorizacaodo cafe brasileiro. diz o financial news que foi malsuecedido p emprestimo brazileiro de quatroniilh.es esterlinos, lancado a 22 do correntepelo banqueiro rothschild.0 jornal londrino attribue o insuecessodessa operacao financeira aos temores cau-sados pela valorizacao do cafe, c manifestaa opiniao de que o brasil tera pouca felici-dade de obter dinheiro nas pracas europeas,emquanto"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02858",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "o acceitaro marechal hermes, seria, por fim, candi-dato da opposicao ao cattete o sr. joa-quim murtinho.grande esperanca e depositada pela oppo-sicao nessa candidatura, porque, affirma-se,conta com o auxilio e apoio dos rothschilds.em tal caso, seriam os nossos credores que,com assentimento e applauso de brasileiros,figuras proeminentes na politica, se envol-veriam em nossa vida interna, para nos im-por o governo que melhor conviesse aos seusnego"
+      }
+    ],
+    "outras_casas": [
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02069",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "rl o (tencrulroca u visitai a hbrica dc manteiga uo kodeiu.o barto esta rm hrasas.cyrano st o. casimir perrbrj,uus 12. fallouou o sr. oasimirpei-ier.ex-prcsidftiile dultnpublica fran-ceza, \u0000 .panis, 12.0 si'. casiiiiit' perier fal-idiicu hontem, as 10 horns da noite, deuma angina ptictoris.havia ja alpuns dias quo o ex-presi-dcjile da llcpublin.i andava siriamenlcimlisposlo, nao ilanilo, porem, grandeimportancia a doenca. apezar da expres-sn "
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02502",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " mesma difectoria, pira, a n<preju!;'oi!e seus vcnclm*ti*u,, estudar naeuropa a orf/inlsecio do crv;co ilwal io*keiicrni alimenticios.dia a i!ia niii-uienta a iirccttr* de roupaua ema (firriava! dc vculaequ- tem o siocluperier a 3000 pecas, a comecar da tlesau*te tcriu de 5o$ ap corree! tento dc casacapor i:cl00i).n prciideiitii!,,lu-iulilira rcooticu hon'tein o kogljluto teliiitrainiiiii,honro ai.w-nu, ''hi-cetiii tjraii.l* rej,*'sijo dn po|"
+      },
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02514",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "rti-/.acao dns emprestimos anteriores e rc-spoiisaliiltdados da convencao com por-turrai.li' dc notar que rothscliild recusaratomar .10 typo 50 essa parte doempre-stiuio, c afinal a acceitou a 54, quandosoube que a casa baring so ofterccerapara fazer a transaccao a este nliiinolypo. o mesinn emprestimo foi inipu-enado em londres pelo londoii stocklixcliahge, que se recusou a ddmittil-onas suas listas port|tie infringia o prin-cipio, que essa "
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03260",
+        "pagina": "7",
+        "perto_da_caixa": true,
+        "contexto": "de promptidao, capitao dr. molina.interno de dia, alferes honorario lemos.mu.ica de parada e promptidao, a do a regi-mento.ronda aos theatros.ailfere* ati-aro costa.promptidao de incendio, tenente isidro.r-ondam com o *uperier de dia, alferes messias,astolpho e mi* 15 interiores de cavallaria.rondam as mas do nuncio, rcgcuic e saojorge, alferes daniel e um nforior de cavallaria.guardas: da amortizacao, alferes nicolao car-neiro; moeda, alfere"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03296",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": " ttoiuooternos at tracjtintr, forro de seda. . ittostxttxnct ar. ie,_rreaiii. frentrs teda. ivoinoc.tmf. de hitrsr preto e 1* cevre.. sficsots-scretudos. tatitoa, forra di teria., ji'.**cj^reradc meltea lorro erritts ta-perier.\u0000 joseo.temes it jttstsfso ptju et. di or. satvmtenwt de ?r.'.... pteti ou de car, acaaurcar oa\u0000   4-tinnci;; ferro de teda\u0000 jissmvoci?-s risoici preto, a crtraecir da jssooav.!irt-ic ii: ur ;-.']-. * (ixt;i-i ai w-d"
+      },
+      {
+        "bib": "089842",
+        "ano": "1911",
+        "objeto": "per089842_1911_03560",
+        "pagina": "4",
+        "perto_da_caixa": false,
+        "contexto": "e do estado sobre importantes as-sunvptos,ltr'10 t-toirizonte, ifi (a.1 aproposito do lancanicnto do eniprcslinio decineoenla milhoes de franoos, destinado a.obras de saneamento dos niunicipjo. dn ei-tado, os banqueiros perier & c. lelegrapliiiram ao dr. artiiur beniardes, secrclariodas financas. congratti.landb-'se com o governo mineino nolo brilhante exilo da ope-racao, que foi aberta e encerrada 110 mesmodia. os referidos banqueiros accres"
+      }
+    ],
+    "the_economist": [
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_02291",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "o, vae concorrer para a contencaoda iniciativa dos governos, na couti-nua c progressiva expansao dos arma-mentos, dentro delimites severamentetracados a excessiva despesa que talexpansao impoe aos orcamentos dasnacoes.o the economista de ia de setembroproximo findo, consagra ao examedeste caso um artigo tanto mais dignode ser lido. quanto assenta nas ponde-racoes judiciosissimas de um militar dereconhecida autoridade na allemanha,o coronel gadkc.res"
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_03028",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ente eom onosso movimento ocnnnnilco-flnanceiro..esso servicosora feito pelo proprio dr.cnmpistn, quo ja escolheu para inseriremnlguns dados sobro o assumpto os se-gttintos jornaes.: lieconomiste, ua sr. lor-oyheauliou, the economist, ll giornalc dei eco-nomiste e 11 economista.eate puro e ohocolaiedo primeira qualidadeso no moinho de ouro.o ministro da viacao, ofllcimi ao rrinre-chal hermos da fonsoca, cotiimunlc.indo-lhe haver punido severnniento "
+      },
+      {
+        "bib": "089842",
+        "ano": "1907",
+        "objeto": "per089842_1907_04043",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "nuacao dos en-cargos e a aspiracao unica.e o que se pretende alcancar nospaizes onde os institutos pensionariosse desenvolvem .sob aspecto vedadei-ramente socialista, i sombra da accaotutelar do estado..a edicao do tlie economist de aode julho, proximo findo, proporcionainformacoes de alto valor instruetirosobre as pensoes a velhice (old-ageponsions).ein 1865 o pl.anon10dcl.1dor desseservico, proporcionando a todos osque attingissem '65. annos d"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02840",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": "11u imi] 11 ilimalima situacao e* horrivel nas provincias ,-i 0 rei nos escombros de bemyente .d. manoel soccorre os feridos *. chapelaria moita -sempre novidades.-gon.alves dias, 63.o brasil xo extl-ltloillondres, 24.o economist publica umartigo, no seu numero de hoje,,em que mani-festa receios de que as despesas para a crea-cao de uma forte marinha de, guerra brasilei-ra arrasteni proximamente o brasil a uma se-ria crise economica. o nosso ser"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02998",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "o, sem capital, ficariamos es-tacionarios muitos annos, si o capitalismo os-trangeiro se recusasse a prestar-nos o seuconcurso. demais, no caso das candidaturaspresidenciais, os conceitos que foram .agoraenunciados pelo the economist e outros jor-naes e revistas da europa nao sao mais doque repeticao do que elles ouvem a brasilei-ros. sao conceitos que elles encontram emitti-dos pela. nossa imprensa e-no nosso parla'-mento. o que elles pensam e diz"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03242",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "ioria de artigo:*, a percentaecm do en-carcciuniito excedia a 24 \"|\".kstttdjutdq. ao mesmo tempo, os precospot* grasso. 110 periodo de 18(17 a 1007, emim;l:ticria, guiali/lorso para esse fim, porum quadro publicado pcio economist, ob-serva que 30 em relacao a cevada e ao cafesc encontrava diminuicao de precos, a sa-ber: ds i pcnny 11a cevada, que de 26 schil-lings c n pehce descera a 26 scliillings cin peiice; e no calt:, que de 95 scliillingsdc"
+      }
+    ],
+    "financial_news": [
+      {
+        "bib": "089842",
+        "ano": "1908",
+        "objeto": "per089842_1908_02570",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "consia-nos que muito breve a administra-cao dos correios do estado de s. paulo teranovo contador,o thesouro resgatou hontem 7 apolicesdo emprestimo de 189\", na importanciade 7:0005000.o brasilno exteriorlondres, 27 o ii financial times inicia hoje uma serie de artigos cm que fazminucioso estudo do projecto da valorizacaodo cafe brasileiro. diz o financial news que foi malsuecedido p emprestimo brazileiro de quatroniilh.es esterlinos, lancado a 22 do c"
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02930",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "om avarias decerta importancia.nao*'se deram desastres pessoaes.*_;\u0000a sessao do senado, hontem, nao teve amenor importancia.por niais 1:111 dia nao houvvotacoes.y estudo he minas e eslrcilas do brasil *1 lonuri-s, 24. o financial news anmin-cia que vae enviar um correspondente aobrasil, afim dc estudar o regimen de minase estradas de ferro, e que sobre esses as-suniptos publicara artigos periodicos.ao presidente da republica foi diri-gido o seguinte "
+      },
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02993",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": ".o delegado chi-'leno foi muilo lippleudido, mini discurso quepronunciou, no congresso ceodesico.o mor*ning post publicou uma lista dos premios deconcurso internacional de aviacao, que se vaeeffceluiir em lllack-l'ool,0 financial newspublicou uma longa lista da serie de empresti-,mos que, proximailicnlc, serao lancados.oaviador americano wilbur wright declarouque perseguira fiidiciuliiiciile iodos aqueilesque importarem iieroplenos dos modelos par-ma"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03153",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "praticando toda essa serie demonstruosidades que tem sido registradas,afini de se salvar o marechal da derroia nasurnas iquanto ao facto de nao deverem tw receiosos portadores de titulos brasileiros, tambemanda errado o financial times. a garantia uni-ca dos credores do brasil e-lhes dada, nao poreste ou por aquelle presidente, nias pela nacaointeira, iabulosamienle rica, vvndo tlueknvol-ver-se, dia a dia, as suas legitimas fontes derenda, e .caminhan"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03235",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "noticias qne oceupam aattencao de soda a imprensa franceza e in-gleza io sr. kilo sabe muito bem com* estas coisasse fazem, e o ministro da fazenda ainda me*lhor sabe por quanto ellas ficam ao thesouro.em compensacao, o financial times, que fazparte de ioda a imprensa ingleza, mas que seinspira directamente no saber e valimento dosseus correspondentes, publica o que consta doseguinte teiegramma do correspondente espe-ciai d'/* noticia:\"londsis, 36. o "
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03239",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "t,k.**i *->!-.< -ajiw-ni**' * tt* ctiiiiii. rs* t\"u*s5*i vm * c e* cttrt ftmtmca tk chojeja >.-.-,.-; jhtlim tmt< 1. |,'iei , ?\".*>, ai^.a, t**mt f*t symlmal. wfcuata v me*iarm telegrannna para a noticiai\"londres. 30 o financial times publicalongo tel cg r.i 111 ma do seu correspondente nokio dc jiiv.iro, informando que, tanto na ca-pitai lo llrnsil como nos seus estados, crescefi opposicao ao projeelo de elevacao da taxacambial, parecendo, por esse "
+      }
+    ],
+    "fuga_de_ouro": [
+      {
+        "bib": "089842",
+        "ano": "1909",
+        "objeto": "per089842_1909_02836",
+        "pagina": "6",
+        "perto_da_caixa": false,
+        "contexto": "am feitas com capitaesnacionaes. para um paiz sem capitaes comoo nosso, ha toda a vantagem ein que as tran-tlcs obras sirvam de ensejo a importacao decapitaes estrangeiros.realizadas com capitaes nacionaes, dao lo-gar a exportacao de ouro para pagamento domaterial importado, o que no caso dc instai-lacocs hydro-elcctricas imporia em 2i3 dadespesa; ao passo que, feitas com capitaesestrangeiros, determinam a importacao tlepelo menos 113 do valor da obra pa"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03212",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "geiros, uao e menos certo que cerca de umterco daquella somma foi exportado pela al-fandega, tendo ate sido elogiado o actual mi-nistro da fazenda pela imprensa, por terseguido o exemplo do seu anfceessor, naoonerando a saida do ouro pela alfandega,com os encargos qae a lei dc receita facultaao governo lancar sobre a exportacao (iometal precioso, quando nao seja procedentede exploracoes mineiras da irepulliica. :a exportacao de ouro no primerro tn-m"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03215",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "meiro trimestre do anno cor-rente. foi ella de 169.134:26i$ooo, corres-pondentes a 10.570.899 libras. a importacaoaceusa augmento, em relacao a periodoseguaes dos annos anteriores. mas a esse au-gmento corresponde maior saida de ouro, oque nao deve ser esquecido.e' conveniente, para registro de factos,mencionar os totaes das importacoes cm pe-riodos comparados, e em libras esterlinas.eis o que diz a estatisticas1906 1907 1908 1909\u0000j9t0meses libras\u0000l"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03219",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "ivel sttrccda &parte do ja entrado, estatielecer-se-ia con-correncia entre os tomadores de cambio;e o resultado serta-este descer ate & laxaa que tinha sido feita a emissao das no-tas que' o representavam. como, poaim, asaida do ouro nao podia exceder a entradapor especulacao, nem nor isso o stoek def i-nitivamente admiirido ficaria prejudicado.em todo o caso, o espectro do papelismodesapparcceria definitivamente, desde queassentava em base dc ouro "
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03400",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "ruinosa applica-cao, pode ser motivada pela acceleracaqpassageira da exportacao de produetos deuma safra normal, etc.nem por isso, entretanto, deixa de ma-nifestar-se a alta cambial, que.,sendo,comosempre, um estimulo a saida do ouro, cx-pelle violentamente para o exterior o me-ta! momentaneamente' stiperabuiidantc; des-perta desejos adormecidos de operacoes debolsa cm busca de justificado lucro; in-tensifica e concentra momentaneamente. aimportacao"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03440",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "ssas partidas e contra-partidas do deve e havcr e balanceadas en-tre si. vt'rifica-se -a favor de qual dos ladosha saldo e contra qual dclles ha dcfkil. opaiz qtie tiver saldo a seu favor, que tiveriiator entrada do que saida de ouro terafatalmente cambio favoravel.- e' bem evi-dente a difficuldadc ,quasi invencivel de, em.iado momento, conhecer-se o estado real desaldo ou de defieit nesse' balanco: em pn-meiro logar, entr. as exigibilidades citadas"
+      }
+    ],
+    "cotacao_londres": [
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03108",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": "ravam a por-ta de uma casa commercial. de pedaco a peda-co, chegavam-se h ella, experimentavam a ne-sistcncia e voltavam.\u0000 \u0000.um guarda civil desconfiou e, de vagar, mui-to manso, foi chegando para juntodos dois, que, na-praca de londres.la paz, 18 os jornaes referem-se,com pczair, as noticias que chegam dos de-patamcntbs que. as colheitas do correnteanno sao tao escassas que nao ha noticiade semelhante' crise na lavoura.os generos de primeira necessida"
+      },
+      {
+        "bib": "089842",
+        "ano": "1910",
+        "objeto": "per089842_1910_03125",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": " mimando do capitao demar c guerra baptista das neves.a partida so tera logar si o tempo o per-mittir, devendo o nosso grande couracadochegar aquelle paiz a 20 do corrente. o emprestimo brasileiroo emprestimo lancado na praca de londres,na importancia de 10 milhoes de libras, desti-nado a conversao da divida publica, do typode 5 0|n, para 4\"|\", foi, hontem mesmo, ecompletamente, coberto.assim o comnumicou, cm telegramma, o sr.rothschild ao ministro da "
+      },
+      {
+        "bib": "089842",
+        "ano": "1913",
+        "objeto": "per089842_1913_05232",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "nos ilo que p gaz, ainda que dentrole cinco minutos tenha qtte tornar aaccenilcr o_ ios..o, conserve apa 'ado oi.i?-cs~*i\"* cnc0 a-iau'0i. socieli .\\uo-nj-ttne du oaz.o estado dc s. paulo vae lancaro-.ttro emprestimo na praca de londres.trata-se de tres milhoes, ao typo de.7 i|8.da verba levantada, oitocentas mi]libras serao destinadas ao recmliolso deadcantaiiicntos ia feitos ao governo pau-lista.e assim vae augmentando a onda dosclv._>ri?\"*-t:[i1(1s."
+      },
+      {
+        "bib": "089842",
+        "ano": "1913",
+        "objeto": "per089842_1913_05365",
+        "pagina": "1",
+        "perto_da_caixa": false,
+        "contexto": "rio a com-parecer ao servico, em prazo fixado,isso para quepossa ser resolvido o pe-dido \"de 'ceritdaovfcilo p\"!o dito cx-funecionario. '], titulosem baixa0 principio do fim - voltaram a cair os titulos brasi-leiros no mercado de londres.dando esta informacao, nm tele-gramma para a noticia dis que nbaixa, que esta sondo muito com-montada, pode ser attribuida a -umreflexo da depressao geral ua boi-sa dc londres, devido as complica-coes internacionaes que"
+      },
+      {
+        "bib": "090972",
+        "ano": "1908",
+        "objeto": "per090972_1908_15996",
+        "pagina": "5",
+        "perto_da_caixa": false,
+        "contexto": "o soffreumodificacao durante a semana.os mercados extrangeiros tambempermaneceram estaveis.no havre, as cotacoes para marcowcillaram entre 4u 1/2 fr. a 13 fr.km hamburgo, as cotacoes oscilla-ram entre 32 1/2 pf. a 33 pf.em londres, as cotacoes foram 30 b.8 d. e 30 s. e 6 d.em nova york, foram, 5.90 e 5.95. venderam-se em mantos 68.618saccas, passaram 74.372 saccas e exis-tiiun no fim da semana 1.219.792 saccas,contra 100.467, 83.963, 1.323.144^na semana p"
+      },
+      {
+        "bib": "090972",
+        "ano": "1908",
+        "objeto": "per090972_1908_16266",
+        "pagina": "6",
+        "perto_da_caixa": false,
+        "contexto": "& rnzso do...\u0000i*i0268000. limpiostimo de 1903: 2 q\u0000\u00001:017c000j dito: 3 q\u0000\u00001:020$000bmprestimo municipal (fi 20):4. 43 iv.\u0000\u000027fi$000estudo do minas: 17 a \u0000\u0000826$000estudo do rio (4 %): 49 d\u0000\u000005$50odito (0 %): 14 d\u0000\u0000420$000bolsa de londrestitulos biusilb1rosdia 18\u0000imt\u0000snno pas.apolicesde 18s9, 4 oio . v 81\u000081\u000077 3|4du 1893, 5 op . . 93\u000093\u000092t|2de 1903, 5 olo . . 95\u000095\u0000. 02 1*2ftinding loan . . 104\u0000104\u0000100 1]2oesto de minas,5o|o 93\u000098\u000091 1|2consolidados in"
+      }
+    ],
+    "ansiaux": [
+      {
+        "bib": "089842",
+        "ano": "1914",
+        "objeto": "per089842_1914_05655",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "mesma quantidade df:moeda circulante e o cambio allingia.a tasn-de e? tt\\\\.- - -., ius ahi a que, se rrduz . a tol fata-odade ;da lei meeanica que ajonja omeio circulante, a taxa! cambial..j,.' .por. issoijxiue nogaro c ansiaux tua, aprove- nado contra\u0000tal procedimento, disse-; ' !?'* tlctieit- deixado pelao dono do\u0000armazem que eu fosse \"\"'l'''\" c;ii>.vl obnga c gove-iio 11 ele-ixar-inp ao\u0000bispo e r.o correio da ''ar. \", e'msm ale 3;; milhoe"
+      },
+      {
+        "bib": "090972",
+        "ano": "1913",
+        "objeto": "per090972_1913_17982",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": "xcessivo e sempre prejudi-m citarei, cm apoio do que aifirmo, a opi-niao de negaro, que textualmente du: adifficuidade em obter ouro e a queda docambio nao depende, ao menos directamec-te da quantidade da moeda interior.ansiaux, professor (le economia politicaem bruxellas, o affirma textualmente, de-pois de contestar tambem a influencia no-eiva sobre o cambio das emissoes nao exag-\"'e* fora de duvida que o balanco das con-tas internacionaes e "
+      },
+      {
+        "bib": "178691",
+        "ano": "1910",
+        "objeto": "per178691_1910_09488",
+        "pagina": "2",
+        "perto_da_caixa": false,
+        "contexto": "-ia em que nos encontramos, apos quasium seculo de'-frustradas tentativas, parasairmos do regimen condemnado da ineon-versibilidade. adolpho wagner, colson,schmoller, lorini, la bordere, rafalo-vich c niodernissimamente ansiaux tra-tando da politica reguladora dos cambios,todos sao unanimes cm defender a neces-sidiidc de estabilizar a taxa e em assegu-rar \"a conversibilidade pratica do papelcm ouro 110 curso em que estiver co-tado\", creanrio i"
+      },
+      {
+        "bib": "178691",
+        "ano": "1910",
+        "objeto": "per178691_1910_09544",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": ", a eiticni incumbe apenas, comointeressados na estabilidade dos cursoscambiaes, evitar os bastos cxaggerados, odesequilibrio dos orcamentos, melhorandoo credito do estacio, pela severa observa-cia da balanca das contas.ansiaux, tratando dos problemas pra-ticos da politica ela correccao elos cambios depreciados assim se exprime:'la s-econde qtiestion que nous avonsa resoiitlre est celle de savoi-r comiiieni ilfaut s'y prendre pour slabiliscr l"
+      },
+      {
+        "bib": "178691",
+        "ano": "1910",
+        "objeto": "per178691_1910_09576",
+        "pagina": "5",
+        "perto_da_caixa": true,
+        "contexto": "r pendant ces-\u0000trois dennierea annees, sur sonideveloppement economique\".(rafalovich, le marchefinanciei*, 1909-1910) .e o mesmo autor, cujos conceitoseao confirmados por outros (jose'maria-; \"l.a reforma monotaria\",ju. ansiaux, \"principes\", de \"lapolitique regulatrice des changes\",etc.) affirma com razao:grace a ces mesures (re-duccao de papel-mooda ocreacao da caixa de conver-sao) appliquees en 1900, lebresil a pu, pendant ces der-nieres aii"
+      },
+      {
+        "bib": "178691",
+        "ano": "1913",
+        "objeto": "per178691_1913_10537",
+        "pagina": "3",
+        "perto_da_caixa": false,
+        "contexto": "appa dos santos, paraa 1* escola mixta do 6j districto, ccarmen monteiro dc souza ferrei-ra. para a 1* escola mixta do 8\" dis-tricto. i uas necessidades da praca, pelos encaixes dos bancos.o mesmo economista, o professoransiaux, iambem contra semelhantecriterio sc iebellou, demonstrando-lheo nenhum fundamento. um encaixequo nao pode funecionar ou ciue fun-celonn incompletamente nao se podecomparar a outro, mesmo mais redu- ido (iue preencha n"
+      }
+    ],
+    "rafalovich": [
+      {
+        "bib": "178691",
+        "ano": "1910",
+        "objeto": "per178691_1910_09576",
+        "pagina": "5",
+        "perto_da_caixa": true,
+        "contexto": "enumt 1'umourpropre bresilien, lo brcsil doitsongetr a maintenir \"a toutprix la flxite du change\",' dont les offets bienfaisunts sesont falt sentir pendant ces-\u0000trois dennierea annees, sur sonideveloppement economique\".(rafalovich, le marchefinanciei*, 1909-1910) .e o mesmo autor, cujos conceitoseao confirmados por outros (jose'maria-; \"l.a reforma monotaria\",ju. ansiaux, \"principes\", de \"lapolitique regulatrice des changes\",etc.) affirma com raz"
+      }
+    ]
+  }
+}

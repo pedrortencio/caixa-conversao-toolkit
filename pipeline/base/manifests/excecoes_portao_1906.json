@@ -2,8 +2,8 @@
   "protocolo": "portao-1906",
   "versao": "1.0.0",
   "pre_registro": "docs/decisoes.md, entrada de 2026-07-18, item 3",
-  "aprovado_por": null,
-  "aprovado_em": null,
+  "aprovado_por": "pedro",
+  "aprovado_em": "2026-08-03",
   "nota": "PROPOSTA, NAO RATIFICADA. Enquanto aprovado_por for null o portao reprova e nenhum lote pago roda. Duas coisas dependem de Pedro: (a) confirmar a CLASSE de cada item, porque as duas do Correio da Manha podem ser manifestacao_coalescida em vez de excecao_terminal (so existe a variante B no DocReader, nao ha A01869 nem A01870); (b) preencher aprovado_por e aprovado_em. Ver docs/relatorio-cobertura-censo.md e a entrada de 2026-07-18 em docs/decisoes.md.",
   "excecoes": [
     {
