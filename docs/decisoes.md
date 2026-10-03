@@ -585,3 +585,138 @@ coincidencia, e a ultima palavra segue sendo a da imagem.
 `citacao_verbatim` das tres para cobrir a passagem impressa, como ja foi feito
 em 03/08 com cinco citacoes curtas demais. Feito isso, a conferencia de
 substring volta a passar sobre o span maior e o veredito sai de `estendida`.
+
+---
+
+## 2026-08-12 - Acervo do Estadao: viabilidade tecnica medida, corpus ainda NAO decidido
+
+Pedro perguntou se dava para extrair o acervo proprio do Estadao, supondo que
+bloquearia. Piloto rodado no mesmo dia. **Nao bloqueia, e e mais facil que a BN.**
+
+**O que o acervo e.** Internet Archive BookReader sobre base PHP antiga, com tres
+endpoints abertos, sem autenticacao:
+
+| endpoint | papel |
+|---|---|
+| `servicos/timeLinePaginas.php?dia=&mes=&ano=` | lista as paginas da edicao POR DATA |
+| `servicos/montaPagina.php?nome_arquivo=` | resolve a URL da imagem em alta |
+| `procura/busca.php?busca=&year=&page=` | busca de texto completo, 10 por pagina |
+
+Resolver edicao por data resolve de graca o problema que na BN custou trabalho.
+A imagem em alta tem salt no nome (`-xawggqa`), estavel por arquivo mas nao
+derivavel, entao `montaPagina.php` e obrigatorio antes de cada baixa.
+
+**Medicoes.** Resolucao 2506x3362 contra ~2069x3000 dos scans da BN, sem marca
+d'agua. Cobertura integral: uma data por ano, 9 de 9. Colheita completa da edicao
+10228 de 07/12/1906, 6 de 6 paginas, 46 s.
+
+**Triagem por mencao ao nome, termo unico "caixa de conversao", 1906-1914:**
+1334 paginas distintas em 1201 edicoes, ~2,1 GB.
+
+**Checagem de sanidade que importa.** Em 1906 sao 95 edicoes do Estadao mencionando
+a Caixa. O gabarito do piloto de 1906 na BN da O Paiz 79, Correio Paulistano 94,
+Gazeta 146, Correio da Manha 110. O Estadao cai no meio da distribuicao, o que
+sugere que o indice do acervo se comporta de forma comparavel a triagem da BN, e
+nao que o mecanismo de busca diferente produz recorte enviesado.
+
+### Quatro erros de medicao cometidos nesta sessao, todos virados em teste
+
+Registro porque cada versao errada parecia plausivel e dava numero redondo, e
+porque o padrao que resolveu vale para o objeto 2.
+
+1. **Contador errado.** A pagina traz "Foram encontrados N registros" e "Exibindo
+   M ocorrencias", com N sempre 23 acima de M, em todo ano e na busca sem filtro.
+   So M conta. Produziu uma "perda de 15,6%" anunciada e inexistente.
+2. **Ocorrencia nao e pagina.** Pagina que menciona o termo duas vezes ocupa dois
+   resultados. Em 1908: 156 ocorrencias, 126 paginas distintas.
+3. **Deteccao de falha por substring.** Checar `"Servidor ocupado" in html` marca
+   toda resposta boa como falha: a string vive num handler JS de fallback do
+   histograma de decadas, presente em todas. Zerou anos inteiros.
+4. **Contagem inflada por marcacao.** Cada card repete o link 5 vezes (3 sem
+   sessao). Contar `len(achados)` inflou o servido em 5x e fez a afericao de
+   completude passar por engano, marcando 1914 como completo.
+
+**O que tirou do buraco nao foi raciocinar melhor, foi parar de comparar
+agregados e contar itens nomeadamente**, pagina de resultado por pagina de
+resultado, ate os numeros fecharem. Vale para a estimativa do objeto 2.
+
+### Limitacao real, do acervo e nao do instrumento
+
+**1914 promete 169 ocorrencias e serve 159.** A falta esta espalhada por paginas
+de resultado que voltam com 7 a 9 cards em vez de 10. Causa desconhecida,
+provavelmente registro cujo scan foi retirado. Os outros oito anos fecham
+servidas == prometidas. O enumerador grita `INCOMPLETO` por ano e o CSV carrega
+as duas contagens.
+
+### Tres coisas que NAO foram decididas aqui
+
+**Corpus.** Incluir o Estadao como quinto jornal altera a definicao do corpus e e
+decisao de Pedro pelo gate de responsabilidade, nao de sessao. O piloto so removeu
+a premissa de inviabilidade que `CLAUDE.md` registrava ("Estadao fica para fase
+futura").
+
+**Confundimento novo.** O Estadao entra com digitalizacao de OUTRA origem,
+resolucao e pipeline diferentes dos quatro da BN. Isso alinha fonte de
+digitalizacao com jornal, exatamente a variavel de interesse. Ja ha registro de
+que ruido de OCR por celula jornal-ano derrubou uma justificativa de analise
+(28/07). Tem conserto medindo ruido por celula e tratando como covariavel, mas e
+custo a pagar antes de comparar Estadao com os outros quatro.
+
+**Lista de termos.** A triagem usa UM termo, menção pelo nome, que e inventario e
+nao passa pelo gate. Ampliar para "valorizacao", "papel-moeda", "convenio de
+Taubate" e selecao segundo o construto e passa pelo gate de
+`docs/contexto-debate-metodologico-mensuracao.md` antes de rodar. O parametro
+`--termo` existe para depois dessa decisao.
+
+### Estatuto juridico e institucional
+
+Material de 1906-1914 e dominio publico e reproducao fiel nao gera direito novo.
+Mas o robots.txt do dominio proibe explicitamente `anthropic-ai` e `ClaudeBot` no
+site inteiro. Por isso **o espelho completo dos nove anos (~40 mil paginas, ~60 GB)
+foi recusado** e so a colheita triada foi feita, que e uso de assinante e cabe na
+secao de metodo. Rascunho de pedido de licenciamento academico, que e a via limpa
+para o acervo completo, em `colaboracao/rascunho-email-licenciamento-estadao.md`.
+
+**Codigo.** `pipeline/scraper/estadao.py`, `estadao_enumera.py`,
+`estadao_download.py`; 20 testes em `tests/test_estadao.py`. Imagens em
+`C:\dados-caixa\estadao`, manifesto versionado em `dados/scraping/estadao/`.
+
+### Colheita fechada, e um defeito no indice do PROPRIO acervo
+
+1334 paginas baixadas, 1334 ok, zero 404, zero erro, 1,93 GB, todas em alta
+(largura mediana 2520). Manifesto com proveniencia e sha256 por pagina em
+`dados/scraping/estadao/manifesto.csv`.
+
+A conferencia do manifesto contra o disco achou **1326 imagens distintas para
+1334 registros**, e puxar esse fio revelou defeito de metadado no acervo, em
+duas classes que pedem acoes OPOSTAS:
+
+**Classe A, numero de edicao corrompido, data correta. 3 casos.**
+09/05/1910 = ed 11470, 10/05/1910 = ed **11174**, 11/05/1910 = ed 11472. O 11174
+e o 11471 com digitos trocados, e o proprio `montaPagina.php` confirma que o
+arquivo e a "EDICAO DE 10 DE Maio DE 1910". Corrigir a data aqui estragaria um
+registro bom.
+
+**Classe B, data fantasma, edicao correta. 8 casos, todos em julho de 1913.**
+A edicao 12658 e de 15/08/1913, e aparece TAMBEM sob 15/07/1913, mesmo salt no
+nome e bytes identicos. O registro de julho nao existe.
+
+**A ordem de deteccao importa e custou um falso positivo.** Um fantasma de classe
+B senta na serie com a edicao de outro mes e faz o dia seguinte parecer
+corrompido: 16/07/1913 ed 12628 acusava inversao, quando 12628 e exatamente a
+edicao correta daquele dia. Detectar B e remove-lo antes de rodar A derruba a
+contagem de 4 para 3.
+
+**Por que isso importa para a pesquisa.** Se a unidade de analise for edicao-dia,
+A quebra a chave e B fabrica dias de publicacao que nao houve, ambos deslocando
+contagem por periodo. O `CLAUDE.md` ja registra a armadilha da mesma peca
+circulando ENTRE jornais; esta e dentro do mesmo jornal, e nao estava prevista.
+
+Implementado em `pipeline/scraper/estadao_integridade.py`, deterministico e sem
+rede, com saida em `dados/scraping/estadao/auditoria_integridade.csv`. Nenhuma
+imagem foi alterada e nenhum registro foi removido: a correcao e de metadado e e
+curadoria, decisao de Pedro. Suite: 570 testes.
+
+**Pendente para o Pedro.** Decidir o destino dos 8 fantasmas (descartar e o mais
+provavel) e conferir na pagina as 3 edicoes de classe A antes de qualquer
+agregacao por edicao-dia.
