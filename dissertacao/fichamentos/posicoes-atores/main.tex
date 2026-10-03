@@ -1,0 +1,61 @@
+\documentclass[12pt,oneside]{report}
+
+\input{../../configuracao/preambulo}
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black}
+
+% ---------------------------------------------------------------------------
+% Macros do fichamento de fontes primárias.
+% Toda citação direta passa por \tr (no corpo da frase) ou \cit (em bloco).
+% O argumento opcional é o código da fonte, lido por confere_citacoes.py:
+%   P:vol:pdf            Documentos Parlamentares, página do PDF (impressa = pdf - 6)
+%   I:edição:página      texto embutido da Hemeroteca (OCR-BN)
+% O código não é impresso. A adaga marca citação aproximada por OCR.
+% ---------------------------------------------------------------------------
+\newcounter{ncit}
+\newcommand{\marcacit}{\stepcounter{ncit}%
+  \ifcsname stcit@\thencit\endcsname\csname stcit@\thencit\endcsname\fi}
+\newcommand{\tr}[2][]{``#2''\marcacit}
+\newcommand{\cit}[3][]{\begin{quote}\small ``#2''\marcacit\ (#3)\end{quote}}
+
+% Referências: \dpa{p.~226} e \dpb{p.~13} para os dois volumes;
+% \jor{chave}{Jornal}{data}{página} para a imprensa.
+\newcommand{\dpa}[1]{\cite[#1]{docparl1914v1}}
+\newcommand{\dpb}[1]{\cite[#1]{docparl1914v2}}
+\newcommand{\jor}[4]{\textit{#2}, #3, p.~#4\nocite{#1}}
+
+\newcommand{\ficha}[1]{\chapter{#1}}
+\newcommand{\bloco}[1]{\section*{#1}}
+
+\InputIfFileExists{conferencia-status}{}{}
+
+\title{Fichamento de fontes primárias\\[0.5em]
+\large Posições dos atores sobre a Caixa de Conversão, 1906 a 1914:\\
+Documentos Parlamentares e imprensa diária}
+\author{Pedro Ortencio Pires de Campos Telles}
+\date{Outubro de 2026}
+
+\begin{document}
+\maketitle
+\pagenumbering{roman}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+
+\input{introducao}
+\input{fichas/01-criacao-vencidos}
+\input{fichas/02-criacao-defensores}
+\input{fichas/03-fora-do-plenario-1906}
+\input{fichas/04-operacao-1907-1909}
+\input{fichas/05-elevacao-1910}
+\input{fichas/06-crise-1913}
+\input{fichas/07-emissao-troco-1914}
+\input{fichas/08-voz-dos-jornais}
+\input{sintese}
+
+\bibliographystyle{apalike}
+\bibliography{../../bibliografia/referencias,fontes-primarias}
+
+\end{document}

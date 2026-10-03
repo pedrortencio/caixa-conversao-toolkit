@@ -1,0 +1,22 @@
+% Modelo de ficha de leitura. Cada ficha é um \chapter com blocos fixos.
+% Regras: vírgula no lugar de travessão; ortografia atual fora de citação;
+% citações diretas curtas, sempre com página; nada de "cabe ressaltar".
+
+\newcommand{\ficha}[2]{\chapter[#1]{#1}\label{ficha:#2}\nocite{#2}}
+
+% Bloco de identificação: referência ABNT completa e dados de leitura.
+\newenvironment{identificacao}{%
+  \section*{Referência}\begin{small}}{\end{small}}
+
+\newcommand{\bloco}[1]{\section*{#1}}
+
+% Citação-chave com página: \chave{texto}{p. 12}
+\newcommand{\chave}[2]{%
+  \begin{quote}\small ``#1'' (#2)\end{quote}}
+
+% Ponto de diálogo com as fontes primárias: \dialogo{o que procurar nos jornais}
+\newenvironment{dialogo}{%
+  \section*{Pontes para as fontes primárias}\begin{itemize}[leftmargin=*,nosep]}{\end{itemize}}
+
+% Uso no capítulo: em qual parte da estrutura entra.
+\newcommand{\usonocapitulo}[1]{\section*{Uso no capítulo}#1}
