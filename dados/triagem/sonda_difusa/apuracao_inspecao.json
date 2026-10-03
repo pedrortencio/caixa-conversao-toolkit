@@ -1,0 +1,1610 @@
+{
+  "protocol_name": "inspecao-sonda-difusa",
+  "protocol_version": "1.0.0",
+  "semente": 20260812,
+  "por_distancia": {
+    "1": {
+      "lidas": 30,
+      "genuinas": 30,
+      "precisao": 1.0,
+      "ic95": [
+        0.8865,
+        1.0
+      ]
+    },
+    "2": {
+      "lidas": 30,
+      "genuinas": 30,
+      "precisao": 1.0,
+      "ic95": [
+        0.8865,
+        1.0
+      ]
+    },
+    "3": {
+      "lidas": 30,
+      "genuinas": 29,
+      "precisao": 0.9667,
+      "ic95": [
+        0.8333,
+        0.9941
+      ]
+    },
+    "4": {
+      "lidas": 30,
+      "genuinas": 18,
+      "precisao": 0.6,
+      "ic95": [
+        0.4232,
+        0.7541
+      ]
+    },
+    "5": {
+      "lidas": 30,
+      "genuinas": 23,
+      "precisao": 0.7667,
+      "ic95": [
+        0.5907,
+        0.8821
+      ]
+    },
+    "6": {
+      "lidas": 30,
+      "genuinas": 5,
+      "precisao": 0.1667,
+      "ic95": [
+        0.0734,
+        0.3356
+      ]
+    },
+    "7": {
+      "lidas": 30,
+      "genuinas": 4,
+      "precisao": 0.1333,
+      "ic95": [
+        0.0531,
+        0.2968
+      ]
+    },
+    "8": {
+      "lidas": 30,
+      "genuinas": 1,
+      "precisao": 0.0333,
+      "ic95": [
+        0.0059,
+        0.1667
+      ]
+    }
+  },
+  "total": {
+    "lidas": 240,
+    "genuinas": 140,
+    "precisao": 0.5833,
+    "ic95": [
+      0.5201,
+      0.6439
+    ]
+  },
+  "nao_lidas": 0,
+  "estimativa_de_falsos_negativos": {
+    "2": {
+      "limiar": 2,
+      "celulas": [
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1906,
+          "paginas_examinadas": 2557,
+          "paginas_sinalizadas": 19,
+          "paginas_estimadas": 19.0,
+          "estimadas_ic95": [
+            16.8,
+            19.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00743
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1907,
+          "paginas_examinadas": 2758,
+          "paginas_sinalizadas": 40,
+          "paginas_estimadas": 40.0,
+          "estimadas_ic95": [
+            35.5,
+            40.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0145
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1908,
+          "paginas_examinadas": 3239,
+          "paginas_sinalizadas": 13,
+          "paginas_estimadas": 13.0,
+          "estimadas_ic95": [
+            11.5,
+            13.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00401
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1909,
+          "paginas_examinadas": 2995,
+          "paginas_sinalizadas": 26,
+          "paginas_estimadas": 26.0,
+          "estimadas_ic95": [
+            23.0,
+            26.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00868
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1910,
+          "paginas_examinadas": 3149,
+          "paginas_sinalizadas": 71,
+          "paginas_estimadas": 71.0,
+          "estimadas_ic95": [
+            62.9,
+            71.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02255
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1911,
+          "paginas_examinadas": 3863,
+          "paginas_sinalizadas": 60,
+          "paginas_estimadas": 60.0,
+          "estimadas_ic95": [
+            53.2,
+            60.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01553
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1912,
+          "paginas_examinadas": 4556,
+          "paginas_sinalizadas": 50,
+          "paginas_estimadas": 50.0,
+          "estimadas_ic95": [
+            44.3,
+            50.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01097
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1913,
+          "paginas_examinadas": 4730,
+          "paginas_sinalizadas": 46,
+          "paginas_estimadas": 46.0,
+          "estimadas_ic95": [
+            40.8,
+            46.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00973
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1914,
+          "paginas_examinadas": 3996,
+          "paginas_sinalizadas": 57,
+          "paginas_estimadas": 57.0,
+          "estimadas_ic95": [
+            50.5,
+            57.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01426
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1906,
+          "paginas_examinadas": 1958,
+          "paginas_sinalizadas": 17,
+          "paginas_estimadas": 17.0,
+          "estimadas_ic95": [
+            15.1,
+            17.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00868
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1907,
+          "paginas_examinadas": 2031,
+          "paginas_sinalizadas": 18,
+          "paginas_estimadas": 18.0,
+          "estimadas_ic95": [
+            16.0,
+            18.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00886
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1908,
+          "paginas_examinadas": 1468,
+          "paginas_sinalizadas": 15,
+          "paginas_estimadas": 15.0,
+          "estimadas_ic95": [
+            13.3,
+            15.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01022
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1909,
+          "paginas_examinadas": 2310,
+          "paginas_sinalizadas": 35,
+          "paginas_estimadas": 35.0,
+          "estimadas_ic95": [
+            31.0,
+            35.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01515
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1910,
+          "paginas_examinadas": 2532,
+          "paginas_sinalizadas": 53,
+          "paginas_estimadas": 53.0,
+          "estimadas_ic95": [
+            47.0,
+            53.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02093
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1911,
+          "paginas_examinadas": 3329,
+          "paginas_sinalizadas": 42,
+          "paginas_estimadas": 42.0,
+          "estimadas_ic95": [
+            37.2,
+            42.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01262
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1912,
+          "paginas_examinadas": 3704,
+          "paginas_sinalizadas": 23,
+          "paginas_estimadas": 23.0,
+          "estimadas_ic95": [
+            20.4,
+            23.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00621
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1913,
+          "paginas_examinadas": 3977,
+          "paginas_sinalizadas": 10,
+          "paginas_estimadas": 10.0,
+          "estimadas_ic95": [
+            8.9,
+            10.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00251
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1914,
+          "paginas_examinadas": 2947,
+          "paginas_sinalizadas": 30,
+          "paginas_estimadas": 30.0,
+          "estimadas_ic95": [
+            26.6,
+            30.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01018
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1906,
+          "paginas_examinadas": 2477,
+          "paginas_sinalizadas": 32,
+          "paginas_estimadas": 32.0,
+          "estimadas_ic95": [
+            28.4,
+            32.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01292
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1907,
+          "paginas_examinadas": 2153,
+          "paginas_sinalizadas": 57,
+          "paginas_estimadas": 57.0,
+          "estimadas_ic95": [
+            50.5,
+            57.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02647
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1908,
+          "paginas_examinadas": 2363,
+          "paginas_sinalizadas": 53,
+          "paginas_estimadas": 53.0,
+          "estimadas_ic95": [
+            47.0,
+            53.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02243
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1909,
+          "paginas_examinadas": 2639,
+          "paginas_sinalizadas": 63,
+          "paginas_estimadas": 63.0,
+          "estimadas_ic95": [
+            55.8,
+            63.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02387
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1910,
+          "paginas_examinadas": 2506,
+          "paginas_sinalizadas": 95,
+          "paginas_estimadas": 95.0,
+          "estimadas_ic95": [
+            84.2,
+            95.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03791
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1911,
+          "paginas_examinadas": 2528,
+          "paginas_sinalizadas": 99,
+          "paginas_estimadas": 99.0,
+          "estimadas_ic95": [
+            87.8,
+            99.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03916
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1912,
+          "paginas_examinadas": 1755,
+          "paginas_sinalizadas": 38,
+          "paginas_estimadas": 38.0,
+          "estimadas_ic95": [
+            33.7,
+            38.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02165
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1914,
+          "paginas_examinadas": 2347,
+          "paginas_sinalizadas": 36,
+          "paginas_estimadas": 36.0,
+          "estimadas_ic95": [
+            31.9,
+            36.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01534
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1906,
+          "paginas_examinadas": 2370,
+          "paginas_sinalizadas": 20,
+          "paginas_estimadas": 20.0,
+          "estimadas_ic95": [
+            17.7,
+            20.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00844
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1907,
+          "paginas_examinadas": 1686,
+          "paginas_sinalizadas": 25,
+          "paginas_estimadas": 25.0,
+          "estimadas_ic95": [
+            22.2,
+            25.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01483
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1908,
+          "paginas_examinadas": 3118,
+          "paginas_sinalizadas": 17,
+          "paginas_estimadas": 17.0,
+          "estimadas_ic95": [
+            15.1,
+            17.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00545
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1909,
+          "paginas_examinadas": 3472,
+          "paginas_sinalizadas": 27,
+          "paginas_estimadas": 27.0,
+          "estimadas_ic95": [
+            23.9,
+            27.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00778
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1910,
+          "paginas_examinadas": 4565,
+          "paginas_sinalizadas": 86,
+          "paginas_estimadas": 86.0,
+          "estimadas_ic95": [
+            76.2,
+            86.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01884
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1911,
+          "paginas_examinadas": 4406,
+          "paginas_sinalizadas": 123,
+          "paginas_estimadas": 123.0,
+          "estimadas_ic95": [
+            109.0,
+            123.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02792
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1912,
+          "paginas_examinadas": 4413,
+          "paginas_sinalizadas": 118,
+          "paginas_estimadas": 118.0,
+          "estimadas_ic95": [
+            104.6,
+            118.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02674
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1913,
+          "paginas_examinadas": 5702,
+          "paginas_sinalizadas": 99,
+          "paginas_estimadas": 99.0,
+          "estimadas_ic95": [
+            87.8,
+            99.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01736
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1914,
+          "paginas_examinadas": 4775,
+          "paginas_sinalizadas": 92,
+          "paginas_estimadas": 92.0,
+          "estimadas_ic95": [
+            81.6,
+            92.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01927
+        }
+      ],
+      "total": {
+        "paginas_examinadas": 109374,
+        "paginas_sinalizadas": 1705,
+        "paginas_estimadas": 1705.0,
+        "estimadas_ic95": [
+          1511.4,
+          1705.0
+        ],
+        "paginas_sem_precisao_medida": 0,
+        "taxa_estimada": 0.01559
+      }
+    },
+    "3": {
+      "limiar": 3,
+      "celulas": [
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1906,
+          "paginas_examinadas": 2557,
+          "paginas_sinalizadas": 35,
+          "paginas_estimadas": 34.5,
+          "estimadas_ic95": [
+            30.2,
+            34.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01348
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1907,
+          "paginas_examinadas": 2758,
+          "paginas_sinalizadas": 58,
+          "paginas_estimadas": 57.4,
+          "estimadas_ic95": [
+            50.5,
+            57.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02081
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1908,
+          "paginas_examinadas": 3239,
+          "paginas_sinalizadas": 25,
+          "paginas_estimadas": 24.6,
+          "estimadas_ic95": [
+            21.5,
+            24.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0076
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1909,
+          "paginas_examinadas": 2995,
+          "paginas_sinalizadas": 40,
+          "paginas_estimadas": 39.5,
+          "estimadas_ic95": [
+            34.7,
+            39.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0132
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1910,
+          "paginas_examinadas": 3149,
+          "paginas_sinalizadas": 102,
+          "paginas_estimadas": 101.0,
+          "estimadas_ic95": [
+            88.8,
+            101.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03206
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1911,
+          "paginas_examinadas": 3863,
+          "paginas_sinalizadas": 89,
+          "paginas_estimadas": 88.0,
+          "estimadas_ic95": [
+            77.4,
+            88.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02279
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1912,
+          "paginas_examinadas": 4556,
+          "paginas_sinalizadas": 68,
+          "paginas_estimadas": 67.4,
+          "estimadas_ic95": [
+            59.3,
+            67.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01479
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1913,
+          "paginas_examinadas": 4730,
+          "paginas_sinalizadas": 60,
+          "paginas_estimadas": 59.5,
+          "estimadas_ic95": [
+            52.4,
+            59.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01259
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1914,
+          "paginas_examinadas": 3996,
+          "paginas_sinalizadas": 64,
+          "paginas_estimadas": 63.8,
+          "estimadas_ic95": [
+            56.4,
+            64.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01596
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1906,
+          "paginas_examinadas": 1958,
+          "paginas_sinalizadas": 22,
+          "paginas_estimadas": 21.8,
+          "estimadas_ic95": [
+            19.2,
+            22.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01115
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1907,
+          "paginas_examinadas": 2031,
+          "paginas_sinalizadas": 24,
+          "paginas_estimadas": 23.8,
+          "estimadas_ic95": [
+            21.0,
+            24.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01172
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1908,
+          "paginas_examinadas": 1468,
+          "paginas_sinalizadas": 17,
+          "paginas_estimadas": 16.9,
+          "estimadas_ic95": [
+            15.0,
+            17.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01154
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1909,
+          "paginas_examinadas": 2310,
+          "paginas_sinalizadas": 44,
+          "paginas_estimadas": 43.7,
+          "estimadas_ic95": [
+            38.5,
+            43.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01892
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1910,
+          "paginas_examinadas": 2532,
+          "paginas_sinalizadas": 62,
+          "paginas_estimadas": 61.7,
+          "estimadas_ic95": [
+            54.5,
+            61.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02437
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1911,
+          "paginas_examinadas": 3329,
+          "paginas_sinalizadas": 53,
+          "paginas_estimadas": 52.6,
+          "estimadas_ic95": [
+            46.4,
+            52.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01581
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1912,
+          "paginas_examinadas": 3704,
+          "paginas_sinalizadas": 29,
+          "paginas_estimadas": 28.8,
+          "estimadas_ic95": [
+            25.4,
+            29.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00778
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1913,
+          "paginas_examinadas": 3977,
+          "paginas_sinalizadas": 17,
+          "paginas_estimadas": 16.8,
+          "estimadas_ic95": [
+            14.7,
+            17.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00422
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1914,
+          "paginas_examinadas": 2947,
+          "paginas_sinalizadas": 35,
+          "paginas_estimadas": 34.8,
+          "estimadas_ic95": [
+            30.8,
+            35.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01182
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1906,
+          "paginas_examinadas": 2477,
+          "paginas_sinalizadas": 41,
+          "paginas_estimadas": 40.7,
+          "estimadas_ic95": [
+            35.9,
+            40.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01643
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1907,
+          "paginas_examinadas": 2153,
+          "paginas_sinalizadas": 84,
+          "paginas_estimadas": 83.1,
+          "estimadas_ic95": [
+            73.0,
+            83.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0386
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1908,
+          "paginas_examinadas": 2363,
+          "paginas_sinalizadas": 79,
+          "paginas_estimadas": 78.1,
+          "estimadas_ic95": [
+            68.7,
+            78.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03307
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1909,
+          "paginas_examinadas": 2639,
+          "paginas_sinalizadas": 75,
+          "paginas_estimadas": 74.6,
+          "estimadas_ic95": [
+            65.8,
+            74.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02827
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1910,
+          "paginas_examinadas": 2506,
+          "paginas_sinalizadas": 120,
+          "paginas_estimadas": 119.2,
+          "estimadas_ic95": [
+            105.0,
+            119.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.04755
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1911,
+          "paginas_examinadas": 2528,
+          "paginas_sinalizadas": 122,
+          "paginas_estimadas": 121.2,
+          "estimadas_ic95": [
+            106.9,
+            121.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.04796
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1912,
+          "paginas_examinadas": 1755,
+          "paginas_sinalizadas": 47,
+          "paginas_estimadas": 46.7,
+          "estimadas_ic95": [
+            41.2,
+            46.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02661
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1914,
+          "paginas_examinadas": 2347,
+          "paginas_sinalizadas": 47,
+          "paginas_estimadas": 46.6,
+          "estimadas_ic95": [
+            41.1,
+            46.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01987
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1906,
+          "paginas_examinadas": 2370,
+          "paginas_sinalizadas": 28,
+          "paginas_estimadas": 27.7,
+          "estimadas_ic95": [
+            24.4,
+            28.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0117
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1907,
+          "paginas_examinadas": 1686,
+          "paginas_sinalizadas": 31,
+          "paginas_estimadas": 30.8,
+          "estimadas_ic95": [
+            27.2,
+            31.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01827
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1908,
+          "paginas_examinadas": 3118,
+          "paginas_sinalizadas": 24,
+          "paginas_estimadas": 23.8,
+          "estimadas_ic95": [
+            20.9,
+            24.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00762
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1909,
+          "paginas_examinadas": 3472,
+          "paginas_sinalizadas": 30,
+          "paginas_estimadas": 29.9,
+          "estimadas_ic95": [
+            26.4,
+            30.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00861
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1910,
+          "paginas_examinadas": 4565,
+          "paginas_sinalizadas": 97,
+          "paginas_estimadas": 96.6,
+          "estimadas_ic95": [
+            85.4,
+            96.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02117
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1911,
+          "paginas_examinadas": 4406,
+          "paginas_sinalizadas": 154,
+          "paginas_estimadas": 153.0,
+          "estimadas_ic95": [
+            134.9,
+            153.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03472
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1912,
+          "paginas_examinadas": 4413,
+          "paginas_sinalizadas": 146,
+          "paginas_estimadas": 145.1,
+          "estimadas_ic95": [
+            127.9,
+            145.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03287
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1913,
+          "paginas_examinadas": 5702,
+          "paginas_sinalizadas": 126,
+          "paginas_estimadas": 125.1,
+          "estimadas_ic95": [
+            110.3,
+            125.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02194
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1914,
+          "paginas_examinadas": 4775,
+          "paginas_sinalizadas": 116,
+          "paginas_estimadas": 115.2,
+          "estimadas_ic95": [
+            101.6,
+            115.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02413
+        }
+      ],
+      "total": {
+        "paginas_examinadas": 109374,
+        "paginas_sinalizadas": 2211,
+        "paginas_estimadas": 2194.0,
+        "estimadas_ic95": [
+          1933.3,
+          2207.9
+        ],
+        "paginas_sem_precisao_medida": 0,
+        "taxa_estimada": 0.02006
+      }
+    },
+    "5": {
+      "limiar": 5,
+      "celulas": [
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1906,
+          "paginas_examinadas": 2557,
+          "paginas_sinalizadas": 42,
+          "paginas_estimadas": 39.2,
+          "estimadas_ic95": [
+            33.6,
+            40.6
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01532
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1907,
+          "paginas_examinadas": 2758,
+          "paginas_sinalizadas": 74,
+          "paginas_estimadas": 68.2,
+          "estimadas_ic95": [
+            58.4,
+            70.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02472
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1908,
+          "paginas_examinadas": 3239,
+          "paginas_sinalizadas": 35,
+          "paginas_estimadas": 30.9,
+          "estimadas_ic95": [
+            26.1,
+            32.7
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00955
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1909,
+          "paginas_examinadas": 2995,
+          "paginas_sinalizadas": 46,
+          "paginas_estimadas": 43.6,
+          "estimadas_ic95": [
+            37.8,
+            44.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01457
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1910,
+          "paginas_examinadas": 3149,
+          "paginas_sinalizadas": 117,
+          "paginas_estimadas": 110.5,
+          "estimadas_ic95": [
+            95.6,
+            113.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03508
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1911,
+          "paginas_examinadas": 3863,
+          "paginas_sinalizadas": 110,
+          "paginas_estimadas": 101.8,
+          "estimadas_ic95": [
+            87.4,
+            105.6
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02635
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1912,
+          "paginas_examinadas": 4556,
+          "paginas_sinalizadas": 81,
+          "paginas_estimadas": 76.0,
+          "estimadas_ic95": [
+            65.7,
+            78.3
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01669
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1913,
+          "paginas_examinadas": 4730,
+          "paginas_sinalizadas": 79,
+          "paginas_estimadas": 71.6,
+          "estimadas_ic95": [
+            61.2,
+            74.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01514
+        },
+        {
+          "bib": "089842",
+          "jornal": "correio_manha",
+          "ano": 1914,
+          "paginas_examinadas": 3996,
+          "paginas_sinalizadas": 76,
+          "paginas_estimadas": 72.0,
+          "estimadas_ic95": [
+            62.4,
+            73.8
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01801
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1906,
+          "paginas_examinadas": 1958,
+          "paginas_sinalizadas": 26,
+          "paginas_estimadas": 24.6,
+          "estimadas_ic95": [
+            21.3,
+            25.2
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01255
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1907,
+          "paginas_examinadas": 2031,
+          "paginas_sinalizadas": 26,
+          "paginas_estimadas": 25.0,
+          "estimadas_ic95": [
+            21.8,
+            25.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01231
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1908,
+          "paginas_examinadas": 1468,
+          "paginas_sinalizadas": 21,
+          "paginas_estimadas": 19.5,
+          "estimadas_ic95": [
+            16.8,
+            20.1
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01328
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1909,
+          "paginas_examinadas": 2310,
+          "paginas_sinalizadas": 55,
+          "paginas_estimadas": 50.6,
+          "estimadas_ic95": [
+            43.5,
+            52.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02192
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1910,
+          "paginas_examinadas": 2532,
+          "paginas_sinalizadas": 69,
+          "paginas_estimadas": 66.1,
+          "estimadas_ic95": [
+            57.6,
+            67.4
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02609
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1911,
+          "paginas_examinadas": 3329,
+          "paginas_sinalizadas": 57,
+          "paginas_estimadas": 55.2,
+          "estimadas_ic95": [
+            48.3,
+            56.1
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01658
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1912,
+          "paginas_examinadas": 3704,
+          "paginas_sinalizadas": 36,
+          "paginas_estimadas": 33.3,
+          "estimadas_ic95": [
+            28.7,
+            34.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.009
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1913,
+          "paginas_examinadas": 3977,
+          "paginas_sinalizadas": 30,
+          "paginas_estimadas": 25.2,
+          "estimadas_ic95": [
+            20.9,
+            27.3
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00634
+        },
+        {
+          "bib": "090972",
+          "jornal": "correio_paulistano",
+          "ano": 1914,
+          "paginas_examinadas": 2947,
+          "paginas_sinalizadas": 36,
+          "paginas_estimadas": 35.4,
+          "estimadas_ic95": [
+            31.2,
+            35.7
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01202
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1906,
+          "paginas_examinadas": 2477,
+          "paginas_sinalizadas": 49,
+          "paginas_estimadas": 45.5,
+          "estimadas_ic95": [
+            39.3,
+            47.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01837
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1907,
+          "paginas_examinadas": 2153,
+          "paginas_sinalizadas": 103,
+          "paginas_estimadas": 95.2,
+          "estimadas_ic95": [
+            81.7,
+            98.7
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0442
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1908,
+          "paginas_examinadas": 2363,
+          "paginas_sinalizadas": 111,
+          "paginas_estimadas": 99.8,
+          "estimadas_ic95": [
+            84.7,
+            104.9
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.04225
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1909,
+          "paginas_examinadas": 2639,
+          "paginas_sinalizadas": 134,
+          "paginas_estimadas": 113.3,
+          "estimadas_ic95": [
+            94.2,
+            122.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.04295
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1910,
+          "paginas_examinadas": 2506,
+          "paginas_sinalizadas": 141,
+          "paginas_estimadas": 132.8,
+          "estimadas_ic95": [
+            114.9,
+            136.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.05298
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1911,
+          "paginas_examinadas": 2528,
+          "paginas_sinalizadas": 149,
+          "paginas_estimadas": 139.3,
+          "estimadas_ic95": [
+            120.2,
+            143.6
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.05509
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1912,
+          "paginas_examinadas": 1755,
+          "paginas_sinalizadas": 56,
+          "paginas_estimadas": 52.8,
+          "estimadas_ic95": [
+            45.7,
+            54.2
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03007
+        },
+        {
+          "bib": "103730",
+          "jornal": "gazeta_noticias",
+          "ano": 1914,
+          "paginas_examinadas": 2347,
+          "paginas_sinalizadas": 63,
+          "paginas_estimadas": 57.1,
+          "estimadas_ic95": [
+            48.7,
+            59.6
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02431
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1906,
+          "paginas_examinadas": 2370,
+          "paginas_sinalizadas": 37,
+          "paginas_estimadas": 34.1,
+          "estimadas_ic95": [
+            29.2,
+            35.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0144
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1907,
+          "paginas_examinadas": 1686,
+          "paginas_sinalizadas": 34,
+          "paginas_estimadas": 32.8,
+          "estimadas_ic95": [
+            28.6,
+            33.4
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.01943
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1908,
+          "paginas_examinadas": 3118,
+          "paginas_sinalizadas": 34,
+          "paginas_estimadas": 30.4,
+          "estimadas_ic95": [
+            25.8,
+            32.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00976
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1909,
+          "paginas_examinadas": 3472,
+          "paginas_sinalizadas": 33,
+          "paginas_estimadas": 32.0,
+          "estimadas_ic95": [
+            28.0,
+            32.5
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.00923
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1910,
+          "paginas_examinadas": 4565,
+          "paginas_sinalizadas": 102,
+          "paginas_estimadas": 100.0,
+          "estimadas_ic95": [
+            87.9,
+            101.0
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.0219
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1911,
+          "paginas_examinadas": 4406,
+          "paginas_sinalizadas": 171,
+          "paginas_estimadas": 164.2,
+          "estimadas_ic95": [
+            143.1,
+            167.4
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03726
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1912,
+          "paginas_examinadas": 4413,
+          "paginas_sinalizadas": 163,
+          "paginas_estimadas": 156.1,
+          "estimadas_ic95": [
+            136.0,
+            159.3
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.03537
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1913,
+          "paginas_examinadas": 5702,
+          "paginas_sinalizadas": 149,
+          "paginas_estimadas": 140.1,
+          "estimadas_ic95": [
+            121.2,
+            144.1
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02456
+        },
+        {
+          "bib": "178691",
+          "jornal": "o_paiz",
+          "ano": 1914,
+          "paginas_examinadas": 4775,
+          "paginas_sinalizadas": 131,
+          "paginas_estimadas": 124.7,
+          "estimadas_ic95": [
+            108.4,
+            127.6
+          ],
+          "paginas_sem_precisao_medida": 0,
+          "taxa_estimada": 0.02612
+        }
+      ],
+      "total": {
+        "paginas_examinadas": 109374,
+        "paginas_sinalizadas": 2676,
+        "paginas_estimadas": 2498.9,
+        "estimadas_ic95": [
+          2155.9,
+          2578.6
+        ],
+        "paginas_sem_precisao_medida": 0,
+        "taxa_estimada": 0.02285
+      }
+    }
+  },
+  "advertencia": "Precisão medida por leitura de uma amostra, por um modelo de linguagem, não pelo Pedro. É conferível no CSV sorteado e não substitui julgamento humano. Concordância entre dois leitores da mesma imagem degradada não é verdade."
+}

@@ -1,0 +1,12 @@
+classe,nome_arquivo,data,edicao,evidencia,acao_sugerida
+A_edicao_corrompida,19100510-11174-nac-0001-999-1-not,1910-05-10,11174,1910-05-09 tem ed 11470; 1 dia(s) depois a edicao cai para 11174,conferir na pagina; edicao esperada ~11471
+A_edicao_corrompida,19100529-11409-nac-0002-999-2-not,1910-05-29,11409,1910-05-28 tem ed 11489; 1 dia(s) depois a edicao cai para 11409,conferir na pagina; edicao esperada ~11490
+A_edicao_corrompida,19130328-12518-nac-0001-999-1-not,1913-03-28,12518,1913-03-26 tem ed 12561; 2 dia(s) depois a edicao cai para 12518,conferir na pagina; edicao esperada ~12563
+B_data_fantasma,19130715-12658-nac-0003-999-3-not,1913-07-15,12658,sha256 2fa4c077e189 identico a 19130815-12658-nac-0003-999-3-not,descartar; o registro bom e 1913-08-15
+B_data_fantasma,19130708-12651-nac-0001-999-01-not,1913-07-08,12651,sha256 7206cf74951d identico a 19130808-12651-nac-0001-999-01-not,descartar; o registro bom e 1913-08-08
+B_data_fantasma,19130712-12655-nac-0004-999-4-not,1913-07-12,12655,sha256 b630c271ad41 identico a 19130812-12655-nac-0004-999-4-not,descartar; o registro bom e 1913-08-12
+B_data_fantasma,19130710-12653-nac-0005-999-5-not,1913-07-10,12653,sha256 f5b11053e067 identico a 19130810-12653-nac-0005-999-5-not,descartar; o registro bom e 1913-08-10
+B_data_fantasma,19130713-12656-nac-0002-999-2-not,1913-07-13,12656,sha256 991eda42a849 identico a 19130813-12656-nac-0002-999-2-not,descartar; o registro bom e 1913-08-13
+B_data_fantasma,19130713-12656-nac-0004-999-4-not,1913-07-13,12656,sha256 819847d19b8b identico a 19130813-12656-nac-0004-999-4-not,descartar; o registro bom e 1913-08-13
+B_data_fantasma,19130715-12658-nac-0001-999-01-not,1913-07-15,12658,sha256 b0c720508ec3 identico a 19130815-12658-nac-0001-999-01-not,descartar; o registro bom e 1913-08-15
+B_data_fantasma,19130714-12657-nac-0003-999-3-not,1913-07-14,12657,sha256 5d89b7bfaebf identico a 19130814-12657-nac-0003-999-3-not,descartar; o registro bom e 1913-08-14

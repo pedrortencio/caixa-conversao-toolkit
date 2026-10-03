@@ -1,0 +1,120 @@
+{
+  "protocol_name": "sonda-difusa-caixa-conversao",
+  "protocol_version": "1.0.0",
+  "gerado_em": "2026-08-12T17:16:52",
+  "duracao_segundos": 178.8,
+  "braco": "ambos",
+  "parametros": {
+    "canonica": "caixa de conversao",
+    "ancora_esquerda": "caixa",
+    "ancora_direita": "conver",
+    "vao_maximo": 6,
+    "folga_janela": [
+      2,
+      10
+    ],
+    "distancia_maxima_registrada": 8,
+    "limiar_quase_acerto": 3,
+    "contexto_janela": 60,
+    "regra_versao_do_casador_exato": "triagem/nome-caixa-conversao 1.0.0"
+  },
+  "hashes_do_instrumento": {
+    "sonda_difusa.py": "93459a3882ac68b48f1f524f5f7c1fcb6c5d33e3578c92dad36f654daf9aa773",
+    "regra_nome.py": "0090b3fcc3a2a1d8e93e4de3e3a432a7c4aa6d6db17e804e95f0ef587fda9b59"
+  },
+  "paginas": {
+    "examinadas": 117705,
+    "sem_mencao_no_censo": 109374,
+    "com_mencao_no_censo": 8331,
+    "status": {
+      "ok": 117703,
+      "empty": 0,
+      "arquivo_ausente": 2
+    }
+  },
+  "perfil_por_limiar": {
+    "sem_mencao_no_censo": {
+      "0": {
+        "paginas": 0,
+        "candidatos": 0
+      },
+      "1": {
+        "paginas": 842,
+        "candidatos": 870
+      },
+      "2": {
+        "paginas": 1705,
+        "candidatos": 1816
+      },
+      "3": {
+        "paginas": 2211,
+        "candidatos": 2374
+      },
+      "4": {
+        "paginas": 2522,
+        "candidatos": 2733
+      },
+      "5": {
+        "paginas": 2676,
+        "candidatos": 2917
+      },
+      "6": {
+        "paginas": 2842,
+        "candidatos": 3159
+      },
+      "7": {
+        "paginas": 2955,
+        "candidatos": 3314
+      },
+      "8": {
+        "paginas": 3014,
+        "candidatos": 3386
+      }
+    },
+    "com_mencao_no_censo_fora_do_span_exato": {
+      "0": {
+        "paginas": 0,
+        "candidatos": 0
+      },
+      "1": {
+        "paginas": 608,
+        "candidatos": 696
+      },
+      "2": {
+        "paginas": 1166,
+        "candidatos": 1502
+      },
+      "3": {
+        "paginas": 1412,
+        "candidatos": 1914
+      },
+      "4": {
+        "paginas": 1508,
+        "candidatos": 2071
+      },
+      "5": {
+        "paginas": 1545,
+        "candidatos": 2145
+      },
+      "6": {
+        "paginas": 1561,
+        "candidatos": 2171
+      },
+      "7": {
+        "paginas": 1577,
+        "candidatos": 2191
+      },
+      "8": {
+        "paginas": 1584,
+        "candidatos": 2204
+      }
+    }
+  },
+  "cota_inferior_de_falsos_negativos": {
+    "limiar": 3,
+    "paginas": 2211,
+    "base": 109374,
+    "leia_se": "páginas que o censo marcou como sem menção e onde a sonda achou forma a distância <= limiar da forma canônica. É cota INFERIOR: a sonda não acha página com as duas âncoras destruídas nem menção sem o nome. Precisão do limiar é conferida por leitura em trechos_para_inspecao.csv, não presumida."
+  },
+  "advertencia": "Concordância entre dois leitores da mesma imagem degradada não é verdade: os dois podem errar junto, com erro correlacionado. Consenso é sinal de confiabilidade, nunca validação."
+}

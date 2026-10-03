@@ -1,0 +1,28 @@
+{
+  "protocol_name": "ocr-tesseract-scans-bn",
+  "protocol_version": "1.0.0",
+  "gerado_em": "2026-08-12T19:59:43",
+  "motor": {
+    "engine": "tesseract",
+    "version": "5.4.0.20240606",
+    "leptonica": "leptonica-1.84.1",
+    "binario": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+  },
+  "parametros": {
+    "idioma": "por",
+    "psm": 3,
+    "oem": 1,
+    "variante": "best"
+  },
+  "semente": 20260812,
+  "workers": 14,
+  "paginas": 245,
+  "duracao_segundos": 1137.7,
+  "segundos_por_pagina_por_worker": 58.72,
+  "status": {
+    "ok": 244,
+    "vazio": 1
+  },
+  "advertencia": "Concordância entre dois OCRs não é verdade: os dois leem a mesma imagem degradada e podem errar junto, com erro correlacionado. Consenso é sinal de confiabilidade, nunca validação.",
+  "dir_saida": "C:\\dados-caixa\\_varredura\\sens_best"
+}

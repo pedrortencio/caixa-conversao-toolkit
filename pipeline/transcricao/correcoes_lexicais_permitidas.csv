@@ -1,0 +1,10 @@
+forma_bruta,forma_corrigida,justificativa,escopo
+q.ue,que,pontuacao espuria dentro de palavra,ambos
+qu.e,que,pontuacao espuria dentro de palavra,ambos
+"q,ue",que,pontuacao espuria dentro de palavra,ambos
+q:ue,que,pontuacao espuria dentro de palavra,ambos
+par.a,para,pontuacao espuria dentro de palavra,ambos
+pa.ra,para,pontuacao espuria dentro de palavra,ambos
+ma.is,mais,pontuacao espuria dentro de palavra,ambos
+n'ão,não,apostrofo espurio dentro de palavra,ambos
+C:aixa,Caixa,pontuacao espuria dentro de nome,ambos
